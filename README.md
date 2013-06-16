@@ -1,4 +1,8 @@
 vs-bonn
 =======
 
-Dokumente der VS der RFWU Bonn
+Dokumente der Verfassten Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn, namentlich:
+
+* Geschäftsordnung des Studierendenparlaments
+* Fachschaftswahlordnung
+* Satzung der Studierendenschaft
