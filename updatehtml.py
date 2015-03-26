@@ -5,7 +5,7 @@ import os.path
 import subprocess
 
 names = []
-pandocargs = "pandoc --from=markdown --to=paragraphs.lua -o html/{0}.html {0}/{0}.md"
+pandocargs = "pandoc --from=markdown --to=paragraphs.lua -o html/{0}.html md/{0}.md"
 
 htmltemplate = '''
 <!DOCTYPE html>
@@ -22,9 +22,11 @@ htmltemplate = '''
 '''
 
 #for all folders not named html:
-for name in os.listdir('.'):
-	if(os.path.isfile("{0}/{0}.md".format(name))):
-		names.append(name)
+for name in os.listdir('./md'):
+	print(name[:-3])
+	print(name[-3:])
+	if(os.path.isfile("./md/{0}".format(name)) and name[-3:] == '.md'):
+		names.append(name[:-3])
 		
 #	convert all files ending on .md to the respective html output in the html folder
 for name in names:
