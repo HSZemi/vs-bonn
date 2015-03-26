@@ -57,6 +57,14 @@ h6:hover .anchor {
 	cursor:pointer;
 }
 
+ol.LowerAlpha{
+	list-style-type: lower-alpha;
+}
+
+ol.Decimal{
+	list-style-type: decimal;
+}
+
 * {
 	box-sizing: border-box;
 }

@@ -296,38 +296,28 @@ d. die Aufnahme eines zurückgezogenen Antrags oder einer zurückgezogenen Anfra
 \(3) Anträge zur GO sind insbesondere
 
 a. der Antrag auf Aussetzung; seine Annahme hat zur Folge, dass der Punkt auf einer
-kommenden Sitzung wieder aufgenommen werden kann. Die Wiederaufnahme muss auf der
-Einladung zur SP-Sitzung kenntlich gemacht werden;
-
+   kommenden Sitzung wieder aufgenommen werden kann. Die Wiederaufnahme muss auf der
+   Einladung zur SP-Sitzung kenntlich gemacht werden;
 b. der Antrag auf Vertagung; seine Annahme hat zur Folge, dass der Punkt auf die
-Tagesordnung der folgenden Sitzung gesetzt wird;
-
+   Tagesordnung der folgenden Sitzung gesetzt wird;
 c. der Antrag auf Nichtbefassung; seine Annahme hat zur Folge, dass der Punkt nicht erörtert
-wird;
-
+   wird;
 d. der Antrag auf Übergang zur Tagesordnung; seine Annahme hat die sofortige Behandlung
-des folgenden Tagesordnungspunktes oder -unterpunktes zur Folge;
-
+   des folgenden Tagesordnungspunktes oder -unterpunktes zur Folge;
 e. der Antrag auf Schluss der Debatte und sofortige Abstimmung nach vorheriger Verlesung der
-Redeliste;
-
+   Redeliste;
 f. der Antrag auf Schluss der Redeliste nach vorheriger Verlesung der Redeliste und Ergänzung
-um weitere Wortmeldungen;
-
+   um weitere Wortmeldungen;
 g. der Antrag auf Beschränkung der Redezeit;
-
 h. der Antrag auf zeitliche Begrenzung eines Tagesordnungspunktes;
-
 i. der Antrag auf Beendigung der Sitzung;
-
 j. der Antrag auf Teilung eines Antrags in zwei oder mehrere Anträge;
-
 k. der Antrag auf erneute Auszählung einer Abstimmung; diesem Antrag muss auf Verlangen
-eines Mitglieds stattgegeben werden. Wird nach zweimaliger Auszählung kein eindeutiges
-Abstimmungsergebnis festgestellt, so findet die Auszählung durch namentlichen Aufruf der
-SP-Mitglieder durch die SP-Sprecherin statt. Bei einer erneuten Auszählung dürfen nur die
-Stimmen der SP-Mitglieder berücksichtigt werden, die an der Abstimmung teilgenommen
-haben.
+   eines Mitglieds stattgegeben werden. Wird nach zweimaliger Auszählung kein eindeutiges
+   Abstimmungsergebnis festgestellt, so findet die Auszählung durch namentlichen Aufruf der
+   SP-Mitglieder durch die SP-Sprecherin statt. Bei einer erneuten Auszählung dürfen nur die
+   Stimmen der SP-Mitglieder berücksichtigt werden, die an der Abstimmung teilgenommen
+   haben.
 
 \(4) Zu einer Meldung zur Geschäftsordnung erteilt die SP-Sprecherin das Wort unmittelbar und
 außerhalb der Redeliste; ein laufender Redebeitrag darf nicht unterbrochen werden. Meldungen zur
@@ -395,9 +385,7 @@ geheim abgestimmt werden.
 \(2) Die geheime Abstimmung ist unzulässig
 
 a. über GO-Anträge;
-
 b. über die Überweisung einer Sache an einen Ausschuss;
-
 c. über Änderungen der TO.
 
 \(3) Soweit nicht eine höherrangige Rechtsquelle oder diese GO etwas anderes bestimmt, entscheidet
@@ -446,13 +434,9 @@ er die Zweidrittelmehrheit erhält.
 \(2) Die namentliche Abstimmung ist unzulässig
 
 a. bei Wahlen;
-
 b. bei Misstrauensanträgen;
-
 c. über Geschäftsordnungsanträge;
-
 d. über die Überweisung einer Sache an einen Ausschuss;
-
 e. über Änderungen der Tagesordnung.
 
 
@@ -555,7 +539,6 @@ verlassen.
 \(4) Während einer Personaldebatte sind nur folgende GO-Anträge möglich:
 
 a. Antrag auf Begrenzung der Redezeit;
-
 b. Antrag auf Schluss der Personaldebatte.
 
 Andere Anträge sind unzulässig.
@@ -735,7 +718,6 @@ zusammen mit der Einladung zur Sitzung zugeleitet.
 \(1) Ausschüsse mit Entscheidungsbefugnis sind
 
 a. der Ausschuss für den studentischen Hilfsfond;
-
 b. b. der Studi-Ticket-Ausschuss.
 
 \(2) Das Studierendenparlament kann mit der Mehrheit seiner Mitglieder weiteren Ausschüssen

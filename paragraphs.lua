@@ -100,6 +100,7 @@ function Doc(body, metadata, variables)
   add('</head>')
   add('<body>')
   add('<div class="container">')
+  add('<!-- Navigation -->')
   if metadata['title'] and metadata['title'] ~= "" then
     add('<h1 class="title">' .. metadata['title'] .. '</h1>')
   end
@@ -273,12 +274,12 @@ function BulletList(items)
   return "<ul>\n" .. table.concat(buffer, "\n") .. "\n</ul>"
 end
 
-function OrderedList(items)
+function OrderedList(items, lev, type)
   local buffer = {}
   for _, item in pairs(items) do
     table.insert(buffer, "<li>" .. item .. "</li>")
   end
-  return "<ol>\n" .. table.concat(buffer, "\n") .. "\n</ol>"
+  return "<ol class=\"" .. type .. "\">\n" .. table.concat(buffer, "\n") .. "\n</ol>"
 end
 
 -- Revisit association list STackValue instance.

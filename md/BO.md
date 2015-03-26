@@ -34,9 +34,7 @@ Der Beitrag in Höhe von 171,32 € (WS 2013/14), 173,32 € (SS 2014), 177,42 �
 \(1) Beitragspflicht entsteht
 
 a) mit der Einschreibung,
-
 b) mit der Rückmeldung oder
-
 c) mit der Beurlaubung.
 
 \(2) Der Beitrag ist an die Universitätskasse zu zahlen. Der Nachweis ist bei der
