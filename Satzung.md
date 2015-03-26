@@ -313,10 +313,10 @@ Protokoll der Sitzung an.
 Stimmrecht haben nur SP-Mitglieder bzw. deren Vertreterinnen oder
 Vertreter.
 
-Ein Beschluss ist rechtmäßig zustande gekommen, wenn\
- 1. das SP beschlussfähig war und\
+Ein Beschluss ist rechtmäßig zustande gekommen, wenn
+ 1. das SP beschlussfähig war und
  2. er die einfache Mehrheit gefunden hat, soweit diese Satzung nichts
-anderes bestimmt.\
+anderes bestimmt.
  Das SP gilt so lange als beschlussfähig, bis auf Antrag eines
 Mitgliedes des SP durch die Sprecherin oder den Sprecher festgestellt
 wird, dass weniger als die Hälfte der SP-Mitglieder anwesend ist;
@@ -710,10 +710,10 @@ Näheres regelt die Fachschaftssatzung.
 ###### § 27 Die Fachschaftsvertretung (FSV)
 
 In Fachschaften mit mehr als 500 Mitgliedern ist eine FSV zu wählen. Die
-Anzahl der Mitglieder der FSV beträgt in Fachschaften mit\
- 1. bis zu 1000 Mitgliedern 11,\
- 2. 1001 bis zu 2000 Mitgliedern 15 und\
- 3. über 2000 Mitgliedern 19.\
+Anzahl der Mitglieder der FSV beträgt in Fachschaften mit
+ 1. bis zu 1000 Mitgliedern 11,
+ 2. 1001 bis zu 2000 Mitgliedern 15 und
+ 3. über 2000 Mitgliedern 19.
  In Fachschaften mit weniger als 500 Mitgliedern kann die
 Fachschaftssatzung eine Regelung über die Einrichtung einer FSV treffen.
 In diesem Fall beträgt die Anzahl der Mitglieder sieben.
@@ -774,7 +774,7 @@ dieser Fach­schaft zu berücksichtigen und kann, ebenso wie eine
 Fachschaftssatzung dieser Fachschaft, Regelungen abweichend von § 26
 Abs. 1 und 3 sowie § 30 treffen, soweit dies geboten ist. Sie ist auf
 Verlangen der Fachschaft Studienkolleg sowie auf begründetes Verlangen
-der FK jederzeit zu ändern oder aufzuheben.\
+der FK jederzeit zu ändern oder aufzuheben.
  Sie ist in der AKUT zu veröffentlichen.
 
 ###### § 30 Rahmenregelungen
