@@ -10,4 +10,5 @@ Dokumente der Verfassten Studierendenschaft der Rheinischen Friedrich-Wilhelms-U
 * Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
 * Geschäftsordnung des Bonner Studierendenparlaments (GO-SP)
 * Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
+* Verfahrensordnung des Ältestenrats der Bonner Studierendenschaft (VerfOÄR)
 * Wahlordnung für die Wahlen zum Studierendenparlament
