@@ -5,7 +5,7 @@ import os.path
 import subprocess
 
 names = []
-pandocargs = "pandoc --from=markdown --to=paragraphs.lua -o html/{0}.html md/{0}.md"
+convert_command = "sed -e 's/^(/\\(/' md/{0}.md | pandoc --from=markdown --to=paragraphs.lua -o html/{0}.html"
 
 htmltemplate = '''
 <!DOCTYPE html>
@@ -57,7 +57,7 @@ names.sort()
 #	convert all files ending on .md to the respective html output in the html folder
 for name in names:
 	print("Converting ./md/{0}.md	to ./html/{0}.html".format(name))
-	subprocess.call(pandocargs.format(name), shell=True)
+	subprocess.call(convert_command.format(name), shell=True)
 	
 for name in names:
 	f = open("html/{0}.html".format(name), "r")

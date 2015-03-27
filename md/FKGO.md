@@ -31,14 +31,14 @@ Das FSK und seine Mitarbeiter sind zugleich autonomes Referat des AStAs der RFWU
 
 ### § 3 Protokoll
 
-\(1) Das Protokoll der FK heißt Fachschaften-Informationsdienst, kurz FID.
+(1) Das Protokoll der FK heißt Fachschaften-Informationsdienst, kurz FID.
 
-\(2) Der Vorsitzende oder ein anderes Mitglied führt über den Verlauf der Sitzung Protokoll.
+(2) Der Vorsitzende oder ein anderes Mitglied führt über den Verlauf der Sitzung Protokoll.
 Es wird ein Ergebnisprotokoll geführt. 
 
-\(3) Das Protokoll wird ausschließlich digital versandt. Die Fachschaften tragen dafür Sorge, dass dem Fachschaftenreferat ihre aktuelle E-Mail-Adresse bekannt ist.
+(3) Das Protokoll wird ausschließlich digital versandt. Die Fachschaften tragen dafür Sorge, dass dem Fachschaftenreferat ihre aktuelle E-Mail-Adresse bekannt ist.
 
-\(4) Das Protokoll wird nach Versand an die Fachschaften auf der nächstmöglichen Sitzung zur Genehmigung gestellt.  
+(4) Das Protokoll wird nach Versand an die Fachschaften auf der nächstmöglichen Sitzung zur Genehmigung gestellt.  
 
 
 Gang der Verhandlung, Mitwirkungsrechte
@@ -47,11 +47,11 @@ Gang der Verhandlung, Mitwirkungsrechte
 
 ### § 4 Zusammentreten 
 
-\(1) Die FK tritt an jedem Montag der Vorlesungszeit zusammen. Ausgenommen sind Feiertage, die Montage der Weihnachtsferien sowie vom Vorsitzenden des FSK rechtzeitig bekannt gegebenen weitere Termine. Die Uhrzeit wird vom Vorsitzenden der Fachschaftenkonferenz rechtzeitig bekannt gegeben. 
+(1) Die FK tritt an jedem Montag der Vorlesungszeit zusammen. Ausgenommen sind Feiertage, die Montage der Weihnachtsferien sowie vom Vorsitzenden des FSK rechtzeitig bekannt gegebenen weitere Termine. Die Uhrzeit wird vom Vorsitzenden der Fachschaftenkonferenz rechtzeitig bekannt gegeben. 
 
-\(2) In der vorlesungsfreien Zeit finden mindestens zwei Fachschaftenkonferenzen statt [Ferien-FK], deren Termine vom Vorsitzenden des FSK rechtzeitig bekannt gegeben werden.  
+(2) In der vorlesungsfreien Zeit finden mindestens zwei Fachschaftenkonferenzen statt [Ferien-FK], deren Termine vom Vorsitzenden des FSK rechtzeitig bekannt gegeben werden.  
 
-\(3) Der Vorsitzende des FSK beruft  auf Antrag des Ältestenrates oder von 5 Fachschaften eine Sonderfachschaftenkonferenz ein. Im Antrag ist der zu behandelnde Tagesordnungspunkt zu nennen. Der Vorsitzende des FSK  kann eine Sonderfachschaftenkonferenz zudem nach eigenem Ermessen einberufen.
+(3) Der Vorsitzende des FSK beruft  auf Antrag des Ältestenrates oder von 5 Fachschaften eine Sonderfachschaftenkonferenz ein. Im Antrag ist der zu behandelnde Tagesordnungspunkt zu nennen. Der Vorsitzende des FSK  kann eine Sonderfachschaftenkonferenz zudem nach eigenem Ermessen einberufen.
 
 
 ### § 5 Tagesordnung (TO)
@@ -66,35 +66,35 @@ Die TO jeder Fachschaftenkonferenz muss folgende Punkte enthalten:
 
 ### § 6 Leitung der Sitzung 
 
-\(1) Der Vorsitzende des FSK sitzt der FK vor. Er  eröffnet, leitet und schließt die Sitzung (Sitzungsleitung).
+(1) Der Vorsitzende des FSK sitzt der FK vor. Er  eröffnet, leitet und schließt die Sitzung (Sitzungsleitung).
 
-\(2) Er übt im Sitzungssaal das Hausrecht aus und wahrt die Ordnung im Sitzungsraum.
+(2) Er übt im Sitzungssaal das Hausrecht aus und wahrt die Ordnung im Sitzungsraum.
 Er wird auf eigenen Wunsch und bei Verhinderung oder Verlassen der Sitzung von einem anderen Mitglied des FSK vertreten.
 
 
 ### § 7 Aussprache 
 
-\(1) Die Sitzungsleitung eröffnet über jeden Verhandlungsgegenstand, der auf der Tagesordnung steht, die Aussprache.
+(1) Die Sitzungsleitung eröffnet über jeden Verhandlungsgegenstand, der auf der Tagesordnung steht, die Aussprache.
 
-\(2) Bei einer Aussprache darf nur die Person sprechen, der von der Sitzungsleitung das Wort erteilt wurde. Im Anschluss an den Wortbeitrag kann die Sitzungsleitung das Wort zu einer direkten Erwiderung oder Nachfrage erteilen, wenn sie es für zweckmäßig hält. 
+(2) Bei einer Aussprache darf nur die Person sprechen, der von der Sitzungsleitung das Wort erteilt wurde. Im Anschluss an den Wortbeitrag kann die Sitzungsleitung das Wort zu einer direkten Erwiderung oder Nachfrage erteilen, wenn sie es für zweckmäßig hält. 
 
-\(3) Die Sitzungsleitung erteilt das Wort in der Reihe der Wortmeldungen, sie kann hiervon abweichen, wenn ihr dies für den Gang der Beratung dienlich erscheint. 
+(3) Die Sitzungsleitung erteilt das Wort in der Reihe der Wortmeldungen, sie kann hiervon abweichen, wenn ihr dies für den Gang der Beratung dienlich erscheint. 
 
-\(4) Ist die Redeliste erschöpft und meldet sich niemand zu Wort, so erklärt die Sitzungsleitung die Aussprache für geschlossen. 
+(4) Ist die Redeliste erschöpft und meldet sich niemand zu Wort, so erklärt die Sitzungsleitung die Aussprache für geschlossen. 
 
 
 ### § 8 Äußerungen und Anträge zur GO
 
-\(1) Äußerungen und Anträge zur Geschäftsordnung dürfen sich nur mit dem Gang der Verhandlung befassen.
+(1) Äußerungen und Anträge zur Geschäftsordnung dürfen sich nur mit dem Gang der Verhandlung befassen.
 
-\(2) Äußerungen zur GO sind insbesondere 
+(2) Äußerungen zur GO sind insbesondere 
 
 a) ein Hinweis zur GO;
 b) eine Anfrage zur GO;
 c) das Zurückziehen eines Antrags oder einer Anfrage;
 d) die Aufnahme eines zurückgezogenen Antrags oder einer zurückgezogenen Anfrage. 
 
-\(3) Anträge zur GO sind insbesondere:
+(3) Anträge zur GO sind insbesondere:
 
 a) der Antrag auf Aussetzung; seine Annahme hat zur Folge, dass der Punkt auf einer kommenden FK wieder aufgenommen werden kann;
 b) der Antrag auf Vertagung; seine Annahme hat zur Folge, dass der Punkt auf der folgenden FK behandelt werden muss; 
@@ -109,11 +109,11 @@ j) der Antrag auf Teilung eines Antrags in zwei oder mehrere Anträge;
 k) der Antrag auf erneute Auszählung einer Abstimmung; diesem Antrag muss auf Verlangen eines Mitglieds stattgegeben werden. Wird nach zweimaliger Auszählung kein eindeutiges Abstimmungsergebnis festgestellt, so findet die Auszählung durch namentlichen Aufruf der Fachschaftsvertreter durch die Sitzungsleitung statt. Bei einer erneuten Auszählung dürfen nur die Stimmen der Fachschaftsvertreter berücksichtigt werden, die an der Abstimmung teilgenommen haben; 
 l) der Antrag auf Wiederaufnahme eines Tagesordnungspunktes.
 
-\(4) Zu einer Meldung zur Geschäftsordnung erteilt die Sitzungsleitung das Wort unmittelbar und außerhalb der Redeliste; ein laufender Redebeitrag darf nicht unterbrochen werden. Meldungen zur GO werden durch das Heben beider Hände angezeigt.
+(4) Zu einer Meldung zur Geschäftsordnung erteilt die Sitzungsleitung das Wort unmittelbar und außerhalb der Redeliste; ein laufender Redebeitrag darf nicht unterbrochen werden. Meldungen zur GO werden durch das Heben beider Hände angezeigt.
 
-\(5) Die Worterteilung ist bei Anträgen, denen entsprochen werden muss (Verlangen), auf den Antragssteller zu beschränken.
+(5) Die Worterteilung ist bei Anträgen, denen entsprochen werden muss (Verlangen), auf den Antragssteller zu beschränken.
 
-\(6) Erhebt sich zu einem GO-Antrag kein Widerspruch, so gilt er als angenommen; andernfalls ist der Antrag nach Anhörung einer Gegenrede abzustimmen.
+(6) Erhebt sich zu einem GO-Antrag kein Widerspruch, so gilt er als angenommen; andernfalls ist der Antrag nach Anhörung einer Gegenrede abzustimmen.
  
 
 ### § 9 Auskunftspflicht 
@@ -138,9 +138,9 @@ Jedes Mitglied der Studierendenschaft der RFWU Bonn hat Rederecht.
 
 ### § 13 Öffentlichkeit 
 
-\(1) Die Sitzungen sind öffentlich.
+(1) Die Sitzungen sind öffentlich.
 
-\(2) Auf Antrag kann die FK die Öffentlichkeit zu einzelnen Tagesordnungspunkten ausschließen. Über den Antrag wird in nichtöffentlicher Sitzung beraten und beschlossen.
+(2) Auf Antrag kann die FK die Öffentlichkeit zu einzelnen Tagesordnungspunkten ausschließen. Über den Antrag wird in nichtöffentlicher Sitzung beraten und beschlossen.
 Zur Öffentlichkeit gehört nicht der Ältestenrat. Einzelne Personen können von der FK zur Beratung hinzugezogen werden. 
 
 
@@ -169,13 +169,13 @@ Soweit für eine bestimmte Beschlussfassung nicht ausdrücklich auf diesen Parag
 
 ### § 16 Abstimmungen 
 
-\(1) Abstimmungen werden grundsätzlich durch Handzeichen durchgeführt. Auf Verlangen eines Delegierten ist die Abstimmung geheim durchzuführen. Über GO-Anträge, die Überweisung einer Sache an einen Ausschuss und den Antrag auf Änderung der Tagesordnung kann nicht geheim abgestimmt werden.  
+(1) Abstimmungen werden grundsätzlich durch Handzeichen durchgeführt. Auf Verlangen eines Delegierten ist die Abstimmung geheim durchzuführen. Über GO-Anträge, die Überweisung einer Sache an einen Ausschuss und den Antrag auf Änderung der Tagesordnung kann nicht geheim abgestimmt werden.  
 
-\(2) Liegen mehrere Anträge zur selben Sache vor, so wird über den weitestgehenden zuerst abgestimmt. Bei Finanzanträgen ist über den am wenigsten weitgehenden Antrag zuerst abzustimmen.  
+(2) Liegen mehrere Anträge zur selben Sache vor, so wird über den weitestgehenden zuerst abgestimmt. Bei Finanzanträgen ist über den am wenigsten weitgehenden Antrag zuerst abzustimmen.  
 
-\(3) Das Ergebnis der Abstimmung wird durch die Sitzungsleitung festgestellt.	
+(3) Das Ergebnis der Abstimmung wird durch die Sitzungsleitung festgestellt.	
 
-\(4) Ein Beschluss ist rechtmäßig zustande gekommen, wenn
+(4) Ein Beschluss ist rechtmäßig zustande gekommen, wenn
 
 1. die FK beschlussfähig war und
 2. er die einfache Mehrheit gefunden hat, soweit diese GO nichts anderes vorschreibt.
@@ -185,17 +185,17 @@ Soweit für eine bestimmte Beschlussfassung nicht ausdrücklich auf diesen Parag
 
 ### § 17 Wahl des Vorsitzenden und der weiteren Mitglieder des FSK 
 
-\(1) Der Vorsitzende und weitere Mitglieder des FSK werden zu Beginn des Wintersemesters mit einfacher Mehrheit für ein Jahr gewählt. Sie können nur auf Antrag von mindestens fünf Fachschaften durch gleichzeitige Neuwahl abgewählt werden.
+(1) Der Vorsitzende und weitere Mitglieder des FSK werden zu Beginn des Wintersemesters mit einfacher Mehrheit für ein Jahr gewählt. Sie können nur auf Antrag von mindestens fünf Fachschaften durch gleichzeitige Neuwahl abgewählt werden.
 
-\(2) Die Kandidaten haben sich auf Verlangen vorzustellen. § 15 gilt entsprechend.
+(2) Die Kandidaten haben sich auf Verlangen vorzustellen. § 15 gilt entsprechend.
 
-\(3) Das Amt des Vorsitzenden des FSK  ist unvereinbar mit einem Amt in einer Fachschaft, der Mitgliedschaft in einer FSV sowie eines  Amtes innerhalb des AStAs, § 2 V bleibt unberührt.
+(3) Das Amt des Vorsitzenden des FSK  ist unvereinbar mit einem Amt in einer Fachschaft, der Mitgliedschaft in einer FSV sowie eines  Amtes innerhalb des AStAs, § 2 V bleibt unberührt.
 
-\(4) Das Amt eines Mitgliedes des FSK ist unvereinbar mit einem Amt  im Vorstand eines Fachschaftrates oder einem Referentenposten innerhalb des AStAs.   
+(4) Das Amt eines Mitgliedes des FSK ist unvereinbar mit einem Amt  im Vorstand eines Fachschaftrates oder einem Referentenposten innerhalb des AStAs.   
 
-\(5) Ämter innerhalb des Fachschaftenreferates sind von den in Abs. 1 bestimmten Unvereinbarkeiten ausgenommen.
+(5) Ämter innerhalb des Fachschaftenreferates sind von den in Abs. 1 bestimmten Unvereinbarkeiten ausgenommen.
 
-\(6) Die Abstimmung ist geheim.
+(6) Die Abstimmung ist geheim.
 
 
 ### § 18 Wahl von Ausschüssen 
@@ -317,11 +317,11 @@ unberechtigt sind. Ebenso kann die FK lediglich einen Teil der beantragten Summe
 
 Ein abgelehnter oder teilweise bewilligter Antrag kann nicht noch einmal gestellt werden. Ein Antrag gilt als abgelehnt, wenn die FK ihn durch Mehrheitsbeschluss nicht bewilligt. Er gilt als teilweise bewilligt, wenn der Antragssumme nicht in voller Höhe zugestimmt wurde.
 
-\(10) Anträge, die sechs Monate nach Einreichung nicht vorgestellt oder abgestimmt wurden, gelten als nicht gestellt und müssen neu beantragt werden.
+(10) Anträge, die sechs Monate nach Einreichung nicht vorgestellt oder abgestimmt wurden, gelten als nicht gestellt und müssen neu beantragt werden.
 
-\(11) Gelder können maximal 1 Semester rückwirkend beantragt werden.
+(11) Gelder können maximal 1 Semester rückwirkend beantragt werden.
 
-\(12) Die genaue Höhe und Ausgestaltung  der BFsG bestimmt sich nach § 30.
+(12) Die genaue Höhe und Ausgestaltung  der BFsG bestimmt sich nach § 30.
 
 
 ### § 29b Fachschaftsübergreifende Ausgaben
@@ -331,7 +331,7 @@ Das Fachschaftenkollektiv kann auf der Fk besondere Fachschaftengelder für fach
 
 ### § 30 Kriterien zu Vergabe der BFsG
 
-\(1)  Es werden maximal folgende Höchstsätze gewährt:
+(1)  Es werden maximal folgende Höchstsätze gewährt:
 
 a) pro Semester und Fachschaft für Ersti-Arbeit einschließlich Ersti-Info maximal 800 €.
 b) pro Semester für Fahrten (Fachschaftsarbeitswochenenden, Erstsemesterfahrten, Fahrten zu Fachschaftsversammlungen und sonstigen Veranstaltungen, deren Inhalt für die Fachschaftsarbeit relevant ist) nicht mehr als 2000 €, pro Fahrt jedoch maximal 700 €. Der Antrag darf einen Betrag von 50,00 € pro Teilnehmer oder Teilnehmerin pro Tag nicht überschreiten. Fahrtkosten werden im Rahmen des Maximalbetrages von 700 € zusätzlich erstattet. 
@@ -340,7 +340,7 @@ d) für den Kauf oder die Reparatur eines Computers o.ä. innerhalb von 4 Semest
 e) Als Zuschuss für Fachschaften, die sich neu gründen, maximal 800,00 €.
 f) für berufsvorbereitende Veranstaltungen, die von der jeweiligen Fachschaft selbst durchgeführt werden und die sich ausschließlich an Studierende der RFWU Bonn richten, pro Semester und Referent 150 € für Unterkunft sowie An- und Abfahrt. Die Veranstaltungen sind in den Räumen der Universität oder der Studierendenschaft durchzuführen, sollte dies nicht möglich sein, so sind auch die Kosten für die Veranstaltungsräume im Rahmen des genannten Betrags ersatzfähig.   
 
-\(2) Für den Ersatz von Fahrkosten gilt:
+(2) Für den Ersatz von Fahrkosten gilt:
 
 a) bei Fahrten mit der Bahn/ÖPNV ist der kostengünstigste Tarif zu wählen (dass es sich um den kostengünstigsten Tarif handelt, ist gesondert zu dokumentieren). Zuschläge (ICE/IC/EC/D/IR) können ebenfalls beantragt werden. Kosten für eine Bahncard werden nur dann erstattet, wenn die Gesamtkosten der Fahrt incl. Bahncard die Gesamtkosten ohne Bahncard nicht übersteigen.
 b) Anträge für die Erstattung von Taxifahrten sind nur mit einer entsprechenden Begründung zulässig. Fahrtkosten am Tagungsort mit Bahn/ÖPNV werden entsprechend a) abgerechnet Fahrten mit dem Auto entsprechend c).
@@ -350,13 +350,13 @@ e) (weggefallen)
 f) (weggefallen)
 g) Fahrten ins Ausland bedürfen der Vorankündigung.
 
-\(3)	Hinsichtlich der Erstsemesterarbeit sind auch die Kosten für ein Ersti-Frühstück im Rahmen der Erstsemestereinführung und Kosten, die bei einer Rallye o.ä. entstehen, ersatzfähig. Die Kosten des Erstsemesterinfos werden nur insoweit übernommen, wie sie nicht durch anderer  Einnahmen (Anzeigen-, Verkaufspreis) gedeckt sind, dem Antrag sind ein Belegexemplar sowie Kopien der Einnahmequittungen hinzuzufügen.  
+(3)	Hinsichtlich der Erstsemesterarbeit sind auch die Kosten für ein Ersti-Frühstück im Rahmen der Erstsemestereinführung und Kosten, die bei einer Rallye o.ä. entstehen, ersatzfähig. Die Kosten des Erstsemesterinfos werden nur insoweit übernommen, wie sie nicht durch anderer  Einnahmen (Anzeigen-, Verkaufspreis) gedeckt sind, dem Antrag sind ein Belegexemplar sowie Kopien der Einnahmequittungen hinzuzufügen.  
 
-\(4)	(weggefallen) 
+(4)	(weggefallen) 
 
-\(5) Verpflegungskosten werden grundsätzlich nicht übernommen.
+(5) Verpflegungskosten werden grundsätzlich nicht übernommen.
 
-\(6) Kosten für die Durchführung von Lehrveranstaltungen welche von der RFWU Bonn durchzuführen sind, sind nicht ersatzfähig. 
+(6) Kosten für die Durchführung von Lehrveranstaltungen welche von der RFWU Bonn durchzuführen sind, sind nicht ersatzfähig. 
 
 
 ### § 31 Ausnahmegenehmigung von BFsG
@@ -377,11 +377,11 @@ Bei der Vorstellung und Abstimmung von Vorankündigungen muss ein Delegierter de
 
 ### § 32 Kaution für Veranstaltungen
 
-\(1) Fachschaften können für Veranstaltungen einen Vorschuss für an das Studentenwerk oder die Universität zu leistende Kautionen beantragen. Anträge dazu sind an das Fachschaftenkollektiv zu richten und werden von diesem beschieden. Dem Antrag ist eine Vorkalkulation der Veranstaltung beizufügen.
+(1) Fachschaften können für Veranstaltungen einen Vorschuss für an das Studentenwerk oder die Universität zu leistende Kautionen beantragen. Anträge dazu sind an das Fachschaftenkollektiv zu richten und werden von diesem beschieden. Dem Antrag ist eine Vorkalkulation der Veranstaltung beizufügen.
 
-\(2) Die geleisteten Vorschüsse sind unmittelbar nach der Veranstaltung, spätestens bis zum 14. Tag nach der Veranstaltung, auf das Konto des AStA zurückzuleisten.
+(2) Die geleisteten Vorschüsse sind unmittelbar nach der Veranstaltung, spätestens bis zum 14. Tag nach der Veranstaltung, auf das Konto des AStA zurückzuleisten.
 
-\(3) Die geleisteten Vorschüsse können der betreffenden Fachschaft gegenüber mit noch auszuzahlenden AFsG und BFsG aufgerechnet werden.
+(3) Die geleisteten Vorschüsse können der betreffenden Fachschaft gegenüber mit noch auszuzahlenden AFsG und BFsG aufgerechnet werden.
 
 
 ### § 33 Kriterienkatalog
@@ -393,11 +393,11 @@ Das Fachschaftenreferat stellt den Fachschaften einen Geschäftsordnungsauszug �
 
 ### § 34 Schlussbestimmungen 
 
-\(1) Diese Geschäftsordnung  tritt  mit ihrer Veröffentlichung in der AKUT in Kraft.
+(1) Diese Geschäftsordnung  tritt  mit ihrer Veröffentlichung in der AKUT in Kraft.
 
-\(2) Änderungen der Geschäftsordnung bedürfen einer Zweidrittelmehrheit einer FK, auf der mindestens 20% der Fachschaften vertreten sind. § 15 gilt entsprechend. 
+(2) Änderungen der Geschäftsordnung bedürfen einer Zweidrittelmehrheit einer FK, auf der mindestens 20% der Fachschaften vertreten sind. § 15 gilt entsprechend. 
 
-\(3) Im Falle einer unplanmäßigen Regelungslücke ist die Geschäftsordnung des Studierenden Parlaments der RFWU Bonn entsprechend anzuwenden. 
+(3) Im Falle einer unplanmäßigen Regelungslücke ist die Geschäftsordnung des Studierenden Parlaments der RFWU Bonn entsprechend anzuwenden. 
 
 ----
 

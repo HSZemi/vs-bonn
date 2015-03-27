@@ -274,12 +274,12 @@ function BulletList(items)
   return "<ul>\n" .. table.concat(buffer, "\n") .. "\n</ul>"
 end
 
-function OrderedList(items, lev, type)
+function OrderedList(items, start, type, itemstyle)
   local buffer = {}
   for _, item in pairs(items) do
     table.insert(buffer, "<li>" .. item .. "</li>")
   end
-  return "<ol class=\"" .. type .. "\">\n" .. table.concat(buffer, "\n") .. "\n</ol>"
+  return "<ol start=\"" .. start .. "\" class=\"" .. type .. "\">\n" .. table.concat(buffer, "\n") .. "\n</ol>"
 end
 
 -- Revisit association list STackValue instance.
