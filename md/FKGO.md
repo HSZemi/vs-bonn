@@ -334,11 +334,27 @@ Das Fachschaftenkollektiv kann auf der Fk besondere Fachschaftengelder für fach
 (1)  Es werden maximal folgende Höchstsätze gewährt:
 
 a) pro Semester und Fachschaft für Ersti-Arbeit einschließlich Ersti-Info maximal 800 €.
-b) pro Semester für Fahrten (Fachschaftsarbeitswochenenden, Erstsemesterfahrten, Fahrten zu Fachschaftsversammlungen und sonstigen Veranstaltungen, deren Inhalt für die Fachschaftsarbeit relevant ist) nicht mehr als 2000 €, pro Fahrt jedoch maximal 700 €. Der Antrag darf einen Betrag von 50,00 € pro Teilnehmer oder Teilnehmerin pro Tag nicht überschreiten. Fahrtkosten werden im Rahmen des Maximalbetrages von 700 € zusätzlich erstattet. 
-c) für die Organisation von landes-, bundes-, europa- oder weltweiten Fachschaftsversammlungen in Bonn maximal 1000,00 €.
-d) für den Kauf oder die Reparatur eines Computers o.ä. innerhalb von 4 Semestern höchstens 400 €.
-e) Als Zuschuss für Fachschaften, die sich neu gründen, maximal 800,00 €.
-f) für berufsvorbereitende Veranstaltungen, die von der jeweiligen Fachschaft selbst durchgeführt werden und die sich ausschließlich an Studierende der RFWU Bonn richten, pro Semester und Referent 150 € für Unterkunft sowie An- und Abfahrt. Die Veranstaltungen sind in den Räumen der Universität oder der Studierendenschaft durchzuführen, sollte dies nicht möglich sein, so sind auch die Kosten für die Veranstaltungsräume im Rahmen des genannten Betrags ersatzfähig.   
+b) pro Semester für Fahrten (Fachschaftsarbeitswochenenden,
+Erstsemesterfahrten, Fahrten zu Fachschaftsversammlungen und sonstigen
+Veranstaltungen, deren Inhalt für die Fachschaftsarbeit relevant ist) oder
+Exkursionen für Studierende der Fachschaft, die in keiner Weise im
+Studium angerechnet werden können nicht mehr als 2000 €, pro Fahrt
+jedoch maximal 700 €. Der Antrag darf einen Betrag von 50,00 € pro Teilnehmer
+oder Teilnehmerin pro Tag nicht überschreiten. Fahrtkosten werden im Rahmen
+des Maximalbetrages von 700 € erstattet. Ist die Fachschaft nicht alleiniger
+Veranstalter, fertigt sie zusätzlich einen Arbeitsbericht an, aus dem
+insbesondere ersichtlich wird, in welchem Rahmen sie an der
+Organisation und Durchführung beteiligt war.
+c) für die Durchführung von landes-, bundes-, europa- oder weltweiten
+Fachschaftsversammlungen in Bonn maximal 1500,00 €.
+d) für die Vor- und Nachbereitung von landes-, bundes-, europa- oder
+weltweiten Fachschaftsversammlungen maximal 400,00 €. Fahrt und
+Übernachtungskosten (einschließlich Tagungsbeiträge) dürfen einen
+Betrag von 50,00 € pro Teilnehmer oder Teilnehmerin pro Tag nicht
+überschreiten.
+e) für den Kauf oder die Reparatur eines Computers o.ä. innerhalb von 4 Semestern höchstens 400 €.
+f) Als Zuschuss für Fachschaften, die sich neu gründen, maximal 800,00 €.
+g) für berufsvorbereitende Veranstaltungen, die von der jeweiligen Fachschaft selbst durchgeführt werden und die sich ausschließlich an Studierende der RFWU Bonn richten, pro Semester und Referent 150 € für Unterkunft sowie An- und Abfahrt. Die Veranstaltungen sind in den Räumen der Universität oder der Studierendenschaft durchzuführen, sollte dies nicht möglich sein, so sind auch die Kosten für die Veranstaltungsräume im Rahmen des genannten Betrags ersatzfähig.   
 
 (2) Für den Ersatz von Fahrkosten gilt:
 
@@ -398,6 +414,22 @@ Das Fachschaftenreferat stellt den Fachschaften einen Geschäftsordnungsauszug �
 (2) Änderungen der Geschäftsordnung bedürfen einer Zweidrittelmehrheit einer FK, auf der mindestens 20% der Fachschaften vertreten sind. § 15 gilt entsprechend. 
 
 (3) Im Falle einer unplanmäßigen Regelungslücke ist die Geschäftsordnung des Studierenden Parlaments der RFWU Bonn entsprechend anzuwenden. 
+
+----
+
+# Anlage 1 zur FKGO (AFsG)
+
+## Summe der AFsG
+
+### § 01
+
+Soweit nicht anders bestimmt, Beträgt die Gesamtsumme der pro
+Haushaltsjahr auszuschüttenden AFsG 80.000€.
+
+### § 02
+
+Für das Haushaltsjahr 2014/2015 beträgt die Gesamtsumme der
+auszuschüttenden AFsG 120.000€.
 
 ----
 
