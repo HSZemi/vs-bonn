@@ -1,6 +1,6 @@
 % Geschäftsordnung der Fachschaftenkonferenz der Rheinischen-Friedrich-Wilhelms Universität Bonn [FK GO]
 %
-% Fassung vom 2. Juni 2014 (Anlage „Fachschaftenliste“ vom 11. März 2015)
+% Fassung vom 9. Februar 2015 (Anlage „Fachschaftenliste“ vom 11. März 2015)
 
 # Allgemeines
 
