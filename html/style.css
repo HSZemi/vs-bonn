@@ -22,6 +22,12 @@ h6:hover .anchor {
 	display:inline;
 }
 
+.toc ol, 
+.toc ol ol, 
+.toc ol ol ol {
+	padding-left: 1em;
+}
+
 .anchor {
 	color:black;
 	vertical-align: middle;
