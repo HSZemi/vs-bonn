@@ -1,7 +1,7 @@
-% Verfahrensordnung des Ältestenrats der Bonner Studierendenschaft (VerfOÄR)
-%
-% Fassung vom 06. April 2011
-
+---
+title: Verfahrensordnung des Ältestenrats der Bonner Studierendenschaft (VerfOÄR)
+date:  Fassung vom 06. April 2011
+---
 
 ### § 1 Sitzungen
 

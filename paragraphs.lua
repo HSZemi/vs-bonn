@@ -48,7 +48,7 @@ end
 -- Helper function that extracts the paragraph number from a heading.
 -- If there is none, the regular id is returned.
 local function paragraph_id(s, attr)
-  local id = string.match(s, '§ ([0-9]+)')
+  local id = string.match(s, '^§ ([0-9]+)')
   if id == nil then
     return attr.id
   end
@@ -96,7 +96,7 @@ function Doc(body, metadata, variables)
   add('<title>' .. (metadata['title'] or '') .. '</title>')
   add('<!-- Latest compiled and minified CSS -->')
   add('<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">')
-  add('<link rel="stylesheet" href="style.css">')
+  add('<link rel="stylesheet" href="<!-- PATH-TO-TOP -->style.css">')
   add('</head>')
   add('<body>')
   add('<div class="container">')
@@ -112,7 +112,7 @@ function Doc(body, metadata, variables)
   end
    if #toc > 0 then
     add('<h3>Inhaltsverzeichnis <span id="toctoggle" class="glyphicon glyphicon-eye-open" aria-hidden="true" onclick="toggleTOC()"></span></h3>')
-    add('<script type="text/javascript" src="toc.js"></script>')
+    add('<script type="text/javascript" src="<!-- PATH-TO-TOP -->toc.js"></script>')
     add('<ol id="toc" class="toc">')
     for _,item in pairs(toc) do
       add(item)

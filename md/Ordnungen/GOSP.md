@@ -1,6 +1,7 @@
-% Geschäftsordnung des Bonner Studierendenparlaments (GO-SP)
-%
-% Fassung vom 18. Dezember 2013
+---
+title: Geschäftsordnung des Bonner Studierendenparlaments (GO-SP)
+date:  Fassung vom 18. Dezember 2013
+---
 
 Soweit Bezeichnungen, die für Frauen und Männer gelten, in der weiblichen Sprachform verwendet
 werden, gelten diese Bezeichnungen auch für die Männer in der männlichen sprachform.

@@ -1,6 +1,7 @@
-% Geschäftsordnung des Allgemeinen Studierenden Ausschuss
-%
-% Fassung vom 5. Mai 2011
+---
+title: Geschäftsordnung des Allgemeinen Studierenden Ausschuss
+date:  Fassung vom 5. Mai 2011
+---
 
 # I. Vorbemerkung
 

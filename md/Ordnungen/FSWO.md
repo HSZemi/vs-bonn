@@ -1,6 +1,7 @@
-% Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
-%
-% Fassung vom 17. April 2014
+---
+title: Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
+date:  Fassung vom 17. April 2014
+---
 
 # A. Allgemeines
 

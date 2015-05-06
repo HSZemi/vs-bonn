@@ -1,6 +1,7 @@
-% Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
-%
-% Fassung vom 21.11.2013
+---
+title: Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
+date:  Fassung vom 21.11.2013
+---
 
 # Präliminarien
 

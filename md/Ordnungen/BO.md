@@ -1,6 +1,7 @@
-% Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
-%
-% Fassung vom 23. Juli 2013
+---
+title: Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
+date:  Fassung vom 23. Juli 2013
+---
 
 ### § 1
 Von der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn wird in

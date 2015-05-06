@@ -1,6 +1,7 @@
-% Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
-%
-% Fassung vom 16. Oktober 2013
+---
+title: Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
+date:  Fassung vom 16. Oktober 2013
+---
 
 # A. DIE STUDIERENDENSCHAFT
 

@@ -1,6 +1,7 @@
-% Wahlordnung für die Wahlen zum Studierendenparlament
-%
-% Fassung vom 24. November 2014
+---
+title: Wahlordnung für die Wahlen zum Studierendenparlament
+date:  Fassung vom 24. November 2014
+---
 
 Soweit Bezeichnungen, die für Frauen und Männer gelten, in der weiblichen Sprachform verwendet werden, gelten diese Bezeichnungen auch für Männer in der männlichen Sprachform.
 
