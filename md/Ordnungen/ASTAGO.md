@@ -1,6 +1,18 @@
 ---
-title: Geschäftsordnung des Allgemeinen Studierenden Ausschuss
-date:  Fassung vom 5. Mai 2011
+title: Geschäftsordnung des Allgemeinen Studierenden Ausschuss (GO AStA)
+short: Geschäftsordnung des AStA (GO AStA)
+date:  5. Mai 2011
+type:  Ordnung
+id:    ASTAGO
+contains:
+- title: Geschäftsordnung des Allgemeinen Studierenden Ausschuss
+  short: Geschäftsordnung des Allgemeinen Studierenden Ausschuss
+  actdate:  5. Mai 2011
+  actorgan: Gesamt-AStA-Sitzung
+  pubdate:  
+  puborgan: 
+  puburl: http://www.asta-bonn.de/w/images/c/c3/GO-AStA.pdf
+
 ---
 
 # I. Vorbemerkung

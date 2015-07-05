@@ -1,6 +1,18 @@
 ---
 title: Satzung der Fachschaft Kulturanthropologie der Rheinischen Friedrich-Wilhelms-Universität Bonn
-date:  Fassung vom 25. Februar 2014
+short: Satzung der Fachschaft Kulturanthropologie
+date:  5. Februar 2014
+type:  Satzung
+id:    FSSatzungKulturanthropologie
+contains:
+- title: Satzung der Fachschaft Kulturanthropologie der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: Satzung der Fachschaft Kulturanthropologie
+  actorgan: 
+  actdate:  5. Februar 2014
+  puborgan: AKUT
+  pubdate:  25. Februar 2014
+  puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/Satzung-der-Fachschaft-Kulturanthropologie-der-RFWU.pdf
+
 ---
 
 # A. Fachschaft

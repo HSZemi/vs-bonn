@@ -1,8 +1,19 @@
 ---
 title: Satzung der Fachschaft Lehramt der Rheinischen-Friedrich-Wilhelms-Universität Bonn
-date:  In der Fassung vom 24.06.2013
----
+short: Satzung der Fachschaft Lehramt
+date:  24. Juni 2013
+type:  Satzung
+id:    FSSatzungLehramt
+contains:
+- title: Satzung der Fachschaft Lehramt der Rheinischen-Friedrich-Wilhelms-Universität Bonn
+  short: Satzung der Fachschaft Lehramt
+  actorgan: Fachschaftsvollversammlung Fachschaft Lehramt
+  actdate:  24. Juni 2013
+  puborgan: AKUT
+  pubdate:  18. Oktober 2013
+  puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/SatzungFSLA_24.06.pdf
 
+---
 
 Auf Grundlage der Mustersatzung der Fachschaften an der Rheinischen Friedrich-Wilhelm-Universität
 Bonn

@@ -1,6 +1,17 @@
 ---
 title: Verfahrensordnung des Kulturplenums
-date:  Fassung vom 05.11.2014
+short: Verfahrensordnung des Kulturplenums
+date:  1. Juli 2015
+type:  Ordnung
+id:    VerfOKP
+contains:
+- title: Verfahrensordnung des Kulturplenums
+  short: Verfahrensordnung des Kulturplenums
+  actorgan: Studierendenparlament
+  actdate:  5. November 2014
+  puborgan: AKUT
+  pubdate:  1. Juli 2015
+  puburl: http://www.akut-bonn.de/wp-content/uploads/2015/07/AK_Ex_Verfahrensordnung-Kulturplenum.pdf
 ---
 
 ### § 1 [Einberufung, Tagesordnung und Ablauf]

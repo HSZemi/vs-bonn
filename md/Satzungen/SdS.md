@@ -1,6 +1,20 @@
 ---
 title: Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
-date:  Fassung vom 16. Oktober 2013
+short: Satzung der Studierendenschaft
+date:  31. Juli 2013
+type:  Satzung
+id:    SdS
+contains:
+- title: Dritte Änderungssatzung und zugleich Neufassung der Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - 3. Satzungsänderungssatzung (SÄS 3) -
+  short: 3. Satzungsänderungssatzung (SÄS 3)
+  actorgan: Studierendenparlament
+  actdate:  31. Juli 2013
+  confirmorgan: Rektorat
+  confirmdate: 8. Oktober 2013
+  puborgan: Amtliche Bekanntmachungen
+  pubdate:  21. Oktober 2013
+  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/119590
+
 ---
 
 # A. DIE STUDIERENDENSCHAFT

@@ -1,6 +1,17 @@
 ---
 title: Bestimmungen über die Förderung von Studentischen Vereinigungen durch die Studierendenschaft der Universität Bonn
-date:  Fassung vom 05.11.2014
+short: Bestimmungen über die Förderung von Studentischen Vereinigungen
+date:  1. Juli 2015
+type:  Richtlinie
+id:    BestimmungenKulturfoerderung
+contains:
+- title: Bestimmungen über die Förderung von Studentischen Vereinigungen durch die Studierendenschaft der Universität Bonn
+  short: Bestimmungen über die Förderung von Studentischen Vereinigungen
+  actorgan: Studierendenparlament
+  actdate:  5. November 2014
+  puborgan: AKUT
+  pubdate:  1. Juli 2015
+  puburl: http://www.akut-bonn.de/wp-content/uploads/2015/07/AK_Ex_Bestimmungen-F%C3%B6rderung-StudVereinigungen.pdf
 ---
 
 ### § 1 [Begrifflichkeit]

@@ -1,6 +1,18 @@
 ---
 title: Satzung der Fachschaft GeKoSka der Rheinischen Friedrich-Wilhelms-Universität Bonn
-date:  Fassung vom 08. April 2014
+short: Satzung der Fachschaft GeKoSka
+date:  25. März 2014
+type:  Satzung
+id:    FSSatzungGeKoSka
+contains:
+- title: Satzung der Fachschaft GeKoSka der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: Satzung der Fachschaft GeKoSka
+  actorgan: Fachschaftsvertretung Fachschaft GeKoSka
+  actdate:  25. März 2014
+  puborgan: AKUT
+  pubdate:  8. April 2014
+  puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/Satzung-GeKoSka.pdf
+
 ---
 
 # A. Fachschaft

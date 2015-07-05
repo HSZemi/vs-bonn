@@ -1,6 +1,18 @@
 ---
 title: Satzung des Ausschusses für den Rechtshilfefonds des Studierendenparlaments der Rheinischen Friedrich-Wilhelms-Universität Bonn
-date:  Fassung vom 25.09.2013
+short: Satzung des Ausschusses für den Rechtshilfefonds
+date:  5. Juni 2015
+type:  Satzung
+id:    RHASatzung
+contains:
+- title: Satzung des Ausschusses für den Rechtshilfefonds des Studierendenparlaments der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: Satzung des Ausschusses für den Rechtshilfefonds
+  actorgan: Studierendenparlament
+  actdate:  25. September 2013
+  puborgan: AKUT
+  pubdate:  5. Juni 2015
+  puburl: http://www.akut-bonn.de/wp-content/uploads/2015/06/AKUT-Extra__Rechtshilfefonds-k.pdf
+
 ---
 
 ### § 1 Allgemeines, Zweck

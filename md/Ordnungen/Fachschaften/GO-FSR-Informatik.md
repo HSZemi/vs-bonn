@@ -1,8 +1,19 @@
 ---
 title: Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
-date:  In der Fassung vom 14.04.2015
----
+short: Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
+date:  14. April 2015
+type:  Ordnung
+id:    GO-FSR-Informatik
+contains:
+- title: Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
+  actorgan: Fachschaftsrat Fachschaft Informatik
+  actdate:  14. April 2015
+  puborgan: AKUT
+  pubdate:  16. April 2015
+  puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/Geschaeftsordnung-FSR-beschlossen-akut-extra.pdf
 
+---
 
 Diese Geschäftsordnung gilt für die Sitzungen des Fachschaftsrats der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn.
 

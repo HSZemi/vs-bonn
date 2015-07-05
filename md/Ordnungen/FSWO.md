@@ -1,6 +1,18 @@
 ---
 title: Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
-date:  Fassung vom 17. April 2014
+short: Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte (FSWO)
+date:  17. April 2014
+type:  Ordnung
+id:    FSWO
+contains:
+- title: Erste Änderungsordnung und zugleich Neufassung der Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - 1. Ordnungsänderungsordnung (OÄO 1) -
+  short: 1\. Wahlordnungsänderungsordnung (OÄO 1)
+  actorgan: Studierendenparlament
+  actdate:  16. April 2014
+  puborgan: AKUT
+  pubdate:  17. April 2014
+  puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/AKUT-extra-FSWO2014.pdf
+
 ---
 
 # A. Allgemeines

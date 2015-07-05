@@ -1,6 +1,20 @@
 ---
-title: Wahlordnung für die Wahlen zum Studierendenparlament
-date:  Fassung vom 24. November 2014
+title: Wahlordnung für die Wahlen zum Studierendenparlament (WOSP)
+short: Wahlordnung für die Wahlen zum Studierendenparlament (WOSP)
+date:  16. Juli 2014
+type:  Ordnung
+id:    WOSP
+contains:
+- title: Achte Änderungsordnung und zugleich Neufassung der Wahlordnung für die Wahlen zum Studierendenparlament - 8. Wahlordnungsänderungsordnung (WOÄO 8) -
+  short: 8\. Wahlordnungsänderungsordnung (WOÄO 8)
+  actorgan: Studierendenparlament
+  actdate:  16. Juli 2014
+  confirmorgan: Rektorat
+  confirmdate: 18. November 2014
+  puborgan:  Amtliche Bekanntmachungen
+  pubdate:  24. November 2014
+  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/183517
+
 ---
 
 Soweit Bezeichnungen, die für Frauen und Männer gelten, in der weiblichen Sprachform verwendet werden, gelten diese Bezeichnungen auch für Männer in der männlichen Sprachform.

@@ -1,6 +1,25 @@
 ---
 title: Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
-date:  Fassung vom 12.05.2015
+short: Satzung der Fachschaft Informatik
+date:  12. Mai 2015
+type:  Satzung
+id:    FSSatzungInformatik
+contains:
+- title: Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: Satzung der Fachschaft Informatik
+  actorgan: Fachschaftsvertretung Fachschaft Informatik
+  actdate:  21. November 2013
+  puborgan: AKUT
+  pubdate:  15. Januar 2014
+  puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/Satzung_Fachschaft_Informatik-akut.pdf
+- title: Erste Änderungssatzung der Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: Erste Änderungssatzung der Satzung der Fachschaft Informatik
+  actorgan: Fachschaftsvertretung Fachschaft Informatik
+  actdate:  12. Mai 2015
+  puborgan: AKUT
+  pubdate:  12. Mai 2015
+  puburl: http://www.akut-bonn.de/wp-content/uploads/2015/05/AK_ex_12-05-2015-FSInfoAendSatzung.pdf
+
 ---
 
 # Präliminarien

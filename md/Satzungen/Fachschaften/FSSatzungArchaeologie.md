@@ -1,7 +1,20 @@
 ---
 title: Satzung der Fachschaft Archäologie der Rheinischen Friedrich-Wilhelms-Universität Bonn
-date:  In der Fassung vom 28. April 2014
+short: Satzung der Fachschaft Archäologie
+date:  15. April 2014
+type:  Satzung
+id:    FSSatzungArchaeologie
+contains:
+- title: Satzung der Fachschaft Archäologie der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: Satzung der Fachschaft Archäologie
+  actorgan: Fachschaftsvertretung Fachschaft Archäologie
+  actdate:  15. April 2014
+  puborgan: AKUT
+  pubdate:  28. April 2014
+  puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/Satzung-Arch%C3%A4ologie_akut-EXTRA.pdf
+
 ---
+
 
 # A. Fachschaft
 
@@ -153,7 +166,7 @@ bestimmten Punkt das Wort erhoben haben.
 5. ein FA,
 6. eine SfVV,
 7. 5% der Mitglieder der Fachschaft dies unter Angabe von zu behandelnden
-Tagesordnungspunkten schriftlich verlangen.
+   Tagesordnungspunkten schriftlich verlangen.
 
 (9) Die Einladung muss 7 Tage vor der geplanten Sitzung an alle FSR-, FA- und FSV-Mitglieder
 verschickt werden. Maßgeblich ist das Datum des Poststempels. Zu demselben Termin muss auch
@@ -190,6 +203,7 @@ Mitglied während der den Antrag betreffenden nachfolgenden Sitzung anwesend zu 
 
 1. Die FSV beschlussfähig war und
 2. er die einfache Mehrheit gefunden hat, soweit die Satzung nichts anderes vorschreibt.
+
 Die FSV gilt solange als beschlussfähig, bis auf Antrag eines FSV-Mitgliedes durch den
 Vorsitzenden das Gegenteil festgestellt wird.
 
@@ -245,6 +259,7 @@ Der FSR vertritt die Fachschaft und führt die Geschäfte der Fachschaft unter L
 1. dem Sprecher
 2. dem stellvertretenden Sprecher
 3. dem Finanzreferenten
+
 als geschäftsführendem Vorstand und höchstens sechs weiteren Mitgliedern.
 
 (3) Der Sprecher kann auf Vorschlag des Referenten einen entsprechenden Beauftragten für das
@@ -256,6 +271,7 @@ Referat benennen. Dieser nimmt mit beratender Stimme an den Sitzungen des FSR te
 2. auf eigenen Beschluss,
 3. auf Beschluss der FSV,
 4. auf Beschluss eines FA.
+
 Auf das Zusammentreten des FSR soll in Form einer schriftlichen öffentlichen Ankündigung durch
 den Sprecher bzw. seinen Stellvertreter hingewiesen werden.
 
@@ -322,7 +338,7 @@ beschlussfassendes Organ der Fachschaft.
 2. Auf schriftlichen Antrag von mindestens sechs Mitgliedern der FSV,
 3. Auf Beschluss des FSR
 4. Auf schriftlichen Antrag von mindestens 5% der Mitglieder der Fachschaft, sofern der
-Antrag eine Tagesordnung enthält.
+   Antrag eine Tagesordnung enthält.
 
 (2) Die Ankündigung der FSVV erfolgt mindestens zwei Wochen vor ihrer Durchführung. Die
 Ankündigung enthält mindestens
@@ -361,7 +377,7 @@ Fachausschusses durch die FSV.
 
 1. Auf Beschluss des FA,
 2. Auf schriftlichen Antrag von mindestens 5% der Mitglieder des Studienfaches, sofern der
-Antrag eine Tagesordnung enthält.
+   Antrag eine Tagesordnung enthält.
 
 (2) Die Ankündigung der SfVV erfolgt mindestens zwei Wochen vor ihrer Durchführung. Die
 Ankündigung enthält mindestens
@@ -406,6 +422,7 @@ weitergehende Vertretungs- und Geschäftsführungsbefugnisse erteilt wurden.
 1. während der Vorlesungszeit grundsätzlich einmal wöchentlich in öffentlicher Sitzung,
 2. auf eigenen Beschluss,
 3. auf Beschluss der FSV.
+
 Auf das Zusammentreten des FA soll in Form einer schriftlichen öffentlichen Ankündigung durch den
 Vorsitzenden bzw. seinen Stellvertreter hingewiesen werden.
 
@@ -486,6 +503,7 @@ dient dem Zweck festzustellen, ob insbesondere
 1. der Kassen-Ist-Bestand mit dem Kassen-Soll-Bestand übereinstimmt und
 2. die Buchungen nach der Zeitfolge mit den Buchungen nach der im Haushaltsplan
 vorgesehenen Ordnung übereinstimmen.
+
 Über die Kassenprüfung ist Protokoll zu führen, in das die Kassen- und Kontobestände aufzunehmen
 sind.
 

@@ -1,6 +1,27 @@
 ---
 title: Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
-date:  Fassung vom 23. Juli 2013
+short: Beitragsordnung der Studierenenschaft
+date:  23. Juli 2013
+type:  Ordnung
+id:    BO
+contains:
+- title: Dreiundzwanzigste Ordnung zur Änderung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - XXIII. Beitragsordnungsänderungsordnung (BOÄO XXIII)
+  short: XXIII\. Beitragsordnungsänderungsordnung (BOÄO XXIII)
+  actdate:  5. Februar 2013
+  actorgan: Studierendenparlament
+  confirmorgan: Rektorat
+  confirmdate: 16. Juli 2013
+  pubdate:  24. Juli 2013
+  puborgan: Amtliche Bekanntmachungen
+  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/107730
+- title: Neufassung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: Neufassung der Beitragsordnung der Studierendenschaft
+  actdate:  23. Juli 2013
+  actorgan: 
+  pubdate:  24. Juli 2013
+  puborgan: Amtliche Bekanntmachungen
+  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/107732
+
 ---
 
 ### § 1

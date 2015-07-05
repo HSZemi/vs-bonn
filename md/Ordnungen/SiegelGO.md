@@ -1,6 +1,18 @@
 ---
 title: Geschäftsordnung zur Führung der Siegel des Allgemeinen Studierendenausschusses (AStA) der Rheinischen Friedrich-Wilhelms-Universität Bonn
-date:  Fassung vom 14. Februar 2003
+short: Geschäftsordnung zur Führung der Siegel des Allgemeinen Studierendenausschusses (AStA)
+date:  14. Februar 2003
+type:  Ordnung
+id:    SiegelGO
+contains:
+- title: Geschäftsordnung zur Führung der Siegel des Allgemeinen Studierendenausschusses (AStA) der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: Geschäftsordnung zur Führung der Siegel des Allgemeinen Studierendenausschusses (AStA)
+  actorgan: Studierendenparlament
+  actdate:  
+  puborgan: 
+  pubdate:  
+  puburl: 
+
 ---
 
 # A. Allgemeine Siegelführung

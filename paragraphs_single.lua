@@ -89,17 +89,7 @@ function Doc(body, metadata, variables)
   local function add(s)
     table.insert(buffer, s)
   end
-  add('<!DOCTYPE html>')
-  add('<html>')
-  add('<head>')
-  add('<meta charset="utf-8">')
-  add('<title>' .. (metadata['title'] or '') .. '</title>')
-  add('<!-- Latest compiled and minified CSS -->')
-  add('<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">')
-  add('<link rel="stylesheet" href="{path_to_top}style.css">')
-  add('</head>')
-  add('<body>')
-  add('<div class="container">')
+--  add('<div class="container">')
   add('{navigation}')
   if metadata['title'] and metadata['short'] and metadata['title'] ~= "" then
     add('<h1 class="title" title="' .. metadata['title'] .. '">' .. metadata['short'] .. '</h1>')
@@ -111,7 +101,7 @@ function Doc(body, metadata, variables)
     add('<h3 class="date">Fassung vom ' .. metadata.date .. ' (<a href="#contains">?</a>)</h3>')
   end
    if #toc > 0 then
-    add('<h3>Inhaltsverzeichnis <span id="toctoggle" class="glyphicon glyphicon-eye-open" aria-hidden="true" onclick="toggleTOC()"></span></h3>')
+    add('<h3>Inhaltsverzeichnis <span id="toctoggle" class="eye-open" aria-hidden="true" onclick="toggleTOC()"></span></h3>')
     add('<script type="text/javascript" src="{path_to_top}toc.js"></script>')
     add('<ol id="toc" class="toc">')
     for _,item in pairs(toc) do
@@ -136,9 +126,7 @@ function Doc(body, metadata, variables)
     add('<hr>')
     add(containsBox(metadata['contains']))
   end
-  add('</div>')
-  add('</body>')
-  add('</html>')
+  --  add('</div>')
   return table.concat(buffer,'\n')
 end
 
@@ -175,6 +163,10 @@ function containsBox(contains)
   end
   table.insert(buffer, "</div>")
   return table.concat(buffer, "\n")
+end
+
+function RawInline(type,s)
+  return Str(s)
 end
 
 function Str(s)
@@ -275,7 +267,7 @@ function Header(lev, s, attr)
     lastlev = lastlev - 1
   end
   table.insert(toc, '<li><a href="#'  ..  attr.id..'">' .. s .. '</a></li>')
-  return "<h" .. lev .. attributes(attr) ..  "><a class=\"anchor\" href=\"#" .. attr.id .. "\"><span class=\"glyphicon glyphicon-link\" aria-hidden=\"true\"></span></a>" .. s .. "</h" .. lev .. ">"
+  return "<h" .. lev .. attributes(attr) ..  ">" .. s .. "<a class=\"anchor\" href=\"#" .. attr.id .. "\"><img class='anchorimage' src='{path_to_top}chain.svg' /></a></h" .. lev .. ">"
 end
 
 function BlockQuote(s)

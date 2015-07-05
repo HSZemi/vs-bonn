@@ -1,6 +1,18 @@
 ---
 title: Satzung der Fachschaft Romanistik der Rheinischen Friedrich-Wilhelms-Universität Bonn
-date: Fassung vom 17. Januar 2014
+short: Satzung der Fachschaft Romanistik
+date:  19. Dezember 2013
+type:  
+id:    
+contains:
+- title: Satzung der Fachschaft Romanistik der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: Satzung der Fachschaft Romanistik
+  actorgan: Fachschaftsvertretung Fachschaft Romanistik
+  actdate:  19. Dezember 2013
+  puborgan: AKUT
+  pubdate:  17. Januar 2014
+  puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/akut-EXTRA-_Fachschaftssatzung-Romanistik.pdf
+
 ---
 
 # Vorbemerkung

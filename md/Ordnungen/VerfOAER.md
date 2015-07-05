@@ -1,6 +1,20 @@
 ---
 title: Verfahrensordnung des Ältestenrats der Bonner Studierendenschaft (VerfOÄR)
-date:  Fassung vom 06. April 2011
+short: Verfahrensordnung des Ältestenrats (VerfOÄR)
+date:  6. April 2011
+type:  Ordnung
+id:    VerfOAER
+contains:
+- title: Verfahrensordnung des Ältestenrats der Bonner Studierendenschaft (VerfOÄR)
+  short: Verfahrensordnung des Ältestenrats (VerfOÄR)
+  actorgan: Ältestenrat
+  actdate:  15. März 2011
+  confirmorgan: Studierendenparlament
+  confirmdate: 6. April 2011
+  puborgan: AKUT
+  pubdate:  6. April 2011
+  puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/verfoaer.pdf
+
 ---
 
 ### § 1 Sitzungen

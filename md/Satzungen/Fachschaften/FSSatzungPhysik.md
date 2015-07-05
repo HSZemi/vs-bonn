@@ -1,6 +1,18 @@
 ---
 title: Satzung der Fachschaft Physik/Astronomie der Rheinischen Friedrich-Wilhelms-Universität Bonn (FSSzg)
-date: Fassung vom 14. Mai 2013
+short: Satzung der Fachschaft Physik/Astronomie (FSSzg)
+date:  14. Mai 2013
+type:  Satzung
+id:    FSSatzungPhysik
+contains:
+- title: Satzung der Fachschaft Physik/Astronomie der Rheinischen Friedrich-Wilhelms-Universität Bonn (FSSzg)
+  short: Satzung der Fachschaft Physik/Astronomie (FSSzg)
+  actorgan: Fachschaftsvertretung Fachschaft Physik/Astronomie
+  actdate:  14. Mai 2013
+  puborgan: AKUT
+  pubdate:  01. Juli 2013
+  puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/Satzung-Physik-Astronomie.pdf
+
 ---
 
 # Präambel

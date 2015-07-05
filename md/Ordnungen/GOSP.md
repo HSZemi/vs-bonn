@@ -1,10 +1,22 @@
 ---
 title: Geschäftsordnung des Bonner Studierendenparlaments (GO-SP)
-date:  Fassung vom 18. Dezember 2013
+short: Geschäftsordnung des Bonner Studierendenparlaments (GO-SP)
+date:  13. Mai 2015
+type:  Ordnung
+id:    GOSP
+contains:
+- title: Geschäftsordnung des Bonner Studierendenparlaments (GO-SP)
+  short: Geschäftsordnung des Bonner Studierendenparlaments (GO-SP)
+  actdate:  29. April 2014
+  actorgan: Studierendenparlament
+  pubdate:  13. Mai 2015
+  puborgan: AKUT
+  puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/AKUT-Extra_GO-SPa__13-05-15.pdf
+
 ---
 
-Soweit Bezeichnungen, die für Frauen und Männer gelten, in der weiblichen Sprachform verwendet
-werden, gelten diese Bezeichnungen auch für die Männer in der männlichen sprachform.
+Soweit Bezeichnungen in der weiblichen Sprachform verwendet werden, gelten diese
+Bezeichnungen für alle Menschen unabhängig von ihrem Geschlecht.
 
 # I. Konstituierung, Allgemeines
 
@@ -48,7 +60,7 @@ Sitzungsprotokolle an.
 (4) In der Regel führt die zweite SP-Sprecherin die Redeliste.
 
 
-### § 4 Stellung und Pflichten der Mitglieder des SPs
+### § 4 Stellung und Pflichten der Mitglieder des SP
 Die Stellung und die Pflichten der Mitglieder des SP richten sich nach den entsprechenden
 Vorschriften der Satzung und der Wahlordnung[^2].
 
@@ -197,7 +209,7 @@ Antrages nach Buchstabe a bei der SP-Sprecherin oder des Eintritts der in Buchst
 Voraussetzungen, schriftlich erfolgen.
 
 (3) Sitzungen des SP sind grundsätzlich während des ganzen Jahres möglich; Ausnahmen stellen
-Weihnachts- und Pfingtsferien dar. Während der Vorlesungszeit muß mindestens alle vier Wochen
+Weihnachts- und Pfingstferien dar. Während der Vorlesungszeit muß mindestens alle vier Wochen
 eine SP-Sitzung stattfinden. In der vorlesungsfreien Zeit soll das SP lediglich nach § 10 (2) GO in den
 Fällen des § 5 (2) Nr. 1, 2, 3, 4, 5 der Satzung einberufen werden. Am Montag vor dem Dies
 Academicus muss eine Sitzung des SP einberufen werden; es muss keine Sitzung einberufen werden,
@@ -227,9 +239,9 @@ f. Verschiedenes
 AStA-Wahlen
 
 a. Vorsitzende
-b. Stellvertretende Vorsitzende
+b. stellvertretende Vorsitzende
 c. Finanzreferentin
-d. Weitere Referentinnen
+d. weitere Referentinnen
 
 (3) Das SP kann unter Abs. 1 und Abs. 2 nicht genannte Tagesordnungspunkte (TOPs) mit
 Zweidrittelmehrheit von der TO absetzen, wenn dies mit der Satzung und dieser GO vereinbar ist.
@@ -664,6 +676,25 @@ Rechtsquelle etwas anderes geregelt ist.
 
 (3) Die SP-Sprecherin, die AStA-Vorsitzende und die zuständige Fachreferentin des AStA haben in
 den Ausschüssen beratende Stimme.
+
+(4) Ein Mitglied oder stellvertretendes Mitglied scheidet aus einem Ausschuss aus durch:
+
+1. Rücktritt
+2. Abwahl
+3. Ausscheiden aus der Studierendenschaft
+
+Ein Rücktritt ist wirksam, wenn er dem SP-Präsidium und der Ausschussvorsitzenden
+durch das ausscheidende Mitglied schriftlich oder per E-Mail angezeigt wurde.
+Das Ausscheiden aus der Studierendenschaft ist dem SP-Präsidium und der Ausschussvorsitzenden anzuzeigen.
+
+(5) Die Abwahl eines Ausschussmitglieds oder stellvertretenden Ausschussmitglieds durch
+das SP ist nur mit qualifizierter 2/3-Mehrheit möglich.
+
+(6) Scheidet ein Mitglied oder stellvertretendes Mitglied aus, muss die Tagesordnung
+der nächstmöglichen SP-Sitzung einen Tagesordnungspunkt zur Nachbesetzung des
+freiwerdenden Platzes enthalten. Das Ersatzmitglied ist dann von der selben Fraktion
+(bzw. von der FK) zu benennen wie das ausgeschiedene Mitglied.
+
 
 
 ### § 41 Wahl der Ausschussmitglieder
