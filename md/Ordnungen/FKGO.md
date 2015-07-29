@@ -26,8 +26,8 @@ contains:
   actorgan: Fachschaftenkonferenz
   actdate:  29. Juni 2015
   puborgan: AKUT
-  pubdate:  
-  puburl:   
+  pubdate:  1. Juli 2015
+  puburl:   http://www.akut-bonn.de/wp-content/uploads/2015/07/AK_Ex_%C3%84o-FKGO.pdf
 
 ---
 
