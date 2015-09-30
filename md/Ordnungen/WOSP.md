@@ -14,6 +14,15 @@ contains:
   puborgan:  Amtliche Bekanntmachungen
   pubdate:  24. November 2014
   puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/183517
+- title: Ordnung zur Änderung der Wahlordnung für die Wahlen zum Studierendenparlament
+  short: 1\. Wahlordnungsänderungsordnung
+  actorgan: Studierendenparlament
+  actdate:  29. April 2015
+  confirmorgan: Rektorat
+  confirmdate: 25. August 2015
+  puborgan:  Amtliche Bekanntmachungen
+  pubdate:   8. September 2015
+  puburl: 
 
 ---
 
@@ -54,9 +63,16 @@ Diese Wahlordnung gilt für die Wahlen zum Studierendenparlament (SP).
 
 (7) Die Mitglieder und stellvertretenden Mitglieder des Wahlausschusses sind zur unparteiischen und gewissenhaften Erfüllung ihrer Aufgaben verpflichtet.
 
-(8) Der Wahlausschuss fasst Beschlüsse mit der Mehrheit seiner gewählten Mitglieder. Die Bestimmung des Standortes und die Besetzung der Wahlurnen geschieht mit Zweidrittelmehrheit. Konnten Beschlüsse wegen Beschlussunfähigkeit nicht gefasst werden, so ist unverzüglich eine neue Sitzung einzuberufen, die unabhängig von der Anzahl der erschienen Mitglieder beschlussfähig ist. Die Anberaumung einer Sitzung des Wahlausschusses ist den Mitgliedern spätestens 24 Stunden vor Beginn schriftlich bekannt zugeben. Ebenfalls ist die Ladung zur nächsten Sitzung mündlich während der laufenden Sitzung möglich, wobei die nicht anwesenden Mitglieder auch mündlich geladen werden können. Während der Wahlwoche kann die Frist nach Absprache verkürzt werden.
+(8) Die Anberaumung einer Sitzung des Wahlausschusses ist den Mitgliedern spätestens 24 Stunden vor deren Beginn per E-Mail bekanntzugeben. 
+Ebenfalls ist die Ladung zur nächsten Sitzung mündlich während der laufenden Sitzung möglich, wobei die nicht anwesenden Mitglieder auch (fern)mündlich geladen werden können.
+Während der Wahlwoche kann die Ladungsfrist nach Beschluss verkürzt werden.
 
-(9) Gegen alle Beschlüsse und Entscheidungen kann der Ältestenrat (ÄR) angerufen werden. Das Nähere regelt die Verfahrensordnung des Ältestenrates.
+(9) Der Wahlausschuss fasst Beschlüsse mit der Mehrheit seiner gewählten Mitglieder.
+
+(10) Konnten Beschlüsse wegen Beschlussunfähigkeit nicht gefasst werden, so ist unverzüglich eine neue Sitzung einzuberufen, die unabhängig von der Anzahl der erschienen Mitglieder beschlussfähig ist.
+
+(11) Gegen alle Beschlüsse und Entscheidungen kann der Ältestenrat (ÄR) angerufen werden. 
+Das Nähere regelt die Verfahrensordnung des Ältestenrates.
 
 
 ### § 4 Aufgaben des Wahlausschusses
@@ -71,29 +87,51 @@ Der AStA-Vorsitz sowie der WA haben die Protokolle zur allgemeinen Einsichtnahme
 (4) Wahlausschuss und Wahlleiterin können zur ordnungsgemäßen Durchführung der Wahlen Anordnungen mit Wirkung für die gesamte Studierendenschaft treffen.
 
 
-### § 5 Aufwandsentschädigung 
-Für allgemeine Organisation und Koordination erhalten die Wahlleiterin eine Aufwandsentschädigung (AE) von 325,- Euro, die stellvertretende Wahlleiterin eine Aufwandsentschädigung von 250,- Euro.
-Des weiteren gibt es einen mit 5000,- Euro dotierten Titel „Aufwandsentschädigung Wahlausschuss“. Dieses Geld teilen die Mitglieder des Wahlausschusses, gebunden an bestimmte Aufgaben, unter sich auf. Es ist eine Liste der Aufgabenverteilung samt AE-Verteilung zu erstellen und zur Kenntnisnahme an SP und AStA-Finanzreferat zu geben. Gleiches gilt für eventuelle spätere Änderungen der Aufgabenverteilung. Originäre Aufgaben, für die Aufwandsentschädigungen in Betracht kommen, sind insbesondere:
+### § 5 Aufwandsentschädigung
+(1) Für allgemeine Organisation und Koordination erhalten die Wahlleiterin eine
+Aufwandsentschädigung (AE) von 325,- Euro, die stellvertretende Wahlleiterin eine
+Aufwandsentschädigung von 250,- Euro. Des weiteren gibt es einen mit 5000,- Euro
+dotierten Titel "Aufwandsentschädigung Wahlausschuss". Dieses Geld teilen die
+Mitglieder des Wahlausschusses, gebunden an bestimmte Aufgaben, unter sich auf.
+Nach der Wahl ist eine Liste der Aufgabenverteilung samt AE-Verteilung zu erstellen
+und zur Kenntnisnahme an SP und AStA-Finanzreferat zu geben.
 
-* Belehrungen
-* Einteilung der Wahlhelferinnen
-* Erstellung des Haushaltsplanes
-* Erstellung des Shuttleplanes
-* Erstellung des Urnenplanes
-* Protokollführung
-* Redaktion und Layout
+(2) Übernimmt der Wahlausschuss die Aufgaben des Urabstimmungsausschusses,
+so erhöht sich der Betrag des Titels "Aufwandsentschädigung Wahlausschuss" um
+1000 € auf 6000 €.
 
-Originäre Ausschussarbeiten, für die keine AEs gezahlt werden, sind insbesondere:
+(3) Originäre Aufgaben, für die Aufwandsentschädigungen in Betracht kommen, sind
+insbesondere:
 
-* Teilnahme an Sitzungen
-* Berichte auf SP-Sitzungen
-* Herausgeben des Endergebnisses
+a) Belehrungen
+b) Einteilung der Wahlhelferinnen
+c) Erstellung des Haushaltsplanes
+d) Erstellung des Shuttleplanes
+e) Erstellung des Urnenplanes
+f) Protokollführung
+g) Redaktion und Layout
+h) Anwesenheitsdienst im Wahlbüro
 
-Das SP kann weitere Tätigkeiten von einer Bezahlung ausschließen. Das SP-Präsidium lässt dem AStA-Finanzreferat vor der Wahl eine Liste aller von der Bezahlung ausgeschlossenen Tätigkeiten zukommen.
+(4) Originäre Ausschussarbeiten, für die keine AEs gezahlt werden, sind
+insbesondere:
 
-Am Auszählabend werden Mitglieder des Wahlausschusses, des Ältestenrates und Auszählerinnen gleich bezahlt: Bis 1.00 Uhr wird eine pauschale Aufwandsentschädigung von 60,- Euro gezahlt, danach gibt es einen „Stundenlohn“, der dem der Wahlhelferinnen entspricht.
+a) Teilnahme an Sitzungen
+b) Berichte auf SP-Sitzungen
+c) Herausgeben des Endergebnisses
 
-Bei der Festlegung des Stundensatzes für die Wahlhelferinnen ist darauf zu achten, dass es sich hierbei dem Wesen nach nicht um Lohn für eine Angestelltentätigkeit, sondern um Aufwandsentschädigung für ein Ehrenamt handelt.
+(5) Das SP kann weitere Tätigkeiten von einer Bezahlung ausschließen. Das SP-
+Präsidium lässt dem AStA-Finanzreferat vor der Wahl eine Liste aller von der
+Bezahlung ausgeschlossenen Tätigkeiten zukommen.
+
+(6) Am Auszählabend werden Mitglieder des Wahlausschusses, des Ältestenrates
+und Auszählerinnen gleich bezahlt: Bis 1.00 Uhr wird eine pauschale
+Aufwandsentschädigung von 60,- Euro gezahlt, danach gibt es einen "Stundenlohn",
+der dem der Wahlhelferinnen entspricht.
+
+(7) Der Wahlausschuss beschließt den Stundensatz für die Wahlhelferinnen. Dabei
+ist darauf zu achten, dass es sich hierbei dem Wesen nach nicht um Lohn für eine
+Angestelltentätigkeit, sondern um Aufwandsentschädigung für ein Ehrenamt
+handelt.
 
 
 ### § 6 Wahlhelferinnen
@@ -194,7 +232,7 @@ der Wahlbekanntmachung;
 
 ### § 12 Überprüfung der Wahlbewerbungen
 
-(1) Der Wahlausschuss prüft eine Listenbewerbung sofort nach Eingang auf Vollständigkeit. Unvollständige Listenbewerbungen sind zurückzuweisen. Eine Listenbewerbung ist unvollständig, wenn das Listendeckblatt oder Angaben darauf fehlen.
+(1) Der Wahlausschuss prüft eine Listenbewerbung sofort nach Eingang auf Vollständigkeit. Unvollständige Listenbewerbungen sind zurückzuweisen. Eine Listenbewerbung gilt nur dann als unvollständig, wenn das Listendeckblatt oder Angaben darauf fehlen.
 
 (2) Verspätet eingegangene Listenbewerbungen bleiben unberücksichtigt.
 
@@ -231,8 +269,8 @@ errungenen Stimmenzahl;
 4. danach erstmals kandidierende Listen in alphabetischer Reihenfolge.
 
 
-(3) Auf einer Liste werden alle Kandidatinnen namentlich aufgeführt.
-Die Reihenfolge der Listenkandidatinnen entspricht derjenigen beim Eingang der Listenbewerbung. Sie wird durch Nummerierung vor dem Namen deutlich gemacht. Hinter dem Namen ist das in der Bewerbung der Kandidatin angegebene Studienfach aufzuführen.
+(3) Auf einer Liste werden alle Kandidatinnen namentlich aufgeführt. Die Reihenfolge der Listenkandidatinnen entspricht derjenigen beim Eingang der Listenbewerbung. 
+Sie wird durch Nummerierung vor dem Namen deutlich gemacht. Hinter dem Namen sind die in der Bewerbung der Kandidatin angegebenen Studienfächer in geeigneter Form auszuweisen.
 
 # IV. Wahldurchführung
 
@@ -299,30 +337,56 @@ Die Reihenfolge der Listenkandidatinnen entspricht derjenigen beim Eingang der L
 
 ### § 19 Briefwahl
 
-(1) Von der Briefwahlmöglichkeit kann jede Studentin unter Angabe von Gründen auf schriftlichen Antrag hin Gebrauch machen. Der Antrag zur Briefwahl muss bei der Wahlleiterin gestellt werden. Auf dem Briefwahlantrag hat jede Briefwählerin neben Namen, Anschrift und Matrikelnummer folgende Angaben zu machen:
+(1) Von der Briefwahlmöglichkeit kann jede Studentin unter Angabe von Gründen
+auf schriftlichen Antrag hin Gebrauch machen. Der Antrag zur Briefwahl muss bei
+der Wahlleiterin gestellt werden. Auf dem Briefwahlantrag hat jede Briefwählerin
+neben Namen, Anschrift und Matrikelnummer folgende Angaben zu machen:
 
-1. eine Begründung für die Verhinderung einer persönlichen Stimmabgabe während der
-Wahltage;
-2. die Versicherung, die zugesandten Wahlunterlagen persönlich auszufüllen und nicht
-an andere Personen weiterzugeben, sowie
-3. die Bestätigung, über die rechtlichen Folgen einer doppelten Stimmabgabe und einer
-anderen Wahlfälschung belehrt worden zu sein.
+1. eine Begründung für die Verhinderung einer persönlichen Stimmabgabe
+während der Wahltage;
 
-Der Antrag muss spätestens am sechsten Tag vor der Wahl bei der Wahlleiterin eingegangen sein.
+2. die Versicherung, die zugesandten Wahlunterlagen persönlich auszufüllen und
+nicht an andere Personen weiterzugeben.
 
-(2) Die Briefwahlunterlagen müssen eine Belehrung über die rechtlichen Folgen einer Wahlfälschung enthalten. Jede Briefwählerin hat die Briefwahlunterlagen bis spätestens 24 Stunden vor der Wahl bei der Wahlleiterin abzuholen. Vorzulegen sind hierbei:
+Der Antrag muss spätestens am sechsten Tag vor der Wahl bei der Wahlleiterin einge-
+gangen sein.
+
+(2) Die Briefwahlunterlagen müssen eine Belehrung über die rechtlichen Folgen einer
+Wahlfälschung enthalten. Jede Briefwählerin hat die Briefwahlunterlagen bis
+spätestens 24 Stunden vor der Wahl bei der Wahlleiterin abzuholen. Vorzulegen sind
+hierbei:
 
 1. ein amtlicher Lichtbildausweis;
-2. der Studierendenausweis bzw. Zweitschrift.
+2. der Studierendenausweis bzw. Ersatzausfertigung.
 
-Bei Aushändigung der Briefwahlunterlagen wird durch die Wahlleiterin die Stimmabgabe der Briefwählerin auf deren Studierendenausweis bzw. Zweitschrift vermerkt.
+Die Aushändigung der Briefwahlunterlagen wird von der Wahlleiterin schriftlich
+festgehalten.
 
-(3) Wahlberechtigte, die weder in der Lage sind, während der Wahltage an den aufgestellten Urnen zu wählen, noch ihre Briefwahlunterlagen persönlich bei der Wahlleiterin abzuholen, können die Briefwahlunterlagen schriftlich bei der Wahlleiterin anfordern. Hierzu ist der Wahlleiterin bis spätestens sechs Tage vor Wahlbeginn ein formloser Antrag zuzusenden. 
-Jene Briefwählerinnen, die ihre Briefwahlunterlagen schriftlich anfordern, haben zusätzlich zu den in Abs. 1 geforderten Angaben schriftlich die Gründe zu nennen, die es ihnen unmöglich machen, ihre Briefwahlunterlagen persönlich bei der Wahlleiterin abzuholen. Nach Prüfung des Briefwahlantrages und der Wahlberechtigung der Antragstellerin durch die Wahlleiterin werden der Briefwählerin die Briefwahlunterlagen zugesandt.
+(3) Wahlberechtigte, die weder in der Lage sind, während der Wahltage an den
+aufgestellten Urnen zu wählen, noch ihre Briefwahlunterlagen persönlich bei der
+Wahlleiterin abzuholen, können die Briefwahlunterlagen schriftlich bei der
+Wahlleiterin anfordern. Hierzu ist der Wahlleiterin bis spätestens sechs Tage vor
+Wahlbeginn ein schriftlicher Antrag zuzusenden. Jene Briefwählerinnen, die ihre
+Briefwahlunterlagen schriftlich anfordern, haben zusätzlich zu den in Abs. 1
+geforderten Angaben schriftlich die Gründe zu nennen, die es ihnen unmöglich
+machen, ihre Briefwahlunterlagen persönlich bei der Wahlleiterin abzuholen. Nach
+Prüfung des Briefwahlantrages und der Wahlberechtigung der Antragstellerin durch
+die Wahlleiterin werden der Briefwählerin die Briefwahlunterlagen zugesandt.
 
-(4) Der Stimmzettel ist in einem besonders verschlossenen Umschlag (Wahlbrief) unterzubringen. Auf dem Stimmzettel oder dem Wahlbrief dürfen keinerlei Angaben zur Person der Wählerin oder sonstige Angaben gemacht werden. Andernfalls sind die Stimmzettel ungültig.
+(4) Der Stimmzettel ist von der Briefwählerin in einem verschlossenen Umschlag
+(Wahlbrief) unterzubringen. Auf dem Stimmzettel oder dem Wahlbrief dürfen
+keinerlei Angaben zur Person der Wählerin oder sonstige Angaben gemacht werden.
+Andernfalls sind die Stimmzettel ungültig.
 
-(5) Der Wahlbrief im Wahlumschlag muss spätestens bis zu dem vom Wahlausschuss gesetzten Ende der Wahl bei der Wahlleiterin eingegangen sein. Die Wahlumschläge sind vom Wahlausschuss nach Eingang zu prüfen und die Wahlbriefe in einer gesonderten Urne aufzubewahren. Dem Wahlumschlag ist eine Versicherung beizufügen, dass der Stimmzettel von der Antragstellerin selbst ausgefüllt wurde.
+(5) Der Wahlbrief im Wahlumschlag muss spätestens bis zu dem vom
+Wahlausschuss gesetzten Ende der Wahl bei der Wahlleiterin eingegangen sein. Die
+Wahlumschläge sind vom Wahlausschuss nach Eingang zu prüfen und die Wahlbriefe
+in einer gesonderten Urne aufzubewahren. Dem Wahlumschlag sind beizufügen:
+
+1. Die Bestätigung über die rechtlichen Folgen einer doppelten Stimmabgabe
+und einer anderen Wahlfälschung belehrt worden zu sein;
+2. eine Versicherung, dass der Stimmzettel von der Antragstellerin selbst
+ausgefüllt wurde.
 
 (6) Sämtliche Briefwählerinnen sind in einer gesonderten Liste zu erfassen, die den Wahlhelferinnen an die einzelnen Urnen mitzugeben ist.
 
@@ -404,9 +468,17 @@ Das Wahlergebnis für die Wahl zum Studierendenparlament muss enthalten:
 
 ### § 25 Benachrichtigung
 
-(1) Die Wahlleiterin benachrichtigt die gewählten Kandidatinnen unverzüglich schriftlich von ihrer Wahl.
+(1) Die Wahlleiterin benachrichtigt die gewählten Kandidatinnen unverzüglich per E-Mail von ihrer Wahl. 
+Hilfsweise ist auch die telefonische oder schriftliche Benachrichtigung möglich.
 
-(2) Mit der Annahme der Wahl verpflichtet sich die Kandidatin, regelmäßig an den Studierendenparlamentssitzungen teilzunehmen und auf Einladung der Fachschaft für die sie haupteingeschrieben ist, auf Fachschaftsversammlungen anwesend zu sein und dort über ihre Tätigkeit zu berichten.
+(2) Auf der konstituierenden Sitzung erklärt die Kandidatin gegenüber der
+Sitzungsleitung die Annahme ihrer Wahl. Mit der Annahme der Wahl verpflichtet sich
+die Kandidatin, regelmäßig an den Studierendenparlamentssitzungen teilzunehmen
+und auf Einladung ihrer Fachschaft auf Fachschaftsversammlungen anwesend zu
+sein und dort über ihre Tätigkeit zu berichten.
+
+(3) Das Präsidium des Studierendenparlaments erhält aus den Kandidaturen die
+Kontaktdaten aller gewählten Kandidatinnen, Stellvertreterinnen und Nachrückerinnen.
 
 
 ### § 26 Protokoll
