@@ -517,7 +517,9 @@ Sprechers und des Finanzreferenten erforderlich. Der FSR kann gegen die Stimmen 
 Fachschaftssprecher und Finanzreferent keine finanziell erheblichen Vorhaben beschließen. Der
 FSR kann mit der Mehrheit der gewählten Mitglieder Ausgaben beschließen, sofern der FSR-
 Sprecher oder der Finanzreferent mit der Mehrheit stimmen.
-D. Schlussbestimmungen
+
+
+# D. Schlussbestimmungen
 
 ### § 20 Abweichende Regelungen für Fachschaften ohne FSV
 
