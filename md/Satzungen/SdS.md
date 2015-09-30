@@ -1,7 +1,7 @@
 ---
 title: Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Studierendenschaft
-date:  31. Juli 2013
+date:  8. September 2015
 type:  Satzung
 id:    SdS
 contains:
@@ -14,6 +14,15 @@ contains:
   puborgan: Amtliche Bekanntmachungen
   pubdate:  21. Oktober 2013
   puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/119590
+- title: Änderung der Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: 1\. Satzungsänderungssatzung
+  actorgan: Studierendenparlament
+  actdate:  29. April 2015
+  confirmorgan: Rektorat
+  confirmdate: 25. August 2015
+  puborgan: Amtliche Bekanntmachungen
+  pubdate:  8. September 2015
+  puburl: 
 
 ---
 
@@ -113,12 +122,12 @@ Studierendenschaften;
 
 (3) Das SP hat in den Angelegenheiten nach § 5 Abs. 1 und 2 Nr. 7 und 8 eine
 Urabstimmung unter allen Mitgliedern der Studierendenschaft durchzuführen, wenn
-mindestens 10 v.H. der Mitglieder der Studierendenschaft die Urabstimmung
-schriftlich verlangt haben oder das SP dies mit der Mehrheit von 2/3 seiner Mitglieder
-beschlossen hat. Beschlüsse, die auf Urabstimmungen mit Mehrheit gefasst werden,
-binden die Organe der Studierendenschaft, wenn diese Mehrheit in einer schriftlichen
-Abstimmung erreicht wurde und mindestens 30 v.H. der Mitglieder der
-Studierendenschaft ausmacht.
+mindestens fünf Prozent der Mitglieder der Studierendenschaft die Urabstimmung
+schriftlich verlangt haben oder das SP dies mit der Mehrheit von zwei Drittel seiner
+Mitglieder beschlossen hat. Beschlüsse, die auf Urabstimmungen mit Mehrheit gefasst
+werden, binden die Organe der Studierendenschaft, wenn mindestens 20 Prozent der
+Mitglieder der Studierendenschaft zugestimmt haben.
+
 
 ### § 6 Zusammensetzung und Wahl
 
@@ -352,10 +361,14 @@ Verlangen oder bei entsprechendem SP-Beschluss zuständig. Er veranlasst, dass a
 Studierenden eine Urabstimmungsbenachrichtigung erhalten, die den Termin der
 Urabstimmung und den Wortlaut des abzustimmenden Antrags enthält.
 
-(5) Die Fristen für die SP-Wahl gelten entsprechend. Liegen zwischen dem
-ordnungsgemäßen Verlangen und der nächsten planmäßigen SP-Wahl weniger als
-sechs Monate, so ist die Urabstimmung gleichzeitig mit der SP-Wahl durchzuführen,
-sofern die Fristen nach S. 1 dabei gewahrt bleiben.
+(5) (5) Die Fristen für die SP-Wahl gelten entsprechend. Liegen zwischen dem
+ordnungsgemäßen Verlangen und der nächsten planmäßigen SP-Wahl weniger als sechs
+Monate, so ist die Urabstimmung gleichzeitig mit der SP-Wahl durchzuführen, sofern die
+Fristen nach Satz 1 dabei gewahrt bleiben. In diesem Fall übernimmt der Wahlausschuss
+mit seiner Konstituierung die Aufgaben des Urabstimmungsausschusses; der
+Urabstimmungsausschuss wird durch das SP aufgelöst. Ist die Urabstimmung nicht
+gleichzeitig mit der SP-Wahl durchzuführen, beschließt das Studierendenparlament den
+Zeitraum der Urabstimmung.
 
 (6) Die Dauer der Urabstimmung beträgt vier aufeinanderfolgende nicht
 vorlesungsfreie Tage.
@@ -380,11 +393,12 @@ Leitung seiner Vorsitzenden. Er führt die Beschlüsse des SP aus und ist ihm
 gegenüber rechenschaftspflichtig.
 
 (2) Er besteht aus folgenden Mitgliedern: der Vorsitzenden, einer oder mehreren
-stellvertretenden Vorsitzenden, der Finanzreferentin und den weiteren Referentinnen.
-Die Amtszeit der Mitglieder endet mit der Amtszeit der Vorsitzenden. Nach Ende der
-Amtszeit ist von allen Referentinnen des AStA ein detailliertes Übernahmeprotokoll für
-die etwaigen Nachfolgerinnen anzufertigen und mindestens digital zugänglich zu
-machen.
+stellvertretenden Vorsitzenden, der Finanzreferentin, weiteren Referentinnen und den nach
+§ 5 Nr. 3 der Geschäftsordnung des AStA gewählten Mitgliedern (insbesondere
+Referatsmitarbeiterinnen). Die Amtszeit der Mitglieder endet mit der Amtszeit der
+Vorsitzenden. Nach Ende der Amtszeit ist von allen Referentinnen des AStA ein detailliertes
+Übernahmeprotokoll für die etwaigen Nachfolgerinnen anzufertigen und mindestens digital
+zugänglich zu machen.
 
 (3) Die Wahl des AStA erfolgt in einer SP-Sitzung durch die Wahl der Vorsitzenden,
 mindestens einer stellvertretenden Vorsitzenden und der Finanzreferentin. Weitere
@@ -510,20 +524,21 @@ wenn dies von der AStA-Vorsitzenden verlangt wird.
 ### § 22 Die Fachschaften (FS)
 
 (1) Die Studierendenschaft gliedert sich in Fachschaften gemäß der Anlage
-„Fachschaftenliste“ zur FKGO, denen Fächer mit ihren Studiengängen zugeordnet
-sind. Die Anlage „Fachschaftenliste“ zur FKGO bedarf zu ihrer Gültigkeit der
-Bestätigung durch das SP. Die Fachschaft besteht unter Berücksichtigung des Abs. 3
-aus den Studierenden eines oder mehrerer Studiengänge.
+"Fachschaftenliste" zur FKGO, in der jede an der Universität Bonn mögliche Kombination
+von Studienfach und angestrebtem Abschluss (Fach-Abschluss-Kombination, FAK) einer
+Fachschaft zugeordnet wird. Falls die Besonderheiten eines Faches es erfordern, können
+weitere Kriterien zur Zuordnung herangezogen werden. Die Anlage "Fachschaftenliste" zur
+FKGO bedarf zu ihrer Gültigkeit der Bestätigung durch das SP. Die Fachschaft besteht unter
+Berücksichtigung des Absatzes 3 aus den Studierenden der ihr zugeordneten FAKs.
 
-(2) Alle an der Universität Bonn eingeschriebenen Studierenden müssen einer
-Fachschaft angehören.
+(2) Alle an der Universität Bonn eingeschriebenen Studierenden müssen einer Fachschaft
+angehören.
 
-(3) Die Zuordnung eines Studierenden zu einer Fachschaft erfolgt aufgrund des
-Faches, für das sie eingeschrieben ist. Ist ein Studierender mit mehreren Fächern oder
-für mehrere Studiengänge eingeschrieben, so erfolgt die Zuordnung aufgrund des
-ersten auf dem Studierendenausweis angegebenen Faches, sofern sie bei der
-Einschreibung bzw. Rückmeldung gegenüber der Universität nicht erklärt, aufgrund
-welches Faches sie einer Fachschaft angehören möchte.
+(3) Die Zuordnung einer Studierenden zu einer Fachschaft erfolgt aufgrund der FAK, für die
+sie eingeschrieben ist. Ist eine Studierende für mehrere FAKs eingeschrieben, so erfolgt die
+Zuordnung aufgrund der ersten auf dem Studierendenausweis angegebenen FAK, sofern sie
+bei der Einschreibung bzw. Rückmeldung gegenüber der Universität nicht erklärt, aufgrund
+welcher FAK sie einer Fachschaft angehören möchte.
 
 
 ### § 23 Aufgaben
@@ -583,8 +598,7 @@ besteht aus:
 2. der stellvertretenden Vorsitzenden,
 3. der Finanzreferentin,
 4. bis zu sechs weiteren Mitgliedern,
-5. sowie darüber hinaus den nach § 27 Abs. 5 gewählten Vertreterinnen ihrer
-Studiengänge.
+5. sowie darüber hinaus den nach § 27 Abs. 5 gewählten Vertreterinnen ihrer FAKs.
 
 (2) Der FSR repräsentiert und vertritt die FS und führt ihre Geschäfte. Der FSR ist im
 Rahmen der zu besorgenden Geschäfte sowie im Eilfall auch Beschlussorgan; Im
@@ -627,8 +641,9 @@ Antrag
 3. von 30% der Mitglieder der FSV;
 4. von 5% der Mitglieder der Fachschaft.
 
-(5) Sind in einer Fachschaft mehrere Studiengänge zusammengefasst, so soll die FSV
-aus jedem Studiengang je zwei Referentinnen in den FSR wählen.
+(5) Sind in einer Fachschaft mehrere FAKs zusammengefasst, so kann die FSV für jede
+dieser FAK bis zu zwei zusätzliche Referentinnen in den FSR wählen, die einen Studiengang
+mit dieser FAK studieren.
 
 (6) Näheres regelt die Fachschaftssatzung.
 
@@ -696,17 +711,17 @@ Empfehlungen an das SP über alle die Fachschaften betreffenden Fragen.
 
 (2) Die FK wählt als ausführendes Organ das Fachschaftenkollektiv (FSK).
 
-(3) Die FK gibt sich eine Geschäftsordnung (FKGO). Sie ist in der AKUT und an
-geeigneter Stelle im Internet zu veröffentlichen. Diese enthält insbesondere
-Regelungen über
+(3) Die FK gibt sich eine Geschäftsordnung (FKGO). Sie ist in der AKUT und an geeigneter
+Stelle im Internet zu veröffentlichen. Diese enthält insbesondere Regelungen über
 
 1. Art, Form und Frist der Einberufung und Beschlussfassung,
-2. Wahl des FSK und
-3. Kriterien für die Verteilung der Fachschaftsgelder gemäß § 43 Abs. 2.
-Die FKGO wird mit der Mehrheit von 2/3 der anwesenden stimmberechtigten
-Mitglieder einer FK verabschiedet, auf der mindestens 1/5 aller Fachschaften
+2. Wahl des FSK,
+3. Kriterien für die Verteilung der Fachschaftsgelder gemäß § 43 Abs. 2 und
+4. als Anlage die Liste der Fachschaften der RFWU ("Fachschaftenliste").
+
+Die FKGO wird mit der Mehrheit von zwei Drittel der anwesenden stimmberechtigten
+Mitglieder einer FK verabschiedet, auf der mindestens ein Fünftel aller Fachschaften
 vertreten ist. Sie ist in der AKUT zu veröffentlichen.
-4. die Liste der Fachschaften der RFWU.
 
 
 ## IV. Ältestenrat (ÄR)
@@ -1070,11 +1085,10 @@ rechnungsmäßig als abgewickelt, sobald sie als Ausgabe vom entsprechenden
 Titel an die Fachschaft überwiesen worden sind.
 
 (2) Die Zuweisungen für jede Fachschaft bestehen aus einem Sockelbetrag und einem
-weiteren Betrag, der sich nach der Zahl der Studierenden richtet, die für die
-Studiengänge eingeschrieben sind, die der betreffenden Fachschaft gemäß § 22
-zugeordnet sind. Darüber hinausgehende Zahlungen richten sich nach der
-Beitragsordnung, dem Haushaltsplan der Studierendenschaft und den Kriterien für die
-Verteilung der Fachschaftsgelder gemäß § 31 Abs. 3 Nr. 3.
+weiteren Betrag, der sich nach der Zahl der Studierenden richtet, die der betreffenden
+Fachschaft gemäß § 22 zugeordnet sind. Darüber hinausgehende Zahlungen richten sich
+nach der Beitragsordnung, dem Haushaltsplan der Studierendenschaft und den Kriterien für
+die Verteilung der Fachschaftsgelder gemäß § 31 Abs. 3 Nr. 3.
 
 (3) Für die Bewirtschaftung der Mittel durch die Fachschaften sind die Bestimmungen
 des § 42 Abs. 1, 3, 4 und 13 entsprechend anzuwenden. Bei der Bewirtschaftung ist
