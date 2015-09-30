@@ -14,21 +14,21 @@ contains:
   pubdate:  
   puburl: 
 - title: Änderung der Satzung der Fachschaft Jura der Rheinischen Friedrich-Wilhelms-Universität Bonn
-  short: 1. Änderung der Satzung der Fachschaft Jura
+  short: 1\. Änderung der Satzung der Fachschaft Jura
   actorgan: Fachschaftsvertretung Fachschaft Jura
   actdate:  14. Februar 2003
   puborgan: AKUT
   pubdate:  
   puburl: 
-- title: Änderung der Satzung der Fachschaft Jura der Rheinischen Friedrich-Wilhelms-Universität Bonn
-  short: 2. Änderung der Satzung der Fachschaft Jura
+- title: 2\. Änderung der Satzung der Fachschaft Jura der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: 2\. Änderung der Satzung der Fachschaft Jura
   actorgan: Fachschaftsvertretung Fachschaft Jura
   actdate:  09. Mai 2003
   puborgan: AKUT
   pubdate:  
   puburl: 
-- title: 3. Änderung der Satzung der Fachschaft Jura der Rheinischen Friedrich-Wilhelms-Universität Bonn
-  short: 3. Änderung der Satzung der Fachschaft Jura
+- title: 3\. Änderung der Satzung der Fachschaft Jura der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: 3\. Änderung der Satzung der Fachschaft Jura
   actorgan: Fachschaftsvertretung Fachschaft Jura
   actdate:  14. November 2005
   puborgan: AKUT
