@@ -1,26 +1,19 @@
 ---
 title: Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Beitragsordnung der Studierenenschaft
-date:  23. Juli 2013
+date:  8. September 2015
 type:  Ordnung
 id:    BO
 contains:
-- title: Dreiundzwanzigste Ordnung zur Änderung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - XXIII. Beitragsordnungsänderungsordnung (BOÄO XXIII)
-  short: XXIII\. Beitragsordnungsänderungsordnung (BOÄO XXIII)
-  actdate:  5. Februar 2013
-  actorgan: Studierendenparlament
-  confirmorgan: Rektorat
-  confirmdate: 16. Juli 2013
-  pubdate:  24. Juli 2013
-  puborgan: Amtliche Bekanntmachungen
-  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/107730
 - title: Neufassung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Neufassung der Beitragsordnung der Studierendenschaft
-  actdate:  23. Juli 2013
-  actorgan: 
-  pubdate:  24. Juli 2013
+  actdate:  15. Juli 2015
+  actorgan: Studierendenparlament
+  confirmorgan: Rektorat
+  confirmdate: 8. September 2015
+  pubdate:  29. September 2015
   puborgan: Amtliche Bekanntmachungen
-  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/107732
+  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/247040
 
 ---
 
@@ -30,27 +23,34 @@ jedem Semester von allen immatrikulierten Studierenden ein Beitrag zur Deckung d
 Kosten der Selbstverwaltung, der Selbsthilfe und Mobilität der Studierendenschaft erhoben.
 
 ### § 2
-Der Beitrag in Höhe von 171,32 € (WS 2013/14), 173,32 € (SS 2014), 177,42 € (WS
-2014/15 bzw. 179,52 € (SS 2015) ist für folgende Zwecke bestimmt:
+Der Beitrag in Höhe von 182,82 € (WS 2015/16), 182,48 € (SS 2016), 184,97 €
+(WS 2016/17), 188,11 € (SS 2017) ist für folgende Zwecke bestimmt:
 
-|:--|:------------------------------------------------------------------|--------:|
-|1. |für die studentische Selbstverwaltung					| 10,50 €,|
-|2. |für die studentische Sozialeinrichtungen					|  0,66 €,|
-|3. |für den Hilfsfonds zur Unterstützung in Not geratener Studierender	|  0,01 €,|
-|4. |für einen Mobilitätsbeitrag							|         |
-|   |a) Semesterticket									|         |
-|   |WS 2013/14										|112,70 €,|
-|   |SS 2014										|112,70 €,|
-|   |WS 2014/15										|116,80 €,|
-|   |SS 2015										|116,80 €,|
-|   |b) NRW-Ticket									|         |
-|   |WS 2013/14										| 44,00 €,|
-|   |SS 2014										| 46,00 €,|
-|   |WS 2014/15										| 46,00 €,|
-|   |SS 2015										| 48,10 €,|
-|5. |für ein Sonderkonto zur Erstattung des Mobilitätsbeitrages		|  0,85 €,|
-|6. |für die Zuweisungen an die Fachschaften					|  1,75 €,|
-|7. |für den Studierendensport							|  0,85 €,|
+|:--|:------------------------------------------------------------------------------|--------:|
+|1. |für die studentische Selbstverwaltung							| 10,50 €,|
+|   |für die studentische Selbstverwaltung ab WS 2016/2017					| 10,00 €,|
+|2. |für die studentischen Sozialeinrichtungen							|  0,66 €,|
+|2. |für die studentischen Sozialeinrichtungen ab WS 2016/2017				|  0,50 €,|
+|3. |für den Hilfsfonds zur Unterstützung in Not geratener Studierender			|  0,01 €,|
+|4. |für einen Mobilitätsbeitrag									|         |
+|   |a) Semesterticket											|         |
+|   |WS 2015/16												|120,10 €,|
+|   |SS 2016												|120,10 €,|
+|   |WS 2016/17												|123,50 €,|
+|   |SS 2017												|123,50 €,|
+|   |b) NRW-Ticket											|         |
+|   |WS 2015/16												| 48,10 €,|
+|   |SS 2016												| 49,50 €,|
+|   |WS 2016/17												| 49,50 €,|
+|   |SS 2017												| 50,90 €,|
+|5. |für ein Sonderkonto zur Erstattung des Mobilitätsbeitrages				|  0,85 €,|
+|5. |für ein Sonderkonto zur Erstattung des Mobilitätsbeitrages ab WS 2016/2017	|  0,85 €,|
+|6. |für die Zuweisungen an die Fachschaften							|         |
+|   |WS 2015/16												|  1,75 €,|
+|   |SS 2016												|  0,01 €,|
+|   |WS 2016/17												|  0,01 €,|
+|   |SS 2017												|  1,75 €,|
+|7. |für den Studierendensport									|  0,85 €,|
 
 ### § 3
 (1) Beitragspflicht entsteht
