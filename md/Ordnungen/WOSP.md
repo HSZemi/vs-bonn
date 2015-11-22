@@ -1,7 +1,7 @@
 ---
 title: Wahlordnung für die Wahlen zum Studierendenparlament (WOSP)
 short: Wahlordnung für die Wahlen zum Studierendenparlament (WOSP)
-date:  16. Juli 2014
+date:  29. April 2015
 type:  Ordnung
 id:    WOSP
 contains:
