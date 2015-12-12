@@ -138,7 +138,7 @@ end
 function containsBox(contains)
   local buffer = {}
   table.insert(buffer, "<div id='contains'>")
-  table.insert(buffer, "<p>Diese Gesamtfassung enthält folgende Dokumente:</p>")
+  table.insert(buffer, "<p>Diese Gesamtfassung enth&auml;lt folgende Dokumente:</p>")
   for _,source in pairs(contains) do
     table.insert(buffer, "<table class='table table-bordered'>")
     table.insert(buffer, "<tr><td><b>Titel</b></td>")
@@ -148,9 +148,9 @@ function containsBox(contains)
     table.insert(buffer, "<tr><td>Beschlussdatum</td>")
     table.insert(buffer, "<td>"..source.actdate.."</td></tr>")
     if source.confirmorgan and source.confirmdate then
-      table.insert(buffer, "<tr><td>Bestätigungsorgan</td>")
+      table.insert(buffer, "<tr><td>Best&auml;tigungsorgan</td>")
       table.insert(buffer, "<td>"..source.confirmorgan.."</td></tr>")
-      table.insert(buffer, "<tr><td>Bestätigungsdatum</td>")
+      table.insert(buffer, "<tr><td>Best&auml;tigungsdatum</td>")
       table.insert(buffer, "<td>"..source.confirmdate.."</td></tr>")
     end
     table.insert(buffer, "<tr><td>Publikationsorgan</td>")
@@ -394,4 +394,3 @@ meta.__index =
     return function() return "" end
   end
 setmetatable(_G, meta)
-
