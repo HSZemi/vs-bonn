@@ -29,8 +29,7 @@ Fachschaftenkonferenz (FKGO).
 
 ### § 2 Organe der Fachschaft
 
-(1) Die Fachschaft äußert ihren Willen durch ihre gewählten Organe, sowie durch die Fachschaftsvoll-
-versammlung (FSVV).
+(1) Die Fachschaft äußert ihren Willen durch ihre gewählten Organe, sowie durch die Fachschaftsvollversammlung (FSVV).
 
 (2) Organe der Fachschaft sind:
 
