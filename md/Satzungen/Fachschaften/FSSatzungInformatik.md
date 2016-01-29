@@ -19,6 +19,13 @@ contains:
   puborgan: AKUT
   pubdate:  12. Mai 2015
   puburl: http://www.akut-bonn.de/wp-content/uploads/2015/05/AK_ex_12-05-2015-FSInfoAendSatzung.pdf
+- title: Zweite Änderungssatzung der Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: Zweite Änderungssatzung der Satzung der Fachschaft Informatik
+  actorgan: Fachschaftsvertretung Fachschaft Informatik
+  actdate:  28. Januar 2016
+  puborgan: AKUT
+  pubdate:  
+  puburl: 
 
 ---
 
@@ -131,8 +138,7 @@ dies unter Angabe von zu behandelnden Tagesordnungspunkten schriftlich verlangen
 (11) Bei Abwesenheit oder sonstiger Verhinderung wird der FSV-Vorsitzende durch den stellvertretenden
 FSV-Vorsitzenden vertreten.
 
-(12) Bei Abwesenheit oder sonstiger Verhinderung wird der stellvertretende FSV-Vorsitzende durch den Schrift-
-führer vertreten.
+(12) Bei Abwesenheit oder sonstiger Verhinderung wird der stellvertretende FSV-Vorsitzende durch den Schriftführer vertreten.
 
 (13) Bei Abwesenheit oder sonstiger Verhinderung wird der Schriftführer durch das älteste anwesende FSV-
 Mitglied vertreten.
@@ -214,8 +220,7 @@ zwei zusätzliche Mitglieder in den FSR wählen, die einen Studiengang mit diese
 (3) Bei Abwesenheit oder sonstiger Verhinderung wird der FSR-Vorsitzende durch den stellvertretenden FSR-
 Vorsitzenden vertreten.
 
-(4) Bei Abwesenheit oder sonstiger Verhinderung wird der stellvertretende FSR-Vorsitzende durch den Finanzref-
-erenten vertreten.
+(4) Bei Abwesenheit oder sonstiger Verhinderung wird der stellvertretende FSR-Vorsitzende durch den Finanzreferenten vertreten.
 
 (5) Bei Abwesenheit oder sonstiger Verhinderung wird der Finanzreferent durch den FSR-Vorsitzenden vertreten.
 
@@ -237,8 +242,7 @@ begründet entschuldigt sind.
 
 (10) Der FSR ist verpflichtet, während der Sitzungen Protokoll zu führen.
 
-(11) Sofern er sich keine eigene Geschäftsordnung gibt, gilt für den FSR die Geschäftsordnung des Studierenden-
-parlaments, soweit anwendbar, entsprechend; § 12 gilt entsprechend.
+(11) Sofern er sich keine eigene Geschäftsordnung gibt, gilt für den FSR die Geschäftsordnung des Studierendenparlaments, soweit anwendbar, entsprechend; § 12 gilt entsprechend.
 
 ### § 15 Wahl des FSR 
 
@@ -267,13 +271,14 @@ werden, im Hauptfach studieren.
 
 (1) Rede- und Antragsrecht haben alle Mitglieder der Fachschaft. 
 
-(2) Stimmrecht haben alle anwesenden Mitglieder der Fachschaft. Auf Verlangen eines FSR-Mitglieds haben nur
-anwesende FSR-Mitglieder Stimmrecht.
+(2) Stimmrecht haben alle FSR-Mitglieder und alle anwesenden Mitglieder der Fachschaft. 
+Auf Verlangen eines FSR-Mitglieds haben nur anwesende FSR-Mitglieder Stimmrecht.
 
 (3) Ein Beschluss ist rechtmäßig zustande gekommen, wenn 
 
 1. Der FSR beschlussfähig war und 
 2. er die einfache Mehrheit gefunden hat, soweit diese Satzung nichts anderes vorschreibt. 
+
 Der FSR gilt als beschlussfähig, wenn mindestens die Hälfte der FSR-Mitglieder anwesend ist. 
 
 (4) Die Beschlussfähigkeit wird auf Verlangen unverzüglich festgestellt. Sie ist gegeben, 
