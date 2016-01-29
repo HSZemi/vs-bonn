@@ -22,7 +22,7 @@ contains:
   confirmdate: 25. August 2015
   puborgan: Amtliche Bekanntmachungen
   pubdate:  8. September 2015
-  puburl: 
+  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/245804
 
 ---
 
@@ -139,11 +139,10 @@ ist, gewählt werden. Die Sitze werden auf die an der Listenwahl teilnehmenden L
 nach dem Wahlverfahren Sainte-Laguë/Schepers verteilt.
 
 (2) Findet gemäß § 13 eine vorzeitige Neuwahl in den Monaten Oktober bis Dezember
-statt, so finden die nächsten satzungsmäßigen Wahlen nach Abs. 1 erst zum über-
-nächsten Januar statt.
+statt, so finden die nächsten satzungsmäßigen Wahlen nach Abs. 1 erst zum übernächsten Januar statt.
 
-(3) Wahlkreise und Wahlverfahren werden im Übrigen durch die Wahlordnung bestim-
-mt. Diese Wahlordnung kann innerhalb der letzten 30 Tage vor einer Wahl nicht mehr
+(3) Wahlkreise und Wahlverfahren werden im Übrigen durch die Wahlordnung bestimmt. 
+Diese Wahlordnung kann innerhalb der letzten 30 Tage vor einer Wahl nicht mehr
 mit Wirkung für diese Wahl geändert werden.
 
 (4) Spätestens eine Woche nach Wahl der SP-Mitglieder tritt das neue SP zusammen.
@@ -667,8 +666,8 @@ Mehrheit seiner Mitglieder zu verabschieden und amtlich bekannt zu machen.
 
 (1) Die Fachschaft gibt sich nach Maßgabe dieser Satzung eine Fachschaftssatzung.
 Soweit eine FSV besteht, beschließt sie mit der Mehrheit von 2/3 ihrer Mitglieder;
-Ansonsten beschließt die FSVV mit der Mehrheit der anwesenden Fachschafts-
-mitglieder. Die Satzung ist in der AKUT und an geeigneter Stelle im Internet zu
+Ansonsten beschließt die FSVV mit der Mehrheit der anwesenden Fachschaftsmitglieder. 
+Die Satzung ist in der AKUT und an geeigneter Stelle im Internet zu
 veröffentlichen.
 
 (2) Die Fachschaftssatzung regelt die Einrichtung der Organe und Gremien der
@@ -687,8 +686,8 @@ mit der Veröffentlichung in der AKUT in Kraft.
 (1) Die Organe der Fachschaft werden von ihrer Vorsitzenden einberufen und geleitet.
 Die FSVV wählt zu Beginn jeder Versammlung eine Versammlungsleiterin.
 
-(2) Die Einladungsfrist beträgt mindestens sieben Tage. Eine verkürzte Einladungs-
-frist aus besonderem Grund ist zulässig; Beschlüsse können nur dann gefasst werden,
+(2) Die Einladungsfrist beträgt mindestens sieben Tage. Eine verkürzte Einladungsfrist 
+aus besonderem Grund ist zulässig; Beschlüsse können nur dann gefasst werden,
 wenn alle Mitglieder des Organs Gelegenheit zur Teilnahme hatten. Der FSR und die
 FSV können auch für einen regelmäßigen Termin allgemein einberufen werden.
 
@@ -1078,8 +1077,8 @@ des Haushaltsplanes in Anspruch genommen werden.
 
 ### § 43 Zuweisung der Fachschaftsgelder
 
-(1) Die Fachschaften erhalten finanzielle Zuweisungen aus den Mitteln der Studie-
-rendenschaft nach Maßgabe der Beitragsordnung und des Haushaltsplanes als
+(1) Die Fachschaften erhalten finanzielle Zuweisungen aus den Mitteln der Studierendenschaft 
+nach Maßgabe der Beitragsordnung und des Haushaltsplanes als
 Selbstbewirtschaftungsmittel. Die Zuweisungen gelten für die Studierendenschaft
 rechnungsmäßig als abgewickelt, sobald sie als Ausgabe vom entsprechenden
 Titel an die Fachschaft überwiesen worden sind.
@@ -1192,8 +1191,8 @@ Einnahme zu buchen.
 
 ### § 47 Rechnungsergebnis
 Innerhalb eines Monats nach Ende des Haushaltsjahres stellen Finanzreferentin und
-Kassenverwalterin das Rechnungsergebnis auf. Es besteht aus einer Zusammen-
-stellung der Ist-Einnahmen und der Ist-Ausgaben im Haushaltsjahr nach der im
+Kassenverwalterin das Rechnungsergebnis auf. Es besteht aus einer Zusammenstellung 
+der Ist-Einnahmen und der Ist-Ausgaben im Haushaltsjahr nach der im
 Haushaltsplan vorgesehenen Ordnung sowie dem sich daraus ergebenden
 kassenmäßigen Überschuss oder Fehlbetrag.
 
@@ -1259,8 +1258,8 @@ also spätestens sechs Monate nach Ende des Haushaltsjahres.
 Sitzungen. Er muss in dritter Lesung von 2/3 der SP-Mitglieder gefasst werden.
 
 (3) Der Tagesordnungspunkt muss bereits auf der Einladung zur betreffenden SP-
-Sitzung angekündigt werden. Dem Einladungsschreiben ist der Wortlaut der bean-
-tragten Satzungsänderung beizufügen.
+Sitzung angekündigt werden. Dem Einladungsschreiben ist der Wortlaut der 
+beantragten Satzungsänderung beizufügen.
 
 (4) Bei Vorliegen eines Satzungsänderungsantrages ist dieser der FK vor Eintritt in
 die 1. Lesung unverzüglich durch das SP-Präsidium zur Stellungnahme zuzuleiten. Zu
