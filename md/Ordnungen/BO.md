@@ -88,16 +88,17 @@ zurückzuerstatten; im übrigen besteht kein Anspruch auf anteilige Rückzahlung
 
 ### § 5
 (1) Das Beitragsaufkommen wird innerhalb der Studierendenschaft wie folgt verwandt:
+
 1. die Anteile nach § 2 Ziffer 1 für den Allgemeinen Studierendenausschuss (AStA),
 2. die Anteile nach § 2 Ziffer 2 nach Entscheidung des Studierendenparlaments für
-die Studierendenkinderkrippe und andere soziale studentische Einrichtungen,
+    die Studierendenkinderkrippe und andere soziale studentische Einrichtungen,
 3. die Anteile nach § 2 Ziffer 3 für ein Sonderkonto, über das ein vom
-Studierendenparlament gewählter Ausschuss im Einvernehmen mit dem AStA
-verfügt,
+    Studierendenparlament gewählter Ausschuss im Einvernehmen mit dem AStA
+    verfügt,
 4. die Anteile nach § 2 Ziffer 4 für ein Semester-, NRW-Ticket,
 5. die Anteile nach § 2 Ziffer 5 für ein Sonderkonto, über das ein vom
-Studierendenparlament gewählter Ausschuss im Einvernehmen mit dem AStA
-verfügt,
+    Studierendenparlament gewählter Ausschuss im Einvernehmen mit dem AStA
+    verfügt,
 6. die Anteile nach § 2 Ziffer 6 für die Selbstbewirtschaftung der Fachschaften,
 7. die Anteile nach § 2 Ziffer 7 für den Studierendensport.
 

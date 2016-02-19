@@ -365,12 +365,13 @@ wahlberechtigte Mitglied der Fachschaft mit seinem Einverständnis wählbar.
 ### § 20 Direkte und indirekte Wahl des Fachschaftsrates
 
 (1) Es gelten nach §§ 26-28 der Satzung der Studierendenschaft folgende Regelungen:
+
 a) In Fachschaften bis zu 500 Studierenden wird der Fachschaftsrat direkt gewählt, sofern es die Fachschaftssatzung nicht anders vorsieht; es gilt § 18 der Fachschaftswahlordnung.
 b) In Fachschaften mit 501 und mehr Studierenden wird eine Fachschaftsvertretung gewählt; es gilt § 19 der Fachschaftswahlordnung.
 c) Die Anzahl der Mitglieder der Fachschaftsvertretung in Fachschaften beträgt:
-bis zu 1000 Studierenden 11
-1001 bis 2000 Studierenden 15 und
-über 2000 Studierenden 19.
+    * bis zu 1000 Studierenden 11
+    * 1001 bis 2000 Studierenden 15 und
+    * über 2000 Studierenden 19.
 
 
 # D. Schlussbestimmungen
