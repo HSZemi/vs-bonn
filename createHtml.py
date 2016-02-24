@@ -7,14 +7,15 @@ import shutil
 import sys
 
 names = []
+titles = {}
 htmlroot = "/vs-bonn/"
-convert_command = "sed -e 's/^(/\\\\(/' {0}.md | pandoc --from=markdown --to=paragraphs.lua -o {1}.html"
+convert_command = "sed -e 's/^(/\\\\(/' -e 's/\\(date:\\s*[0-9]\\+\\)\\./\\1\\\\./' {0}.md | pandoc --from=markdown --to=paragraphs_single.lua -o {1}.html"
 
 htmltemplate = '''<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
-<title>vs-bonn directory</title>  
+<title>{title}</title>  
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 <link rel="stylesheet" href="{path_to_top}style.css">
 </head>
@@ -26,6 +27,10 @@ htmltemplate = '''<!DOCTYPE html>
 </html>
 '''
 
+htmltemplatefile = "res/template_sp.html"
+with open(htmltemplatefile, "r") as f:
+	htmltemplate = f.read()
+
 
 def path_to_top(level):
 	if(level == 0):
@@ -33,19 +38,22 @@ def path_to_top(level):
 	else:
 		return "../" * (level)
 
-def generate_navtree(names, filterprefix, level):
+def generate_navtree(names, titles, filterprefix, level):
 	order = {}
-	for(prefix, name, _) in names:
+	for name in names:
+		prefix = name[0]
+		fname = name[1]
+		title = titles[name]
 		if(prefix.startswith(filterprefix)):
 			if prefix not in order:
 				order[prefix] = []
-			order[prefix].append(name)
+			order[prefix].append((fname,title))
 		
 	navtree = ""
 	for key in sorted(order):
-		navtree += "<b><a href='{0}{1}'>{1}</a></b>\n<ul>".format(path_to_top(level),key)
-		for item in order[key]:
-			navtree += "<li><a href='{0}{1}/{2}.html'>{2}</a></li>\n".format(path_to_top(level), key, item)
+		navtree += "<b><a href='{0}{1}/index.html'>{1}</a></b>\n<ul>".format(path_to_top(level),key)
+		for fname, title in order[key]:
+			navtree += "<li><a href='{0}{1}/{2}.html'>{3}</a></li>\n".format(path_to_top(level), key, fname, title)
 		navtree += "</ul>\n"
 	return navtree
 
@@ -59,7 +67,7 @@ def generate_breadcrumbs(path, name, level, toplevel=False):
 		for item in path.split("/"):
 			current_path += (item + "/")
 			label = item
-			breadcrumbs += '<li><a href="{0}">{1}</a></li>\n'.format(current_path, label)
+			breadcrumbs += '<li><a href="{0}index.html">{1}</a></li>\n'.format(current_path, label)
 		breadcrumbs += '<li class="active">{0}</li>\n'.format(name)
 	breadcrumbs += '</ol>'
 	return breadcrumbs
@@ -82,27 +90,50 @@ for (dirpath, dirnames, filenames) in os.walk('./md'):
 names.sort()
 print(names)
 
-folders = []
-for(prefix, name, lvl) in names:
-	if prefix not in folders:
-		folders.append(prefix)
-		navtree = generate_navtree(names, prefix, lvl)
-		breadcrumbs = generate_breadcrumbs(prefix, "", lvl)
-		f = open(os.path.join("./html", prefix, "index.html"), "w")
-		print(htmltemplate.format(content=breadcrumbs + navtree, path_to_top=path_to_top(lvl), title=prefix), file=f)
-		f.close()
-
-
 
 #	convert all files ending on .md to the respective html output in the html folder
 for name in names:
 	mdpath = os.path.join("./md", name[0], name[1])
 	htmlpath = os.path.join("./html", name[0], name[1])
 	level = name[2]
+	
+	title = ''
+	short = ''
+	
+	with open("{0}.md".format(mdpath), "r") as f:
+		for line in f:
+			if(line.startswith("title:")):
+				title = line[6:].strip()
+			if(line.startswith("short:")):
+				short = line[6:].strip()
+	print("Title: {0}".format(title))
+	print("Short: {0}".format(short))
+	if short == '':
+		short = title
+	titles[name] = short
 	print("Converting {0}.md	to {1}.html".format(mdpath, htmlpath))
 	print(convert_command.format(mdpath, htmlpath))
 	subprocess.call(convert_command.format(mdpath, htmlpath), shell=True)
 	
+	#htmlcontent = ''
+	#with open("{0}.html".format(htmlpath), "r") as f:
+		#htmlcontent = f.read()
+	
+	#with open("{0}.html".format(htmlpath), "w") as f:
+		#f.write(htmltemplate.format(content=htmlcontent, navigation='', path_to_top=path_to_top(level), title=name[1]))
+
+folders = []
+for(prefix, name, lvl) in names:
+	if prefix not in folders:
+		folders.append(prefix)
+		navtree = generate_navtree(names, titles, prefix, lvl)
+		breadcrumbs = generate_breadcrumbs(prefix, "", lvl)
+		f = open(os.path.join("./html", prefix, "index.html"), "w")
+		#print(htmltemplate.format(content=breadcrumbs + navtree, path_to_top=path_to_top(lvl), title=prefix), file=f)
+		print(breadcrumbs + navtree, file=f)
+		f.close()
+
+
 for name in names:
 	htmlpath = os.path.join("./html", name[0], name[1])
 	level = name[2]
@@ -114,9 +145,9 @@ for name in names:
 	for filename in names:
 		urlpath = os.path.join(path_to_top(level), filename[0], filename[1])
 		if(name == filename):
-			navitems += '<li><a href="{0}.html" class="active">{1}</a></li>\n'.format(urlpath, filename[1])
+			navitems += '<li><a href="{0}.html" class="active">{1}</a></li>\n'.format(urlpath, titles[filename])
 		else:
-			navitems += '<li><a href="{0}.html">{1}</a></li>\n'.format(urlpath, filename[1])
+			navitems += '<li><a href="{0}.html">{1}</a></li>\n'.format(urlpath, titles[filename])
 	
 	breadcrumbs = generate_breadcrumbs(name[0], name[1], level)
 	
@@ -134,5 +165,6 @@ for name in names:
 breadcrumbs = generate_breadcrumbs("", "TOP", 0, toplevel=True)
 
 f = open('html/index.html', 'w')
-print(htmltemplate.format(content=breadcrumbs + generate_navtree(names, "", 0), path_to_top=path_to_top(0), title="INDEX"), file=f)
+#print(htmltemplate.format(content=breadcrumbs + generate_navtree(names, titles, "", 0), path_to_top=path_to_top(0), title="Index"), file=f)
+print(breadcrumbs + generate_navtree(names, titles, "", 0), file=f)
 f.close()
