@@ -22,7 +22,7 @@ contains:
   confirmdate: 25. August 2015
   puborgan:  Amtliche Bekanntmachungen
   pubdate:   8. September 2015
-  puburl: 
+  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/263359
 
 ---
 

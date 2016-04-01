@@ -1,7 +1,7 @@
 ---
 title: Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Studierendenschaft
-date:  8. September 2015
+date:  17. März 2016
 type:  Satzung
 id:    SdS
 contains:
@@ -22,15 +22,27 @@ contains:
   confirmdate: 25. August 2015
   puborgan: Amtliche Bekanntmachungen
   pubdate:  8. September 2015
-  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/245804
+  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/263363
+- title: 2. Satzung zur Änderung der Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: 2\. Satzungsänderungssatzung
+  actorgan: Studierendenparlament
+  actdate:  17. Dezember 2014
+  confirmorgan: Rektorat
+  confirmdate: 09. Februar 2016
+  puborgan: Amtliche Bekanntmachungen
+  pubdate:  17. März 2016
+  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/268920
 
 ---
+
+Soweit Bezeichnungen in der weiblichen Sprachform verwendet werden, gelten diese
+Bezeichnungen für alle Menschen unabhängig von ihrem Geschlecht.
 
 # A. DIE STUDIERENDENSCHAFT
 
 ### § 1 Begriffsbestimmung und Rechtsstellung
 
-(1) Alle nach der Einschreibeordnung eingeschriebenen Studierenden der
+(1) Alle nach der Einschreibungsordnung eingeschriebenen Studierenden der
 Rheinischen Friedrich-Wilhelms-Universität Bonn bilden die Studierendenschaft im
 Sinne dieser Satzung.
 
@@ -619,7 +631,7 @@ der Mitglieder der FSV beträgt in Fachschaften mit
 2. 1001 bis zu 2000 Mitgliedern 15 und
 3. über 2000 Mitglieder 19.
 
-In Fachschaften mit weniger als 500 Mitgliedern kann die Fachschaftsatzung eine
+In Fachschaften mit bis zu 500 Mitgliedern kann die Fachschaftsatzung eine
 Regelung über die Einrichtung einer FSV treffen. In diesem Fall beträgt die Anzahl der
 Mitglieder sieben.
 
