@@ -1,9 +1,9 @@
 ---
 title: Satzung der Fachschaft Romanistik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Romanistik
-date:  19. Dezember 2013
-type:  
-id:    
+date:  12. Mai 2016
+type:  Satzung
+id:    FSSatzungRomanistik
 contains:
 - title: Satzung der Fachschaft Romanistik der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Satzung der Fachschaft Romanistik
@@ -12,6 +12,13 @@ contains:
   puborgan: AKUT
   pubdate:  17. Januar 2014
   puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/akut-EXTRA-_Fachschaftssatzung-Romanistik.pdf
+- title: Erste Änderungssatzung der Satzung der Fachschaft Romanistik der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: Erste Änderungssatzung der Satzung der Fachschaft Romanistik
+  actorgan: Fachschaftsvertretung Fachschaft Romanistik
+  actdate:  12. Mai 2016
+  puborgan: AKUT
+  pubdate:  12. Mai 2016
+  puburl: https://www.akut-bonn.de/wp-content/uploads/2016/05/akut-extra__Erste-A%CC%88nderungssatzung-der-Satzung-der-Fachschaft-Romanistik-der-Rheinischen-Friedrich-Wilhelms-Universita%CC%88t-Bonn.pdf
 
 ---
 
@@ -29,16 +36,17 @@ Geschlechtsidentität beziehen.
 (1) Die Gesamtheit derjenigen Studierenden der Rheinischen Friedrich-Wilhelms-Universität Bonn
 (RFWU Bonn), die
 
-1. im Kernfach Romanistik (B.A./M.A.) oder den Ein-Fach-Studiengängen Deutsch-französische Studien
-(B.A./M.A.), Deutsch-Italienische Studien (B.A./M.A.), Renaissance-Studien (M.A.) oder Spanische Kultur im
-europäischen Kontext (M.A.) eingeschrieben sind,
-2. eingeschriebene Promotionsstudierende der Romanischen Philologie (Französische Philologie, Iberoromanische
-Philologie, Italienische Philologie, Romanische Mediävistik), des Graduiertenkollegs Gründungsmythen Europas in
-Literatur, Kunst und Musik oder der Trinationalen Promotion Italianistik sind, oder
-3. in den Zwei-Fach-B.A. Französistik, Hispanistik, Italianistik, den Lehramtsfächern Französisch, Italienisch,
-Spanisch oder den B.A.-Begleitfächern Romanistik, Französistik, Hispanistik, Italianistik eingeschrieben sind
-und ihre Wahlberechtigung in der Romanistik haben,
-bilden die Fachschaft Romanistik.
+1. im Kernfach Romanistik (B.A./M.A.) oder den Ein-Fach-Studiengängen Deutsch-
+    französische Studien (B.A./M.A.), Deutsch-Italienische Studien (B.A./M.A.), Renaissance-
+    Studien (M.A.) oder Spanische Kultur im europäischen Kontext (M.A.) eingeschrieben sind,
+2. eingeschriebene Promotionsstudierende der Romanischen Philologie (Französische
+    Philologie, Iberoromanische Philologie, Italienische Philologie, Romanische Mediävistik),
+    des Graduiertenkollegs Gründungsmythen Europas in Literatur, Kunst und Musik oder der
+    Trinationalen Promotion Italianistik sind, oder
+3. in den Zwei-Fach-B.A. Französistik, Hispanistik, Italianistik, oder den B.A.-Begleitfächern
+    Romanistik, Französistik, Hispanistik, Italianistik eingeschrieben sind und ihre
+    Wahlberechtigung in der Romanistik haben, bilden die Fachschaft Romanistik.
+
 
 (2) Die Fachschaft nimmt alle sie betreffenden Aufgaben innerhalb der Studierendenschaft wahr und
 vertritt im Rahmen ihrer Möglichkeiten die Belange der nicht der Fachschaft Romanistik zugeordneten
@@ -82,17 +90,16 @@ HG i.V.m. § 27 III SSt)
 
 ### § 5 Zusammensetzung und Zusammentritt der FSV
 
-(1) Die FSV besteht aus 5 Mitgliedern.
+(1) Die FSV besteht aus 11 Mitgliedern.
 
-(2) Sie tritt mindestens dreimal im Semester zusammen, sowie auf schriftlichen Antrag
+(2) Sie tritt mindestens einmal im Semester zusammen, sowie auf schriftlichen Antrag
 
 1. des FSR,
 2. der FSVV,
 3. von 30% der Mitglieder der FSV,
-4. von 5% der Mitglieder der Fachschaft.
-Für die Einladung zu einer FSV-Sitzung gilt die Schriftform. Die Einladung durch unsignierte
-elektronische Form (E-Mail) ist gegen den ausgesprochenen Willen des Mitglieds der FSV nicht
-zulässig.
+4. von 5% der Mitglieder der Fachschaft. Für die Einladung zu einer FSV-Sitzung gilt die
+    Schriftform. Die Einladung durch unsignierte elektronische Form (E-Mail) ist gegen den
+    ausgesprochenen Willen des Mitglieds der FSV nicht zulässig.
 
 (3) Die Mitglieder der FSV sind grundsätzlich verpflichtet, an den Sitzungen teilzunehmen, sofern sie
 nicht begründet entschuldigt sind. Über den Inhalt nichtöffentlicher Beratungen ist Stillschweigen zu
@@ -287,10 +294,8 @@ anwendbar, sofern er sich keine eigene Geschäftsordnung gibt.
 
 ### § 15 Wahl des FSR
 
-(1) Der zu wählende FSR-Sprecher muss der FSV zum Zeitpunkt seiner Wahl angehören. Der FSR-
-Sprecher hat das alleinige Vorschlagsrecht für alle übrigen zu wählenden Mitglieder des FSR. Der
-geschäftsführende Vorstand muss der Fachschaft Romanistik zugehörig sein. Sonstige Mitglieder des
-FSR können auch Studierende der unter § 1 Abs. 2 aufgeführten Fächer sein.
+(1) Der zu wählende FSR-Sprecher soll der FSV zum Zeitpunkt seiner Wahl angehören. Der FSR-
+Sprecher hat das alleinige Vorschlagsrecht für alle übrigen zu wählenden Mitglieder des FSR.
 
 (2) Die Mitgliedschaft im FSR ist unvereinbar mit Ämtern des Präsidiums der FSV. Ämter im
 amtierenden geschäftsführenden Vorstand sind mit Ämtern des Kassenprüfungsausschusses nicht
