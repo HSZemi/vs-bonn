@@ -1,7 +1,7 @@
 ---
 title: Benutzungsordnung der Schließfächer der Fachschaft Informatik
 short: Benutzungsordnung der Schließfächer der Fachschaft Informatik
-date:  01. Juni 2016
+date:  09. Juni 2016
 type:  Ordnung
 id:    SBO-Informatik
 contains:
@@ -10,8 +10,8 @@ contains:
   actorgan: Fachschaftsrat Fachschaft Informatik
   actdate:  01. Juni 2016
   puborgan: AKUT
-  pubdate:  
-  puburl: 
+  pubdate:  09. Juni 2016
+  puburl: https://www.akut-bonn.de/wp-content/uploads/2015/05/akut-extra_Benuzungsordnung-der-Schlie%C3%9Ff%C3%A4cher-der-Fachschaft-Informatik_-Nr.8.pdf
 
 ---
 
