@@ -1,6 +1,6 @@
 ---
 title: Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
-short: Beitragsordnung der Studierenenschaft
+short: Beitragsordnung der Studierendenschaft (BO)
 date:  8. September 2015
 type:  Ordnung
 id:    BO
