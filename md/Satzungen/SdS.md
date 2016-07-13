@@ -6,7 +6,7 @@ type:  Satzung
 id:    SdS
 contains:
 - title: Dritte Änderungssatzung und zugleich Neufassung der Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - 3. Satzungsänderungssatzung (SÄS 3) -
-  short: 3. Satzungsänderungssatzung (SÄS 3)
+  short: 3\. Satzungsänderungssatzung (SÄS 3)
   actorgan: Studierendenparlament
   actdate:  31. Juli 2013
   confirmorgan: Rektorat
@@ -32,6 +32,15 @@ contains:
   puborgan: Amtliche Bekanntmachungen
   pubdate:  17. März 2016
   puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/268920
+- title: 3. Satzung zur Änderung der Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - SÄS 3 –
+  short: 3\. Satzungsänderungssatzung
+  actorgan: Studierendenparlament
+  actdate:  19. Januar 2016
+  confirmorgan: Rektorat
+  confirmdate: 28. Juni 2016
+  puborgan: Amtliche Bekanntmachungen
+  pubdate:  13. Juli 2016
+  puburl: 
 
 ---
 
@@ -92,7 +101,7 @@ Satzung und den rechtmäßigen Beschlüssen der Organe der Studierendenschaft.
 
 (1) Die Studierendenschaft äußert ihren Willen durch die von ihr gewählten Organe.
 
-(2) Organe im Sinne dieser Satzung sind:
+(2) Organe der Studierendenschaft im Sinne dieser Satzung sind:
 
 1. das Studierendenparlament (SP);
 2. der Allgemeine Studierendenausschuss (AStA);
@@ -349,13 +358,13 @@ Das SP gibt sich mit der Mehrheit von 2/3 seiner Mitglieder eine Geschäftsordnu
 ### § 15 Dauer und Verfahren der Urabstimmung
 
 (1) Dem ordnungsgemäßen Verlangen nach einer Urabstimmung gemäß § 5 Abs. 3
-müssen beigefügt sein
+müssen beigefügt sein:
 
 1. der abzustimmende Antrag im Wortlaut,
-2. Name, Vorname, Matrikelnummer und Unterschrift von mindestens 10 v.H. der
-Mitglieder der Studierendenschaft, die den Antrag unterstützen,
-3. Name, Anschrift, gegebenenfalls Telefonnummer, Matrikelnummer und
-Unterschrift einer vertretungsberechtigten Person.
+2. Name, Vorname, Matrikelnummer und Unterschrift von mindestens fünf Prozent
+    der Mitglieder der Studierendenschaft, die den Antrag unterstützen,
+3. Name, Anschrift, Matrikelnummer, Unterschrift und gegebenenfalls Telefonnummer 
+    einer vertretungsberechtigten Person.
 
 (2) Das Urabstimmungsverlangen ist von der vertretungsberechtigten Person nach
 Abs. 1 Nr. 3 beim SP einzureichen. In diesem Fall und im Fall eines entsprechenden
@@ -532,6 +541,7 @@ wenn dies von der AStA-Vorsitzenden verlangt wird.
 
 
 ## III. Fachschaften
+
 ### § 22 Die Fachschaften (FS)
 
 (1) Die Studierendenschaft gliedert sich in Fachschaften gemäß der Anlage
@@ -561,37 +571,37 @@ die Fachschaftssatzung.
 
 
 
-### § 24 Organe
+### § 24 Organe der Fachschaft
+
 (1) Die Fachschaft äußert ihren Willen durch ihre Organe.
 
-(2) Organe im Sinne dieser Satzung sind:
+(2) Organe der Fachschaft im Sinne dieser Satzung sind:
 
 1. Die Fachschaftsvollversammlung (FSVV)
 2. der Fachschaftsrat (FSR),
 3. die Fachschaftsvertretung (FSV), sofern sie nach dieser Satzung vorgesehen ist.
 
 (3) Die Organe der Fachschaft sind verpflichtet, ihre Beschlüsse in geeigneter Form,
-insbesondere durch Aushang oder auf Informationsblättern zu veröffentlichen.
-Satzungen, Ordnungen und Statuten der Fachschaft treten mit ihrer Veröffentlichung
-in der AKUT in Kraft. Näheres regelt die Fachschaftsatzung.
+insbesondere durch Aushang oder auf Informationsblättern zu veröffentlichen. 
+Näheres regelt die Fachschaftsatzung.
 
 
 ### § 25 Die Fachschaftsvollversammlung (FSVV)
 
 (1) Die FSVV ist die Versammlung der Mitglieder der Fachschaft.
 
-(2) Die FSVV ist Beschlussorgan und dient der Information ihrer Mitglieder. Soweit
-keine FSV besteht ist sie oberstes Beschlussorgan der Fachschaft und übernimmt die
-Aufgaben der FSV.
+(2) Die FSVV ist oberstes Beschlussorgan und dient der Information ihrer Mitglieder.
+Soweit keine FSV besteht, übernimmt sie die Aufgaben der FSV, sofern durch Ordnung
+oder Satzung keine andere Zuständigkeit geregelt ist.
 
 (3) Die FSVV wird vom FSR auf schriftlichen Antrag
 
 1. von 30% der Mitglieder der FSV oder
 2. von 5 % der Mitglieder der FS durch öffentlichen Aushang einberufen.
 
-(4) Die FSVV ist an keine Amtszeit gebunden; Sie fasst Beschlüsse mit einfacher
-Mehrheit, wenn sie ordnungsgemäß einberufen wurde. Der FSR ist grundsätzlich an
-die Beschlüsse der FSVV gebunden.
+(4) Die FSVV ist an keine Amtszeit gebunden; sie fasst Beschlüsse mit einfacher
+Mehrheit, wenn sie ordnungsgemäß einberufen wurde. Der FSR und die FSV sind
+grundsätzlich an die Beschlüsse der FSVV gebunden.
 
 (5) Die Fachschaftssatzung kann vorsehen, dass die FSVV die Durchführung einer
 Urabstimmung entsprechend § 15 Abs. 4 bis 9 beschließen kann. Beschlüsse, die auf
@@ -638,11 +648,12 @@ Mitglieder sieben.
 (2) Die FSV wählt eine Vorsitzende, sie kann darüber hinaus eine stellvertretende
 Vorsitzende und eine Protokollantin wählen.
 
-(3) Ist eine FSV vorgesehen, wählt sie den FSR. Die FSV ist oberstes Beschlussorgan
-der Fachschaft. Die FSV trifft alle Entscheidungen von grundlegender oder
-gehobener Bedeutung für die FS, die über den regulären Geschäftsbetrieb des FSR
+(3) Die FSV ist Beschlussorgan der Fachschaft. Die FSV trifft, sollte kein Beschluss
+der FSVV vorliegen, alle Entscheidungen von grundlegender oder gehobener
+Bedeutung für die Fachschaft, die über den regulären Geschäftsbetrieb des FSR
 hinausgehen. Sie beschließt insbesondere über den Haushaltsplan und die Entlastung
-des FSR.
+des FSR. Sie ist an Beschlüsse der FSVV gebunden.
+
 
 (4) Die FSV tagt mindestens einmal im Semester und darüber hinaus auf schriftlichen
 Antrag
@@ -662,16 +673,12 @@ mit dieser FAK studieren.
 ### § 28 Fachschaftswahl
 
 (1) Der FSR oder, wenn eine FSV vorgesehen ist, die FSV wird in allgemeiner
-unmittelbarer, freier, gleicher und geheimer Wahl nach den Grundsätzen der
-Verhältniswahl, die mit Elementen der Personenwahl verbunden ist, von den
-Mitgliedern der Fachschaft durch Urnenwahl in einer mehrtägigen Wahl oder in einer
-Wahlversammlung gewählt. Von der Verhältniswahl kann insbesondere dann
-abgesehen werden, wenn wegen der überschaubaren Zahl der Wahlberechtigten eine
-Mehrheitswahl angemessen ist. Die Wahl in einer Wahlversammlung ist nur in
-Fachschaften mit bis zu 500 Wahlberechtigten zulässig.
+unmittelbarer, freier, gleicher und geheimer Wahl von den Mitgliedern der Fachschaft
+gemäß § 22 gewählt.
 
 (2) Näheres regelt die Fachschaftswahlordnung (FSWO). Sie ist vom SP mit der
-Mehrheit seiner Mitglieder zu verabschieden und amtlich bekannt zu machen.
+Mehrheit seiner Mitglieder zu verabschieden und tritt mit Veröffentlichung in der AKUT
+in Kraft.
 
 
 ### § 29 Fachschaftssatzung
@@ -695,8 +702,9 @@ mit der Veröffentlichung in der AKUT in Kraft.
 
 ### § 30 Rahmenregelungen
 
-(1) Die Organe der Fachschaft werden von ihrer Vorsitzenden einberufen und geleitet.
-Die FSVV wählt zu Beginn jeder Versammlung eine Versammlungsleiterin.
+(1) Die Organe der Fachschaft werden von ihrer Vorsitzenden einberufen und geleitet,
+sofern durch Ordnung oder Satzung nichts anderes geregelt ist. Die FSVV wählt zu
+Beginn jeder Versammlung eine Versammlungsleiterin.
 
 (2) Die Einladungsfrist beträgt mindestens sieben Tage. Eine verkürzte Einladungsfrist 
 aus besonderem Grund ist zulässig; Beschlüsse können nur dann gefasst werden,
@@ -739,14 +747,30 @@ vertreten ist. Sie ist in der AKUT zu veröffentlichen.
 
 ### § 32 Funktion
 
-(1) Der ÄR ist bei allen in seine Zuständigkeit fallenden Angelegenheiten das oberste
+(1) Der ÄR ist unabhängiges und selbstständiges Organ der Studierendenschaft.
+
+(2) Der ÄR ist bei allen in seine Zuständigkeit fallenden Angelegenheiten das oberste
 streitschlichtende Organ der Studierendenschaft.
 
-(2) Er hat zudem die Aufgabe, die Kontinuität in der studentischen Selbstverwaltung
-zu wahren.
+(3) Der ÄR entscheidet bei Streitigkeiten zu Angelegenheiten der verfassten
+Studierendenschaft. Er entscheidet ebenfalls bei Streitigkeiten zwischen studentischen
+Vereinigungen, wenn sich beide Parteien einem Schiedsverfahren durch den ÄR
+unterwerfen.
 
-(3) Er ist allen übrigen Organen und Gremien der Studierendenschaft gegenüber
-unabhängig und selbständig.
+(4) Der ÄR wahrt durch Beratung der Organe und Organteile der Studierendenschaft
+und der Fachschaften die Kontinuität in der studentischen Selbstverwaltung.
+
+(5) Der ÄR kann Empfehlungen an Organe bzw. Gremien der Studierendenschaft und
+der Fachschaften richten. Sie sind auf der nächsten Sitzung des jeweiligen Organs
+bzw. Gremiums zu behandeln.
+
+(6) Der ÄR ist zu den Sitzungen aller Organe der Studierendenschaft und ihrer
+Organteile einzuladen.
+
+(7) Bei Streitigkeiten zu Angelegenheiten der verfassten Studierendenschaft ist eine
+Anrufung der Gerichtsbarkeit erst nach einer Entscheidung des ÄR zulässig. Dies gilt
+nicht, sofern es sich bei dem zugrundeliegenden Streitgegenstand um einen
+Verwaltungsakt im Sinne des § 35 VwVfG NRW handelt.
 
 
 ### § 33 Zusammensetzung und Wahl
@@ -754,15 +778,15 @@ unabhängig und selbständig.
 (1) Der ÄR besteht aus neun Studierenden, die sich um die Studierendenschaft
 besonders verdient gemacht haben.
 
-(2) Sie werden mit der Mehrheit der SP-Mitglieder gewählt und können nicht
-abberufen werden. Eine Wiederwahl ist möglich.
+(2) Sie werden mit der Mehrheit der SP-Mitglieder auf 2 Jahre gewählt und können
+nicht abberufen werden. Wiederwahl ist möglich.
 
-(3) Die Mitgliedschaft im ÄR erlischt mit dem endgültigen Ausscheiden aus der
-Studierendenschaft der Universität Bonn, mit ihrem Rücktritt oder mit Ablauf der mit
-der Wahl durch das SP beginnenden Amtszeit von drei Jahren.
+(3) Die Mitgliedschaft im ÄR erlischt durch Ausscheiden aus der Studierendenschaft
+der Universität Bonn, durch Rücktritt oder durch Ablauf der Amtszeit.
 
-(4) Die ÄR-Vorsitzende führt einen Nachweis über die in Abs. 1 bis 3 genannten Daten
-der einzelnen Mitglieder.
+(4) Die ÄR-Vorsitzende führt einen Nachweis über Beginn und Ende der Amtszeiten
+der einzelnen Mitglieder. Im Falle des Ausscheidens eines ÄR-Mitglieds unterrichtet sie
+unverzüglich die 1. SP-Sprecherin.
 
 (5) Mitglieder des ÄR dürfen für kein anderes Organ oder Gremium der studentischen
 Selbstverwaltung kandidieren oder ihm angehören.
@@ -774,86 +798,78 @@ Selbstverwaltung kandidieren oder ihm angehören.
 Amtszeit von einem Jahr.
 
 (2) Der Vorsitzenden obliegt die Einberufung und Leitung der Sitzungen sowie die
-Verkündung der Entscheidungen. Im Falle des Ausscheidens eines ÄR-Mitglieds
-unterrichtet sie unverzüglich die 1. SP-Sprecherin. Sie soll an SP-Sitzungen
-teilnehmen.
+Verkündung der Entscheidungen. Sie soll an SP-Sitzungen teilnehmen.
 
 
-### § 35 Aufgaben und Zuständigkeit
+### § 35 Verfahren
 
-(1) Der ÄR überwacht die Einhaltung der Satzung und der übrigen Rechtsvorschriften
-der Studierendenschaft und entscheidet über Beschwerden und Widersprüche. Er wird
-bei der Überwachung der Wahlen zum Studierendenparlament tätig.
+(1) Der ÄR gibt sich im Benehmen mit dem SP eine Verfahrens- und Geschäftsordnung. 
+Sie ist in der AKUT zu veröffentlichen.
 
-(2) Der ÄR entscheidet bei Streitigkeiten zwischen Studierenden und Organen bzw.
-Gremien der Studierendenschaft, soweit nicht nach Abs. 5 eine andere Zuständigkeit
-gegeben ist, und Organen untereinander. Er entscheidet ebenfalls bei Streitigkeiten
-zwischen studentischen Vereinigungen, wenn sich beide Parteien einem
-Schiedsverfahren durch den ÄR unterwerfen.
-
-(3) Durch Beratung der betroffenen Organe beziehungsweise Gremien wahrt der ÄR
-die Kontinuität der studentischen Selbstverwaltung. Er ist zu Sitzungen aller Organe
-einzuladen. Empfehlungen, die der ÄR an ein Organ beziehungsweise Gremium
-richtet, sind, sofern ihnen nicht unverzüglich entsprochen wird, auf der nächsten
-Sitzung des Organs bzw. Gremiums als Antrag zu behandeln.
-
-(4) In den in die Zuständigkeit des ÄR fallenden Angelegenheiten ist eine Anrufung
-des Gerichts erst nach einer Entscheidung des ÄR möglich, soweit nach Abs. 5 nichts
-anderes bestimmt ist.
-
-(5) Mit 2/3 seiner Mitglieder kann das SP für einzelne Sachgebiete eine von den Abs.
-2 und 4 abweichende Zuständigkeit in einer Richtlinie beschließen. Vor der
-Beschlussfassung des SP ist dem ÄR 14 Tage lang Gelegenheit zu einer schriftlichen
-Stellungnahme zu geben.
-
-
-### § 36 Verfahren
-
-(1) Der ÄR ist beschlussfähig, wenn mehr als die Hälfte der Mitglieder anwesend sind.
+(2) Der ÄR ist beschlussfähig, wenn mehr als die Hälfte der Mitglieder anwesend ist.
 Wird zu einer außerordentlichen Sitzung geladen, ist die Sitzung mit mindestens
-einem Drittel der Anwesenden beschlussfähig. Dies gilt nur 40 Tage vor der Wahl bis
-Ende der Wahlwoche für die Wahl betreffende Fragen.
+einem Drittel der Mitglieder des ÄR beschlussfähig. Näheres regelt die Verfahrens- und
+Geschäftsordnung des ÄR.
 
-(2) Der ÄR kann die Veröffentlichung seiner Entscheidungen anordnen.
-
-(3) Jedes Mitglied des ÄR kann sich in den Fällen des § 35 Abs. 2 für befangen
+(3) Jedes Mitglied des ÄR kann sich bei Verfahren vor dem Ältestenrat für befangen
 erklären. Erheben die streitenden Parteien gegen ein Mitglied des ÄR den Einwand der
 Befangenheit, so entscheidet der ÄR über die Berechtigung des Einwandes. Das
 betroffene Mitglied des ÄR darf sich an der Abstimmung über die Entscheidung
 bezüglich des Befangenheitsantrages nicht beteiligen.
 
-(4) Der ÄR gibt sich im Benehmen mit dem SP eine Verfahrensordnung (VerfOÄR). Sie
-ist in der AKUT zu veröffentlichen.
 
+# C. MAGAZIN DER STUDIERENDENSCHAFT
 
-# C. NACHRICHTENBLATT DER STUDIERENDENSCHAFT
+### § 36 AKUT
 
-### § 37 AKUT
+(1) Die AKUT ist Bekanntmachungsorgan der Studierendenschaft (SP, AStA, FS, FSK, ÄR).
 
-(1) Das SP gibt das Nachrichtenblatt AKUT als "AKUT" oder "AKUT extra" heraus. Die
-AKUT steht allen Studierenden der Universität Bonn offen. Sie ist
-Bekanntmachungsorgan der Studierendenschaft (SP, AStA, FS, FSK, ÄR).
+(2) Das SP gibt das Magazin der Studierendenschaft "AKUT" sowie Bekanntmachungen als 
+"AKUT Extra" heraus.
 
-(2) Die verantwortliche Redakteurin wird vom SP mit der Mehrheit seiner Mitglieder
+(3) Die verantwortliche Redakteurin wird vom SP mit der Mehrheit seiner Mitglieder
 für ein Jahr gewählt.
 
-(3) Das SP kann der verantwortlichen Redakteurin das Misstrauen nur dadurch
+(4) Das SP kann der verantwortlichen Redakteurin das Misstrauen nur dadurch
 aussprechen, dass es mit der Mehrheit seiner Mitglieder eine Nachfolgerin wählt.
 
-(4) Die verantwortliche Redakteurin ernennt weitere Redakteurinnen und zeigt dies
-dem SP an. Das SP hat das Recht, Redakteurinnen mit der Mehrheit seiner Mitglieder
+(5) Die verantwortliche Redakteurin kann jederzeit zurücktreten. Sie ist jedoch
+verpflichtet, die Geschäfte bis zur Wahl bzw. Bestellung einer Nachfolgerin
+weiterzuführen. Ist ihr die Weiterführung ihrer Geschäfte nicht mehr zuzumuten, so
+kann die 1. SP-Sprecherin bis zur Wahl einer Nachfolgerin einmalig eine
+kommissarische Vertreterin bestellen.
+
+(6) Die Redaktion der AKUT steht grundsätzlich allen Studierenden der Universität
+Bonn offen. Die verantwortliche Redakteurin ernennt die Redakteurinnen. Verweigert
+sie Studierenden die Mitwirkung an der AKUT, hat sie dies dem SP gegenüber zu
+begründen. Das SP hat das Recht, Redakteurinnen mit der Mehrheit seiner Mitglieder
 zu entlassen.
 
-(5) Die verantwortliche Redakteurin gewährleistet, dass Beiträge des SP, des ÄR und
-des AStA angemessen berücksichtigt werden. Insbesondere berücksichtigt die AKUT in
-angemessenem Umfang (max. sechs Seiten DIN A4) einmal im Semester einen
-Rechenschaftsbericht des AStA. Umfasst der Rechenschaftsbericht mehr als sechs
-Seiten DIN A4, so trägt der AStA die anteiligen Druckkosten. Das SP hat das Recht,
-mit der Mehrheit seiner Mitglieder die Veröffentlichung von Artikeln zu beschließen.
+(7) Die verantwortliche Redakteurin gewährleistet, dass die AKUT über die
+Geschehnisse in SP, ÄR und AStA in angemessenem Umfang berichtet.
 
-(6) Der Haushalt der AKUT wird von der Finanzreferentin verwaltet. Die Auszahlung
+(8) Das SP hat das Recht, mit der Mehrheit seiner Mitglieder die Veröffentlichung
+von Artikeln zu beschließen.
+
+(9) Der Haushalt der AKUT wird von der Finanzreferentin verwaltet. Die Auszahlung
 der für den AKUT-Betrieb nötigen Gelder im Rahmen des vom SP beschlossenen
 Haushalts darf nur aus Rechtsgründen verweigert werden.
+
+
+### § 37 Bekanntmachungen
+
+(1) Satzungen, Ordnungen, Richtlinien und Statuten aller Gremien treten frühestens
+mit ihrer Veröffentlichung in der AKUT in Kraft, sofern ein Gesetz oder diese Satzung
+nichts Abweichendes bestimmt.
+
+(2) Die Vorsitzende des Beschlussgremiums leitet in der AKUT zu veröffentlichende
+Satzungen, Ordnungen, Richtlinien oder Statuten unverzüglich der AKUT zu.
+
+(3) Bekanntmachungen in der AKUT werden im Regelfall im Internet veröffentlicht.
+Auf Verlangen des Beschlussgremiums bzw. dessen Vorsitzender wird eine
+Bekanntmachung zusätzlich als Drucksache veröffentlicht. Die Kosten hierfür werden
+aus dem Haushalt der AKUT getragen. Maßgeblich für den Zeitpunkt der
+Veröffentlichung ist die Veröffentlichung im Internet.
 
 
 # D. FINANZEN
@@ -901,12 +917,12 @@ Aufgaben der Studierendenschaft erkennbar ist.
 (4) Im Haushaltsplan sind mindestens gesondert darzustellen:
 
 1. Bei den Einnahmen: Studierendenschaftsbeiträge; Darlehensrückflüsse;
-Einnahmen aus wirtschaftlicher Betätigung; Vermögenserträge (Zinsen aller
-Konten); Spenden und Entnahmen aus Rücklagen.
+    Einnahmen aus wirtschaftlicher Betätigung; Vermögenserträge (Zinsen aller
+    Konten); Spenden und Entnahmen aus Rücklagen.
 2. Bei den Ausgaben: Personalausgaben; Zuwendungen an Stellen außerhalb der
-Studierendenschaft; sächliche Verwaltungsausgaben (Ausgaben der AStA-
-Referate, des SP und seiner Ausschüsse, der AKUT und des ÄR); Ausgaben für
-wirtschaftliche Betätigung und Zuführung an Rücklagen.
+    Studierendenschaft; sächliche Verwaltungsausgaben (Ausgaben der AStA-
+    Referate, des SP und seiner Ausschüsse, der AKUT und des ÄR); Ausgaben für
+    wirtschaftliche Betätigung und Zuführung an Rücklagen.
 
 (5) Einnahmen und Ausgaben der zweckgebundenen Anteile gemäß § 38 Abs. 2 sind
 ebenso gesondert darzustellen. Sie bilden den Verwahrhaushalt. Sie sind sofort auf
@@ -983,11 +999,10 @@ machen.
 (1) Die Finanzreferentin bewirtschaftet die Einnahmen und Ausgaben der
 Studierendenschaft. Sie kann im Rahmen einer geordneten und jederzeit
 übersichtlichen Wirtschaftsführung weitere Mitglieder des AStA schriftlich mit der
-Wahrnehmung einzelner Befugnisse beauftragen; Dies bedarf der Einwilligung der
+Wahrnehmung einzelner Befugnisse beauftragen; dies bedarf der Einwilligung der
 AStA-Vorsitzenden. Bei groben oder wiederholten Verstößen der Beauftragten gegen
-die Haushaltsdisziplin hat die Finanzreferentin/Finanzreferent die Beauftragung zu
-widerrufen. Dies bedarf nicht der Einwilligung der AStA-Vorsitzenden. Widerspricht die
-Vorsitzende, so entscheidet der ÄR abschließend.
+die Haushaltsdisziplin hat die Finanzreferentin die Beauftragung zu widerrufen. Dies
+bedarf nicht der Einwilligung der AStA-Vorsitzenden.
 
 (1a) Dem Abschluss von Verträgen über Lieferungen und Leistungen muss ein
 Preisvergleich vorausgehen. Bei Aufträgen mit einem Wert von mehr als 1.000 Euro
@@ -1008,7 +1023,7 @@ Abs. 1 S. 2 gilt entsprechend. Mit der Unterzeichnung der Kassenanordnung
 
 1. offensichtlich erkennbare Fehler in der Kassenanordnung nicht enthalten sind,
 2. die sachliche und rechnerische Richtigkeit der in der Kassenanordnung
-enthaltenen Angaben bescheinigt worden ist,
+    enthaltenen Angaben bescheinigt worden ist,
 3. der Titel richtig bezeichnet ist und
 4. Ausgabemittel in der vorgesehenen Höhe zur Verfügung stehen.
 
@@ -1024,10 +1039,10 @@ Person schriftlich zu beauftragen. Beauftragt werden können:
 
 1. Mitglieder des AStA, in der Regel die Referentinnen für ihren jeweiligen Bereich;
 2. Angestellte der Studierendenschaft, soweit die oder der Beauftragte nicht
-zugleich Kassenverwalterin ist;
+    zugleich Kassenverwalterin ist;
 3. die SP-Sprecherin;
 4. Ausschussvorsitzende des SP oder deren Stellvertreterin für ihren jeweiligen
-Aufgabenbereich.
+    Aufgabenbereich.
 
 (5) Die Finanzreferentin führt eine Liste über Personen, die befugt sind, die
 rechnerische oder sachliche Richtigkeit zu bescheinigen oder eine Kassenanordnung
@@ -1138,7 +1153,7 @@ die kurzfristige Anlage von Festgeldern unterhalten werden.
 1. eine Kassenverwalterin,
 2. eine stellvertretende Kassenverwalterin,
 3. eine weitere Person, die Mitglied oder Angestellte/Angestellter der Bonner
-Studierendenschaft ist, 
+    Studierendenschaft ist, 
 
 als Unterschriftsberechtigte für die Konten
 (Kontoverfügungsberechtigte). Die Konten sind so zu sichern, dass von den in
