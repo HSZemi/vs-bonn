@@ -40,7 +40,7 @@ contains:
   confirmdate: 28. Juni 2016
   puborgan: Amtliche Bekanntmachungen
   pubdate:  13. Juli 2016
-  puburl: 
+  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/283357
 
 ---
 
