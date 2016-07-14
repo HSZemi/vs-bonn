@@ -1,7 +1,7 @@
 ---
 title: Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Studierendenschaft
-date:  17. März 2016
+date:  13. Juli 2016
 type:  Satzung
 id:    SdS
 contains:
