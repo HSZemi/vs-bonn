@@ -13,7 +13,7 @@ contains:
   actdate:  13. Juni 2016
   puborgan: AKUT
   pubdate:  17. Juli 2016
-  puburl:  https://www.akut-bonn.de/wp-content/uploads/2015/05/akut_extra_2016-9.pdf
+  puburl:  https://www.akut-bonn.de/wp-content/uploads/2016/07/akut_extra_2016-9.pdf
 
 ---
 
