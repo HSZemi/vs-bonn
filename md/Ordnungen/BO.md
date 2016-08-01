@@ -44,7 +44,7 @@ Der Beitrag in Höhe von 182,82 € (WS 2015/16), 182,48 € (SS 2016), 184,97 �
 |   |WS 2016/17												| 49,50 €,|
 |   |SS 2017												| 50,90 €,|
 |5. |für ein Sonderkonto zur Erstattung des Mobilitätsbeitrages				|  0,85 €,|
-|5. |für ein Sonderkonto zur Erstattung des Mobilitätsbeitrages ab WS 2016/2017	|  0,85 €,|
+|   |für ein Sonderkonto zur Erstattung des Mobilitätsbeitrages ab WS 2016/2017	|  0,60 €,|
 |6. |für die Zuweisungen an die Fachschaften							|         |
 |   |WS 2015/16												|  1,75 €,|
 |   |SS 2016												|  0,01 €,|
