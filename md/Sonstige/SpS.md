@@ -1,7 +1,7 @@
 ---
 title: Statut des Studentinnensports (Sportstatut - SpS)
 short: Sportstatut - SpS
-date:  15. Juli 2015
+date:  4. Oktober 2016
 type:  Statut
 id:    SpS
 contains:
@@ -12,6 +12,13 @@ contains:
   puborgan: AKUT
   pubdate:  18. Juli 2015
   puburl:  http://www.akut-bonn.de/wp-content/uploads/2015/07/AK_Ex_Sportstatut-10stk.pdf
+- title: Statut des Studentinnensports
+  short: Statut des Studentinnensports - Sportstatut - (SpS)
+  actorgan: Studierendenparlament
+  actdate:  6. September 2016
+  puborgan: AKUT
+  pubdate:  4. Oktober 2016
+  puburl:  https://www.akut-bonn.de/wp-content/uploads/2016/10/akut_extra_2016-12.pdf
 
 ---
 
@@ -22,13 +29,14 @@ jeweils aktuellen Fassung und § 71 Abs. 2 UG erlässt das Bonner Student/inn/en
 Allgemein werden alle Personen und Amtsbezeichnungen in weiblicher Form gebraucht, wobei die männliche Form
 stets eingeschlossen ist.
 
-## I Allgemeines
+# I Allgemeines
 
-### § 1 Aufgaben und Ziele
+
+### §1 Aufgaben und Ziele
 
 (1) Der Studentinnensport ist Teil der verfassten Studentinnenschaft und des allgemeinen Hochschulsports der
 Universität Bonn. Er wird durch das autonome Sportreferat des AStAs und die Obleute Versammlung (OV) vertreten.
-Er erfüllt die Aufgaben des allgemeinen Hochschulsports im Ausgleichs, Breiten und Wettkampfsport in seinem
+Er erfüllt die Aufgaben des allgemeinen Hochschulsports im Ausgleichs-, Breiten- und Wettkampfsport in seinem
 Bereich; dabei ist dem Ausgleichs und Breitensport der Vorrang einzuräumen. Die Zusammenarbeit mit den anderen
 Bereichen des allgemeinen Hochschulsports, insbesondere der Hochschulsportbeauftragten, wird gewährleistet.
 
@@ -37,16 +45,19 @@ wettkämpfen und sonstigen sportlichen Veranstaltungen einem möglichst großen 
 Insbesondere versucht er durch eine enge Zusammenarbeit mit den zuständigen Institutionen die Bereitstellung von
 Sportstätten in ausreichender Menge zu erwirken.
 
-### § 2 Organe
+
+### §2 Organe
 
 Organe der studentischen Vertretung im Hochschulsport sind
 
 1. die Obleuteversammlung (OV) als Repräsentationsgremium aller studentischen Sporttreibenden und
 2. das autonome Sportreferat des AStAs.
 
-## II Die Obleute-Versammlung (OV)
 
-### § 3 Zusammensetzung und Wahl der Obleute-Versammlung (OV)
+# II Die Obleute-Versammlung (OV)
+
+
+### §3 Zusammensetzung und Wahl der Obleute-Versammlung (OV)
 
 (1) Die OV setzt sich zusammen aus den von den einzelnen Sportarten gewählten Obleuten und den Sportreferentinnen
 als stimmberechtigte Mitglieder.
@@ -54,7 +65,7 @@ als stimmberechtigte Mitglieder.
 (2) Wahlberechtigt sind die studentischen Teilnehmerinnen der regelmäßig vom Studentinnensport veranstalteten
 Sportarten. Jede an der Uni Bonn eingeschriebene ordentliche Studentin hat in jeder Sportart nach der Anlage, an der
 sie teilnimmt, bei der Wahl eine Stimme. Obleute und ihre Stellvertreterinnen müssen an der Uni Bonn eingeschrieben
-sein. Die Obleute und ihre Stellvertreterinnen werden in jeder einzelnen Sportart, wobei Ausgleichs, Breiten und
+sein. Die Obleute und ihre Stellvertreterinnen werden in jeder einzelnen Sportart, wobei Ausgleichs-, Breiten- und
 Wettkampfsport nicht getrennt werden, aus der Mitte der studentischen Teilnehmerinnen auf ein Jahr gewählt.
 
 (3) Je Sportart nach der Anlage wird eine Obfrau und eine Stellvertreterin in einem Wahlgang in geheimer Wahl
@@ -79,7 +90,8 @@ schriftlich mit; beizufügen sind die Wählerinnenlisten und gegebenenfalls in e
 abgegebenen Stimmzettel. Sportreferentinnen können nicht gleichzeitig Obleute sein.
 
 (7) Für die Wahlprüfung ist der Wahlprüfungsausschuss des SP zuständig. Er wird nur auf Antrag tätig. Die
-Wählerinnenlisten und die Wahlunterlagen sind ein Jahr, mindestens aber bis zur nächsten Obleutewahl
+Wählerinnenlisten und die
+ Wahlunterlagen sind ein Jahr, mindestens aber bis zur nächsten Obleutewahl
 aufzubewahren.
 
 (8) Tritt eine Obfrau vor Ablauf der Amtszeit zurück, so rückt ihre Stellvertreterin nach. Kann niemand nachrücken, so
@@ -89,21 +101,21 @@ finden Nachwahlen statt.
 Abs. 4 bis 6 durch konstruktives Misstrauensvotum abwählbar.
 
 
-### § 4 Aufgaben der OV
+### §4 Aufgaben der OV
 
 (1) Die OV beschließt über alle grundsätzlichen Fragen des Studentinnensports. Sie beschließt insbesondere über
 
 1. Empfehlungen an die AStA Vorsitzende über die Richtlinien für die Arbeit der Sportreferentinnen;
 2. die Feststellung des Planes zur Verwendung der zugewiesenen Mittel (PVMOV);
-3. Empfehlungen bezüglich der den Studentinnensport betreffenden Teile des Haushaltsplans der verfassten Studentinnenschaft;
+3. Empfehlungen bezüglich der den Studentinnensport betreffenden Teile des Haushaltsplans der verfassten
+    Studentinnenschaft;
 4. Anträge an das SP auf Zuweisung von Geldern aus dem Verwahrhaushalt des Studentinnensports;
-5. Empfehlungen für die Sportreferentinnen über die Mitwirkung bei der Verwaltung der Landesmittel zur Förderung des allgemeinen Hochschulsports;
+5. Empfehlungen für die Sportreferentinnen über die Mitwirkung bei der Verwaltung der Landesmittel zur
+    Förderung des allgemeinen Hochschulsports;
 6. die Geschäftsordnung der OV (GOOV), die
-
     a) die näheren Bestimmungen über Wahl, Einberufung und Verfahrensweise der OV, sowie
     b) Einzelbestimmungen über die Umsetzung der Aufgaben des Studentinnensports
-
-regelt.
+       regelt.
 
 Die GOOV bedarf der Genehmigung durch das SP.
 
@@ -132,7 +144,7 @@ mindestens zweimal im Semester.
 vor der Sitzung. Die Einladung geht an alle Mitglieder und Angehörige der OV und die Organe der Studentinnenschaft.
 Auf Verlangen einer Sportreferentin oder eines Fünftels der Mitglieder der OV ist unter Angabe einer vorläufigen
 Tagesordnung eine Sitzung durch die Sprecherin der OV unverzüglich einzuberufen. Die Sitzungen der OV sind für
-Mitglieder der Studentinnenschaft der Uni Bonnin der Regel öffentlich. Die AStA-Vorsitzende und die AStA-
+Mitglieder der Studentinnenschaft der Uni Bonn in der Regel öffentlich. Die AStA-Vorsitzende und die AStA-
 Finanzreferentin können an allen Sitzungen der OV mit beratender Stimme teilnehmen.
 
 (3) Über die Sitzungen der OV ist ein Protokoll anzufertigen, das die wesentlichen Argumente der Sachdebatte, die
@@ -142,7 +154,8 @@ Studentinnenschaft zuzuleiten. Das Protokoll ist der darauf folgenden OV-Sitzung
 
 (4) Das Nähere regelt GOOV.
 
-## III Die Sportreferentinnen
+
+# III Die Sportreferentinnen
 
 ### § 6 Nominierung und Wahl der Sportreferentinnen
 
@@ -167,9 +180,9 @@ Sprecherin der OV unverzüglich anzuzeigen.
 (5) Ist eine Vorzuschlagende Mitglied der OV nach § 3 Abs. 1 Satz 1 Nr. 1, so erlischt ihr Mandat mit der Annahme der
 Wahl durch das SP; ihre Stellvertreterin wird stimmberechtigtes Mitglied der OV.
 
-(6) Wird dem SP bis zur ersten ordentlichen Sitzung der Vorlesungszeit des sich anschließenden Semesters 
-(vgl. Abs. (1)) kein Vorschlag unterbreitet, so wählt es auf seiner nächsten Sitzung unabhängig von später 
-eingehenden Vorschlägen eine Sportreferentin. Wird die dem SP Vorgeschlagene nicht gewählt, so macht die OV einen neuen
+(6) Wird dem SP bis zur ersten ordentlichen Sitzung der Vorlesungszeit des sich anschließenden Semesters (vgl. Abs.
+(1)) kein Vorschlag unterbreitet, so wählt es auf seiner nächsten Sitzung unabhängig von später eingehenden
+Vorschlägen eine Sportreferentin. Wird die dem SP Vorgeschlagene nicht gewählt, so macht die OV einen neuen
 Vorschlag.
 
 (7) Tritt eine Sportreferentin vor Ablauf ihrer Amtszeit zurück, so finden für den Rest der Amtszeit unverzüglich
@@ -198,7 +211,7 @@ ihre Mitwirkungsrechte aufzuklären.
 
 (3) Die Sportreferentinnen sind der OV und dem SP rechenschaftspflichtig.
 
-(4)Ihre Aufgaben umfassen insbesondere:
+(4) Ihre Aufgaben umfassen insbesondere:
 
 1. Leitung und Organisation eines kontinuierlichen Bürodienstes; dabei sind sie dem Selbstverwaltungsgedanken
 verpflichtet;
@@ -218,11 +231,11 @@ Absprache mit der Hochschulsportbeauftragten;
 
 (5) Zur Durchführung ihrer Aufgaben können die Sportreferentinnen einvernehmlich studentische Mitarbeiterinnen
 zeitlich begrenzt beschäftigen. Aushilfsstellen sind öffentlich auszuschreiben. Sind keine adäquaten MitarbeiterInnen
-verfügbar, können diese Aufgaben durch die SportreferentInnen zusätzlich übernommen werden. Sie sind
-angemessen Aufwand zu entschädigen.
+verfügbar, können diese Aufgaben durch die SportreferentInnen zusätzlich übernommen werden. Sie erhalten eine
+angemessene Aufwandsentschädigung.
 
 
-## IV Die Finanzen
+# IV Die Finanzen
 
 ### § 8 Vermögen und Zuwendungen
 
@@ -269,10 +282,10 @@ ist eine Frist von 14 Tagen einzuräumen; Sondervoten der Mitglieder des PAOV si
 (5) Der Plan ist in Einnahmen und Ausgaben auszugleichen. Die Einnahmen sind nach ihrer Herkunft, die Ausgaben
 nach ihrem Zweck zu gliedern. Mindestens getrennt auszuweisen sind:
 
-a) bei den Einnahmen: Zuweisungen aus Mitteln der Studentinnenschaft, andere öffentliche Förderungen, Beiträge
-von Teilnehmerinnen, Anzeigeneinnahmen, Einnahmen aus Verkäufen, Spenden, sonstige Einnahmen;
-b) bei den Ausgaben: Aufwandsentschädigungen, Löhne und Gehälter, sonstige Entgelte, Anschaffungen,
-Reparaturen, Druck und Kopierkosten, sonstige sächliche Verwaltungsaufwendungen, sowie Steuern.
+    a) bei den Einnahmen: Zuweisungen aus Mitteln der Studentinnenschaft, andere öffentliche Förderungen, Beiträge
+    von Teilnehmerinnen, Anzeigeneinnahmen, Einnahmen aus Verkäufen, Spenden, sonstige Einnahmen;
+    b) bei den Ausgaben: Aufwandsentschädigungen, Löhne und Gehälter, sonstige Entgelte, Anschaffungen,
+    Reparaturen, Druck und Kopierkosten, sonstige sächliche Verwaltungsaufwendungen, sowie Steuern.
 
 (6) Der festgestellte PVMOV ist dem AStA unverzüglich vorzulegen; die Stellungnahmen und etwaige Sondervoten
 sind beizufügen. Erhebt der AStA, gemeinsam vertreten durch die Vorsitzende und die Finanzreferentin, Einwände
@@ -313,10 +326,10 @@ Ausgaben zu decken, die voraussichtlich aus Mitteln des Haushalts nicht bestritt
 Sonderrücklagen sind nicht an das Haushaltsjahr gebunden. Sie werden als Verwahrkonto beim AStA unterhalten.
 
 (4) Anträge auf Verwendung von Geldern können von der OV nur behandelt werden, wenn sie der Einladung beigefügt
-sind. Die OV beschließt über Finanzanträge mit der Mehrheit der Mitglieder. Die OV-Sprecherin leitet beschlossene
-Anträge zur Verwendung von Mitteln aus dem Anteil des Verwahrhaushaltes, auf den nur mit Zustimmung des SP
-zugegriffen werden kann, unverzüglich dem SP-Präsidium zu. Das SP beschließt im Bereich des Studentinnensports nur
-über Finanzanträge, die von der OV beschlossen wurden.
+sind. Die OV beschließt über Finanzanträge mit der Mehrheit der anwesenden Mitglieder. Die OV-Sprecherin leitet
+beschlossene Anträge zur Verwendung von Mitteln aus dem Anteil des Verwahrhaushaltes, auf den nur mit
+Zustimmung des SP zugegriffen werden kann, unverzüglich dem SP-Präsidium zu. Das SP beschließt im Bereich des
+Studentinnensports nur über Finanzanträge, die von der OV beschlossen wurden.
 
 (5) Weiteres regelt die Finanzordnung für den Studentinnensport , die vom SP auf Vorschlag der OV beschlossen wird.
 
@@ -334,9 +347,8 @@ Tage nicht übersteigen.
 erfasst werden. In diesem Fall tritt die Unterschrift der Einzahlenden in der Liste an die Stelle der Einzelquittung.
 
 (4) Weiteres regelt die Finanzordnung.
+V Übergangs und Schlussbestimmungen
 
-
-## V Übergangs und Schlussbestimmungen
 
 ### § 12 Übergangsbestimmungen
 
@@ -355,14 +367,17 @@ Nr. 3b gilt die in der Anlage genannte.
 
 ### § 13 Schlussbestimmungen
 
-(1) Dieses Statut tritt am Tage nach seiner Annahme durch das SP in Kraft. Es ist in der AKUT zu veröffentlichen.
+(1) Dieses Statut tritt am Tage nach seiner Annahme durch das SP-Präsidium in Kraft. Es ist in der AKUT zu
+veröffentlichen.
 
 (2) Dieses Statut kann auf Beschluss des SP geändert werden. Der Beschluss erfordert drei getrennte Lesungen in
 verschiedenen Sitzungen. Mit Zustimmung der OV (Mehrheit der anwesenden Mitglieder der OV) kann er mit
-einfacher Mehrheit im SP gefasst werden; ohne Zustimmung der OV ist die Mehrheit der Stimmen der Mitglieder des
-SP erforderlich. Die Änderung tritt am Tage nach ihrer Annahme durch das SP in Kraft; sie ist in der AKUT zu
-veröffentlichen.
+einfacher Mehrheit im SP gefasst werden; ohne Zustimmung der OV ist die absolute Mehrheit der Stimmen der
+Mitglieder des SP erforderlich. Die Änderung tritt am Tage nach ihrer Annahme durch das SP in Kraft; sie ist in der
+AKUT zu veröffentlichen.
 
 (3) Bei Vorliegen eines Antrags auf Änderung des SpS ist dieser der OV vor Eintritt in die Erste Lesung unverzüglich
 durch das SP-Präsidium zur Stellungnahme zuzuleiten. Zu diesem Zweck ruht die Behandlung des Antrages im SP bis
-zum Vorliegen der Stellungnahme der OV, längstens jedoch 21 Semestertage.
+zum Vorliegen der Stellungnahme der OV, längstens jedoch 21 Semestertage.  
+In der 174.OV beschlossen und vom 38. Bonner Studierendenparlament auf der 8. ordentlichen Sitzung am 6.09.2016
+angenommen.

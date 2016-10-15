@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der OV
 short: Geschäftsordnung der OV
-date:  15. Juli 2015
+date:  4. Oktober 2016
 type:  Ordnung
 id:    GOOV
 contains:
@@ -14,6 +14,15 @@ contains:
   puborgan: AKUT
   pubdate:  18. Juli 2015
   puburl:  http://www.akut-bonn.de/wp-content/uploads/2015/07/AK_Ex_GO-Obleuteversammlung-10stk.pdf
+- title: Geschäftsordnung der Obleuteversammlung
+  short: Geschäftsordnung der OV
+  actorgan: Obleuteversammlung
+  actdate:  13. Juni 2016
+  confirmorgan: Studierendenparlament
+  confirmdate:  8. Juli 2016
+  puborgan: AKUT
+  pubdate:  4. Oktober 2016
+  puburl:  https://www.akut-bonn.de/wp-content/uploads/2016/10/akut_extra_2016-111.pdf
 
 ---
 
@@ -22,7 +31,7 @@ Die Obleuteversammlung (OV) des Hochschulsports der RFWU Bonn gibt sich gemäß 
 alle Personen- und Amtsbezeichnungen in weiblicher Form gebraucht, wobei die männliche Form
 stets eingeschlossen ist.
 
-## Allgemeiner Teil
+# Allgemeiner Teil
 
 ### § 1 Einberufung
 
@@ -37,7 +46,7 @@ Sportreferentin einberufen.
 - stimmberechtigte OV-Mitglieder
 - Vertreterinnen des allgemeinen Hochschulsports
 - Mitglieder der OV-Ausschüsse
-- AStA-Voristzende
+- AStA-Vorsitzende
 - AStA-Finanzreferentin.
 - ggf. Vorsitzende des SP-Sportausschusses.
 
@@ -49,28 +58,29 @@ der letzten OV-Sitzung beizufügen.
 
 ### § 2 Tagesordnung / Anträge
 
-(1) Die Tagesordnung ordentlicher Sitzungen muß folgende Punkte enthalten :
+(1) Die Tagesordnung ordentlicher Sitzungen muss folgende Punkte enthalten :
 
-    (a) Eröffnung / Protokollführerin
-    (b) endgültige Festlegung der Tagesordnung
-    (c) Genehmigung des Protokolls der vorangegangenen Sitzung
-    (d) Bericht der Sportreferentinnen
-    (e) Bericht der Leitung des allgemeinen Hochschulsports
-    (f) Anträge
-    (g) Verschiedenes
+a) Eröffnung / Protokollführerin
+b) endgültige Festlegung der Tagesordnung
+c) Genehmigung des Protokolls der vorangegangenen Sitzung
+d) Bericht der Sportreferentinnen
+e) Bericht der Leitung des allgemeinen Hochschulsports
+f) Anträge
+g) Verschiedenes
 
-(2) Auf Antrag eines OV-Mitgliedes oder OV-Ausschußmitgliedes sind mit einfacher Mehrheit
+(2) Auf Antrag eines OV-Mitgliedes oder OV-Ausschussmitgliedes sind mit einfacher Mehrheit
 weitere Tagesordnungspunkte aufzunehmen. Die OV kann unter (a) - (f) nicht aufgeführte Punkte
 gemäß § 9 dieser GO von der TO absetzen.
 
 (3) Finanzanträge müssen der Einladung beigefügt werden. Sie sind zu Beginn des TOP "Anträge"
 insgesamt mit ihrem Finanzvolumen zu verlesen. Zu anderen TOPen können Anträge jederzeit von
-OV-Mitgliedern und OV-Ausschußmitgliedern gestellt werden, wenn sie sich mit der verhandelten
+OV-Mitgliedern und OV-Ausschussmitgliedern gestellt werden, wenn sie sich mit der verhandelten
 Sache befassen.
 
-(4) Jedes Mitglied der Studentinnenschaft der Uni Bonn hat Antragsrecht bei der OV zu TOP (f)/(g).
+(4) Jedes Mitglied der Studentinnenschaft der Uni Bonn hat Antragsrecht bei der OV zu TOP (f) /
+(g).
 
-(5) Eine OV-Sitzung endet nach Abschluß der TO, spätestens jedoch um 24.00Uhr; ein begonnener
+(5) Eine OV-Sitzung endet nach Abschluss der TO, spätestens jedoch um 24.00Uhr; ein begonnener
 TOP kann zu Ende geführt werden.
 
 
@@ -92,7 +102,7 @@ Sitzungsleitung bis zum Ende des Redebeitrags an die Stellvertreterin oder bei d
 an ein anderes anwesendes OV-Mitglied abzugeben.
 
 (6) Die Leitung der Sitzung durch eine von der Debatte oder Abstimmung betroffene Person ist bis
-zum Abschluß des betreffenden Punktes nicht gestattet - ausgenommen sind Debatten zur GO.
+zum Abschluss des betreffenden Punktes nicht gestattet - ausgenommen sind Debatten zur GO.
 
 (7) Die OV-Sprecherin führt bei jeder Sitzung eine Anwesenheitsliste, die im Sportreferat
 aufbewahrt wird.
@@ -103,6 +113,9 @@ aufbewahrt wird.
 (1) Die Sitzungen der OV sind bis auf Personaldebatten hochschulöffentlich; § 15 (2) der GO bleibt
 unberührt. Zur Öffentlichkeit zählen nicht : OV-Mitglieder und deren Stellvertreterinnen sowie OV-
 Ausschußmitglieder, AStA-Vorsitzende sowie AStA-Finanzreferentin.
+
+(2) Alle Einladungen, Anschreiben, Anreden sind unabhängig von der einzelnen Anrede als
+gendergerecht zu verstehen.
 
 
 ### § 5 Rederecht
@@ -188,18 +201,14 @@ der OV-Sprecherin im Original zu unterzeichnen.
 (4) Es wird das Abstimmungsergebnis und ggf. Einstimmigkeit vermerkt. Auf Antrag eines OV-
 Mitglieds ist die Stimmenanzahl zu vermerken.
 
-(5) Bei nicht-geheimen Abstimmungen hat jedes OV-Mitglied das Recht, seine vom Beschluß
-abweichende Auffassung schriftlich und begründet dem Protokoll als Anlage beizufügen,
-ausgenommen bei GO-Anträgen.
-
-(6) Jedes OV Mitglied hat das Recht, seine vom Beschluß abweichende Auffassung schriftlich und
+(5) Jedes OV Mitglied hat das Recht, seine vom Beschluß abweichende Auffassung schriftlich und
 begründet dem Protokoll als Anlage beizufügen (Sondervotum); ausgenommen hiervon sind
 Abstimmungen zur GO. Darüber hinaus hat jedes OV-Mitglied das Recht, sein
 Abstimmungsverhalten, ausgenommen bei Abstimmungen zur GO, im Protokoll vermerken zu
 lassen.
 
 
-## Besondere Maßnahmen / Verfahren
+# Besondere Maßnahmen / Verfahren
 
 ### § 9 Geschäftsordnungsdebatten
 
@@ -217,10 +226,10 @@ lassen.
 - Antrag auf Aussetzung : der Punkt kann auf der nächsten Sitzung erneut beraten werden
 - Antrag auf Vertagung : der Punkt wird auf die Tagesordnung der nächsten Sitzung gesetzt
 - Antrag auf Nichtbefassung : der Punkt wird nicht erörtert, dies kann nur vor der Debatte des
-betreffenden Punktes beantragt werden.
+    betreffenden Punktes beantragt werden.
 - Antrag auf Schluß der Debatte und sofortige Abstimmung
-- Antrag auf Schluß der Rednerinnenliste : vor der Abstimmung darüber ist diese zu verlesen
-und gegebenenfalls um weitere Wortmeldungen zu ergänzen.
+- Antrag auf Schluß der Rednerinnenliste : vor der Abstimmung darüber ist diese zu
+    verlesen und gegebenenfalls um weitere Wortmeldungen zu ergänzen.
 - Antrag auf Fortsetzung der Rednerinnenliste
 - Antrag auf Dringlichkeit
 - Antrag auf Beschränkung der Redezeit
@@ -261,12 +270,12 @@ Antrags jederzeit das Recht auf Stellen der Vertrauensfrage.
 
 (2) Ein Tadels- oder Mißtrauensantrag gegen eine Sportreferentin oder ein OV-Ausschußmitglied
 oder ein Tadelsantrag gegen eine Obfrau kann durch mindestens drei stimmberechtigte OV-
-Mitglieder schriftlich bei der OV-Sprecherin eingebracht werden und wird ungeachtet einer Frist auf
-der nächsten OV-Sitzung behandelt.
+Mitglieder schriftlich bei der OV-Sprecherin eingebracht werden und wird ungeachtet einer Frist
+auf der nächsten OV-Sitzung behandelt.
 
 (3) Tadelsanträge bedürfen der einfachen Mehrheit der anwesenden stimmberechtigeten OV-
-Mitglieder. Mißtrauensanträge bedürfen der absoluten Mehrheit der gewählten OV-Mitglieder und
-können nur konstruktiv sein.
+Mitglieder. Mißtrauensanträge bedürfen der absoluten Mehrheit der anwesenden OV-Mitglieder
+und können nur konstruktiv sein.
 
 (4) Wird einer der Sportreferentinnen von der OV das Mißtrauen ausgesprochen, so stellt damit die
 OV einen Antrag des konstruktiven Mißtrauens an das SP gemäß § 6 (8) des SpS und schlägt dem
@@ -309,12 +318,12 @@ OV-Ausschuß-Vorsitzende auf der OV-Sitzung zu erscheinen und Auskunft zu erteil
 nicht möglich ist, kann die Anwesenheit auf der nächsten OV-Sitzung verlangt werden.
 
 
-## Wahlen und Ausschüsse
+# Wahlen und Ausschüsse
 
 ### § 15 Wahlen
 
-(1) Die Wahlen zu den Sportreferentinnen regelt das SpS § 6, die Wahl der OV-Sprecherin 
-das SpS § 4 (4), die Wahlen der Obleute das SpS § 3.
+(1) Die Wahlen zu den Sportreferentinnen regelt das SpS § 6, die Wahl der OV-Sprecherin das SpS
+§ 4 (4), die Wahlen der Obleute das SpS § 3.
 
 (2) Wahlen innerhalb der OV werden grundsätzlich mit einfacher Mehrheit der anwesenden,
 stimmberechtigten OV-Mitglieder entschieden, wenn die GO, das SpS oder übergeordnete
@@ -356,11 +365,12 @@ verhandeln oder Vorlagen in die OV einbringen.
 (3) Ständige Ausschüsse sind der Planungsausschuß ( PA-OV ), der Prüfungsausschuß ( PrA-OV )
 gemäß § 9 des SpS, und der Statut/GO-Ausschuß ( S&GO-OV ).
 
-(4) Jedem Ausschuß gehören mindestens drei Mitglieder an; Ausschußmitglieder können auch
-Nicht-OV-Mitglieder sein. Dem PrA-OV darf kein Mitglied des PA-OV und keine Sportreferentin
+(4) Jedem Ausschuß gehören mindestens drei Mitglieder an; Ausschußmitglieder müssen Mitglieder
+der Studierendenschaft sein. Dem PrA-OV darf kein Mitglied des PA-OV und keine Sportreferentin
 angehören.
 
-(5) Ausschußmitglieder werden von OV-Mitgliedern vorgeschlagen und durch Abstimmung nach § 14 dieser GO gewählt.
+(5) Ausschußmitglieder werden von OV-Mitgliedern vorgeschlagen und durch Abstimmung nach §
+14 dieser GO gewählt.
 
 (6) In den Ausschüssen haben alle Ausschußmitglieder Stimmrecht. Aus seiner Mitte wählt jeder
 Ausschuß eine Vorsitzende, die die Funktion der Berichterstatterin wahrnehmen kann. Für den
@@ -379,11 +389,11 @@ Ausschüsse ein und leitet diese bis zur Wahl einer Ausschußvorsitzenden.
 (9) Die Ausschüsse können jederzeit andere Personen zur Beratung hinzuziehen.
 
 
-## Schlußbestimmungen
+# Schlußbestimmungen
 
 ### § 18 Änderungen der GO
 
-(1) Änderungen der GO bedürfen der Zustimmung der absoluten Mehrheit der gewählten OV-
+(1) Änderungen der GO bedürfen der Zustimmung der absoluten Mehrheit der anwesenden OV-
 Mitglieder in drei Lesungen.
 
 (2) Die beschlossenen Änderungen sind dem SP von der OV-Sprecherin zur Genehmigung
@@ -400,11 +410,15 @@ erstmals durch die Anlage zum SpS geregelt.
 
 (2) Änderungen dieses Verzeichnisses bedürfen einer 2/3-Mehrheit der anwesenden OV-Mitglieder.
 
+
 ### § 20 Inkrafttreten
 
-(1) Diese GO tritt nach Annahme durch die OV mit der absoluten Mehrheit aller gewählten
+(1) Diese GO tritt nach Annahme durch die OV mit der absoluten Mehrheit aller anwesenden
 Mitglieder am 15.12.1994, nach sachlicher Angleichung an das SpS vom 30.11.1995 und nach
 Annahme durch das SP am 11.01.1996 in Kraft.
 
 (2) Diese GO wurde nach einstimmiger Annahme durch die OV am 18.06.2015 geändert und ist
-nach Annahme durch das 37. Bonner Studierenden Parlament am 15.07.2015 in Kraft getreten
+nach Annahme durch das 37. Bonner Studierenden Parlament am 15.07.2015 in Kraft getreten.
+
+(3) Diese GO wurde nach einstimmiger Annahme durch die OV am 13.06.2016 geändert und ist
+nach Annahme durch das 38. Bonner Studierendenparlament am 08.07.2016 in Kraft getreten.
