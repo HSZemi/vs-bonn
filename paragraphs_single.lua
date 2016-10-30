@@ -227,6 +227,10 @@ function DisplayMath(s)
   return "\\[" .. escape(s) .. "\\]"
 end
 
+function SoftBreak(s)
+  return "\n"
+end
+
 function Note(s)
   local num = #notes + 1
   -- insert the back reference right before the final closing tag.

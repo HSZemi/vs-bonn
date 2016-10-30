@@ -27,7 +27,7 @@ contains:
   actdate:  29. Juni 2015
   puborgan: AKUT
   pubdate:  1. Juli 2015
-  puburl:   http://www.akut-bonn.de/wp-content/uploads/2015/07/AK_Ex_%C3%84o-FKGO.pdf
+  puburl:   https://www.akut-bonn.de/wp-content/uploads/2015/12/AK_Ex_A%CC%88O%CC%88-FKGO.pdf
 
 ---
 
