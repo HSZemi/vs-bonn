@@ -28,6 +28,13 @@ contains:
   puborgan: AKUT
   pubdate:  1. Juli 2015
   puburl:   https://www.akut-bonn.de/wp-content/uploads/2015/12/AK_Ex_A%CC%88O%CC%88-FKGO.pdf
+- title:    Zweite Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich- Wilhelms- Universität Bonn [FKGO]
+  short:    2. Änderungsordnung der FKGO
+  actorgan: Fachschaftenkonferenz
+  actdate:  14. November 2016
+  puborgan: AKUT
+  pubdate:  16. November 2016
+  puburl:   https://www.akut-bonn.de/wp-content/uploads/2016/11/akut_extra_2016-15.pdf
 
 ---
 
@@ -437,28 +444,8 @@ Das Fachschaftenreferat stellt den Fachschaften einen Geschäftsordnungsauszug �
 (3) Im Falle einer unplanmäßigen Regelungslücke ist die Geschäftsordnung des Studierendenparlaments der RFWU Bonn entsprechend anzuwenden. 
 
 
-### § 35 Übergangsbestimmungen
-
-Abweichend von § 26 Abs. 8 gelten Anträge auf AFsG, die für Semester vor dem Wintersemester 2011/12 gestellt wurden, ab dem 1. April 2016 als nicht gestellt.
-
-
 ----
 
-# Anlage 1 zur FKGO (AFsG)
-
-## Summe der AFsG
-
-### § 01
-
-Soweit nicht anders bestimmt, beträgt die Gesamtsumme der pro
-Haushaltsjahr auszuschüttenden AFsG 80.000€.
-
-### § 02
-
-Für das Haushaltsjahr 2015/2016 beträgt die Gesamtsumme der
-auszuschüttenden AFsG 120.000€.
-
-----
 
 # Anlage Fachschaftenliste
 
@@ -477,15 +464,12 @@ Anglistik
   * Anglistik II (Promotion)
   * Anglistik/Amerikanische Sprache u. Literatur (Promotion)
   * Anglistik/Neuere Englische Literatur (Promotion)
-  * Anglistik/Englische Sprache u. mittelalterliche (Promotion)
   * Applied Linguistics (Master of Arts)
   * Englische Philologie (Promotion)
   * English Literatures and Cultures (Master of Arts)
   * English Studies (Bachelor of Arts)
   * Keltologie (Bachelor of Arts)
-  * Keltologie (Promotion)
   * North American Studies (Master of Arts)
-  * Vergleichende Indogermanische Sprachwissenschaft (Promotion)
 
 Archäologie
 ------------
@@ -502,31 +486,26 @@ Archäologie
 Biologie
 --------
   * Biologie (Bachelor of Science)
-  * Biologie (Diplom)
   * Biologie (Promotion)
   * Mikrobiologie (Master of Science)
-  * Molekulare Biotechnologie (Master of Science)
+  * Molecular Biology and Biotechnology (Master of Science)
   * Organismic Biology, Evolutionary Biology and Palaeobiology (Master of Science)
   * Plant Sciences (Master of Science)
 
 Chemie
 ------
   * Chemie (Bachelor of Science)
-  * Chemie (Diplom)
-  * Chemie (Master of Science)
   * Chemie (Promotion)
+  * Chemistry (Master of Science)
 
 ELW
 ---
   * Agricultural and Food Economics (Master of Science)
-  * Ernährungs- u. Haushaltswissenschaft (Diplom)
   * Ernährungs- u. Haushaltswissenschaft (Promotion)
   * Ernaehrungswiss. (Promotion)
   * Ernährungs- und Lebensmittelwissenschaften (Bachelor of Science)
-  * Ernährungs- und Lebensmittelwissenschaften (Master of Science)
   * Ernährungs- und Lebensmittelwissenschaften (Promotion)
   * Humanernährung (Master of Science)
-  * Lebensmitteltechnologie (Diplom)
   * Lebensmitteltechnologie (Promotion)
   * Lebensmittelchemie (Promotion)
   * Lebensmittelchemie (Staatsex.)
@@ -550,12 +529,12 @@ Evangelische Theologie
   * Evangelische Theologie (Magister Theologiae (ev.))
   * Evangelische Theologie (Master of Arts)
   * Evangelische Theologie (Promotion)
+  * Extended Ecumenical Studies (Master of Arts)
 
 GeKoSka
 -------
   * Ält.u.Neu.Germanistik (Promotion)
-  * Deutschkurs (Sprachprogramm)
-  * Dt.-Italien. Forschungen (Promotion)
+  * Deutsch als Zweit- und Fremdsprache (Bachelor of Arts)
   * Deutsche Sprache u.ältere deutsche Literatur (Promotion)
   * German and Comparative Literature (Master of Arts)
   * Germanistik (Bachelor of Arts)
@@ -582,9 +561,8 @@ Geodäsie
 Geographie
 ----------
   * Entwicklungsforschung (Promotion)
-  * Geographie (B.A.)
+  * Geographie (Bachelor of Arts)
   * Geographie (Bachelor of Science)
-  * Geographie (Diplom)
   * Geographie (Master of Science)
   * Geographie (Promotion)
   * Geography of Environmental Risks and Human Security (Master of Science)
@@ -597,7 +575,7 @@ Geschichte
   * Geschichte (Bachelor of Arts)
   * Geschichte (Master of Arts)
   * Geschichte (Promotion)
-  * Historische Hilfswissenschaften und Archivkunde (Promotion) [?]
+  * Historische Hilfswissenschaften u. Archivkunde (Promotion)
   * Mittelalterliche und neuere Geschichte (Promotion)
   * Mittelalterstudien (Master of Arts)
   * Osteuropäische Geschichte (Promotion)
@@ -610,6 +588,7 @@ Griechische und Lateinische Philologie
   * Griechische Literatur der Antike und ihr Fortleben (Bachelor of Arts)
   * Griechisch (LA BA Gym Ge)
   * Griechisch (LA MA Gym Ge)
+  * Griechische und Lateinische Literatur der Antike und ihr Fortleben (Bachelor of Arts)
   * Klassische Philologie/Griechisch (Promotion)
   * Klassische Philologie/Latein (Promotion)
   * Latein (LA BA Gym Ge)
@@ -622,12 +601,12 @@ Informatik
   * Computational Life Sciences (Promotion)
   * Computer Science (Master of Science)
   * Informatik (Bachelor of Science)
-  * Informatik (Diplom)
   * Informatik (Promotion)
   * Life Science Informatics (Master of Science)
 
 Jura
 ----
+  * Begleitfach Rechtswissenschaft (Bachelor of Arts)
   * Deutsches Recht (Master of Laws)
   * Deutsches Recht für im Ausland graduierte Juristen (Magister)
   * Law and Economics (Bachelor of Laws)
@@ -636,15 +615,19 @@ Jura
 
 Katholische Theologie
 ---------------------
-  * Katholische Theologie (Diplom)
   * Katholische Theologie (Kirchl.Ex.)
   * Katholische Theologie (Promotion)
+  * Katholische Theologie (Bachelor of Arts)
   * Katholische Theologie (Magister Theologiae (kath.))
+
+Kommunikation in der globalisierten Mediengesellschaft
+------------------------------------------------------
+  * Kommunikation in der globalisierten Mediengesellschaft (Bachelor of Arts)
 
 Kulturanthropologie
 -------------------
-  * Kulturanthropologie/ Volkskunde (Master of Arts)
-  * Volkskunde (Promotion)
+  * Kulturanthropologie/Volkskunde (Master of Arts)
+  * Kulturanthropologie/Volkskunde (Promotion)
 
 Kunstgeschichte
 ---------------
@@ -655,8 +638,6 @@ Kunstgeschichte
 Landwirtschaft
 --------------
   * Agrarwissenschaften (Bachelor of Science)
-  * Agrarwissenschaften (Diplom)
-  * Agrarwissenschaften (Master of Science)
   * Agrarwissenschaften (Promotion)
   * Agricultural Science and Resource-Management in the Tropics and Subtropics (Master of Science)
   * Naturschutz und Landschaftsökologie (Master of Science)
@@ -677,6 +658,8 @@ Lehramt
   * Chemie (LA MA Gym Ge)
   * Deutsch (LA BA Gym Ge)
   * Deutsch (LA MA Gym Ge)
+  * Didaktik der Geschichte (Promotion)
+  * Didaktik der Naturwissenschaften (Promotion)
   * Englisch (LA BA Gym Ge)
   * Englisch (LA MA Gym Ge)
   * Ernährungs- und Hauswirtschaftswissenschaft (LA BA Berufskolleg)
@@ -695,11 +678,14 @@ Lehramt
   * Italienisch (LA MA Gym Ge)
   * Katholische Religionslehre (LA MA Gym Ge)
   * Katholische Religionslehre (LA BA Gym Ge)
-  * Lebensmitteltechnologie (LA MA Berufskolleg)
+  * Lebensmitteltechnologie (Lebensmitteltechnik) (LA BA Berufskolleg)
+  * Lebensmitteltechnologie (Lebensmitteltechnik) (LA MA Berufskolleg)
+  * Markt und Konsum (LA BA Berufskolleg)
   * Markt und Konsum (LA MA Berufskolleg)
   * Mathematik (LA BA Gym Ge)
   * Mathematik (LA MA Gym Ge)
-  * Pflanzenwissenschaften (LA MA Berufskolleg)
+  * Pflanzenwissenschaften (Pflanzenbau) (LA BA Berufskolleg)
+  * Pflanzenwissenschaften (Pflanzenbau) (LA MA Berufskolleg)
   * Philosophie (LA BA Gym Ge)
   * Philosophie (LA MA Gym Ge)
   * Physik (LA BA Gym Ge)
@@ -708,31 +694,47 @@ Lehramt
   * Sozialwissenschaften (LA MA Gym Ge)
   * Spanisch (LA BA Gym Ge)
   * Spanisch (LA MA Gym Ge)
-  * Tierwissenschaften (LA MA Berufskolleg)
-  * Wirtsch./Sozialw. Landbau (LA MA Berufskolleg)
+  * Tierwissenschaften (Tierhaltung) (LA BA Berufskolleg)
+  * Tierwissenschaften (Tierhaltung) (LA MA Berufskolleg)
+  * Wirtschafts- und Sozialwissenschaften des Landbaus (LA BA Berufskolleg)
+  * Wirtschafts- und Sozialwissenschaften des Landbaus (LA MA Berufskolleg)
 
 Mathematik
 ----------
   * Mathematics (Master of Science)
   * Mathematik (Bachelor of Science)
-  * Mathematik (Diplom)
   * Mathematik (Promotion)
 
 Medienwissenschaften
 --------------------
-  * Evaluation (Master)
   * Kommunikationsforschung und Phonetik (Promotion)
   * Kommunikationswissenschaften (Bachelor of Arts)
+  * Medienkommunikation (Bachelor of Arts)
   * Medienwissenschaft (Bachelor of Arts)
   * Medienwissenschaft (Master of Arts)
   * Medienwissenschaft (Promotion)
-  * Osteuropastudien (B.A.)
+  * Sprachlernforschung (Bachelor of Arts)
+  * Sprachliche Kommunikation (Bachelor of Arts)
   * Übersetzungswissenschaft (Promotion)
 
 Medizin Klinik
 --------------
+  * Epidemiologie (Med.Doc/Doc.of Philosophy)
+  * Epidemiologie (Doctor of Philosophy)
+  * Experimentelle Medizin (Med.Doc/Doc.of Philosophy)
+  * Experimentelle Medizin (Doctor of Philosophy)
+  * Klinische Immunologie (Doctor of Philosophy)
+  * Klinische Medizin (Med.Doc/Doc.of Philosophy)
   * Medizin (Promotion)
   * Medizin (Staatsex.) [nach Physikum]
+  * Medizinische Biometrie (Med.Doc/Doc.of Philosophy)
+  * Medizinische Biometrie (Doctor of Philosophy)
+  * Medizinische Neurowissenschaften (Med.Doc/Doc.of Philosophy)
+  * Medizinische Psychologie (Doctor of Philosophy)
+  * Medizinische Soziologie (Doctor of Philosophy)
+  * Public Health (Med.Doc/Doc.of Philosophy)
+  * Versorgungsforschung (Med.Doc/Doc.of Philosophy)
+  * Versorgungsforschung (Doctor of Philosophy)
 
 Medizin-Vorklinik
 -----------------
@@ -742,12 +744,13 @@ Medizin-Vorklinik
 Meteorologie
 ------------
   * Meteorologie (Bachelor of Science)
-  * Meteorologie (Diplom)
   * Meteorologie (Promotion)
   * Physik der Erde und Atmosphäre (Master of Science)
 
 Molekulare Biomedizin
 ---------------------
+  * Biochemistry (Master of Science)
+  * Immunobiology: from molecules to integrative systems (Master of Science)
   * Life and Medical Sciences (Master of Science)
   * Molekulare Biomedizin (Bachelor of Science)
   * Molekulare Biomedizin (Promotion)
@@ -755,6 +758,7 @@ Molekulare Biomedizin
 Musikwissenschaft
 -----------------
   * Musikwissenschaft/Sound Studies (Bachelor of Arts)
+  * Musikwissenschaft (Bachelor of Arts)
   * Musikwissenschaft (Promotion)
   * Sound Studies (Master of Arts)
 
@@ -766,27 +770,27 @@ Neuroscience
 Orient Asia
 -----------
   * Arabistik (Promotion)
+  * Asiatische und Orientalische Schwerpunktsprachen (Bachelor of Arts)
   * Asienwissenschaften (Bachelor of Arts)
   * Asienwissenschaften (Master of Arts)
-  * Geschichte und Kultur der Region China, Mongolei, Tibet (Master of Arts)
-  * Geschichte und Kultur West- und Südasiens (Master of Arts)
+  * Chinesisch (Bachelor of Arts)
   * Indologie (Bachelor of Arts)
-  * Indologie (Promotion)
   * Islamwissenschaft/Nahostsprachen (Bachelor of Arts)
   * Islamwissenschaft (Promotion)
+  * Japanisch (Bachelor of Arts)
   * Japanologie (Promotion)
+  * Koreanisch (Bachelor of Arts)
+  * Mongolistik (Promotion)
   * Orientalische Kunstgeschichte (Promotion)
-  * Orientalische und Asiatische Sprachen (Master of Arts)
-  * Regionalwissenschaft Japan (Master of Arts)
+  * Ostasiatische Geschichte (Promotion)
   * Regionalwissenschaft Südostasien (Promotion)
-  * Regionalwissenschaft Südostasien (Master of Arts)
-  * Religionen und Kunst in den Kulturen Asiens (Master of Arts)
+  * Religionstheorie und interreligiöser Dialog (Promotion)
   * Sinologie (Promotion)
   * Sprach- u. Kulturwissenschaft Zentralasiens (Promotion)
-  * Sprach- u. Kulturwissenschaft Zentralasiens/Mongol (Promotion)
-  * Sprach- u. Kulturwissenschaft Zentralasiens/Tibeto (Promotion)
   * Südostasienwissenschaft (Bachelor of Arts)
+  * Südostasienwissenschaft (Promotion)
   * Tibetologie (Bachelor of Arts)
+  * Tibetologie (Promotion)
   * Vergleichende Religionswissenschaft (Bachelor of Arts)
   * Vergleichende Religionswissenschaft (Promotion)
 
@@ -811,7 +815,6 @@ Physik/Astronomie
   * Astronomie/Astrophysik (Promotion)
   * Astrophysik (Master of Science)
   * Physik (Bachelor of Science)
-  * Physik (Diplom)
   * Physik (Master of Science)
   * Physik (Promotion)
 
@@ -819,7 +822,6 @@ Politik &amp; Soziologie
 ------------------------
   * European Studies - Governance and Regulation (Master)
   * Gesellschaften, Globalisierung und Entwicklung (Master of Arts)
-  * Politik und Gesellschaft (Bachelor of Arts) [NF]
   * Politik und Gesellschaft (Bachelor of Arts)
   * Politikwissenschaft (Master of Arts)
   * Politische Wissenschaft (Promotion)
@@ -829,8 +831,8 @@ Psychologie
 -----------
   * Erziehungswissenschaft (Promotion)
   * Pädagogik (Promotion)
+  * Psychologie (Bachelor of Arts)
   * Psychologie (Bachelor of Science)
-  * Psychologie (Diplom)
   * Psychologie (Master of Science)
   * Psychologie (Promotion)
   * Rechtspsychologie (Master)
@@ -842,29 +844,25 @@ Romanistik
   * Deutsch-Französische Studien (Bachelor of Arts)
   * Deutsch-Französische Studien (Master of Arts)
   * Französistik (Bachelor of Arts)
-  * Gründungsmythen Europas in Literatur, Kunst und Musik (Promotion) [?]
   * Hispanistik (Bachelor of Arts)
   * Italianistik (Bachelor of Arts)
   * Renaissance-Studien (Master of Arts)
   * Romanische Philologie, 2 Teilgebiete (Promotion)
+  * Romanische Philologie (Promotion)
   * Romanistik (Bachelor of Arts)
   * Romanistik (Master of Arts)
   * Romanistik/Französische Philologie (Promotion)
   * Romanistik/Iberoromanische Philologie (Promotion)
   * Romanistik/Italienische Philologie (Promotion)
-  * Romanistik/Roman. Mediävistik (Promotion) [?]
   * Spanische Kultur im europäischen Kontext (Master of Arts)
-  * Trinationale Promotion Italianistik (Promotion) [?]
 
 Steinmann
 ---------
-  * Geologie/Paläontologie (Diplom)
   * Geologie/Paläontologie (Promotion)
   * Geophysik (Promotion)
   * Geowissenschaften (Bachelor of Science)
   * Geowissenschaften (Master of Science)
   * Geowissenschaften (Promotion)
-  * Mineralogie (Diplom)
 
 VWL
 ---
@@ -874,6 +872,7 @@ VWL
 
 Zahnmedizin
 -----------
+  * Zahnmedizin (Med.Doc/Doc.of Philosophy)
   * Zahnmedizin (Promotion)
   * Zahnmedizin (Staatsex.)
 
