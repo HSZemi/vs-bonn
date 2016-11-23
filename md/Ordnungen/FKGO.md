@@ -32,6 +32,8 @@ contains:
   short:    2. Änderungsordnung der FKGO
   actorgan: Fachschaftenkonferenz
   actdate:  14. November 2016
+  confirmorgan: Studierendenparlament
+  confirmdate: 16. November 2016
   puborgan: AKUT
   pubdate:  16. November 2016
   puburl:   https://www.akut-bonn.de/wp-content/uploads/2016/11/akut_extra_2016-15.pdf
