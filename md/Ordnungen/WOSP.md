@@ -1,7 +1,7 @@
 ---
 title: Wahlordnung für die Wahlen zum Studierendenparlament (WOSP)
 short: Wahlordnung für die Wahlen zum Studierendenparlament (WOSP)
-date:  29. April 2015
+date:  24. November 2016
 type:  Ordnung
 id:    WOSP
 contains:
@@ -23,6 +23,15 @@ contains:
   puborgan:  Amtliche Bekanntmachungen
   pubdate:   8. September 2015
   puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/263359
+- title: Zweite Ordnung zur Änderung der Wahlordnung für die Wahlen zum Studierendenparlament
+  short: 2\. Wahlordnungsänderungsordnung
+  actorgan: Studierendenparlament
+  actdate:  19. Oktober 2016
+  confirmorgan: Rektorat
+  confirmdate: 15. November 2016
+  puborgan:  Amtliche Bekanntmachungen
+  pubdate: 24. November 2016
+  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/299983
 
 ---
 
@@ -71,20 +80,43 @@ Während der Wahlwoche kann die Ladungsfrist nach Beschluss verkürzt werden.
 
 (10) Konnten Beschlüsse wegen Beschlussunfähigkeit nicht gefasst werden, so ist unverzüglich eine neue Sitzung einzuberufen, die unabhängig von der Anzahl der erschienen Mitglieder beschlussfähig ist.
 
-(11) Gegen alle Beschlüsse und Entscheidungen kann der Ältestenrat (ÄR) angerufen werden. 
-Das Nähere regelt die Verfahrensordnung des Ältestenrates.
+(11) Gegen Beschlüsse und Entscheidungen des Wahlausschusses und der
+Wahlleiterin kann der Ältestenrat (ÄR) angerufen werden, soweit kein
+Verwaltungsakt im Sinne des § 35 Verwaltungsverfahrensgesetz NRW (VwVfG
+NRW) angegriffen wird. Das Nähere regelt die Verfahrensordnung des
+Ältestenrates.
+
+(12) Der Wahlleiterin obliegt die Vorbereitung, Einberufung und Leitung der
+Ausschusssitzungen sowie die Durchführung der Beschlüsse des
+Wahlausschusses. Sie übt bei den Sitzungen des Wahlausschusses das Hausrecht
+aus. Im Verhinderungsfall übernimmt die Stellvertreterin diese Aufgaben.
 
 
 ### § 4 Aufgaben des Wahlausschusses
 
 (1) Der Wahlausschuss nimmt die ihm durch die Wahlordnung übertragenen Aufgaben wahr. Er ist für die ordnungsgemäße Vorbereitung und Durchführung der Wahlen verantwortlich.
 
-(2) Die Verhandlungen des Wahlausschusses sind öffentlich.
+(2) Die Sitzungen des Wahlausschusses sind grundsätzlich öffentlich. Die
+Nichtöffentlichkeit kann ausnahmsweise für bestimmte Tagesordnungspunkte
+nach Beschluss hergestellt werden, soweit dies hinsichtlich der Wahrnehmung der
+übertragenen Aufgaben verhältnismäßig ist. Die Mitglieder des Ältestenrates
+gehören nicht zur Öffentlichkeit. Über den Inhalt nichtöffentlicher Beratungen ist
+Stillschweigen zu bewahren. Personen, die die Ordnung und Ruhe der Sitzungen
+des Wahlausschusses stören, können aus dem Sitzungsraum verwiesen werden.
 
 (3) Über die Verhandlungen des Wahlausschusses und seine Beschlüsse sind Niederschriften anzufertigen, die von der Wahlleiterin sowie einem weiteren Mitglied des Wahlausschusses und der Protokollführerin zu unterzeichnen sind. Diese Protokolle sollen dem Ältestenrat, dem SP, dem AStA und den Hochschulgruppen zugeleitet werden.
 Der AStA-Vorsitz sowie der WA haben die Protokolle zur allgemeinen Einsichtnahme zu verwahren. Die Protokolle sind bis spätestens zum 10. Tag nach der jeweiligen Sitzung zuzuleiten. Bei verspäteter Zuleitung wird dem mit der Protokollführung betrauten WA-Mitglied ein Teil seiner Aufwandsentschädigung abgezogen. Die hier genannten Protokolle ersetzen nicht die Protokolle gemäß § 20 WO, sondern stellen eine Ergänzung dar.
 
-(4) Wahlausschuss und Wahlleiterin können zur ordnungsgemäßen Durchführung der Wahlen Anordnungen mit Wirkung für die gesamte Studierendenschaft treffen.
+(4) Der Wahlausschuss und in eilbedürftigen oder in nach dieser Wahlordnung
+zuständigen Fällen die Wahlleiterin können zur ordnungsgemäßen Vorbereitung
+und Durchführung der Wahlen Anordnungen mit Wirkung für die gesamte oder
+Teile der Studierendenschaft treffen. Stellt die Anordnung einen Verwaltungsakt
+im Sinne des § 35 Verwaltungsverfahrensgesetzes NRW (VwVfG NRW) dar,
+findet das Verwaltungsvollstreckungsgesetz NRW (VwVG NRW) in der jeweils
+gültigen Fassung Anwendung.
+
+(5) Eilentscheidungen der Wahlleiterin nach Absatz 4 sind dem Wahlausschuss
+unverzüglich zur Genehmigung vorzulegen.
 
 
 ### § 5 Aufwandsentschädigung
@@ -135,14 +167,27 @@ handelt.
 
 
 ### § 6 Wahlhelferinnen
-Für die ordnungsgemäße Durchführung der Wahlen werden vom Wahlausschuss nach öffentlicher Ausschreibung freiwillige Wahlhelferinnen eingesetzt.
+
+(1) Für die ordnungsgemäße Durchführung der Wahlen werden vom
+Wahlausschuss nach öffentlicher Ausschreibung freiwillige Wahlhelferinnen
+eingesetzt.
+
+(2) Die Wahlleiterin ist gegenüber den eingesetzten Wahlhelferinnen
+weisungsbefugt. Insbesondere können in erforderlichen Fällen einzelnen
+Wahlhelferinnen von der Zuteilung abweichende Aufgaben zugewiesen werden.
+Werden die Wahlhelferinnen gemeinsam mit der Universitätsverwaltung
+beschäftigt, erfolgt die Weisungsbefugnis nach Satz 1 im Benehmen mit der
+Verwaltung.
 
 
 ### § 7 Unvereinbarkeit
-Mitglieder des Wahlausschusses und Wahlhelferinnen bei der Wahl und beim Auszählen der Stimmen dürfen nicht sein:
 
-1. Wahlkandidatinnen
-2. Mitglieder oder Mitarbeiterinnen des allgemeinen Studierendenausschusses.
+(1) Wahlausschussmitglieder, Wahlhelferinnen und Auszählhelferinnen dürfen
+nicht für die Wahl kandidieren.
+
+(2) Wahlausschussmitglieder dürfen nicht gleichzeitig Mitglied oder Mitarbeiterin
+des AStA sein.
+
 
 # III. Vorbereitung der Wahlen und Wahlvorschläge
 
@@ -214,7 +259,14 @@ der Wahlbekanntmachung;
 11. Unterschrift unter den Wahlvorschlag.
 
 
-(5) Auf schriftlichen Antrag, der vor Ablauf der Frist zur Einreichung der Listenbewerbung von der Kandidatin an den Wahlausschuss zu stellen ist, wird der Spitzname der Kandidatin in der Bekanntmachung der Wahlbewerbungen und auf dem Stimmzettel vermerkt. Der Antrag muss die Bezeichnung des Spitznamens enthalten.
+(5) Ordens-, Künstler- oder Spitznamen werden auf Antrag der Kandidatin
+zusätzlich angefügt, sofern diese in amtlichen Ausweisen gem. § 5 Abs. 2 Nr. 12
+PAuswG oder § 4 Abs. 1 Nr. 4 PassG eingetragen sind. Akademische Grade sind
+auf Antrag der Kandidatin zulässig, sofern dem Wahlausschuss entsprechende
+Nachweise vorgelegt werden. Die Anträge nach Satz 1 und Satz 2 müssen dem
+Wahlausschuss schriftlich vor Ablauf der Einreichungsfrist der Listenbewerbung
+zugehen. Sonstige Einträge sind auf der Bekanntmachung der Wahlbewerbungen
+oder auf dem Stimmzettel unzulässig.
 
 
 ### § 11 Rücktritt von Kandidatinnen
@@ -244,9 +296,10 @@ der Wahlbekanntmachung;
 
 (6) Nach Prüfung und gegebenenfalls Korrektur der Listenbewerbungen erstellt der Wahlausschuss für jede Listenbewerbung ein Verzeichnis, das die für die Wahl relevanten Daten enthält. Dies sind insbesondere der Listenname sowie für jede Kandidatur Vor- und Nachnamen, Studiengang und Platz in der Listenreihung. Jeder Vertrauensperson wird dann dieses Verzeichnis ihrer Liste übersandt. Der Wahlausschuss setzt eine Frist fest, innerhalb derer die Vertrauenspersonen Korrekturen an diesem Verzeichnis fordern können. Korrekturforderungen sind zu begründen. Erkennt der Wahlausschuss die vorgebrachten Gründe an, wird die Listenbewerbung entsprechend geändert. Erkennt er sie nicht an, entscheidet der Ältestenrat.
 
-(7) Der Wahlausschuss beschließt nach Ablauf dieser Frist endgültig die Zulassung der Listenbewerbungen zur Wahl.
-
-(8) Gegen eine Streichung oder Zurückweisung kann innerhalb von drei Tagen beim ÄR Beschwerde eingereicht werden, über die unverzüglich zu entscheiden ist. Das Recht auf Wahlanfechtung bleibt unberührt.
+(7) Der Wahlausschuss beschließt nach Ablauf dieser Frist über die Zulassung der
+Listenbewerbungen zur Wahl. Die Entscheidung wird unter Anwendung des
+Landeszustellungsgesetzes NRW (LZG NRW) in der jeweils gültigen Fassung
+zugestellt.
 
 
 ### § 13 Bekanntmachung der Wahlbewerbungen
@@ -298,28 +351,49 @@ Sie wird durch Nummerierung vor dem Namen deutlich gemacht. Hinter dem Namen sin
 
 ### § 17 Wahlsicherung
 
-(1) Die Wahlleiterin verteilt die öffentlich versiegelten Urnen und die Wahlutensilien an die Wahlhelferinnen; diese haben den Empfang durch Unterschrift zu quittieren.
+(1) Für jede Urne wird ein Urnenbuch geführt. Das Urnenbuch ist eine
+zusammengesetzte Urkunde zur Dokumentation der Einhaltung der
+Wahlsicherungsvorschriften im Sinne dieser Wahlordnung in Bezug auf die
+zugehörige Urne. Im Urnenbuch müssen enthalten sein:
 
-(2) Jede Wahlurne soll stets von mindestens drei und muss stets von mindestens zwei Wahlhelferinnen besetzt sein, die für die ordnungsgemäße Durchführung der Wahl an dieser Urne verantwortlich sind. Die Wahlhelferinnen an einer Urne dürfen nicht der selben Hochschulgruppe angehören. Verlässt eine Wahlhelferin die Wahlurne, so wird bis zu ihrer Rückkehr der Wahlakt an dieser Urne durch Zwischensiegelung unterbrochen, sofern weniger als 2 Wahlhelferinnen an der Urne verbleiben würden.
+1. die Bestätigung, dass die Vorschriften des § 17 eingehalten worden sind;
+2. Ort, Beginn und Ende des jeweiligen Wahlabschnittes;
+3. die Unterschrift aller beteiligten Wahlhelferinnen;
+4. die schriftliche Erklärung der Mitglieder des Wahlausschusses, dass die Urne
+ordnungsgemäß übergeben worden ist;
+5. besondere Vorkommnisse die Wahl betreffend. Die Urnenbücher sind nach
+Beendigung der Wahl unverzüglich dem Wahlprüfungsausschuss zuzuleiten.
 
-(3) Die Wahlhelferinnen tragen bei Verlassen der Wahlurne in eine Liste die Zeit ein, in der sie die angewiesene Urne beaufsichtigt haben. Sie bestätigen durch ihre Unterschrift, dass an ihrer Wahlurne die Wahl während dieser Zeit ordnungsgemäß durchgeführt wurde.
+(2) Die Mitglieder des Wahlausschusses verteilen die öffentlich versiegelten
+Urnen und die Wahlutensilien an die Wahlhelferinnen. Diese haben den Empfang
+durch Unterschrift im Urnenbuch zu quittieren.
 
-(4) An jeder Wahlurne wird die vom Wahlausschuss herausgegebene Liste der Kandidatinnen zur Einsicht durch die Wählerinnen ausgelegt.
+(3) Jede Wahlurne soll stets von mindestens drei und muss stets von mindestens zwei Wahlhelferinnen besetzt sein, die für die ordnungsgemäße Durchführung der Wahl an dieser Urne verantwortlich sind. Die Wahlhelferinnen an einer Urne dürfen nicht der selben Hochschulgruppe angehören. Verlässt eine Wahlhelferin die Wahlurne, so wird bis zu ihrer Rückkehr der Wahlakt an dieser Urne durch Zwischensiegelung unterbrochen, sofern weniger als 2 Wahlhelferinnen an der Urne verbleiben würden.
 
-(5) Der Wahlausschuss stellt sicher, dass beim Wahlbüro während der Wahl eingesehen werden können:
+(4) Die Wahlhelferinnen tragen bei Verlassen der Wahlurne in das Urnenbuch die
+Zeit ein, in der sie die angewiesene Urne beaufsichtigt haben. Sie bestätigen durch
+ihre Unterschrift, dass an ihrer Wahlurne die Wahl während dieser Zeit
+ordnungsgemäß durchgeführt wurde.
+
+(5) An jeder Wahlurne wird die vom Wahlausschuss herausgegebene Liste der Kandidatinnen zur Einsicht durch die Wählerinnen ausgelegt.
+
+(6) Der Wahlausschuss stellt sicher, dass beim Wahlbüro während der Wahl eingesehen werden können:
 
 1. die Satzung der Studierendenschaft;
 2. die Wahlordnung.
 
-(6) Nach Beendigung jedes Wahltages sind die Urnen durch den Wahlausschuss zu versiegeln und in einem geeigneten Raum zu verwahren.
+(7) Nach Beendigung jedes Wahltages sind die Urnen zu versiegeln und in einem
+geeigneten Raum zu verwahren.
 
-(7) Nach Abschluss der Wahl sind die Urnen von der Wahlleiterin wieder zu entsiegeln. Die Wahlleiterin hat die Unversehrtheit der Siegel in einem Protokoll festzustellen.
+(8) Nach Abschluss der Wahl sind die Urnen von der Wahlleiterin wieder zu
+entsiegeln. Die Wahlleiterin hat im Urnenbuch die Unversehrtheit der Siegel zu
+dokumentieren.
 
-(8) Ergeben sich bei der Feststellung der ordnungsgemäßen Versiegelung Unregelmäßigkeiten, so hat der Wahlausschuss die erforderlichen Maßnahmen zu treffen.
+(9) Ergeben sich bei der Feststellung der ordnungsgemäßen Versiegelung Unregelmäßigkeiten, so hat der Wahlausschuss die erforderlichen Maßnahmen zu treffen.
 
-(9) Versiegelung und Entsiegelung erfolgen öffentlich.
-
-(10) Gegen alle Entscheidungen der Wahlleiterin und des Wahlausschusses kann der Ältestenrat angerufen werden.
+(10) Die Versiegelung vor der Wahl und Entsiegelung nach der Wahl erfolgen
+öffentlich durch die Wahlleiterin. Der Ältestenrat soll als Wahlbeobachter diesen
+Amtshandlungen beiwohnen. Es gilt § 3 Abs. 12 sinngemäß.
 
 (11) Im Umkreis von 5 Metern um die Wahllokale ist jegliche Form der Wahlwerbung für Wahlvorschläge untersagt (Bannmeile). Der Wahlausschuss überwacht die Einhaltung dieser Vorschrift. Vom Wahlausschuss veröffentlichte Dokumente dürfen auch innerhalb der Bannmeile ausliegen.
 
@@ -330,26 +404,28 @@ Sie wird durch Nummerierung vor dem Namen deutlich gemacht. Hinter dem Namen sin
 
 (2) Während der Stimmabgabe wird der Studierendenausweis der Wählerin durch die Wahlhelferin gekennzeichnet.
 
-(3) Über die in die Urne abgegebenen Stimmzettel ist von den Wahlhelferinnen eine Wählerinnenliste zu führen, die Name, Vorname, Matrikelnummer, und Unterschrift der Wählerin enthält.
+(3) Die in die Urne abgegebenen Stimmzettel sind von den Wahlhelferinnen im
+Urnenbuch in der Reihenfolge der Stimmabgabe mit Name, Vorname,
+Matrikelnummer und Unterschrift der Wählerin zu dokumentieren.
 
 (4) Studierende, die eine Ersatzausfertigung ihres Studierendenausweises erhalten haben, sind in einer gesonderten Liste zu erfassen, die von der Hochschulverwaltung erstellt wird. Anhand dieser Liste überprüfen die Wahlhelferinnen die Wahlberechtigung.
+
+(5) In Fällen, in denen anhand des Studierendenausweises oder wegen sonstiger
+Gründe die Wahlberechtigung der Wählerin zweifelhaft ist, wird von den
+Wahlhelferinnen unverzüglich die Wahlleiterin kontaktiert. Die Stimmabgabe ist
+bis zur Entscheidung zu untersagen. Ist eine Klärung telefonisch nicht möglich,
+wird die Wählerin in das Wahlbüro verwiesen.
 
 
 ### § 19 Briefwahl
 
-(1) Von der Briefwahlmöglichkeit kann jede Studentin unter Angabe von Gründen
-auf schriftlichen Antrag hin Gebrauch machen. Der Antrag zur Briefwahl muss bei
-der Wahlleiterin gestellt werden. Auf dem Briefwahlantrag hat jede Briefwählerin
-neben Namen, Anschrift und Matrikelnummer folgende Angaben zu machen:
-
-1. eine Begründung für die Verhinderung einer persönlichen Stimmabgabe
-während der Wahltage;
-
-2. die Versicherung, die zugesandten Wahlunterlagen persönlich auszufüllen und
-nicht an andere Personen weiterzugeben.
-
-Der Antrag muss spätestens am sechsten Tag vor der Wahl bei der Wahlleiterin einge-
-gangen sein.
+(1) Von der Briefwahlmöglichkeit kann jede Studentin auf schriftlichen Antrag hin
+Gebrauch machen. Der Antrag zur Briefwahl muss bei der Wahlleiterin gestellt
+werden. Auf dem Briefwahlantrag hat jede Briefwählerin neben Namen, Anschrift
+und Matrikelnummer die Versicherung abzugeben, dass die Wahlunterlagen
+persönlich ausgefüllt und nicht an andere Personen weitergegeben wurden. Der
+Antrag muss spätestens am sechsten Tag vor der Wahl bei der Wahlleiterin
+eingegangen sein.
 
 (2) Die Briefwahlunterlagen müssen eine Belehrung über die rechtlichen Folgen einer
 Wahlfälschung enthalten. Jede Briefwählerin hat die Briefwahlunterlagen bis
@@ -367,11 +443,10 @@ aufgestellten Urnen zu wählen, noch ihre Briefwahlunterlagen persönlich bei de
 Wahlleiterin abzuholen, können die Briefwahlunterlagen schriftlich bei der
 Wahlleiterin anfordern. Hierzu ist der Wahlleiterin bis spätestens sechs Tage vor
 Wahlbeginn ein schriftlicher Antrag zuzusenden. Jene Briefwählerinnen, die ihre
-Briefwahlunterlagen schriftlich anfordern, haben zusätzlich zu den in Abs. 1
-geforderten Angaben schriftlich die Gründe zu nennen, die es ihnen unmöglich
-machen, ihre Briefwahlunterlagen persönlich bei der Wahlleiterin abzuholen. Nach
-Prüfung des Briefwahlantrages und der Wahlberechtigung der Antragstellerin durch
-die Wahlleiterin werden der Briefwählerin die Briefwahlunterlagen zugesandt.
+Briefwahlunterlagen schriftlich anfordern, haben die in Absatz 1 geforderten
+Daten und Erklärungen abzugeben. Nach Prüfung des Briefwahlantrages und der
+Wahlberechtigung der Antragstellerin durch die Wahlleiterin werden der
+Briefwählerin die Briefwahlunterlagen zugesandt.
 
 (4) Der Stimmzettel ist von der Briefwählerin in einem verschlossenen Umschlag
 (Wahlbrief) unterzubringen. Auf dem Stimmzettel oder dem Wahlbrief dürfen
@@ -391,25 +466,25 @@ ausgefüllt wurde.
 (6) Sämtliche Briefwählerinnen sind in einer gesonderten Liste zu erfassen, die den Wahlhelferinnen an die einzelnen Urnen mitzugeben ist.
 
 
-### § 20 Wahlprotokolle
+### § 20 Wahlprotokoll
 
-Über den Verlauf der Wahl ist unter Verantwortung des Wahlausschusses Protokoll zu führen. Das Protokoll muss enthalten:
+Über den Verlauf der Wahl ist unter Verantwortung des Wahlleiterin Protokoll zu
+führen. Das Protokoll muss enthalten:
 
-1. die Bestätigung, dass die Vorschriften des § 17 eingehalten worden sind;
-2. Ort, Beginn und Ende des jeweiligen Wahlabschnittes;
-3. die Unterschrift aller beteiligten Wahlhelferinnen;
-4. die schriftliche Erklärung der Wahlleiterin, dass ihr die Urnen ordnungsgemäß über-
-	geben worden sind;
-5. besondere Vorkommnisse die Wahl betreffend.
-
-Dieses Protokoll ist unverzüglich dem Ältestenrat und dem Wahlprüfungsausschuss zuzuleiten
+1. die schriftliche Erklärung der Wahlleiterin, dass die Wahl im Sinne dieser
+Wahlordnung ordnungsgemäß durchgeführt worden ist;
+2. besondere Vorkommnisse die Wahl betreffend.
+Dieses Protokoll ist unverzüglich dem Wahlausschuss, dem
+Studierendenparlament und dem Ältestenrat zuzuleiten.
 
 
 ### § 21 Pflichten der Wahlleiterin
 
-(1) Die Wahlleiterin bzw. ihre Stellvertreterin im Wahlausschuss müssen während der Wahltage ständig erreichbar sein u.a. zur Entgegennahme von Beschwerden.
+(1) Die Wahlleitung ist während der Wahltage von 7 Uhr bis 21 Uhr stets
+telefonisch erreichbar.
 
-(2) Die Wahlleiterin hat sich in allen Wahllokalen von der ordnungsgemäßen Wahldurchführung zu überzeugen. Die Wahlleiterin hat dem Studierendenparlament und dem Ältestenrat einen schriftlichen Bericht vorzulegen, wenn das Studierendenparlament zu seiner ersten Sitzung zusammentrifft. Ein Bericht ist auch dem Wahlausschuss vorzulegen.
+(2) Die Wahlleiterin hat sich stichprobenartig in den Wahllokalen und anhand der
+Urnenbücher von der ordnungsgemäßen Wahldurchführung zu überzeugen.
 
 
 # V. Feststellung und Bekanntgabe des Wahlergebnisses
@@ -420,11 +495,16 @@ Dieses Protokoll ist unverzüglich dem Ältestenrat und dem Wahlprüfungsausschu
 
 (2) Die Wahlleiterin prüft die Siegel auf ihre Unversehrtheit.
 
-(3) Die Auszählung der Stimmen wird unter der Aufsicht des Ältestenrates durch die Wahlleiterin, die Mitglieder des Wahlausschusses und die hierfür bestimmten Helferinnen unverzüglich nach Beendigung der Wahl durchgeführt.
+(3) Die Auszählung der Stimmen erfolgt unter Aufsicht der Wahlleitung durch die
+Mitglieder des Wahlausschusses und die hierfür bestimmten Wahlhelferinnen
+unverzüglich nach Beendigung der Wahl. Der Ältestenrat ist als Wahlbeobachter
+zur Anwesenheit im Auszählbereich berechtigt.
 
-(4) Die Auszählung erfolgt öffentlich.
+(4) Die Auszählung erfolgt öffentlich. Die Wahlleiterin kann Personen, die die
+Ordnung und Ruhe stören, aus dem Auszählungsraum verweisen.
 
 (5) Der Stimmzettel ist ungültig, wenn
+
 a) auf ihm mehr als eine Stimme abgegeben wurde;
 b) er außer der ordnungsgemäßen Stimmabgabe irgendwelche Zusätze enthält;
 c) der Wille der Wählerin nicht zweifelsfrei erkennbar ist;
@@ -433,9 +513,13 @@ Im Zweifelsfall entscheidet der Wahlausschuss über die Gültigkeit von Stimmen.
 
 (6) Werden mehrere Kandidatinnen einer Liste oder mehrere Kandidatinnen einer Liste und zusätzlich die Liste angekreuzt, so ist in Abweichung von Abs. 5 lit. a) dieser Wahlordnung der Stimmzettel gültig. Die Stimme wird dann nur der Liste zugerechnet.
 
-(8) Werden eine Kandidatin und die Liste angekreuzt, für die sie kandidiert, so ist in Abweichung von Abs. 5 lit. a) dieser Wahlordnung der Stimmzettel gültig. Die Stimme wird der Kandidatin zugerechnet.
+(7) Werden eine Kandidatin und die Liste angekreuzt, für die sie kandidiert, so ist in Abweichung von Abs. 5 lit. a) dieser Wahlordnung der Stimmzettel gültig. Die Stimme wird der Kandidatin zugerechnet.
 
-(7) Nach Auszählung sind die Stimmzettel bis zum Ablauf der Einspruchsfrist gegen die Gültigkeit der Wahl bzw. bis zur endgültigen Entscheidung des neuen Studierendenparlaments über die Gültigkeit seiner Wahl versiegelt aufzubewahren.
+(8) Die Wahlleiterin kann durch Verwaltungsvorschrift den Ablauf einer
+ordnungsgemäßen Auszählung der Wahl für alle Beteiligte regeln, soweit dies
+nicht bereits durch die Wahlordnung erfolgt ist.
+
+(9) Nach Auszählung sind die Stimmzettel bis zum Ablauf der Einspruchsfrist gegen die Gültigkeit der Wahl bzw. bis zur endgültigen Entscheidung des neuen Studierendenparlaments über die Gültigkeit seiner Wahl versiegelt aufzubewahren.
 
 
 ### § 23 Sitzverteilung
@@ -453,8 +537,9 @@ Im Zweifelsfall entscheidet der Wahlausschuss über die Gültigkeit von Stimmen.
 (6) Würde das Sitzverteilungsverfahren mehr Sitze zuteilen als das SP Sitze hat, entscheidet unter Beachtung der ursprünglichen Zuteilungsreihenfolge das Los unter Aufsicht der Wahlleiterin, welchen Bewerbungen die zu vergebenden Sitze tatsächlich zugeteilt werden.
 
 
-### § 24 Bekanntgabe des Wahlergebnisses
-Das Wahlergebnis für die Wahl zum Studierendenparlament muss enthalten:
+### § 24 Bekanntgabe von Mitteilungen und Wahlergebnissen
+
+(1) Das Wahlergebnis für die Wahl zum Studierendenparlament muss enthalten:
 
 1. die Zahl der Wahlberechtigten;
 2. die Zahl der abgegebenen Stimmen;
@@ -462,8 +547,32 @@ Das Wahlergebnis für die Wahl zum Studierendenparlament muss enthalten:
 4. die Zahl der gültigen Stimmen;
 5. die Zahl der auf jede einzelne Kandidatin entfallenen gültigen Stimmen;
 6. die Zahl der auf jede Listenverbindung entfallenen gültigen Stimmen;
-7. die Angabe der Zahl der auf jede Listenverbindung entfallenden Sitze (Sitzverteilung);
+7. die Angabe der Zahl der auf jede Listenverbindung entfallenden Sitze
+(Sitzverteilung);
 8. die Angabe darüber, welche Kandidatinnen gewählt sind und welche nicht.
+
+(2) Über das Ergebnis der Wahl wird von der Wahlleiterin ein Protokoll
+angefertigt, das von ihr sowie dem Wahlausschuss zu unterzeichnen und unter
+Verschluss aufzubewahren ist. Je ein Doppel des Protokolls ist der Vorsitzenden
+des Ältestenrates, der Vorsitzenden des Allgemeinen Studierendenausschusses und
+der neuen 1. Sprecherin des Studierendenparlaments zu übersenden. Das Protokoll
+ist spätestens drei Tage nach Ermittlung des Wahlergebnisses nach Absatz 1 zu
+veröffentlichen.
+
+(3) Bekanntgaben von einzelnen Urnenergebnissen während der Auszählung oder
+von vorläufigen Endergebnissen durch die Wahlleiterin sind zulässig. Diese
+entfalten keine Rechtswirkung. Ein Anspruch auf Bekanntgabe oder Mitteilung
+besteht nicht. Mangels Gewährleistung des Wahlgeheimnisses sind Bekanntgaben
+der nach Urne aufgeschlüsselten Personenstimmen unzulässig.
+
+(4) Mitteilungen über die Wahlbeteiligung erfolgen nach jedem Wahltag durch die
+Wahlleiterin. Für den Fall einer parallel durchgeführten Urabstimmung erfolgt die
+letzte Mitteilung über die Wahlbeteiligung nach dem zweiten Wahltag.
+
+(5) Mitteilungen über einzelne Urnenergebnisse, vorläufige Endergebnisse oder
+Wahlbeteiligungen vor öffentlicher Bekanntgabe nach Absatz 3 Satz 1 bzw.
+Absatz 4 Satz 1 durch andere Mitglieder des Wahlausschusses, des Ältestenrates
+oder durch die Wahlhelferinnen sind unzulässig.
 
 
 ### § 25 Benachrichtigung
@@ -481,12 +590,7 @@ sein und dort über ihre Tätigkeit zu berichten.
 Kontaktdaten aller gewählten Kandidatinnen, Stellvertreterinnen und Nachrückerinnen.
 
 
-### § 26 Protokoll
-Über das Ergebnis der Wahl wird von der Wahlleiterin ein Protokoll angefertigt, das von ihr sowie dem Wahlausschuss zu unterzeichnen und unter Verschluss aufzubewahren ist. Je ein Doppel des Protokolls ist der Vorsitzenden des Ältestenrates, der Vorsitzenden des Allgemeinen Studierendenausschusses und der 1. Sprecherin des Studierendenparlaments zu übersenden.
-Das Protokoll ist spätestens drei Tage nach Ermittlung des Wahlergebnisses zu veröffentlichen.
-
-
-### § 27 Nachrückerinnen
+### § 26 Nachrückerinnen
 
 (1) Bei Ausscheiden oder Verzicht einer gewählten Studierendenvertreterin während der regulären Amtsperiode rückt die Kandidatin der selben Liste mit den nächstmeisten Stimmen in das Studierendenparlament nach. Ist keine Nächstplatzierte vorhanden, bleibt der Sitz im Studierendenparlament frei.
 
@@ -496,7 +600,7 @@ Das Protokoll ist spätestens drei Tage nach Ermittlung des Wahlergebnisses zu v
 
 # VI. Wahlprüfung
 
-### § 28 Wahlprüfung
+### § 27 Wahlprüfung
 
 (1) Das neu gewählte Studierendenparlament hat unbeschadet einer Wahlanfechtung die Gültigkeit der Wahl zu prüfen.
 
@@ -505,28 +609,28 @@ Das Protokoll ist spätestens drei Tage nach Ermittlung des Wahlergebnisses zu v
 (3) Der Wahlprüfungsausschuss hat die organisatorische und sachlich korrekte Durchführung der Wahlen zu prüfen.
 
 
-### § 29 Wahlanfechtung
+### § 28 Wahlanfechtung
 
 (1) Jede Wahlberechtigte kann in einer Frist von zehn Tagen nach offizieller Bekanntgabe des endgültigen Wahlergebnisses die Wahl beim neu gewählten Studierendenparlament anfechten. Die Anfechtung ist begründet, wenn wesentliche Vorschriften über das Wahlrecht, die Wählbarkeit oder das Wahlverfahren verletzt worden sind und diese Verletzungen zu einer fehlerhaften Sitzverteilung geführt haben oder hätten führen können.
 
 (2) Das Studierendenparlament entscheidet über die Anfechtung, nachdem der Wahlprüfungsausschuss damit befasst wurde und dem Studierendenparlament eine Empfehlung gegeben hat.
 
-(3) Solange das neu gewählte Studierendenparlament sich nicht konstituiert hat, nimmt die Wahlleiterin die Wahlanfechtungen entgegen. Sie leitet die Wahlanfechtungen zusammen mit ihrem Bericht gemäß § 21 Abs. 2 dieser Wahlordnung weiter.
+(3) Solange das neu gewählte Studierendenparlament sich nicht konstituiert hat, nimmt die Wahlleiterin die Wahlanfechtungen entgegen. Sie leitet die Wahlanfechtungen zusammen mit ihrem Bericht gemäß § 20 dieser Wahlordnung weiter.
 
 
-### § 30 Anrufung des Ältestenrates
+### § 29 Anrufung des Ältestenrates
 
 Gegen die Entscheidung des Studierendenparlaments ist die Anrufung des Ältestenrates zulässig.
 
 
 # VII. Sonstiges
 
-### § 31 Kosten
+### § 30 Kosten
 
 Alle der Studierendenschaft in Durchführung dieser Wahlordnung entstehenden Kosten werden aus deren Haushalt getragen.
 
 
-### § 32 Änderung der Wahlordnung
+### § 31 Änderung der Wahlordnung
 
 (1) Die Wahlordnung kann auf Beschluss des SP geändert werden. Dieser Beschluss muss von der Mehrheit der SP-Mitglieder gefasst werden.
 
@@ -537,6 +641,6 @@ Alle der Studierendenschaft in Durchführung dieser Wahlordnung entstehenden Kos
 (4) Die Änderungen treten mit ihrer Veröffentlichung in den Amtlichen Bekanntmachungen der Rheinischen Friedrich-Wilhelms-Universität Bonn in Kraft.
 
 
-### § 33 Inkrafttreten
+### § 32 Inkrafttreten
 
 Diese Änderungsordnung und zugleich Neufassung tritt am Tag nach ihrer Veröffentlichung in den Amtlichen Bekanntmachungen der Rheinischen Friedrich-Wilhelms-Universität Bonn in Kraft.
