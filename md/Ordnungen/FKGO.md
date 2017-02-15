@@ -37,6 +37,15 @@ contains:
   puborgan: AKUT
   pubdate:  16. November 2016
   puburl:   https://www.akut-bonn.de/wp-content/uploads/2016/11/akut_extra_2016-15.pdf
+- title:    Liste der Fachschaften der RFWU Bonn mit zugeordneten Studiengängen
+  short:    Anlage "Fachschaftenliste" zur FKGO
+  actorgan: Fachschaftenkonferenz
+  actdate:  06. Februar 2017
+  confirmorgan: Studierendenparlament
+  confirmdate: 07. Februar 2017
+  puborgan: AKUT
+  pubdate:  14. Februar 2017
+  puburl:   https://www.akut-bonn.de/wp-content/uploads/2017/02/akut_extra_2017-4.pdf
 
 ---
 
@@ -719,8 +728,8 @@ Medienwissenschaften
   * Sprachliche Kommunikation (Bachelor of Arts)
   * Übersetzungswissenschaft (Promotion)
 
-Medizin Klinik
---------------
+Medizin
+-------
   * Epidemiologie (Med.Doc/Doc.of Philosophy)
   * Epidemiologie (Doctor of Philosophy)
   * Experimentelle Medizin (Med.Doc/Doc.of Philosophy)
@@ -728,20 +737,16 @@ Medizin Klinik
   * Klinische Immunologie (Doctor of Philosophy)
   * Klinische Medizin (Med.Doc/Doc.of Philosophy)
   * Medizin (Promotion)
-  * Medizin (Staatsex.) [nach Physikum]
+  * Medizin (Staatsex.)
   * Medizinische Biometrie (Med.Doc/Doc.of Philosophy)
   * Medizinische Biometrie (Doctor of Philosophy)
   * Medizinische Neurowissenschaften (Med.Doc/Doc.of Philosophy)
   * Medizinische Psychologie (Doctor of Philosophy)
   * Medizinische Soziologie (Doctor of Philosophy)
+  * Klinische Medizintechnik (Master)
   * Public Health (Med.Doc/Doc.of Philosophy)
   * Versorgungsforschung (Med.Doc/Doc.of Philosophy)
   * Versorgungsforschung (Doctor of Philosophy)
-
-Medizin-Vorklinik
------------------
-  * Medizin (Staatsex.) [bis einschl. Physikum]
-  * Klinische Medizintechnik (Master)
 
 Meteorologie
 ------------
