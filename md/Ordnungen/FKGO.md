@@ -22,14 +22,14 @@ contains:
   pubdate:
   puburl: http://www.asta-bonn.de/w/images/9/93/Fachschaftenliste-beschlossen-20150209.pdf
 - title:    Erste Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms- Universität Bonn [FKGO]
-  short:    1. Änderungsordnung der FKGO
+  short:    1\. Änderungsordnung der FKGO
   actorgan: Fachschaftenkonferenz
   actdate:  29. Juni 2015
   puborgan: AKUT
   pubdate:  1. Juli 2015
   puburl:   https://www.akut-bonn.de/wp-content/uploads/2015/12/AK_Ex_A%CC%88O%CC%88-FKGO.pdf
 - title:    Zweite Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich- Wilhelms- Universität Bonn [FKGO]
-  short:    2. Änderungsordnung der FKGO
+  short:    2\. Änderungsordnung der FKGO
   actorgan: Fachschaftenkonferenz
   actdate:  14. November 2016
   confirmorgan: Studierendenparlament
@@ -40,9 +40,9 @@ contains:
 - title:    Liste der Fachschaften der RFWU Bonn mit zugeordneten Studiengängen
   short:    Anlage "Fachschaftenliste" zur FKGO
   actorgan: Fachschaftenkonferenz
-  actdate:  06. Februar 2017
+  actdate:  6. Februar 2017
   confirmorgan: Studierendenparlament
-  confirmdate: 07. Februar 2017
+  confirmdate: 7. Februar 2017
   puborgan: AKUT
   pubdate:  14. Februar 2017
   puburl:   https://www.akut-bonn.de/wp-content/uploads/2017/02/akut_extra_2017-4.pdf
