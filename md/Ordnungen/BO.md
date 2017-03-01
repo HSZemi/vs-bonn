@@ -1,7 +1,7 @@
 ---
 title: Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Beitragsordnung der Studierendenschaft (BO)
-date:  8. September 2015
+date:  23. Februar 2017
 type:  Ordnung
 id:    BO
 contains:
@@ -15,7 +15,7 @@ contains:
   puborgan: Amtliche Bekanntmachungen
   puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/247040
 - title: Fünfundzwanzigste Ordnung zur Änderung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - XXV. Beitragsordnungsänderungsordnung (BOÄO XXV) -
-  short: XXV. Beitragsordnungsänderungsordnung (BOÄO XXV)
+  short: XXV\. Beitragsordnungsänderungsordnung (BOÄO XXV)
   actdate:  25. Januar 2017
   actorgan: Studierendenparlament
   confirmorgan: Rektorat
