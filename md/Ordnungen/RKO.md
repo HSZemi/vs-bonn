@@ -70,11 +70,13 @@ Aus dem Haushalt der Studierendenschaft werden insbesondere getragen:
     d. bei **Fahrten mit anderen** als den hier aufgeführten **Verkehrsmitteln** können die tatsächlichen Kosten auf Beschluss der Gesamt-AStA-Sitzung erstattet werden.
 2. **Übernachtungen**: Gegen Nachweis werden die Kosten von Übernachtungen in der einfachsten verfügbaren Kategorie erstattet. Wenn die Kosten für eine Übernachtung 40,- EUR übersteigen, bedarf die Erstattung der Zustimmung der Gesamt-AStA-Sitzung. Ohne Nachweis wird je Übernachtung eine Pauschale in Höhe von 20,- EUR erstattet (Übernachtungspauschale). Eine Übernachtungspauschale wird nicht gezahlt, wenn die Übernachtungskosten in den Tagungsgebühren enthalten sind. Eine Übernachtung im Sinne der Reisekostenordnung liegt vor, wenn eine Reise vor 6.00h früh angetreten oder nach 1.00h nachts beendet werden muss.
 3.**Tagegelder** werden je nach Länge der besuchten Veranstaltung bezahlt:
-| Dauer der Veranstaltung   | Tagegeld                                      |
-|---------------------------|-----------------------------------------------|
-| bis acht Stunden          | keines                                        |
-| mehr als acht Stunden     | 1,- EUR pro angefangene Stunde (Gesamtdauer). |
-Davon werden abgezogen, wenn diese in der Veranstaltung inbegriffen sind: 3,00 EUR pro Frühstück; 5 EUR pro Mittag- oder Abendessen. Bei Auslandsfahrten kann die Gesamt-AStA-Sitzung vor Reiseantritt Zuschläge gewähren.
+
+    | Dauer der Veranstaltung   | Tagegeld                                      |
+    |---------------------------|-----------------------------------------------|
+    | bis acht Stunden          | keines                                        |
+    | mehr als acht Stunden     | 1,- EUR pro angefangene Stunde (Gesamtdauer). |
+
+    Davon werden abgezogen, wenn diese in der Veranstaltung inbegriffen sind: 3,00 EUR pro Frühstück; 5 EUR pro Mittag- oder Abendessen. Bei Auslandsfahrten kann die Gesamt-AStA-Sitzung vor Reiseantritt Zuschläge gewähren.
 4. **Tagungsgebühren**.
 
 
