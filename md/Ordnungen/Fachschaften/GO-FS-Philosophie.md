@@ -7,9 +7,7 @@ id:    GO-FS-Philosophie
 contains:
 - title: Geschäftsordnung der Fachschaft Philosophie
   short: Geschäftsordnung der Fachschaft Philosophie
-  actorgan: Fachschaftsvertretung Fachschaft Philosophie
-  actdate:  14. Februar 2017
-  actorgan: Fachschaftsrat Fachschaft Philosophie
+  actorgan: Fachschaftsvertretung und Fachschaftsrat Fachschaft Philosophie
   actdate:  14. Februar 2017
   puborgan: AKUT
   pubdate:  16. Februar 2017
