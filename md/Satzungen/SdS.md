@@ -381,7 +381,7 @@ Verlangen oder bei entsprechendem SP-Beschluss zuständig. Er veranlasst, dass a
 Studierenden eine Urabstimmungsbenachrichtigung erhalten, die den Termin der
 Urabstimmung und den Wortlaut des abzustimmenden Antrags enthält.
 
-(5) (5) Die Fristen für die SP-Wahl gelten entsprechend. Liegen zwischen dem
+(5) Die Fristen für die SP-Wahl gelten entsprechend. Liegen zwischen dem
 ordnungsgemäßen Verlangen und der nächsten planmäßigen SP-Wahl weniger als sechs
 Monate, so ist die Urabstimmung gleichzeitig mit der SP-Wahl durchzuführen, sofern die
 Fristen nach Satz 1 dabei gewahrt bleiben. In diesem Fall übernimmt der Wahlausschuss
