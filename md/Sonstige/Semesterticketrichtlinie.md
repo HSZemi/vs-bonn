@@ -1,7 +1,7 @@
 ---
 title: Richtlinie für die Arbeit des Ausschusses für das Semesterticket des Studierendenparlamentes an der RFWU Bonn – Semesterticket-Richtlinie (RLST)
 short: Semesterticket-Richtlinie (RLST)
-date:  4. Oktober 2016
+date:  8. September 2017 
 type:  Richtlinie
 id:    Semesterticketrichtlinie
 contains:
@@ -19,6 +19,13 @@ contains:
   puborgan: AKUT
   pubdate:  4. Oktober 2016
   puburl: https://www.akut-bonn.de/wp-content/uploads/2016/05/akut-extra__RLST.pdf
+- title: Richtlinie für die Arbeit des Ausschusses für das Semesterticket des Studierendenparlamentes an der RFWU Bonn – Semesterticket - Richtlinie (RLST)
+  short: Semesterticket-Richtlinie (RLST)
+  actorgan: Studierendenparlament
+  actdate:  30. August 2017
+  puborgan: AKUT
+  pubdate:  8. September 2017 
+  puburl: https://www.akut-bonn.de/wp-content/uploads/2017/09/akut_extra_2017-14.pdf
 
 ---
 
@@ -28,22 +35,22 @@ Rückerstattung des Mobilitätsbeitrages gemäß der Beitragsordnung der Studier
 der Rheinischen Friedrich-Wilhelms-Universität erlässt das Bonner SP für die beteiligten
 Ausschüsse die folgende Richtlinie:
 
-
 # Artikel I
+
 
 ### § 1 Allgemeines
 
 (1) Studierenden der RWFU Bonn kann der Beitrag für das Semesterticket[^1] in Härtefällen für
 jeweils ein Semester auf einen begründeten Antrag ganz oder teilweise erstattet[^2] werden.
 
-(2) Über die Erstattung entscheidet ein vom Studierendenparlament gewählter Ausschuss
-(Ausschuss für das Semesterticket [Semesterticketausschuss, STA]) als zuständige Behörde
+(2) Über die Erstattung entscheidet ein vom Studierendenparlament gewählter Ausschuss (Ausschuss für das Semesterticket [Semesterticketausschuss, STA]) als zuständige Behörde
 nach Maßgabe dieser Richtlinie.
 
 [^1]: Mobilitätsbeitrag gemäß Art. I § 2 (4) und (5) der Neubekanntmachung der Beitragsordnung der
 Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn vom 28. Juli 2011 [im Folgenden:
 BO], unter Einbezug der aktuellen Beitragsordnungsänderung (BOÄO).
 [^2]: Nach Art. I, § 4 BO.
+
 
 ### § 2 Aufgaben des Ausschusses
 
@@ -67,10 +74,8 @@ AStA im Einvernehmen mit dem STA vor.
 (3) Den schriftlichen Bescheiden nach den Absätzen 1 und 2 ist eine ordnungsgemäße
 Rechtsmittelbelehrung beizufügen.
 
-(4) Der STA soll sich eine Geschäfts-und eine Verfahrensordnung geben; soweit VwVfG und
-VwGO anzuwenden sind, sollen die entsprechenden Bestimmungen deklaratorisch
-aufgenommen werden. Der STA tagt nichtöffentlich, kann zu seinen Beratungen jedoch
-sachlich kompetente Personen hinzuziehen.
+(4) Der STA tagt nichtöffentlich, kann zu seinen Beratungen jedoch sachlich kompetente
+Personen hinzuziehen.
 
 
 ### § 3 Antrag auf Erstattung
@@ -82,6 +87,8 @@ entrichtet hat.
 (2) Der Antrag ist elektronisch auf der vom STA hierfür im Internet angebotenen Webseite
 oder schriftlich mit dem hierfür vom STA ausgegebenen Formular zu stellen. Der STA kann
 beschließen, dass die schriftliche Antragsstellung nur auf begründeten Antrag hin möglich ist.
+
+
 
 (3) Die AntragstellerInnen sind in geeigneter Form auf die Freiwilligkeit Ihrer Angaben
 hinzuweisen.
@@ -101,7 +108,7 @@ Fristende nicht auf einen Werktag, verlängert sich die Frist bis zum folgenden 
 dieser Frist kann in Ausnahmefällen abgewichen werden, wenn glaubhaft gemacht werden
 kann, dass ein Antrag durch unverschuldete Gründe nicht vor Ablauf der Frist gestellt werden
 konnte, dies ist insbesondere dann der Fall, wenn der Antragsteller sich erst nach der Frist
-eingeschrieben hat  
+eingeschrieben hat
 oder die Tatsachen, die die Erstattung begründen, erst nach Antragschluss eintreten.
 
 (6) Für unvollständige und/oder fehlerhafte Anträge setzt der STA einmalig eine Frist zur
@@ -116,28 +123,28 @@ Unzulänglichkeit der nachgereichten Unterlagen kann eine erneute Nachbesserungs
     b. Vorname(n) und Familienname, ggf. Geburtsname,
     c. Anschrift
     d. der Bankverbindung (IBAN, BIC und Institut), auf die eine eventuelle
-       Rückerstattung überwiesen werden soll;
+    Rückerstattung überwiesen werden soll;
 2. den allgemeinen Nachweisen
     a. zur Person: eine Kopie eines amtlichen Lichtbildausweises (Personalausweis
-       oder Reisepass)[^3]
+    oder Reisepass)[^3]
     b. zur Antragsberechtigung: eine Kopie des StudentInnenausweises desjenigen
-       Semesters, für das die Erstattung beantragt wird;
+    Semesters, für das die Erstattung beantragt wird;
 3. den zusätzlichen Nachweisen gemäß §§ 4, 5, 6 oder 7;
 4. einer eigenhändig unterschriebenen, mit dem Ort und Datum der
-   Unterschriftsleistung verbundenen Erklärung folgenden Wortlauts: Ich versichere
-   hiermit, dass ich die Angaben in diesem Antrag und den beigefügten Anlagen nach
-   bestem Wissen und Gewissen vollständig und wahrheitsgemäß gemacht habe, und dass
-   ich meine Einschreibung bzw. Rückmeldung nicht vor Beginn der Vorlesungszeit
-   zurück genommen habe. Sollte ich die Einschreibung/Rückmeldung vor Beginn der
-   Vorlesungszeit zurück nehmen, werde ich dies dem Ausschuss für das Semesterticket
-   unverzüglich mitteilen. Mir ist bekannt, dass bewusst unrichtige oder unvollständige
-   Angaben zur Ablehnung und Rückforderung sowie zu zivil- oder strafrechtlichen
-   Konsequenzen führen können.
+Unterschriftsleistung verbundenen Erklärung folgenden Wortlauts: Ich versichere
+hiermit, dass ich die Angaben in diesem Antrag und den beigefügten Anlagen nach
+bestem Wissen und Gewissen vollständig und wahrheitsgemäß gemacht habe, und dass
+ich meine Einschreibung bzw. Rückmeldung nicht vor Beginn der Vorlesungszeit
+zurück genommen habe. Sollte ich die Einschreibung/Rückmeldung vor Beginn der
+Vorlesungszeit zurück nehmen, werde ich dies dem Ausschuss für das Semesterticket
+unverzüglich mitteilen. Mir ist bekannt, dass bewusst unrichtige oder unvollständige
+Angaben zur Ablehnung und Rückforderung sowie zu zivil- oder strafrechtlichen
+Konsequenzen führen können.
 
 [^3]: Ein Führerschein oder internationaler StudentInnenausweis ist kein amtlicher Lichtbildausweis.
 
-# Artikel II
 
+# Artikel II
 
 ### § 4 Nachweise zum sozialen Härtefall
 
@@ -188,16 +195,15 @@ Bedarf eines Erwachsenen im Sinne dieser Richtlinie [Art. II, § 4, (6) und (7)]
 
 (6) Von einem sozialen Härtefall und Erstattung des Betrages in ganzer Höhe ist insbesondere
 dann auszugehen, wenn nach Abzug der erforderlichen Aufwendungen nach § 4 Abs. 4
-dem/der AntragstellerIn nicht mehr als 357 € monatlich zur Verfügung steht. Der STA ist
-verpflichtet ab dem Wintersemester 2014/15 alle zwei Jahre die Bemessungsgrenze[^4] zu
-überprüfen und evtl. anzugleichen. Wenn dem/der AntragstellerIn mehr zu Verfügung steht,
-wird der Mehrbetrag von der Studiticket-Rückerstattung abgezogen.
+dem/der AntragstellerIn nicht mehr als 90% des Grundbedarfs eines/einer BAföG-
+Empfängers/Empfängerin (§ 13 Abs.1 Nr. 2 BäföGG) im betreffenden Zeitraum zur Verfügung
+steht. Wenn dem/der AntragstellerIn mehr zur Verfügung steht, wird der Mehrbetrag von der
+Studiticket-Rückerstattung abgezogen. Der STA ist verpflichtet ab dem Wintersemester
+2014/15 alle zwei Jahre die Bemessungsgrenze zu überprüfen und evtl. anzugleichen.
 
-(7) Die höchstanrechenbare Warmmiete ist 385 Euro. Der STA überprüft diese Mietgrenze
-zeitgleich mit der Bemessungsgrenze (siehe Absatz 6).
 
-[^4]: Als Orientierungswert für die Summe von Bemessungsgrenze nach Abs. 4 § 6 und höchstanrechenbarer
-Warmmiete kann der BaföG-Höchstsatz verwendet werden.
+(7) Die höchstanrechenbare Warmmiete ist 385 Euro, der STA überprüft diese Mietgrenze
+regelmäßig.
 
 
 ### § 5 Nachweis zur Schwerbehinderung
@@ -269,7 +275,7 @@ erforderlich ist.
         Doktormutter die Promotion bei ihr bescheinigt sowie erklärt, dass die
         Doktorandin für ihre Promotion nicht im Vertragsgebiet VRS/NRW anwesend
         sein muss und es im betreffenden Semester auch nicht ist.
-    Einzureichen
+        Einzureichen
 2. Längerfristiger Aufenthalt außerhalb des Vertragsgebietes wegen dringender
 familiärer Gründe.
     a. Als zusätzlicher Nachweis sind in diesem Fall Nachweise einzureichen, aus
@@ -310,8 +316,8 @@ in denen sie es nicht in Anspruch nehmen konnten, zurück
     a. Als zusätzlicher Nachweis ist in diesem Fall die Einschreibebescheinigung,
     aus der das Einschreibedatum hervorgeht, einzureichen.
 
-
 # Artikel III
+
 
 ### § 8 Bearbeitung der Anträge
 
@@ -337,8 +343,7 @@ aus der finanziellen, sozialen oder persönlichen Situation des Antragstellers e
 ### § 10 Bemessungsgrundlage
 
 (1) Als Bemessungsgrundlage gilt das anrechenbare Einkommen unter Abzug der zu
-berücksichtigenden Aufwendungen und Ausgaben. Näheres kann in der Geschäftsordnung des
-STA geregelt werden.
+berücksichtigenden Aufwendungen und Ausgaben.
 
 (2) Von den Einkünften /§ 4 Abs. 2) sind alle Einkünfte mit dem Nettobetrag anzusetzen.
 Zahlungen auf Grund des Fünften Vermögensbildungsgesetzes gelten nicht als Einkommen.
@@ -365,7 +370,9 @@ Studienzeit. Ausfallzeiten sind zu berücksichtigen.
 Ausgaben unberücksichtigt, ansonsten sind die Bruttoausgaben anzusetzen.
 
 
+
 # Artikel IV
+
 
 ### § 11 Entscheidung über die Anträge
 
@@ -377,12 +384,16 @@ den Bearbeitungsstand Bericht zu erstatten.
 (2) Der STA erteilt jedem/jeder AntragstellerIn über die Entscheidung zu dessen/deren Antrag
 einen schriftlichen Bescheid.
 
-(3) Der Bescheid ist dem/der AntragstellerIn unverzüglich nach Ausfertigung zuzuleiten[^5]. Ein
+(3) Der Bescheid ist dem/der AntragstellerIn unverzüglich nach Ausfertigung zuzuleiten[^4]. Ein
 Doppel des Bescheids ist mit dem Datum der Absendung zu versehen und zu den
 Antragsunterlagen zu nehmen.
 
 (4) Für die Bürokraft gelten die Absätze 1 und 2 entsprechend, soweit diese nach § 2 Abs. 2
 zur Entscheidung über den Antrag befugt ist.
+
+[^4]: Um den Beginn der Widerspruchsfrist genau bestimmen zu können, ist der Tag des Zugangs
+entscheidend. Normalerweise gelten bei gewöhnlichem Brief und einfachem Einschreiben drei Tage Postlaufzeit,
+die Beweislast liegt jedoch beim STA.
 
 
 ### § 12 Verstoß gegen die Wahrheitspflicht
@@ -399,26 +410,20 @@ Bemühen des Antragstellers/ der Antragstellerin um eine Berichtigung ist anzuer
 (3) Ein Verstoß wegen grob fahrlässig unwahrer oder unvollständiger Angaben oder ein
 erkennbar fehlendes Bemühen des/Antragstellers/ der Antragstellerin zur Berichtigung
 berechtigt die Ausschüsse zur Rücknahme des Bescheids. Ist danach ein neuer begünstigender
-Bescheid[^6] zu erlassen, so soll dieser um die Kosten des Verfahrens[^7] gemindert werden.
+Bescheid[^5] zu erlassen, so soll dieser um die Kosten des Verfahrens[^6] gemindert werden.
 
 (4) Ist ein begünstigender Bescheid auf Grund vorsätzlich oder in betrügerischer Absicht
 gemachter unwahrer oder unvollständiger Angaben erlassen worden, so ist dieser Bescheid
 nichtig. Dem/der AntragstellerIn ist nach Bekanntwerden der wahren oder ergänzenden
 Tatsachen die Nichtigkeit des Bescheids mitzuteilen. Eine bereits gezahlte Erstattung ist mit
-Zinsen[^8] und den Kosten des Verfahrens zurückzuverlangen. Bei Betrugsverdacht ist
+Zinsen[^7] und den Kosten des Verfahrens zurückzuverlangen. Bei Betrugsverdacht ist
 Strafanzeige zu erstatten.
 
-[^5]: Um den Beginn der Widerspruchsfrist genau bestimmen zu können, ist der Tag des Zugangs
-entscheidend. Normalerweise gelten bei gewöhnlichem Brief und einfachem Einschreiben drei Tage Postlaufzeit,
-die Beweislast liegt jedoch beim STA.
+[^5]: „begünstigender Bescheid" = Bescheid auf Grund dessen eine Erstattung erfolgt, also kein ablehnender Bescheid.
 
-[^6]: „begünstigender Bescheid" = Bescheid auf Grund dessen eine Erstattung erfolgt, also kein ablehnender
-Bescheid.
+[^6]: Portokosten und Schreibgebühr, die Schreibgebühr beträgt je angefangene Seite 0,55 €, unabhängig von der Art der Erstellung.
 
-[^7]: Portokosten und Schreibgebühr, die Schreibgebühr beträgt je angefangene Seite 0,55 €, unabhängig von der
-Art der Erstellung.
-
-[^8]: Diskontsatz der Deutschen Bundesbank.
+[^7]: Diskontsatz der Deutschen Bundesbank.
 
 
 # Artikel V
@@ -469,7 +474,6 @@ milderen Anforderungen der alten und der geänderten Richtlinie zu stellen.
 (5) Diese Richtlinie tritt nach ihrer Annahme durch das Studierendenparlament am Tage der
 Veröffentlichung in der AKUT in Kraft.
 
-
 Vom 15. Bonner SP beschlossen am 22. November 1993,  
 geändert durch Beschluss des SP am 28.10.1997,  
 geändert durch Beschluss des SP am 02.07.1998,  
@@ -478,4 +482,5 @@ geändert durch Beschluss des SP am 17.01.2002,
 geändert durch Beschluss des SP am 10.11.2004,  
 geändert durch Beschluss des SP am 14.11.2012,  
 geändert durch Beschluss des SP am 20.04.2016,  
-zuletzt geändert durch Beschluss des SP am 06.09.2016.  
+geändert durch Beschluss des SP am 06.09.2016,  
+zuletzt geändert durch Beschluss des SP am 30.08.2017.
