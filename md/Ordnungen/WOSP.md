@@ -209,8 +209,7 @@ eingetragen ist;
 11. einen Hinweis, dass die Möglichkeit eines Antrages auf Briefwahl gegeben ist und
 einen Hinweis auf die bei der Briefwahl zu beachtenden Fristen;
 12. einen Hinweis auf die Einspruchsmöglichkeit nach § 16 dieser Ordnung;
-13. Die Vorgaben für das Format der Erklärungen der Listenbewerbungen über ihr Wahl
-	programm.
+13. Die Vorgaben für das Format der Erklärungen der Listenbewerbungen über ihr Wahlprogramm.
 
 
 ### § 9 Wahlbewerbungen
