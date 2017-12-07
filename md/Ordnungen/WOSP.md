@@ -1,7 +1,7 @@
 ---
 title: Wahlordnung für die Wahlen zum Studierendenparlament (WOSP)
 short: Wahlordnung für die Wahlen zum Studierendenparlament (WOSP)
-date:  24. November 2016
+date:  07. Dezember 2017
 type:  Ordnung
 id:    WOSP
 contains:
@@ -32,6 +32,15 @@ contains:
   puborgan:  Amtliche Bekanntmachungen
   pubdate: 24. November 2016
   puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/299983
+- title: Dritte Ordnung zur Änderung der Wahlordnung für die Wahlen zum Studierendenparlament
+  short: 3\. Wahlordnungsänderungsordnung
+  actorgan: Studierendenparlament
+  actdate:  25. Oktober 2017
+  confirmorgan: Rektorat
+  confirmdate: 21. November 2017
+  puborgan:  Amtliche Bekanntmachungen
+  pubdate: 07. Dezember 2017
+  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/363235
 
 ---
 
@@ -117,6 +126,9 @@ gültigen Fassung Anwendung.
 
 (5) Eilentscheidungen der Wahlleiterin nach Absatz 4 sind dem Wahlausschuss
 unverzüglich zur Genehmigung vorzulegen.
+
+(6) Der Ältestenrat berät und unterstützt die Wahlleitung und den Wahlausschuss unabhängig und
+überparteilich bei den ihnen übertragenen Aufgaben.
 
 
 ### § 5 Aufwandsentschädigung
@@ -619,7 +631,8 @@ Kontaktdaten aller gewählten Kandidatinnen, Stellvertreterinnen und Nachrücker
 
 ### § 29 Anrufung des Ältestenrates
 
-Gegen die Entscheidung des Studierendenparlaments ist die Anrufung des Ältestenrates zulässig.
+Gegen die Entscheidung des Studierendenparlaments kann beim Ältestenrat Beschwerde eingelegt
+werden; dieser schlichtet daraufhin.
 
 
 # VII. Sonstiges

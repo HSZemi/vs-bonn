@@ -1,7 +1,7 @@
 ---
 title: Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Studierendenschaft
-date:  13. Juli 2016
+date:  07. Dezember 2017
 type:  Satzung
 id:    SdS
 contains:
@@ -41,6 +41,15 @@ contains:
   puborgan: Amtliche Bekanntmachungen
   pubdate:  13. Juli 2016
   puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/283357
+- title: 4. Satzung zur Änderung der Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - SÄS 4 –
+  short: 4\. Satzungsänderungssatzung
+  actorgan: Studierendenparlament
+  actdate:  27. September 2017
+  confirmorgan: Rektorat
+  confirmdate: 21. November 2017
+  puborgan: Amtliche Bekanntmachungen
+  pubdate:  07. Dezember 2017
+  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/363231
 
 ---
 
@@ -321,8 +330,12 @@ versehen.
 einen aus fünf Mitgliedern bestehenden Untersuchungsausschuss einzusetzen.
 Näheres regelt die Geschäftsordnung.
 
-(6) Bei Besetzung der Ausschüsse ist nach dem Sainte-Laguë/Schepers-Verfahren
-das Stärkeverhältnis aufgrund der Sitze im SP zugrunde zu legen.
+(6) Bei Besetzung der Ausschüsse ist nach dem Sainte-Laguë/Schepers Verfahren das
+Stärkeverhältnis der Listen im Sinne von § 6 Abs. 1 auf Grundlage der Anzahl der Stimmen, die bei der
+letzten SP-Wahl auf die jeweiligen Listen entfallen sind, zugrunde zu legen. Wenn nach Anwendung
+dieses Verfahrens ein Ausschusssitz auf mehrere Listen entfallen könnte, sollen sich die Listen
+untereinander einigen und einstimmig erklären, auf welche Liste der Platz entfallen wird. Kommt es zu
+keiner Einigung, entscheidet das Präsidium durch das Los.
 
 (7) Außer den nach Maßgabe der Abs. 1 bis 6 bestimmten Mitgliedern gehören jedem
 SP-Ausschuss zusätzlich ein ordentliches Mitglied und ein entsprechendes
@@ -497,7 +510,12 @@ auf Verlangen Auskunft zu erteilen.
 (1) Referentinnen können jederzeit zurücktreten. Sie sind jedoch verpflichtet, die
 Geschäfte bis zur Wahl bzw. Bestellung einer Nachfolgerin weiterzuführen.
 
-(2) Das SP kann Referentinnen mit der Mehrheit seiner Mitglieder abberufen.
+(2) Das SP kann Referentinnen mit der Mehrheit seiner Mitglieder abberufen. Nach der Abberufung
+der Finanzreferentin darf die AStA-Vorsitzende dem SP unmittelbar eine Nachfolgerin vorschlagen.
+Wenn sie dies nicht tut oder der Vorschlag keine Mehrheit im Sinne von § 18 Abs. 1 findet, muss die
+AStA-Vorsitzende eine kommissarische Finanzreferentin für die Dauer von bis zu 30 Tagen in der
+Vorlesungszeit bestellen. Diese darf nicht die Abgewählte sein. Nach Ablauf dieser Tage wird eine
+Nachfolgerin entsprechend § 19a Abs. 3 vom SP gewählt.
 
 (3) Auf Vorschlag der AStA-Vorsitzenden kann das SP eine Referentin mit einfacher
 Mehrheit der Stimmen abberufen.
@@ -752,10 +770,9 @@ vertreten ist. Sie ist in der AKUT zu veröffentlichen.
 (2) Der ÄR ist bei allen in seine Zuständigkeit fallenden Angelegenheiten das oberste
 streitschlichtende Organ der Studierendenschaft.
 
-(3) Der ÄR entscheidet bei Streitigkeiten zu Angelegenheiten der verfassten
-Studierendenschaft. Er entscheidet ebenfalls bei Streitigkeiten zwischen studentischen
-Vereinigungen, wenn sich beide Parteien einem Schiedsverfahren durch den ÄR
-unterwerfen.
+(3) Der ÄR schlichtet Streitigkeiten zu Angelegenheiten der verfassten Studierendenschaft. Er
+schlichtet ebenfalls Streitigkeiten zwischen studentischen Vereinigungen, wenn sich beide Parteien
+einem Schiedsverfahren durch den ÄR unterwerfen.
 
 (4) Der ÄR wahrt durch Beratung der Organe und Organteile der Studierendenschaft
 und der Fachschaften die Kontinuität in der studentischen Selbstverwaltung.
@@ -767,10 +784,11 @@ bzw. Gremiums zu behandeln.
 (6) Der ÄR ist zu den Sitzungen aller Organe der Studierendenschaft und ihrer
 Organteile einzuladen.
 
-(7) Bei Streitigkeiten zu Angelegenheiten der verfassten Studierendenschaft ist eine
-Anrufung der Gerichtsbarkeit erst nach einer Entscheidung des ÄR zulässig. Dies gilt
-nicht, sofern es sich bei dem zugrundeliegenden Streitgegenstand um einen
-Verwaltungsakt im Sinne des § 35 VwVfG NRW handelt.
+(7) Bei Streitigkeiten zu Angelegenheiten der verfassten Studierendenschaft ist eine Anrufung der
+Gerichtsbarkeit erst nach einer Schlichtungsempfehlung des ÄR zulässig. Dies gilt nicht, sofern es sich
+bei dem zugrundeliegenden Streitgegenstand um einen Verwaltungsakt im Sinne des § 35 VwVfG NRW
+handelt. Dies gilt ebenfalls nicht, wenn nach der Anrufung mehr als 60 Tage vergangen sind, in denen
+keine Schlichtungsempfehlung ausgesprochen wurde.
 
 
 ### § 33 Zusammensetzung und Wahl
