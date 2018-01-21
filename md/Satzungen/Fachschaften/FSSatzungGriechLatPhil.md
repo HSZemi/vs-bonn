@@ -12,6 +12,13 @@ contains:
   puborgan: AKUT
   pubdate:  14. November 2015
   puburl: http://www.akut-bonn.de/wp-content/uploads/2015/11/AK_Ex_Satzung-FSGrichLatPhiliolo.pdf
+- title: Satzung der Fachschaft für Griechische und Lateinische Philologie
+  short: Satzung der Fachschaft für Griechische und Lateinische Philologie
+  actorgan:  
+  actdate:  
+  puborgan: AKUT
+  pubdate:  20. Dezember 2017
+  puburl: https://www.akut-bonn.de/wp-content/uploads/2015/05/akut_extra_2017-18.pdf
 
 ---
 
@@ -19,6 +26,7 @@ contains:
 
 Diese Satzung verwendet im Sinne eines generischen Maskulinums bei Personenbezeichnung die
 männliche Form, die stellvertretend für alle Menschen steht.
+
 
 # A. Fachschaft (FS)
 
@@ -33,6 +41,7 @@ gemäß der Anlage „Fachschaftenliste“ zur Geschäftsordnung der Fachschafte
 und vertritt im Rahmen ihrer Möglichkeiten auch die Belange der Studenten, die Veranstaltungen
 der durch sie vertretenen Studiengänge belegen.
 
+
 ### § 2 Organe der Fachschaft
 
 (1) Die Fachschaft äußert ihren Willen durch ihre Organe.
@@ -43,11 +52,13 @@ der durch sie vertretenen Studiengänge belegen.
 2. der Fachschaftsrat (FSR),
 3. die Fachschaftsvollversammlung (FSVV).
 
+
 ### § 3 Gemeinsame Aufgaben der Organe FSV und FSR
 
 Die Organe FSV und FSR wirken an der fachlichen und organisatorischen Gestaltung des Studiums
 mit und vertreten die Studenten ihrer Fachbereiche gegenüber Universitätsvertretern, den Gremien
 der Universität und den übrigen Gremien der Studentenschaft.
+
 
 # B. Die Organe der Fachschaft
 
@@ -80,8 +91,8 @@ Geschäftsordnung des Studierendenparlaments, soweit anwendbar, entsprechend.
 ## I. Die Fachschaftsvertretung (FSV)
 
 ### § 5 Rechtsstellung der FSV
-
 Die FSV ist das oberste beschlussfassende Organ der Fachschaft.
+
 
 ### § 6 Zusammensetzung und Zusammentritt der FSV
 
@@ -100,17 +111,29 @@ schriftlichen Antrag
 3. von 30% der Mitglieder der FSV;
 4. von 5% der Mitglieder der Fachschaft.
 
+
 ### § 7 Wahl der FSV
 
 (1) Die FSV wird jährlich von den Mitgliedern der Fachschaft in allgemeiner, direkter, freier,
-gleicher und geheimer Urnenwahl gewählt.
+gleicher und geheimer Wahl gewählt.
 
-(2) Die Wahl wird vom Wahlausschuss vorbereitet und durchgeführt.
+(2) Wenn die Anzahl der Fachschaftsmitglieder bis zu 500 Mitglieder beträgt, findet die Wahl im
+Rahmen einer Wahlvollversammlung statt. Andernfalls wird sie als Urnenwahl durchgeführt.
 
-(3) Der Wahlleiter beruft die konstituierende Sitzung der neu gewählten FSV ein und leitet sie, bis
-ein Vorsitzender gewählt ist.
+(3) Die Wahl wird vom Wahlausschuss vorbereitet und durchgeführt. Insbesondere leitet der
+Wahlleiter die Wahlvollversammlung, wenn die Wahl im Rahmen einer Wahlvollversammlung
+durchgeführt wird.
 
-(4) Das Nähere bestimmt die Fachschaftswahlordnung (FSWO).
+(4) Wird die Wahl im Rahmen einer Wahlvollversammlung durchgeführt, konstituiert sich die
+neugewählte FSV direkt nach Bekanntgabe des Wahlergebnisses während der
+Wahlvollversammlung. Die Gewählten haben ab Bekanntgabe des Wahlergebnisses 7 Kalendertage
+Zeit, die Wahl anzunehmen. Andernfalls gilt die Wahl als nicht angenommen.
+
+(5) Wird die Wahl als Urnenwahl durchgeführt, beruft der Wahlleiter die konstituierende Sitzung
+der neu gewählten FSV ein und leitet sie, bis ein Vorsitzender gewählt ist.
+
+(6) Das Nähere bestimmt die Fachschaftswahlordnung (FSWO).
+
 
 ### § 8 Aufgaben und Zuständigkeit der FSV
 
@@ -131,6 +154,7 @@ Ungenauigkeiten ergibt. Die Entlastung muss von einem Mitglied der FSV beantragt
 Finanzielle Entlastung kann auch von den Kassenprüfern beantragt werden. Auf Antrag eines
 Mitglieds der FSV muss eine Einzelentlastung durchgeführt werden.
 
+
 ### § 9 Das Präsidium der FSV und seine Aufgaben
 
 (1) Das Präsidium besteht aus dem Vorsitzenden, seinem Stellvertreter und dem Protokollanten.
@@ -148,6 +172,7 @@ kommissarisch bis zur Nachwahl weiter.
 
 (6) Der Vorsitzende der FSV führt ihre laufenden Geschäfte.
 
+
 ### § 10 Ausscheiden und Nachrücken von Mitgliedern
 
 (1) Ein Mitglied scheidet aus der FSV aus
@@ -163,6 +188,7 @@ Bindung an die vorgeschlagenen Kandidaten statt, rücken die weiteren Personen, 
 abgegeben wurden, in der vom Wahlausschuss festgelegten Reihenfolge nach. Näheres regelt die
 Fachschaftswahlordnung.
 
+
 ### § 11 Ausschüsse der FSV
 
 (1) Die FSV wählt die Mitglieder des Wahlausschusses sowie den Wahlleiter. Näheres regelt die
@@ -176,6 +202,7 @@ Kontrolle sie gewählt wurden und erstatten der FSV über das Ergebnis der Prüf
 
 (3) Der FSV steht es frei, weitere Ausschüsse zu wählen.
 
+
 ## II. Der Fachschaftsrat (FSR)
 
 ### § 12 Rechtsstellung des FSR
@@ -187,6 +214,7 @@ Beschlüsse der FSV aus.
 (2) Der FSR-Vorsitzende hat Beschlüsse, Unterlassungen oder Maßnahmen der FSV, des FSR,
 sowie der FSVV, sofern sie gegen geltendes Recht verstoßen, zu beanstanden.
 
+
 ### § 13 Zusammensetzung des FSR
 
 (1) Der FSR wird von der FSV gewählt. Er besteht aus:
@@ -195,8 +223,8 @@ sowie der FSVV, sofern sie gegen geltendes Recht verstoßen, zu beanstanden.
 2. dem stellvertretenden Vorsitzenden,
 3. dem Finanzreferenten,
 4. bis zu sechs weiteren Mitgliedern.
-5. Sind in einer Fachschaft mehrere Studiengänge zusammengefasst, so soll die FSV aus jedem
-Studiengang je zwei Referenten zusätzlich in den FSR wählen.
+5. Sind in einer Fachschaft mehrere Studiengänge zusammengefasst, so soll die FSV aus
+jedem Studiengang je zwei Referenten zusätzlich in den FSR wählen.
 
 (2) Vorsitzender, stellvertretender Vorsitzender und Finanzreferent bilden den FSR-Vorstand.
 
@@ -205,6 +233,7 @@ Studiengang je zwei Referenten zusätzlich in den FSR wählen.
 1. während der Vorlesungszeit grundsätzlich einmal wöchentlich in öffentlicher Sitzung,
 2. auf eigenen Beschluss,
 3. auf Beschluss der FSV.
+
 
 ### § 14 Wahl des FSR
 
@@ -224,12 +253,14 @@ die FSV unverzüglich einen Nachfolger.
 3. durch Ausscheiden aus der verfassten Studierendenschaft,
 4. durch Tod.
 
+
 ## III. Die Fachschaftsvollversammlung (FSVV)
 
 ### § 15 Rechtsstellung der FSVV
 
 Die FSVV, die aus allen Mitgliedern der Fachschaft besteht, ist beschlussfassendes Gremium der
 Fachschaft und dient der Information ihrer Mitglieder.
+
 
 ### § 16 Einberufung und Durchführung der FSVV
 
@@ -244,10 +275,13 @@ Ankündigung enthält mindestens
 1. die genaue Zeit- und Ortsangabe der FSVV sowie
 2. ihre Tagesordnung.
 
+
 ### § 17 Beschlüsse der FSVV
+
 Die Entscheidungen der FSVV binden alle Organe der Fachschaft. Beschlüsse der FSVV können
 nur durch eine weitere FSVV mit der Zweidrittelmehrheit der anwesenden Mitglieder aufgehoben
 werden.
+
 
 # C. Haushalts- und Wirtschaftsführung
 
@@ -287,6 +321,7 @@ vorgesehenen Ordnung übereinstimmen.
 
 (8) Über die Kassenprüfung ist Protokoll zu führen, in das die Kassen- und Kontobestände
 aufzunehmen sind.
+
 
 # D. Schlussbestimmungen
 
