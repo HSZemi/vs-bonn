@@ -26,6 +26,13 @@ contains:
   puborgan: AKUT
   pubdate:  8. September 2017 
   puburl: https://www.akut-bonn.de/wp-content/uploads/2017/09/akut_extra_2017-14.pdf
+- title: Richtlinie für die Arbeit des Ausschusses für das Semesterticket des Studierendenparlamentes an der RFWU Bonn – Semesterticket - Richtlinie (RLST)
+  short: Semesterticket-Richtlinie (RLST)
+  actorgan: Studierendenparlament
+  actdate:  30. August 2017
+  puborgan: AKUT
+  pubdate:  30. Oktober 2017 
+  puburl: https://www.akut-bonn.de/wp-content/uploads/2017/10/akut_extra_2017-15.pdf
 
 ---
 
