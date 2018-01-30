@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft für Griechische und Lateinische Philologie
 short: Satzung der Fachschaft für Griechische und Lateinische Philologie
-date:  14. November 2015
+date:  20. Dezember 2017
 type:  Satzung
 id:    FSSatzungGriechLatPhil
 contains:
