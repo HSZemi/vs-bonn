@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Informatik
-date:  28. Januar 2016
+date:  23. Januar 2018
 type:  Satzung
 id:    FSSatzungInformatik
 contains:
@@ -26,6 +26,13 @@ contains:
   puborgan: AKUT
   pubdate:  2. Februar 2016
   puburl:   http://www.akut-bonn.de/wp-content/uploads/2016/02/akut-extra__Zweite-A%CC%88nderungssatzung-der-Satzung-der-Fachschaft-Informatik-der-Rheinischen-Friedrich-Wilhelms-Universita%CC%88t-Bonn.pdf
+- title: Dritte Änderungssatzung der Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: Dritte Änderungssatzung der Satzung der Fachschaft Informatik
+  actorgan: Fachschaftsvertretung Fachschaft Informatik
+  actdate:  23. Januar 2018
+  puborgan: AKUT
+  pubdate:  ??. Februar 2018
+  puburl:   folgt
 
 ---
 
@@ -269,9 +276,11 @@ werden, im Hauptfach studieren.
 
 ### § 16 Beschlüsse des FSR 
 
-(1) Rede- und Antragsrecht haben alle Mitglieder der Fachschaft. 
+(1) Rede- und Antragsrecht haben alle anwesenden FSR-Mitglieder und Mitglieder der Fachschaft sowie Studierende
+der Rheinischen Friedrich-Wilhelms-Universität Bonn, die als Teil ihrer Fachabschlusskombination
+„Informatik (LA BA Gym Ge)“ oder „Informatik (LA MA Gym Ge)“ führen - im Folgenden „Informatik-Lehrämtler“.
 
-(2) Stimmrecht haben alle FSR-Mitglieder und alle anwesenden Mitglieder der Fachschaft. 
+(2) Stimmrecht haben alle anwesenden FSR-Mitglieder und Mitglieder der Fachschaft sowie Informatik-Lehrämtler.
 Auf Verlangen eines FSR-Mitglieds haben nur anwesende FSR-Mitglieder Stimmrecht.
 
 (3) Ein Beschluss ist rechtmäßig zustande gekommen, wenn 
