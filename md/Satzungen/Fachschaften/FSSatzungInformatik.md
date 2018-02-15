@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Informatik
-date:  28. Januar 2016
+date:  23. Januar 2018
 type:  Satzung
 id:    FSSatzungInformatik
 contains:
