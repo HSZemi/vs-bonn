@@ -25,7 +25,7 @@ contains:
   actdate:  28. Januar 2016
   puborgan: AKUT
   pubdate:  2. Februar 2016
-  puburl:   http://www.akut-bonn.de/wp-content/uploads/2016/02/akut-extra__Zweite-A%CC%88nderungssatzung-der-Satzung-der-Fachschaft-Informatik-der-Rheinischen-Friedrich-Wilhelms-Universita%CC%88t-Bonn.pdf
+  puburl:   https://www.akut-bonn.de/wp-content/uploads/2016/02/akut-extra__Zweite-%c3%84nderungssatzung-der-Satzung-der-Fachschaft-Informatik-der-Rheinischen-Friedrich-Wilhelms-Universit%c3%a4t-Bonn.pdf
 - title: Dritte Änderungssatzung der Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Dritte Änderungssatzung der Satzung der Fachschaft Informatik
   actorgan: Fachschaftsvertretung Fachschaft Informatik
