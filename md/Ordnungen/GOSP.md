@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung des Bonner Studierendenparlaments (GO-SP)
 short: Geschäftsordnung des Bonner Studierendenparlaments (GO-SP)
-date:  13. Mai 2015
+date:  29. März 2018
 type:  Ordnung
 id:    GOSP
 contains:
@@ -12,6 +12,13 @@ contains:
   pubdate:  13. Mai 2015
   puborgan: AKUT
   puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/AKUT-Extra_GO-SPa__13-05-15.pdf
+- title: Geschäftsordnung des Bonner Studierendenparlaments (GO-SP)
+  short: Geschäftsordnung des Bonner Studierendenparlaments (GO-SP)
+  actdate:  27. September 2017
+  actorgan: Studierendenparlament
+  pubdate:  29. März 2018
+  puborgan: AKUT
+  puburl: https://www.akut-bonn.de/wp-content/uploads/2018/02/akut_extra_2018-3.pdf
 
 ---
 
@@ -672,35 +679,36 @@ behandelt werden.
 (1) Die Mitgliederzahlen der Ausschüsse bestimmt das SP, falls nicht in einer höherrangigen
 Rechtsquelle etwas anderes geregelt ist.
 
-(2) In den Ausschüssen haben all Ausschussmitglieder Stimmrecht.
+(2) In den Ausschüssen haben alle Ausschussmitglieder Stimmrecht.
 
 (3) Die SP-Sprecherin, die AStA-Vorsitzende und die zuständige Fachreferentin des AStA haben in
 den Ausschüssen beratende Stimme.
 
-(4) Ein Mitglied oder stellvertretendes Mitglied scheidet aus einem Ausschuss aus durch:
+(4)  Ein Mitglied oder stellvertretendes Mitglied scheidet aus einem Ausschuss aus:
 
-1. Rücktritt
-2. Abwahl
-3. Ausscheiden aus der Studierendenschaft
+1. durch Rücktritt,
+2. durch Abwahl,
+3. durch Ausscheiden aus der Studierendenschaft,
+4. bei Unvereinbarkeit der Ausschussmitgliedschaft nach § 12 Abs. 2 Satzung der Studierendenschaft.
 
-Ein Rücktritt ist wirksam, wenn er dem SP-Präsidium und der Ausschussvorsitzenden
-durch das ausscheidende Mitglied schriftlich oder per E-Mail angezeigt wurde.
-Das Ausscheiden aus der Studierendenschaft ist dem SP-Präsidium und der Ausschussvorsitzenden anzuzeigen.
+(5) Ein Rücktritt ist wirksam, wenn er dem SP-Präsidium und der Ausschussvorsitzenden durch das 
+ausscheidende Mitglied schriftlich oder per E-Mail angezeigt wurde. Das Ausscheiden aus der 
+Studierendenschaft ist dem SP-Präsidium und der Ausschussvorsitzenden anzuzeigen.
+Die Feststellung der Unvereinbarkeit erfolgt durch das Studierendenparlament auf der nächsten Sitzung.
 
-(5) Die Abwahl eines Ausschussmitglieds oder stellvertretenden Ausschussmitglieds durch
+(6) Die Abwahl eines Ausschussmitglieds oder stellvertretenden Ausschussmitglieds durch
 das SP ist nur mit qualifizierter 2/3-Mehrheit möglich.
 
-(6) Scheidet ein Mitglied oder stellvertretendes Mitglied aus, muss die Tagesordnung
+(7) Scheidet ein Mitglied oder stellvertretendes Mitglied aus, muss die Tagesordnung
 der nächstmöglichen SP-Sitzung einen Tagesordnungspunkt zur Nachbesetzung des
-freiwerdenden Platzes enthalten. Das Ersatzmitglied ist dann von der selben Fraktion
-(bzw. von der FK) zu benennen wie das ausgeschiedene Mitglied.
-
+freiwerdenden Platzes enthalten. Das Ersatzmitglied ist dann von der selben im SP 
+vertretenen Liste im Sinne von § 6 Abs. 1 der Satzung (bzw. von der FK) zu benennen wie das ausgeschiedene Mitglied.
 
 
 ### § 41 Wahl der Ausschussmitglieder
-Die Fraktionen benennen die Ausschussmitglieder und eine gleiche Anzahl Stellvertreterinnen. Die FK
-benennt zu jedem Ausschuss ein Mitglied und eine Stellvertreterin. Die Wahl erfolgt durch das SP (vgl.§ 
-33 sowie § 12 StS).
+Die im SP vertretenen Listen im Sinne von § 6 Abs. 1 der Satzung benennen die Ausschussmitglieder und eine gleiche 
+Anzahl Stellvertreterinnen. Die FK benennt zu jedem Ausschuss ein Mitglied und eine Stellvertreterin. Die Wahl 
+erfolgt durch das SP (vgl.§ 33 sowie § 12 StS).
 
 
 ### § 42 Konstituierung der Ausschüsse
