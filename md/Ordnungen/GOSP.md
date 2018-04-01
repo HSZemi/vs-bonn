@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung des Bonner Studierendenparlaments (GO-SP)
 short: Geschäftsordnung des Bonner Studierendenparlaments (GO-SP)
-date:  29. März 2018
+date:  18. Februar 2018
 type:  Ordnung
 id:    GOSP
 contains:
@@ -16,7 +16,7 @@ contains:
   short: Geschäftsordnung des Bonner Studierendenparlaments (GO-SP)
   actdate:  27. September 2017
   actorgan: Studierendenparlament
-  pubdate:  29. März 2018
+  pubdate:  18. Februar 2018
   puborgan: AKUT
   puburl: https://www.akut-bonn.de/wp-content/uploads/2018/02/akut_extra_2018-3.pdf
 
