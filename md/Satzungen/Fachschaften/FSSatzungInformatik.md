@@ -303,7 +303,7 @@ Zahl der anwesenden Mitglieder beschlussfähig ist.
 (6) FSR-Beschlüsse der laufenden Sitzungsperiode können durch Beschluss mit einer 
 Zweidrittelmehrheit der satzungsmäßigen Mitglieder des FSR aufgehoben werden. 
 
-### III. Die Fachschaftsvollversammlung (FSVV) 
+## III. Die Fachschaftsvollversammlung (FSVV) 
 
 ### § 17 Rechtsstellung der FSVV 
 
