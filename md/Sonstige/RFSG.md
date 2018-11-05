@@ -1,7 +1,7 @@
 ---
 title: Richtlinie für die Förderung studentischer Gruppen
 short: Richtlinie für die Förderung studentischer Gruppen
-date:  10. Mai 2016
+date:  30. Oktober 2018
 type:  Richtlinie
 id:    RFSG
 contains:
@@ -12,16 +12,23 @@ contains:
   puborgan: AKUT
   pubdate:  10. Mai 2016
   puburl: https://www.akut-bonn.de/wp-content/uploads/2016/05/akut-extra__Richtlinie-fu%CC%88r-die-Fo%CC%88rderung-studentischer-Gruppen-1.pdf
+- title: Richtlinie für die Förderung studentischer Gruppen
+  short: Richtlinie für die Förderung studentischer Gruppen
+  actorgan: Studierendenparlament
+  actdate:  1. Oktober 2018
+  puborgan: AKUT
+  pubdate:  30. Oktober 2018
+  puburl: https://www.akut-bonn.de/wp-content/uploads/2018/11/akut_extra_2018-10.pdf
 ---
 
 
 ### § 1 Studentische Gruppen
 
 (1) Definition  
-Zusammenschlüsse von Studentinnen und Studenten, die gemäß den 
-Richtlinien für die Registrierung studentischer Vereinigungen an der 
-Universität Bonn verfasst sind, werden als „Studentische Vereinigung“, hier 
-„Studentische Gruppe“, bezeichnet.
+Zusammenschlüsse von Studentinnen und Studenten, die gemäß den Richtlinien für die 
+Registrierung studentischer Vereinigungen an der Rheinischen Friedrich-Wilhelms-Universität 
+Bonn nach dem Senatsbeschluss vom 18.01.1968 verfasst sind, werden als „Studentische 
+Vereinigung“, hier „Studentische Gruppe“, bezeichnet.
 
 (2) Registrierungsvoraussetzungen
 
@@ -37,54 +44,51 @@ das vom AStA zur Verfügung gestellte Formular ist zur Anmeldung gültig.
 * Name und Anschriften des Vorstandes
 * Zahl der Mitglieder
 * Erklärung, dass alle ordentlichen Mitglieder an der Universität Bonn 
-    immatrikulierte Studierende sind
-* Erklärung, dass sich die Gruppe nicht kommerziell betätigt
+  immatrikulierte Studierende sind
+* Eine Satzung oder Erklärung aus der hervorgeht,
+    a. dass alle ordentlichen Mitglieder an der Universität Bonn immatrikulierte 
+       Studierende sind
+    b. dass sich die Gruppe nicht kommerziell betätigt
 
-(d) Neue Anträge auf Registrierung können jederzeit gestellt werden. Zur 
-Beantragung finanzieller Fördermittel für das laufende Semester muss die 
-Gruppe jedoch bis zum 10.April/10.Oktober gemeldet worden sein.
+(d) Neue Anträge auf Registrierung können jederzeit gestellt werden. Zur Beantragung 
+finanzieller Fördermittel für das laufende Semester muss die Gruppe jedoch bis zum 
+10.April/10.Oktober gemeldet worden sein.
 
 (3) Rückmeldung bereits registrierter Gruppen
 
-(a) Alle Gruppen müssen sich jedes Semester zurückmelden. Tut eine Gruppe dies
-nicht, entfällt der Status als förderberechtigte Gruppe.
-
-(b) Zur Rückmeldung ist nur das vom AStA zur Verfügung gestellte Formular 
-gültig.
-
-(c) Die Rückmeldung ist schriftlich im Rahmen der Frist einzureichen.
-
-(d) Die Rückmeldefrist endet im Sommersemester (SS) am 10. April, im 
-Wintersemester (WS) am 10. Oktober.
-
-(e) Das Rückmeldeformular kann auf der AStA-Homepage (Sekretariat) 
-heruntergeladen und ausgedruckt werden, es ist auch im AStA- Sekretariat 
-erhältlich. Das Formular muss im Original unterschrieben werden und kann im 
-AStA-Sekretariat abgegeben, in den Briefkasten des AStA eingeworfen oder 
-per Post verschickt werden, hierbei muss das Dokument fristgerecht dem AStA
-zugehen.
-
-(f) Die Gruppe hat den fristgemäßen Eingang selbst sicherzustellen.
-
-(g) Ausnahmen von der Frist werden nicht gewährt.
+a) Für den Erhalt des Status als förderberechtigte Gruppe muss sich die studentische Gruppe 
+   jedes Semester zurückmelden und den Status aktualisieren. Neuerungen, die die Punkte 
+   unter § 1 Abs.2,lit c betreffen sind bei der Rückmeldung anzugeben.
+b) Zur Rückmeldung ist nur das vom AStA zur Verfügung gestellte Formular gültig.
+c) Die Rückmeldung ist schriftlich im Rahmen der Frist einzureichen.
+d) Die Rückmeldefrist endet im Sommersemester (SS) am 10. April, im Wintersemester (WS) 
+   am 10. Oktober.
+e) Das Rückmeldeformular kann auf der AStA-Homepage (Sekretariat) heruntergeladen und 
+   ausgedruckt werden, es ist auch im AStA- Sekretariat erhältlich. Das Formular muss im 
+   Original unterschrieben werden und fristgerecht mit Poststempel im AstA-Sekretariat 
+   eingereicht werden.
+f) Die Gruppe hat den fristgemäßen Eingang selbst sicherzustellen.
+g) Ausnahmen von der Frist werden nicht gewährt.
 
 
 ### § 2 Förderung
 
 (1) Förderungsgegenstand  
-Eine Förderung kann nur gewährt werden, soweit diese auf die 
-Unterstützung einer Gruppentätigkeit gerichtet ist, die einen Mehrwert für die 
-Bonner Studierendenschaft erbringt. Die Förderung der Antragsposition kann 
-nur erfolgen, soweit das Studierendenparlament auf Antrag keine Zuordnung 
-zu einer anderen Haushaltsposition vornimmt und feststellt, dass ein Mehrwert 
-für die Bonner Studierendenschaft gegeben ist.
+Eine Förderung kann nur gewährt werden, soweit diese auf die Unterstützung einer 
+Gruppentätigkeit gerichtet ist, die einen Mehrwert für die Bonner Studierendenschaft erbringt. Die 
+Förderung der Antragsposition kann nur erfolgen, soweit das Studierendenparlament auf Antrag 
+keine Zuordnung zu einer anderen Haushaltsposition vornimmt und feststellt, dass ein Mehrwert für
+die Bonner Studierendenschaft gegeben ist.
 
-(2) Förderungsfähigkeit  
-Gefördert werden können alle registrierten Gruppen (§1).
-Nicht gefördert werden können studentische Gruppen, die bei Wahlen zu  
-politischen Gremien teilnehmen und studentische Gruppen, deren Handeln im  
-Widerspruch zum Grundgesetz der Bundesrepublik oder der Verfassung des 
-Landes Nordrhein-Westfalen stehen.
+(2) Die Förderungsfähigkeit entfällt, wenn
+
+(a) die Studentische Gruppe zu Wahlen antreten oder sich kommerziell betätigen
+(b) die Studentische Gruppe -bzw. Vorstandsmitglieder derselben- Ziele und Positionen oder
+   Verhalten aufweist oder duldet, die im Widerspruch zum Grundgesetz der Bundesrepublik
+   Deutschland oder der Verfassung des Landes Nordrhein-Westfalen stehen. Insbesondere werden 
+   keine Tätigkeiten oder Veranstaltungen geduldet, bei denen die Gleichberechtigung von 
+   Geschlechtern, Ethnien, Sexualitäten, Toleranz vor Religionen und Weltanschauungen gefährdet
+   wird/wurde.
 
 (3) Die Förderung gliedert sich in
 
@@ -97,262 +101,230 @@ Landes Nordrhein-Westfalen stehen.
 
 ### § 3 Allgemeine Förderung
 
-(1) Die Allgemeine Förderung umfasst
+(1) Die allgemeine Förderung umfasst:
 
-(a) Bereitstellung von technischem Equipment (Webspace, Gerätschaften, etc.), 
-soweit vorhanden und verfügbar
+(a) kostenlose Bereitstellung von verfügbaren Gerätschaften und technischem Equipment des
+   AstAs. (Dies wird durch das Geschäftszimmer des AstAs koordiniert)
 
-(b) Beratung im Hinblick auf die Nutzung von universitätseigenen Mitteln 
+(b) Nutzung verfügbarer Hörsäle und räume an der Universität Bonn
 
-(Räumlichkeiten, Technik, etc.)
+(c) Die Verteilung von Flyern und Plakaten
 
-(c) Vermittlung von und bei Gesprächen zwischen Mitarbeitern der Universität 
-und studentischer Gruppe
+(d) Beratungen und Hilfestellungen hinsichtlich der Öffentlichkeitsarbeit (Zuständigkeit des AstA-
+   Öffentlichkeitsreferats)
 
-(d) Die Verteilung von Flyern und Plakaten im Rahmen der Vorgaben der AStA-
-Organisation / Geschäftszimmer. Voraussetzung ist, dass das AStA-Logo mit 
-dem Zusatz „gefördert durch“ auf das zu verteilende Medium gedruckt wurde.
+(e) Hilfestellung bei Organisationsproblemen, Fragen zu Finanzierungsmöglichkeiten und 
+   Vernetzungstreffen (Zuständigkeit AstA-Kulturreferat)
 
-(e) Allgemeine Beratung bei der Planung und Durchführung kultureller 
-Tätigkeiten, Organisation der Kulturgruppe, etc.
+(2) Die Gewährung der allgemeinen Förderung ist durch den Status der Studentischen Gruppen 
+   gegeben.
 
-(2) Für die Gewährung der allgemeinen Förderung bedarf es keines Antrages.
-
-(3) Ausnahmen vom Zugang zur allgemeinen Förderung im Einzelfall können auf 
-Antrag des Kulturreferats vom Studierendenparlament beschlossen werden.
+(3) Ausnahmen vom Zugang zur allgemeinen Förderung im Einzelfall können auf Antrag des 
+   Kulturreferats oder des AStA-Vorsitzes vom Studierendenparlament beschlossen werden.
 
 
 ### § 4 Finanzielle Förderung
 
-(1) Voraussetzungen für finanzielle Förderung / Antragstellung  
-Die finanzielle Förderung einer Veranstaltung kann erfolgen, soweit die folgenden 
-formalen Voraussetzungen erfüllt sind. Anträge können ausschließlich über die 
-vom Kulturreferat zur Verfügung gestellten Formulare gestellt werden.
 
-(a) Formgerechter Antrag einschließlich ausführlicher Beschreibung der 
-beantragten Posten.
+### §4 (1) Die Vergabe der finanziellen Förderung erfolgt in der Regel wie folgt:
 
-(b) Tätigkeitsbericht des letzten Semesters (entfällt bei neugegründeten Gruppen)
-
-(c) Hinterlegung einer Kostenaufstellung für die Ausgaben und Einnahmen der 
-gesamten Veranstaltung
-
-(d) Für die Förderung von Miet- und Kaufverträgen müssen zudem 3 verschiedene
-Kostenvoranschläge eingeholt und beigelegt werden, wenn die Summe der 
-Posten 250 € übersteigt.
-
-(e) Für jede Veranstaltung muss ein eigener Antrag gestellt werden. Die 
-Auflistung von Finanzposten mehrerer Veranstaltungen auf einem
-Antragsformular ist unzulässig.
-
-(f) Nur Anträge, die im Rahmen der Frist eingereicht wurden, können 
-Berücksichtigung finden. Für die Antragsfrist gelten die nachfolgenden 
-Bestimmungen:
-
-1. Das Referat gibt die Antragsfristen mindestens 5 Wochen vor dem 
-    Stattfinden des Kulturplenums bekannt.
-2. Die Bekanntgabe erfolgt 
-    durch Hinweis auf der Website http://www.asta-bonn.de/kulturreferat per 
-    E-Mail an die dem Kulturreferat bei der Registrierung der Gruppe 
-    mitgeteilten E-Mail-Adresse
-3. Ab Bekanntgabe der Frist beträgt diese 2 Wochen.
-4. Zum Fristablauf muss der Antrag auf Förderung vollständig ausgefüllt 
-    nebst allen sonst erforderlichen Unterlagen eingereicht worden sein.
-5. Nach Fristablauf ist eine Änderung der Finanzposten nicht mehr möglich.
-
-(g) Der vollständige Antrag muss im Rahmen der Frist ausgedruckt und im 
-Original unterschrieben im AStA-Sekretariat gestempelt werden und daraufhin 
-in den Briefkasten / das Postfach des Kulturreferats eingeworfen werden. Eine 
-Abgabe im Sekretariat ist nicht statthaft.
-
-(h) Ein mängelbehafteter Antrag kann geheilt werden.
-
-* Nach Ablauf der Frist überprüft das Kulturreferat alle vollständig 
-    eingegangenen Anträge auf Schlüssigkeit.
-* Sofern sich bei der Überprüfung herausstellt, dass ein Antrag nicht schlüssig 
-    ist oder unter inhaltlichen Defiziten leidet, wird das Kulturreferat 
-    unverzüglich unter Angabe einer nach billigem Ermessen zu setzenden Frist 
-    den Antragsteller_Innen benachrichtigen. Dieser hat dann einmalig die 
-    Gelegenheit, den entsprechenden Teil seines Antrags nachzubessern. Werden
-    die Mängel auf diese Weise nicht behoben, entscheidet das Kulturplenum 
-    über die Zulassung.
-* Eine solche Nachfrist wird bei formellen Mängeln (Unvollständigkeit des 
-    Antrags) nicht gewährt.
-
-(2) Antragstellung bei Durchführung einer Veranstaltung mehrerer Gruppen  
-Studentische Gruppen können zur Durchführung einer gemeinsamen Veranstaltung 
-einen gemeinsamen Finanzantrag stellen. Dafür gelten zusätzlich zu den 
-Voraussetzungen aus § 4 I die folgenden Regelungen
-
-(a) Erforderlich ist die Benennung einer Vertrauensperson unter Angabe von
-Telefonnummer, Wohnsitz und E-Mail-Adresse, die im Namen des 
-Zusammenschlusses der Gruppen zeitnah und zuverlässig gegenüber dem 
-Referat auftritt
-
-(b) Aus der zu hinterlegenden Kostenaufstellung (vgl. § 4 I c) muss die Verteilung
-der Kosten auf die jeweilige Gruppe hervorgehen. Bei missverständlicher 
-Darlegung kann der Antrag nicht zugelassen werden.
-
-(c) Eine durch mehrere Gruppen getragene Veranstaltung kann nicht durch 
-weitere Anträge der Einzelgruppen zusätzlich gefördert werden.
-
-(3) Begründetet eines Antrags auf finanzielle Förderung
-Ein Antrag auf finanzielle Förderung kann nur begründet sein, soweit die
-nachfolgenden Bestimmungen eingehalten werden:
-
-(a) Jeder Posten muss mit einem Eigenanteil von mindestens 15 % kalkuliert 
-werden. Die Vollfinanzierung einer Veranstaltung ist ausgeschlossen.
-
-(b) Eine Vorfinanzierung ist nicht möglich. Studentische Gruppen können erst im
-Nachhinein ihre Auslagen über die Förderung begleichen.
-
-(c) Die finanzielle Förderung kann generell nicht für Verpflegungskosten, oder 
-ähnlichen beabsichtigen Ausgaben in Anspruch genommen werden. 
-Ausnahmefälle werden im Folgenden geregelt.
-
-* Veranstaltung, deren essentieller Bestandteil Essen ausweist und einen klaren 
-    Bezug zwischen Essen und kulturellem Programm erkennbar werden lassen.
-* Geringfügige Verpflegungskosten für Referent_innen (z.B. Wasserflasche für
-    einen Vortrag).
-* Verpflegungskosten, die im Rahmen eines Gesamtpaketes (z.B. 
-    Hotelunterbringung mit integriertem Essen) schwerlich herausgerechnet 
-    werden können.
-
-(d) Im Rahmen von Anträgen, die auf die Erstattung von Unterbringungskosten 
-gerichtet sind, können nur solche Berücksichtigung finden, die mit 
-angehängtem Preisvergleich (bspw. booking.com) den Nachweis erbringen, 
-dass es sich um die niedrigste verfügbare Preiskategorie handelt. Sofern unter 
-besonderen Umständen eine teurere Art der Unterbringung gewählt wird, 
-richtet sich der Antrag auf die fiktiven Kosten, die bei Buchung eines Hotels in
-der niedrigen Preisklasse entstanden wären.
+a) Die Studentische Gruppe stellt einen fristgerechten Finanzantrag an das Kulturreferat (siehe 
+   §4 (2) Antragsstellung)
+b) Das Kulturreferat prüft die Anträge auf Vollständigkeit, Schlüssigkeit und Begründung 
+   (allgemeine Bestimmungen)
+c) Die Studentischen Gruppen und das Kulturreferat erarbeiten eine Beschlussvorlage auf dem 
+   Kulturplenum. Das Kulturreferat beantragt die Bewilligung der Beschlussvorlage beim 
+   Studierendenparlament. (Kulturplenum)
+d) Die Studentische Gruppe erbringt den Verwendungsnachweis durch Einreichung der 
+   Rechnung und des Auszahlungsantrages an das Kulturreferat.
+e) Die Auszahlungsanforderung erfolgt nach Prüfung und Erarbeitung durch das Kulturreferat 
+   an das Finanzreferat, welches dieses abschließend prüft und die Auszahlung ausführt.
 
 
-### § 5 Kulturplenum
+### §4 (2) Antragstellung
 
-(1) Das Kulturplenum behandelt die durch das Referat zugelassenen Anträge nach der
-Verfahrensordnung des Kulturplenums.
-
-(2) Den am Kulturplenum beteiligten studentischen Gruppen geht durch das Referat 
-vor dem Kulturplenum eine Gesamtantragsliste zu.
-
-(3) Das Kulturplenum entscheidet nicht endgültig über die Rechtmäßigkeit der 
-Anträge. Die Entscheidung des Kulturplenums geht als Beschlussvorlage dem 
-Studierendenparlament der Rheinischen Friedrich-Wilhelms-Universität Bonn (SP) zu.
-Zu diesem Zwecke wird das Referat beauftragt, den Beschluss im Namen des 
-Kulturplenums dem Studierendenparlament zuzuleiten.
-
-(a) Das Referat muss dabei die nächste ordentliche Sitzung des SP zur 
-Einbringung der Beschlussvorlage nutzen. Zwischen dem Beschluss des 
-Kulturplenums und der Einbringung durch das Referat dürfen keine drei 
-Wochen vergehen.
-
-(b) Sollte das SP nicht innerhalb von 21 Tagen ordentlich tagen, muss das Referat 
-eine außerordentliche Sitzung des SP beantragen.
-
-(c) Begründete Abweichungen von dieser Regel sind nur mit dem Einverständnis 
-der Referent_in des Kulturreferates und der Präsident_in des SP möglich.
-
-(d) Die Abweichung wird in einem begründeten gemeinsamen Entschluss 
-festgehalten und umgehend veröffentlicht.
+a) Das Finanzantragsformular ist bei Bekanntgabe der Antragsfrist auf der Webseite des 
+   Kulturreferates und als Ausdruck im AStA erhältlich.
+b) Die Bekanntgabe der Frist erfolgt mind. 5 Wochen vor dem Stattfinden des Kulturplenums 
+   und endet spätestens 2 Wochen vor dem Kulturplenum.
+c) Für jede Veranstaltung muss ein eigener Antrag gestellt werden
+d) Eine Veranstaltung mehrerer Studentischer Gruppen muss durch einen gesonderten 
+   Finanzantrag gestellt werden unter Benennung einer verantwortlichen Vertreterin. Die 
+   Veranstaltung kann nicht durch weitere Anträge einzelner Gruppen gefördert werden.
+e) Der vollständige Antrag setzt sich aus der Beschreibung der Veranstaltung und Begründung 
+   der einzelnen Posten, einem Tätigkeitsbericht des vorherigen Semesters und einem Kosten-
+   und Finanzierungsplan zusammen.
+f) Mit der Unterschrift bestätigt die Vertreterin der Gruppe, die aktuellen „Richtlinien zur 
+   Förderung studentischer Gruppen“ zu kennen und gelesen zu haben.
+g) Das Antragsformular muss im Original unterschrieben werden und innerhalb der 
+   Antragsfrist eingereicht werden. Es gilt dabei das Datum des Poststempels des AStA-
+   Sekretariats.
+h) Das Kulturreferat prüft die eingegangenen Anträge auf Schlüssigkeit und Vollständigkeit 
+   und vergibt bei inhaltlichen Defiziten und formellen Mängeln eine Nachfrist nach billigem 
+   Ermessen zur Bearbeitung des Antrages.
+i) Wird die Unvollständigkeit des Antrages innerhalb dieser Frist nicht behoben, so findet 
+   dieser keine Berücksichtigung.
 
 
-### § 6 Bewilligung der finanziellen Förderung
+### §4 (3) Allgemeine Bestimmungen zur finanziellen Förderung   
 
-(1) Das SP entscheidet abschließend nach der Geschäftsordnung des SP über die 
-Rechtmäßigkeit und Gültigkeit der Beschlussvorlage.
-
-(2) Die Entscheidung des SP gilt als bindend, sobald dem Referat der Beschluss des 
-SP durch seinen Präsidenten zugegangen ist.
-
-(3) Das Referat ist angewiesen, dem SP in der Frage der Rechtmäßigkeit der 
-Beschlussvorlage zu assistieren. Begründete Zweifel des Referates müssen dem SP 
-berichtet werden.
-
-(4) Bestehen zur Beschlussvorlage oder Anträgen einzelner Gruppen Rückfragen, 
-kann das SP die jeweilige Gruppe zum Zwecke der Befragung zur nächsten SP-
-Sitzung einladen und die Freigabe des entsprechenden Beitrags bis zur Klärung 
-vertagen.
-
-
-### § 7 Auszahlung der bewilligten Gelder
-
-(1) Das Referat handelt auf Grundlage des SP--Beschlusses.
-
-(2) Zur Auszahlung der Gelder müssen studentische Gruppen, denen finanzielle 
-Förderung bewilligt worden ist, einen Auszahlungsantrag mit den folgenden 
-Voraussetzungen stellen:
-
-(a) Antrag auf Auszahlung der bewilligten Gelder (Anschreiben inkl. Kontodaten 
-des Zielkontos zur Erstattung der Gelder). Das Einreichen von Dokumenten 
-oder Nachweisen ohne Anschreiben ist unzulässig.
-
-(b) Nachweis über die rechtmäßige Verwendung der bewilligten Mittel 
-
-(Rechnung, Quittung) sowie Zuordnung der eingereichten Nachweise zum 
-entsprechenden Posten des Finanzantrags. Rechnungen und Quittungen müssen
-dem Referat im Original eingereicht werden.
-
-(c) Nachweis über das Stattfinden der Veranstaltung (Flyer, Plakat, 
-Berichterstattung in gängigen Medien, o.Ä.)
-
-(d) Bei der Erstattung von Geldern für Werbemittel ist jeweils ein Exemplar des 
-Werbemittels einzureichen. Sämtliche Werbemittel (Flyer, Plakate) müssen 
-sowohl das Logo des Referates, als auch das SP-Logo jeweils mit dem Zusatz 
-„gefördert durch“ tragen. Ist dies nicht der Fall, können keine Gelder erstattet 
-werden. Die Logos sind auf der Internetseite des AStA/SPs zugänglich und 
-können auch per Mail angefordert werden.
-
-(e) Bei Rechnungen mit ausländischer Währung ist eine Bescheinigung über den 
-derzeitigen Wechselkurs in € bei einer Bank einzuholen und dem 
-Auszahlungsantrag anzufügen.
-
-(f) Bei allen Rechnungen/Quittungen sind die Kontaktdaten des Empfängers z.B. 
-des Honorars einzureichen.Eine Verschiebung bewilligter Gelder auf andere 
-Posten ist nicht möglich.
-
-(3) Die studentische Gruppe ist verpflichtet den ordnungsgemäßen Eingang der
-Abrechnungsunterlagen zu gewährleisten. Ordnungsgemäßer Eingang meint den 
-Eingang über den Postweg oder die persönliche Abgabe im Referat. Der Antrag kann 
-im Sekretariat abgestempelt und ins Postbuch eingetragen werden, um im 
-Zweifelsfalle zur Klärung eines Sachverhaltes beizutragen.
-
-(4) Eine Verschiebung bewilligter Gelder auf andere Posten ist nicht möglich.
-
-(5) Eine Auszahlung der Gelder ist nur innerhalb eines Jahres nach SP-Beschluss 
-möglich.
-
-(6) Ruft eine Kulturgruppe ihre bewilligten Gelder von zwei aufeinanderfolgenden SP-
-Beschlüssen nicht ab, kann die Gruppe für die finanzielle Förderung durch 
-Abstimmung auf der GAS/SP gesperrt werden, soweit das Nichtabrufen eine 
-Blockierung von Geldern vermuten lässt.
-
-(7) Werden die in diesem Abschnitt aufgeführten Kriterien nicht oder unzureichend 
-erfüllt, ist die Auszahlung bis zur Aufhebung der Mängel nicht möglich.
+a) Die finanzielle Förderung kann bis zu 85% der geplanten Kosten betragen und ist mit einem
+   Eigenanteil von mind. 15% der gesamten Veranstaltung zu kalkulieren
+b) Veranstaltungen, welche einen kommerziellen Zweck dienen, können nicht gefördert
+   werden. 
+c) Veranstaltungen oder Tätigkeiten, bei denen die Gleichberechtigung von Geschlechtern 
+   Ethnien, Sexualitäten, Toleranz vor Religionen gefährdet wird oder wurde, sind von der 
+   Förderung ausgeschlossen.
+d) Verpflegungskosten werden nur übernommen, wenn das Essen als Hauptbestandteil der 
+   Veranstaltung ausgewiesen ist und einen klaren Bezug zwischen Essen und kulturellem 
+   Programm erkennbar werden lassen.
+e) Eine Vorfinanzierung ist nicht möglich. Studentische Gruppen können erst im Nachhinein ihre 
+   Auslagen über die Förderung begleichen.
+f) Bei Miet- und Kaufverträgen, die über 250 € (inkl. Mehrwertsteuer) betragen, sind drei 
+   preisvergleichende Angebote einzuholen.
+g) Werbung wie Flyer, Plakate und digitale PDF-Formate haben das Logo des 
+   Studierendenparlamentes und das des AStAs mit dem Zusatz „gefördert durch“ zu tragen.
+h) Förderungen, die auf die Erstattung von Unterbringungskosten gerichtet sind, können nur solche
+   Berücksichtigung finden, wenn sie sich an der niedrigsten Preiskategorie (für z.B. Einzelzimmer
+   inkl. Frühstück) orientieren. Sofern unter besonderen Umständen eine teurere Art der 
+   Unterbringung gewählt wird, richtet sich der Antrag auf die fiktiven Kosten, die bei Buchung 
+   eines Hotels in der niedrigen Preisklasse entstanden wären.
+i) Förderungen, welche auf die Erstattung von Reisekosten gerichtet sind, orientieren sich an dem 
+   Preisniveau für eine Hin- und Rückfahrt im niedrigsten Tarif der 2. Klasse der Deutschen Bahn.
+j) In Sonderfällen und bei Personen mit eingeschränkter Mobilität kann eine höhere 
+   Preiskategorie, welche den besonderen Ansprüchen entspricht, beantragt werden.
+k) Kooperationen mit nicht-studentischen Gruppen sind anzugeben und in der Beschreibung zu 
+   begründen. Die finanziellen und organisatorischen Anteile sind im Finanz- und Kostenplan 
+   aufzuführen. Der finanzielle Anteil der studentischen Gruppe sollte in einem adäquaten 
+   Verhältnis zum Organisationsaufwand der Veranstaltung stehen. Erscheint die Arbeitsteilung in 
+   der Antragsstellung Begründung nicht schlüssig, kann das Kulturreferat der Gruppe vor dem 
+   Stattfinden des Kulturplenum in einem persönlichen Gespräch einen Förderbetrag vorschlagen.
 
 
-### § 8 Haftung
+### §4 (4) Kulturplenum
 
-(1) Die studentische Gruppe wird bei jeder Form von Missbrauch der bewilligten 
-Förderung haftbar gemacht. Als Missbrauch gilt eine nicht sachgerechte, nicht 
-zweckentsprechende oder nicht wirtschaftliche Verwendung der bereitgestellten 
-Finanz- und Sachmittel.
+a) Das Kulturplenum behandelt die durch das Referat zugelassenen Anträge nach der 
+   Verfahrensordnung des Kulturplenums.
+b) Das Kulturplenum wird durch das Kulturreferat veranstaltet und findet mindestens einmal 
+   im Semester statt, um die zur Verfügung gestellten Mittel des Haushaltstitels auszuschöpfen.
+c) Vor dem Kulturplenum geht den beteiligten studentischen Gruppen eine Gesamtantragsliste 
+   durch das Kulturreferat zu.
+d) In Einzelfällen können Anträge, die den allgemeinen Bestimmungen nicht oder nur teilweise
+   entsprechen, durch das Kulturreferat zur Abstimmung auf dem Kulturplenum gestellt 
+   werden.
+e) Der Termin des Kulturplenums wird durch das Kulturreferat bekanntgegeben. Die 
+   Ladungsfrist beträgt mind. 5 Wochen.
 
-(2) Die bewilligten Fördergelder sind immer im Einklang mit der Veranstaltung und 
-der dazu gehörigen Veranstaltungsbeschreibung zu verwenden.
+1. Begründete Abweichungen von dieser Regel sind nur mit dem Einverständnis der
+   Referentin des Kulturreferates und der Sprecherin des SP möglich.
 
-(3) Wissentlich falsche Angaben werden als Missbrauch gewertet.
+2. Die Abweichung wird in einem begründeten gemeinsamen Entschluss festgehalten
+   und umgehend veröffentlicht.
 
-(4) Die Förderung der Studentischen Gruppen begründet keine Veranstaltereigenschaft
-des AStA, des SPs oder der Studierendenschaft.
+f) Das Kulturplenum fasst unter der Teilnahme der Antragsstellenden Gruppen eine
+   Beschlussvorlage und stellt diese an das Studierendenparlament. Das Kulturreferat reicht die 
+   Beschlussvorlage im Namen des Kulturplenums zur nächsten Sitzung des
+   Studierendenparlamentes ein.
+g) Das Kulturplenum entscheidet nicht endgültig über die Rechtmäßigkeit der Anträge. Die 
+   Entscheidungen des Kulturplenums gehen als Beschlussvorlage dem Studierendenparlament
+   der Rheinischen Friedrich-Wilhelms-Universität Bonn (SP) zu. Zu diesem Zwecke wird das 
+   Referat beauftragt, den Beschluss im Namen des Kulturplenums dem 
+   Studierendenparlament zuzuleiten.
 
 
-### § 9 Schlussbestimmungen
+### § 4 (5) Bewilligung
+
+a) Das Studierendenparlament entscheidet abschließend nach der Geschäftsordnung des 
+   Studierendenparlamentes über die Rechtmäßigkeit und die Gültigkeit der Beschlussvorlage.
+b) Das Kulturreferat muss die nächste ordentliche Sitzung des SPs zur Einbringung der 
+   Beschlussvorlage nutzen. Zwischen dem Beschluss des Kulturplenums und der Einbringung 
+   durch das Referat dürfen keine drei Wochen vergehen.
+c) Sollte das SP nicht innerhalb von 28 Tagen ordentlich tagen, muss das Referat eine
+d) Sitzung des SP beantragen.
+e) Das Referat ist angewiesen, dem Studierendenparlament in der Frage nach der 
+   Rechtmäßigkeit der Beschlussvorlage zu assistieren. Begründete Zweifel müssen dem SP 
+   berichtet werden.
+f) Bestehen zur Beschlussvorlage einzelner Veranstaltungen und Gruppen Rückfragen, kann 
+   das Studierendenparlament die jeweilige Gruppe zur Klärung offener Fragen nächsten 
+   Sitzung einladen und die Freigabe des entsprechenden Beitrags bis zur Klärung vertagen.
+g) Die Entscheidung des Studierendenparlamentes gilt als bindend, sobald der Beschluss 
+   gefasst wurde und dem Kulturreferat zugeht.
+h) Die Verwendung der bewilligten Gelder ist nicht auf andere Veranstaltungen übertragbar.
+i) Eine Verschiebung bewilligter Gelder auf andere bewilligte Posten ist nur in begründeten
+   Einzelfällen möglich und nach Absprache mit dem Kulturreferat möglich. Die Studentische
+   Gruppe hat dem Kulturreferat eine schriftliche Begründung über die zweckentsprechenden
+   Posten darzulegen.
+j) Inhaltliche und organisatorische Änderungen und zweckentsprechende Abweichungen von 
+   den bewilligten Posten oder der gesamten Veranstaltungen sind dem Kulturreferat 
+   unverzüglich mitzuteilen. Das Kulturreferat entscheidet in Absprache mit dem Finanzreferat 
+   sowie der Ersten SP-Sprecherin über das Maß der Änderung und über den Status der 
+   Zulässigkeit der Auszahlung
+
+1. Bei erheblichen Änderungen kann die Studentische Gruppe einen Änderungsantrag an das
+Studierendenparlament einreichen. Die bereits bewilligte Summe muss dabei
+berücksichtigt werden und kann dabei nicht überschritten werden.
+
+2. Bei geringfügigen Änderungen ist diese in den Antragsformularen als solche zu
+kennzeichnen. Die Änderungen und Entscheidungen sind auf Nachfrage dem
+Studierendenparlament mitzuteilen.
+
+
+### § 4 (6) Auszahlung 
+
+a) Die Auszahlung der bewilligten Mittel erfolgt nach Einreichung der originalen Rechnungen 
+   über das Kultur- und Finanzreferat.
+b) Das Kulturreferat handelt auf Grundlage des Beschlusses.
+c) Zur Auszahlung der bewilligten Mittel gelten folgende Voraussetzungen für die 
+   studentischen Gruppen:
+
+1. Antrag auf Auszahlung der bewilligten Gelder (Name, Adresse, Anschreiben inkl.
+   Kontodaten des Zielkontos zur Erstattung der Gelder). Das Einreichen von Dokumenten
+   oder Nachweisen ohne Anschreiben ist unzulässig.
+
+2. Nachweis über die rechtmäßige Verwendung der bewilligten Mittel (Rechnung, Quittung sowie 
+   Zuordnung der eingereichten Nachweise zum entsprechenden Posten des
+   Finanzantrags. Rechnungen und Quittungen müssen im Original eingereicht werden.
+
+3. Bei allen Rechnungen/Quittungen sind die Kontaktdaten des Empfängers z.B. des
+   Honorars einzureichen.
+
+4. Nachweis über das Stattfinden der Veranstaltung (Flyer, Plakat, Berichterstattung in
+   gängigen Medien, o.Ä.)
+
+5. Bei der Erstattung von Geldern für Werbemittel ist jeweils ein Exemplar des Werbemittel 
+   einzureichen. Sämtliche Werbemittel (Flyer, Plakate, PDF-Datei) müssen sowohl das
+   Logo des AStAs als auch das SP-Logo jeweils mit dem Zusatz „gefördert durch“ tragen.
+   Ist dies nicht der Fall, können keine Gelder erstattet werden. Die Logos sind auf der
+   Internetseite des AStA/SPs zugänglich und können auch per Mail angefordert werden.
+
+d) Der Eingang der Dokumente und Rechnungen ist durch den Poststempel des AStAs bzw.
+   Postfach des AStA Sekretariats sicherzustellen.
+e) Bei Rechnungen mit ausländischer Währung ist eine Bescheinigung über den derzeitigen
+   Wechselkurs in € bei einer Bank einzuholen und dem Auszahlungsantrag anzufügen.
+f) Eine Auszahlung der Gelder ist nur innerhalb eines Jahres nach SP-Beschluss möglich.
+
+
+### § 5 Haftung
+
+Die studentische Gruppe wird bei jeder Form von Missbrauch der bewilligten Förderung haftbar 
+gemacht. Als Missbrauch gilt eine nicht sachgerechte, nicht zweckentsprechende oder nicht 
+wirtschaftliche Verwendung der bereitgestellten Finanz- und Sachmittel.
+
+(1) Die bewilligten Fördergelder sind immer im Einklang mit der Veranstaltung und der 
+dazu gehörigen Veranstaltungsbeschreibung zu verwenden.
+
+(2) Wissentlich falsche Angaben werden als Missbrauch gewertet.
+
+(3) Die Förderung der Studentischen Gruppen begründet keine Veranstaltereigenschaft 
+des AStA, des Studierendenparlaments oder der Studierendenschaft.
+
+
+### § 6 Schlussbestimmungen
 
 (1) Zuständig für die Durchführung des Verfahrens im Hinblick auf die Förderung der 
-Studentischen Gruppen ist der AStA, vertreten durch das Referat für Kultur und 
-studentische Initiativen.
+Studentischen Gruppen ist der AStA, vertreten durch das Referat für Kultur und studentische 
+Initiativen.
 
 (2) Mit Inkrafttreten der vorliegenden Bestimmungen treten die „Bestimmungen
-über die Förderung von Studentischen Vereinigungen durch die Studierendenschaft 
-der Universität Bonn“ vom 5.11.2014 außer Kraft.
-
+über die Förderung von Studentischen Vereinigungen durch die Studierendenschaft der Universität 
+Bonn“ vom 5.11.2014 außer Kraft.
