@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms-Universität Bonn [FKGO]
 short: Geschäftsordnung der Fachschaftenkonferenz (FKGO)
-date:  14. Februar 2017
+date:  13. November 2018
 type:  Ordnung
 id:    FKGO
 contains:
@@ -46,6 +46,15 @@ contains:
   puborgan: AKUT
   pubdate:  14. Februar 2017
   puburl:   https://www.akut-bonn.de/wp-content/uploads/2017/02/akut_extra_2017-4.pdf
+- title:    Liste der Fachschaften der RFWU Bonn mit zugeordneten Studiengängen
+  short:    Anlage "Fachschaftenliste" zur FKGO
+  actorgan: Fachschaftenkonferenz
+  actdate:  6. August 2018
+  confirmorgan: Studierendenparlament
+  confirmdate: 7. November 2018
+  puborgan: AKUT
+  pubdate:  13. November 2018
+  puburl:   https://www.akut-bonn.de/wp-content/uploads/2018/11/akut_extra_2018-11.pdf
 
 ---
 
@@ -610,6 +619,7 @@ Griechische und Lateinische Philologie
 Informatik
 ----------
   * Computational Life Sciences (Promotion)
+  * Computational Sciences for Complex Systems (Master of Science)
   * Computer Science (Master of Science)
   * Informatik (Bachelor of Science)
   * Informatik (Promotion)
@@ -759,6 +769,7 @@ Molekulare Biomedizin
   * Biochemistry (Master of Science)
   * Immunobiology: from molecules to integrative systems (Master of Science)
   * Life and Medical Sciences (Master of Science)
+  * Medical Immunosciences and Infection (Master of Science)
   * Molekulare Biomedizin (Bachelor of Science)
   * Molekulare Biomedizin (Promotion)
 
