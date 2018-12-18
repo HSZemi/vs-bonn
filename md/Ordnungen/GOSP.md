@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung des Bonner Studierendenparlaments (GO-SP)
 short: Geschäftsordnung des Bonner Studierendenparlaments (GO-SP)
-date:  18. Februar 2018
+date:  16. Dezember 2018
 type:  Ordnung
 id:    GOSP
 contains:
@@ -19,11 +19,19 @@ contains:
   pubdate:  18. Februar 2018
   puborgan: AKUT
   puburl: https://www.akut-bonn.de/wp-content/uploads/2018/02/akut_extra_2018-3.pdf
+- title: Geschäftsordnung des Bonner Studierendenparlaments
+  short: Geschäftsordnung des Bonner Studierendenparlaments
+  actdate:  12. Dezember 2018
+  actorgan: Studierendenparlament
+  pubdate:  16. Dezember 2018
+  puborgan: AKUT
+  puburl: https://www.akut-bonn.de/bekanntmachungen/files/2018/akut_extra_2018-17.pdf
 
 ---
 
-Soweit Bezeichnungen in der weiblichen Sprachform verwendet werden, gelten diese
-Bezeichnungen für alle Menschen unabhängig von ihrem Geschlecht.
+Soweit Bezeichnungen, die für Frauen und Männer gelten, in der weiblichen Sprachform verwendet
+werden, gelten diese Bezeichnungen für alle Menschen unabhängig von ihrem Geschlecht.
+
 
 # I. Konstituierung, Allgemeines
 
@@ -40,6 +48,7 @@ ist. Die Wahlleiterin stellt durch namentlichen Aufruf die Beschlussfähigkeit d
 erfolgt die Wahl des Präsidiums[^1].
 
 [^1]: Vgl. § 9 Abs. 1 der Satzung der Studierendenschaft (StS).
+
 
 ### § 2 Fraktionen
 
@@ -67,11 +76,12 @@ Sitzungsprotokolle an.
 (4) In der Regel führt die zweite SP-Sprecherin die Redeliste.
 
 
-### § 4 Stellung und Pflichten der Mitglieder des SP
+### § 4 Stellung und Pflichten der Mitglieder des SPs
+
 Die Stellung und die Pflichten der Mitglieder des SP richten sich nach den entsprechenden
 Vorschriften der Satzung und der Wahlordnung[^2].
 
-[^2]:Vgl. § 8 StS.
+[^2]: Vgl. § 8 StS.
 
 
 ### § 5 Protokoll
@@ -146,9 +156,9 @@ Protokolls allen Rednerinnen und Genannten auf Verlangen zugänglich zu machen.
 Genehmigung zu veröffentlichen. Es obliegt dem SP-Präsidium, die Form der Veröffentlichung zu
 bestimmen.
 
-(2) Einladungen zu Sitzungen und ihnen beigefügte Dokumente (Schriftstücke, Anträge etc.) sind zu
-veröffentlichen, sofern kein Antrag auf Nichtöffentlichkeit vorliegt. Es obliegt dem SP-Präsidium, die
-Form der Veröffentlichung zu bestimmen.
+(2) Einladungen zu Sitzungen und ihnen beigefügte Dokumente (Schriftstücke, Anträge
+etc.) sind zu veröffentlichen, sofern kein Antrag auf Nichtöffentlichkeit vorliegt. Es obliegt dem SP-
+Präsidium, die Form der Veröffentlichung zu bestimmen.
 
 (3) Das SP-Präsidium muss von der Veröffentlichung von Dokumenten oder Auszügen absehen, wenn
 diese einen unverhältnismäßigen Schaden für eine Einzelne oder erheblichen Schaden für die
@@ -163,19 +173,21 @@ diesem, so ist dies dem SP anzuzeigen.
 Verlangen auf Nichtveröffentlichung mit der Einladung zulässig. Diesem muss das SP-Präsidium
 entsprechen.
 
-
 # II. Mitwirkungsrechte
 
 ### § 6 Antragsrecht
+
 Jedes Mitglied der Studierendenschaft, die Organe der Verfassten Studierendenschaft und die
 Fraktionen des SP haben Antragsrecht beim SP.
 
 
 ### § 7 Rederecht
+
 Jedes Mitglied der Studierendenschaft hat Rederecht Beim SP.
 
 
 ### § 8 Stimmrecht
+
 Stimmrecht haben SP-Mitglieder.
 
 
@@ -204,25 +216,27 @@ durch die SP-Sprecherin unter Angabe einer vorläufigen Tagesordnung.
 
 (2) Die SP-Sprecherin muss das SP einberufen, wenn
 
-1. Es der AStA, der Ältestenrat oder ein Fünftel der SP-Mitglieder schriftlich unter Angabe von
-auf der Sitzung zu behandelnden Tagesordnungspunkten verlangt oder
-
-2. Ein Antrag bereits zum zweiten Mal aufgrund des Zeitablaufs der Sitzung des SP vertagt
-werden muss; die SP-Sprecherin hat den oder die betroffenen Anträge auf der vorläufigen
-Tagesordnung der folgenden Sitzung des SP unmittelbar nach den Berichten zu platzieren.
+    (1) Es der AStA, der Ältestenrat oder ein Fünftel der SP-Mitglieder schriftlich unter Angabe von
+    auf der Sitzung zu behandelnden Tagesordnungspunkten verlangt oder
+    
+    (2) Ein Antrag bereits zum zweiten Mal aufgrund des Zeitablaufs der Sitzung des SP vertagt
+    werden muss; die SP-Sprecherin hat den oder die betroffenen Anträge auf der vorläufigen
+    Tagesordnung der folgenden Sitzung des SP unmittelbar nach den Berichten zu platzieren.
 
 Die Einberufung des SP muss unverzüglich, spätestens jedoch auf den 14. Tag nach Eingang des
 Antrages nach Buchstabe a bei der SP-Sprecherin oder des Eintritts der in Buchstabe b genannten
 Voraussetzungen, schriftlich erfolgen.
 
 (3) Sitzungen des SP sind grundsätzlich während des ganzen Jahres möglich; Ausnahmen stellen
-Weihnachts- und Pfingstferien dar. Während der Vorlesungszeit muß mindestens alle vier Wochen
+Weihnachts- und Pfingtsferien dar. Während der Vorlesungszeit muß mindestens alle vier Wochen
 eine SP-Sitzung stattfinden. In der vorlesungsfreien Zeit soll das SP lediglich nach § 10 (2) GO in den
 Fällen des § 5 (2) Nr. 1, 2, 3, 4, 5 der Satzung einberufen werden. Am Montag vor dem Dies
-Academicus muss eine Sitzung des SP einberufen werden; es muss keine Sitzung einberufen werden,
-wenn der Montag auf einen gesetzlichen Feiertag fällt.
+Academicus muss eine Sitzung des SP einberufen werden; es muss keine Sitzung einberufen
+werden, wenn der Montag auf einen gesetzlichen Feiertag fällt.
 
-(4) Zwischen dem Beginn zweier SP-Sitzungen müssen mindestens 24 Stunden liegen.
+(4) Zwischen dem Beginn zweier SP-Sitzungen müssen mindestens 24 Stunden liegen. Dies gilt nicht
+zwischen einer außerordentlichen und einer ordentlichen Sitzung, wenn die außerordentliche der
+ordentlichen vorangeht.
 
 
 ### § 11 Tagesordnung (TO)
@@ -240,15 +254,14 @@ d. Berichte:\
 e. Anträge
 f. Verschiedenes
 
-
 (2) Nach Ablauf der Amtszeit des AStA muss die TO zusätzlich folgenden Punkt enthalten:
 
 AStA-Wahlen
 
 a. Vorsitzende
-b. stellvertretende Vorsitzende
+b. Stellvertretende Vorsitzende
 c. Finanzreferentin
-d. weitere Referentinnen
+d. Weitere Referentinnen
 
 (3) Das SP kann unter Abs. 1 und Abs. 2 nicht genannte Tagesordnungspunkte (TOPs) mit
 Zweidrittelmehrheit von der TO absetzen, wenn dies mit der Satzung und dieser GO vereinbar ist.
@@ -272,6 +285,7 @@ abzugeben.
 
 
 ### § 13 Dauer der Sitzungen
+
 Die SP-Sitzung endet nach Abschluss der Tagesordnung, spätestens um 1.00 Uhr. Ein begonnener
 Tagesordnungspunkt kann abgeschlossen werden. Darüber hinaus kann das SP die Behandlung
 weiterer Tagesordnungspunkte mit Zweidrittelmehrheit beschließen.
@@ -293,9 +307,11 @@ zu einer Nachfrage oder zu einer Antwort hierauf sind nicht zulässig. Die Meldu
 geschieht durch Heben beider Hände während oder unmittelbar nach Ende eines Redebeitrags.
 Zwischenfragen sind nicht zulässig.
 
-(4) Die SP-Sprecherin erteilt das Wort in der Reihenfolge der Wortmeldungen. Sie kann hiervon
-abweichen, wenn ihr dies für den Gang der Beratung dienlich erscheint. Diese Maßnahme ist dem SP
-anzuzeigen.
+(4) Die SP-Sprecherin erteilt abwechselnd Frauen* und Männern das Wort, sofern das möglich ist. Im
+Rahmen dessen erteilt sie es zudem Rednerinnen, die zu diesem Verhandlungsgegenstand noch
+nicht gesprochen haben, zuerst. Ansonsten erteilt sie das Wort in der Reihenfolge der Wortmeldung.
+Sie kann von letzterem abweichen, wenn ihr dies für den Gang der Beratung dienlich erscheint. Diese
+Maßnahme ist dem SP anzuzeigen.
 
 (5) Ist die Redeliste erschöpft und meldet sich niemand zu Wort, so erklärt die SP-Sprecherin die
 Aussprache für geschlossen.
@@ -326,8 +342,8 @@ d. der Antrag auf Übergang zur Tagesordnung; seine Annahme hat die sofortige Be
    des folgenden Tagesordnungspunktes oder -unterpunktes zur Folge;
 e. der Antrag auf Schluss der Debatte und sofortige Abstimmung nach vorheriger Verlesung der
    Redeliste;
-f. der Antrag auf Schluss der Redeliste nach vorheriger Verlesung der Redeliste und Ergänzung
-   um weitere Wortmeldungen;
+f. der Antrag auf Schluss der Redeliste nach vorheriger Verlesung der Redeliste und
+   Ergänzung um weitere Wortmeldungen;
 g. der Antrag auf Beschränkung der Redezeit;
 h. der Antrag auf zeitliche Begrenzung eines Tagesordnungspunktes;
 i. der Antrag auf Beendigung der Sitzung;
@@ -353,6 +369,7 @@ Antrag nach Anhörung einer Gegenrede abzustimmen.
 
 
 ### § 16 Erklärung zur Aussprache
+
 Zu einer Erklärung zur Aussprache wird das Wort nach Schluss, Unterbrechung oder Vertagung der
 Aussprache erteilt. Mit einer Erklärung zur Aussprache dürfen nur Äußerungen, die sich in der
 Aussprache auf die eigene Person bezogen haben, zurückgewiesen werden oder eigene
@@ -360,6 +377,7 @@ Ausführungen richtig gestellt werden; sie darf nicht länger als drei Minuten d
 
 
 ### § 17 Auskunftspflicht
+
 Auf begründetes Verlangen eines Fünftels der SP-Mitglieder hat jedes Mitglied des AStA bzw. die
 verantwortliche Redakteurin der AKUT auf der SP-Sitzung zu erscheinen und Auskunft zu erteilen.
 Wenn dies nicht möglich ist, kann die Anwesenheit auf der nächsten SP-Sitzung verlangt werden.
@@ -383,14 +401,21 @@ nicht beschlussfähig ist, so treten die Folgen der Beschlussunfähigkeit gemä�
 Abstimmung ist ungültig.
 
 (5) Bei Feststellung der Beschlussunfähigkeit hebt die SP-Sprecherin die Sitzung sofort auf. Die noch
-nicht zu Ende behandelten Verhandlungsgegenstände werden auf einer außerordentlichen Sitzung
-behandelt, deren Tagesordnung ausschließlich diese Verhandlungsgegenstände sowie den
-Tagesordnungspunkt “Eröffnung" umfasst. Diese Sitzung ist ohne Rücksicht auf die Zahl der
-erschienenen Mitglieder beschlussfähig, worauf in der Einladung ausdrücklich hingewiesen werden
-muss.
+nicht oder noch nicht zu Ende behandelten Verhandlungsgegenstände werden auf einer
+außerordentlichen Sitzung behandelt, deren Tagesordnung ausschließlich diese
+Verhandlungsgegenstände sowie den Tagesordnungspunkt “Eröffnung" umfasst. Diese Sitzung ist
+ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig, worauf in der Einladung
+ausdrücklich hingewiesen werden muss.
+
+(6) Auf einer außerordentlichen Sitzung werden neben den bereits aber noch nicht zu Ende
+behandelten nur Anträge behandelt, die entweder mit der Einladung zur Sitzung, deren
+Beschlussunfähigkeit zu ihrer Einberufung geführt hat, verschickt wurden oder auf besagter Sitzung
+bzw. zwischen Einladung zur und Eröffnung der besagten Sitzung beim Präsidium eingegangen sind
+und den Mitgliedern des SP als solche kenntlich gemacht wurden.
 
 
 ### § 19 Fragestellung
+
 Die SP-Sprecherin stellt die Fragen so zur Abstimmung, dass sie sich mit “Ja" oder “Nein"
 beantworten lassen. Sie sind in der Regel so zu fassen, dass gefragt wird, ob die Zustimmung erteilt
 wird oder nicht. Über die Fassung der Frage kann das Wort zur Geschäftsordnung verlangt werden.
@@ -469,13 +494,14 @@ einzubringen. Der Antrag braucht nicht auf die Tagesordnung gesetzt zu werden.
 (2) Dieses Mitglied kann verlangen, dass die Abstimmung über seinen Vertrauensantrag mit der
 Abstimmung eines Antrags verbunden wird.
 
-(3) Findet der Vertrauensantrag keine Mehrheit, so ist das Mitglied von seinem Amt zurückgetreten.
-Es führt die Geschäfte kommissarisch bis zur Wahl einer Nachfolgerin weiter.
+(3) Findet der Vertrauensantrag keine Mehrheit, so ist das Mitglied von seinem Amt zurückgetreten. Es
+führt die Geschäfte kommissarisch bis zur Wahl einer Nachfolgerin weiter.
 
 
 # V. Beschlussfassung
 
 ### § 24 Formvorschriften
+
 Anträge auf Beschlussfassung bedürfen der Schriftform. Sie tragen die Eingangsformel: “Das SP
 möge beschließen:". Sie sind von der Antragstellerin oder einer sie vertretenden Person zu
 unterschreiben.
@@ -520,6 +546,7 @@ durchgeführt, so eröffnet die SP-Sprecherin die Schlussberatung (3. Lesung).
 
 
 ### § 28 Dritte Lesung
+
 In der Schlussberatung wird auf Verlangen eines SP-Mitglieds der abstimmungsreife Antrag verlesen.
 Wenn der Antrag dem SP schriftlich vorliegt, reicht es bei Zustimmung des SP aus, die Änderungen
 darzustellen. Wenn zu dem Antrag als Ganzem keine Wortmeldung mehr vorliegt, erhält die
@@ -573,30 +600,29 @@ Personaldebatte wird die Befragung der Kandidatinnen fortgesetzt.
 
 (1) Die Wahl des Präsidiums richtet sich nach den entsprechenden Satzungsvorschriften[^3].
 
-[^3]:Vgl. § 9 Abs. 2 bis Abs. 4 StS.
-
 (2) Die beiden SP-Sprecherinnen sollen unterschiedlichen Fraktionen angehören.
 
 (3) Ein Misstrauensantrag gegen ein Mitglied des SP-Präsidiums wird durch mindestens 10 v.H. der
 SP-Mitglieder in schriftlicher Form bei der SP-Sprecherin eingebracht. Er muss konstruktiv gestellt
 werden und ist unverzüglich zu behandeln.
 
+[^3]: Vgl. § 9 Abs. 2 bis Abs. 4 StS.
+
 
 ### § 32 Wahl des AStA
-
 Die Wahlen der AStA-Vorsitzenden, der stellvertretenden AStA-Vorsitzenden sowie der AStA-
 Referentinnen richten sich nach den entsprechenden Satzungsvorschriften[^4].
 
-[^4]:Vg. § 17 StS.
+[^4]: Vg. § 17 StS.
 
 
 ### § 33 Wahl der Ausschüsse
 
 (1) Die Wahlen der Ausschussmitglieder richten sich nach den entsprechenden Satzungsvorschriften[^5].
 
-[^5]:Vg. § 12 StS.
-
 (2) Die Mitglieder eines jeden Ausschusses sollen in einem Wahlgang gewählt werden.
+
+[^5]: Vg. § 12 StS.
 
 
 ### § 34 Wahlen zum Ältestenrat (ÄR)
@@ -605,8 +631,6 @@ Referentinnen richten sich nach den entsprechenden Satzungsvorschriften[^4].
 mindestens 10 SP-Mitgliedern unterschrieben sein.
 
 (2) Die Wahl erfolgt gemäß § 33 der Satzung[^6].
-
-[^6]:Vg. § 33 StS.
 
 (3) SP- und AStA-Mitglieder können in den Ältestenrat gewählt werden. Ihre Mitgliedschaft im
 Ältestenrat beginnt mit dem Ausscheiden aus dem SP oder AStA.
@@ -619,6 +643,8 @@ erneute Kandidatur zum SP gegenüber dem Wahlausschuss gemäß § 10 Abs. 3 der 
 unwiderruflich erklärt haben, sind in den Ältestenrat wählbar. Die Wahl in den Ältestenrat kann erst
 nach Ende der Auszählung der SP-Wahl angenommen werden. Die Frist zur Annahme der Wahl nach
 Abs. 4 beginnt dann erst mit dem Ende der Auszählung der SP-Wahl.
+
+[^6]: Vg. § 33 StS.
 
 
 # VII. Ordnungsmaßnahmen
@@ -639,18 +665,21 @@ solcher Widerspruch hat keine aufschiebende Wirkung.
 
 
 ### § 36 Wortentziehung
+
 Ist eine Rednerin während einer Rede dreimal zur Sache gerufen worden und beim zweiten Mal auf
 die Folgen eines dritten Rufes zur Sache hingewiesen worden, so entzieht ihr die SP-Sprecherin das
 Wort und erteilt es ihr in derselben Aussprache nicht wieder.
 
 
 ### § 37 Ausschluss von der Sitzung
+
 Ist ein SP-Mitglied während einer Sitzung dreimal zur Ordnung gerufen worden und beim zweiten Mal
 auf die Folgen eines dritten Rufes zur Ordnung hingewiesen worden, so schließt die SP-Sprecherin
 die Person von der Sitzung aus.
 
 
 ### § 38 Unterbrechung der Sitzung
+
 Wenn im Sitzungssaal störende Unruhe entsteht, die den Fortgang der Verhandlungen in Frage stellt,
 kann die SP-Sprecherin die Sitzung auf unbestimmte Zeit unterbrechen. Die SP-Sprecherin erklärt die
 Fortsetzung der Sitzung.
@@ -667,11 +696,11 @@ oder nicht ständige Ausschüsse einsetzen.
 richten sich die Einsetzung und das Verfahren nach den Bestimmungen dieser Geschäftsordnung,
 soweit die höherrangige Rechtsquelle nichts anderes bestimmt[^7].
 
-[^7]:Vgl. § 12 StS
-
 (3) Ausschusssitzungen sind grundsätzlich öffentlich. Sie sind nicht öffentlich, wenn der Ausschuss
 dies beschließt oder wenn auf den betreffenden Sitzungen personengebundene Daten gemäß BDSG
 behandelt werden.
+
+[^7]: Vgl. § 12 StS.
 
 
 ### § 40 Ausschussmitglieder
@@ -684,34 +713,43 @@ Rechtsquelle etwas anderes geregelt ist.
 (3) Die SP-Sprecherin, die AStA-Vorsitzende und die zuständige Fachreferentin des AStA haben in
 den Ausschüssen beratende Stimme.
 
-(4)  Ein Mitglied oder stellvertretendes Mitglied scheidet aus einem Ausschuss aus:
+(4) Ein Mitglied oder stellvertretendes Mitglied scheidet aus einem Ausschuss aus durch:
 
-1. durch Rücktritt,
-2. durch Abwahl,
-3. durch Ausscheiden aus der Studierendenschaft,
-4. bei Unvereinbarkeit der Ausschussmitgliedschaft nach § 12 Abs. 2 Satzung der Studierendenschaft.
+1. Rücktrit,
+2. Abwahl,
+3. Ausscheiden aus der Studierendenschaft,
+4. Bei Unvereinbarkeit der Ausschussmitgliedschaft nach § 12 Abs. 2 Satzung der Studierendenschaft.
 
-(5) Ein Rücktritt ist wirksam, wenn er dem SP-Präsidium und der Ausschussvorsitzenden durch das 
-ausscheidende Mitglied schriftlich oder per E-Mail angezeigt wurde. Das Ausscheiden aus der 
+Ein Rücktrit ist wirksam, wenn er dem SP-Präsidium und der Ausschussvorsitzenden durch das
+ausscheidende Mitglied schriftlich oder per E-Mail angezeigt wurde. Das Ausscheiden aus der
 Studierendenschaft ist dem SP-Präsidium und der Ausschussvorsitzenden anzuzeigen.
-Die Feststellung der Unvereinbarkeit erfolgt durch das Studierendenparlament auf der nächsten Sitzung.
 
-(6) Die Abwahl eines Ausschussmitglieds oder stellvertretenden Ausschussmitglieds durch
-das SP ist nur mit qualifizierter 2/3-Mehrheit möglich.
+(5) Ein Rücktritt ist wirksam, wenn er dem SP-Präsidium und der Ausschussvorsitzenden durch das
+ausscheidende Mitglied schriftlich oder per E-Mail angezeigt wurde. Das Ausscheiden aus der
+Studierendenschaft ist dem SP-Präsidium und der Ausschussvorsitzenden anzuzeigen. Die
+Feststellung der Unvereinbarkeit erfolgt durch das Studierendenparlament auf der nächsten Sitzung.
 
-(7) Scheidet ein Mitglied oder stellvertretendes Mitglied aus, muss die Tagesordnung
-der nächstmöglichen SP-Sitzung einen Tagesordnungspunkt zur Nachbesetzung des
-freiwerdenden Platzes enthalten. Das Ersatzmitglied ist dann von der selben im SP 
-vertretenen Liste im Sinne von § 6 Abs. 1 der Satzung (bzw. von der FK) zu benennen wie das ausgeschiedene Mitglied.
+(6) Die Abwahl eines Ausschussmitglieds oder stellvertretenden Ausschussmitglieds durch das SP ist
+nur möglich, indem mit der Mehrheit der SP-Mitglieder ein Ersatzmitglied gewählt wird. Das
+Ersatzmitglied ist von der selben Fraktion (bzw. von der FK) zu benennen wie das abzuwählende
+Mitglied.
+
+(7) Scheidet ein Mitglied oder stellvertretendes Mitglied nicht durch eine Abwahl aus, muss die
+Tagesordnung der nächstmöglichen SP-Sitzung einen Tagesordnungspunkt zur Nachbesetzung des
+freiwerdenden Platzes enthalten. Das Ersatzmitglied ist dann von der selben im SP vertretenen Liste
+im Sinne von § 6 Abs. 1 der Satzung (bzw. von der FK) zu benennen wie das ausgeschiedene
+Mitglied.
 
 
 ### § 41 Wahl der Ausschussmitglieder
-Die im SP vertretenen Listen im Sinne von § 6 Abs. 1 der Satzung benennen die Ausschussmitglieder und eine gleiche 
-Anzahl Stellvertreterinnen. Die FK benennt zu jedem Ausschuss ein Mitglied und eine Stellvertreterin. Die Wahl 
-erfolgt durch das SP (vgl.§ 33 sowie § 12 StS).
+
+Die im SP vertretenen Listen im Sinne von § 6 Abs. 1 der Satzung benennen die Ausschussmitglieder
+und eine gleiche Anzahl Stellvertreterinnen. Die FK benennt zu jedem Ausschuss ein Mitglied und eine
+Stellvertreterin. Die Wahl erfolgt durch das SP (vgl. § 33 sowie § 12 StS).
 
 
 ### § 42 Konstituierung der Ausschüsse
+
 Bei der konstituierenden Sitzung des Ausschusses, die vom SP-Präsidium innerhalb von 14 Tagen
 nach Wahl der Mitglieder im SP einberufen werden muss, wählen die Ausschussmitglieder ihre
 Vorsitzende.
@@ -719,8 +757,8 @@ Vorsitzende.
 
 ### § 43 Rechte und Pflichten der Vorsitzenden
 
-(1) Der Vorsitzenden obliegt die Vorbereitung, Einberufung und Leitung der Ausschusssitzungen
-sowie die Durchführung der Ausschussbeschlüsse.
+(1) Der Vorsitzenden obliegt die Vorbereitung, Einberufung und Leitung der Ausschusssitzungen sowie
+die Durchführung der Ausschussbeschlüsse.
 
 (2) Die Vorsitzende erteilt das Wort in entsprechender Anwendung des § 14.
 
@@ -782,15 +820,16 @@ Sitzung zu verlangen. Sie können weitere Personen zur Beratung hinzuziehen.
 
 
 ### § 48 Ständige Ausschüsse
+
 Die ständigen Ausschüsse bestimmt die Satzung der Studierendenschaft[^8].
 
-[^8]:Vgl. § 12 StS.
+[^8]: Vgl. § 12 StS.
+
 
 ### § 49 Untersuchungsausschüsse
 
 (1) Das SP hat das Recht und auf schriftliches Verlangen eines Fünftels seiner Mitglieder die Pflicht,
 einen aus fünf Mitgliedern bestehenden Untersuchungsausschuss zu einem genau zu bezeichnenden
-
 Untersuchungsthema einzusetzen, der in öffentlicher Verhandlung die entsprechenden Beweise
 erhebt. Die Öffentlichkeit kann ausgeschlossen werden.
 
@@ -803,9 +842,9 @@ SP über die Aufgabenstellung.
 
 (1) Der Ferienausschuss überwacht während der Ferien die Arbeit des AStA und informiert sich über
 sonstige die Studierendenschaft betreffende Vorkommnisse. Tagt das SP nicht in der vorlesungsfreien
-Zeit, so muß der Ferienausschuss mindestens einmal in der vorlesungsfreien Zeit zusammenkommen.
-Auf der ersten Sitzung nach den Ferien hat er dem SP einen Bericht über seine Tätigkeit vorzulegen.
-Dem Ferienausschuss gehören alle SP-Mitglieder an.
+Zeit, so muß der Ferienausschuss mindestens einmal in der vorlesungsfreien Zeit
+zusammenkommen. Auf der ersten Sitzung nach den Ferien hat er dem SP einen Bericht über seine
+Tätigkeit vorzulegen. Dem Ferienausschuss gehören alle SP-Mitglieder an.
 
 (2) Das SP kann mit einer qualifizierten Zweidrittelmehrheit Angelegenheiten zur vertretungsweisen
 Beschlussfassung an den Ferienausschuss überweisen.
@@ -843,3 +882,4 @@ in der darauf folgenden Sitzung in Kraft.
 
 Diese Geschäftsordnung tritt nach ihrer Annahme durch das SP mit der Veröffentlichung in der AKUT
 in Kraft.
+
