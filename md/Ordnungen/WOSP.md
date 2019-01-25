@@ -1,7 +1,7 @@
 ---
 title: Wahlordnung für die Wahlen zum Studierendenparlament (WOSP)
 short: Wahlordnung für die Wahlen zum Studierendenparlament (WOSP)
-date:  07. Dezember 2017
+date:  24. Januar 2019
 type:  Ordnung
 id:    WOSP
 contains:
@@ -41,6 +41,15 @@ contains:
   puborgan:  Amtliche Bekanntmachungen
   pubdate: 07. Dezember 2017
   puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/363235
+- title: Vierte Ordnung zur Änderung der Wahlordnung für die Wahlen zum Studierendenparlament
+  short: 4\. Wahlordnungsänderungsordnung
+  actorgan: Studierendenparlament
+  actdate:  7. November 2018
+  confirmorgan: Rektorat
+  confirmdate: 4. Dezember 2018
+  puborgan:  Amtliche Bekanntmachungen
+  pubdate: 24. Januar 2019
+  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/460860
 
 ---
 
@@ -81,24 +90,32 @@ Diese Wahlordnung gilt für die Wahlen zum Studierendenparlament (SP).
 
 (7) Die Mitglieder und stellvertretenden Mitglieder des Wahlausschusses sind zur unparteiischen und gewissenhaften Erfüllung ihrer Aufgaben verpflichtet.
 
-(8) Die Anberaumung einer Sitzung des Wahlausschusses ist den Mitgliedern spätestens 24 Stunden vor deren Beginn per E-Mail bekanntzugeben. 
-Ebenfalls ist die Ladung zur nächsten Sitzung mündlich während der laufenden Sitzung möglich, wobei die nicht anwesenden Mitglieder auch (fern)mündlich geladen werden können.
-Während der Wahlwoche kann die Ladungsfrist nach Beschluss verkürzt werden.
+(8) Die Anberaumung einer Sitzung des Wahlausschusses ist den Mitgliedern spätestens 12
+Stunden vor deren Beginn per E-Mail bekanntzugeben. Ebenfalls ist die Ladung zur nächsten Sitzung
+mündlich während der laufenden Sitzung möglich, wobei die nicht anwesenden Mitglieder auch
+(fern)mündlich geladen werden können. Während der Wahlwoche kann die Ladungsfrist nach
+Beschluss verkürzt werden.
 
-(9) Der Wahlausschuss fasst Beschlüsse mit der Mehrheit seiner gewählten Mitglieder.
+(9) Der Wahlausschuss fasst Beschlüsse grundsätzlich mit der Mehrheit seiner gewählten
+Mitglieder, sofern diese Ordnung nichts anderes vorsieht. Konnten Beschlüsse wegen
+Beschlussunfähigkeit nicht gefasst werden, so ist unverzüglich eine neue Sitzung einzuberufen, die
+unabhängig von der Anzahl der erschienen Mitglieder beschlussfähig ist und Beschlüsse mit
+absoluter Mehrheit der erschienenen Mitglieder fasst.
 
-(10) Konnten Beschlüsse wegen Beschlussunfähigkeit nicht gefasst werden, so ist unverzüglich eine neue Sitzung einzuberufen, die unabhängig von der Anzahl der erschienen Mitglieder beschlussfähig ist.
+(10) Gegen Beschlüsse und Entscheidungen des Wahlausschusses und der Wahlleiterin kann der
+Ältestenrat (ÄR) angerufen werden, soweit kein Verwaltungsakt im Sinne des § 35
+Verwaltungsverfahrensgesetz NRW (VwVfG NRW) angegriffen wird. Das Nähere regelt die
+Verfahrensordnung des Ältestenrats.
 
-(11) Gegen Beschlüsse und Entscheidungen des Wahlausschusses und der
-Wahlleiterin kann der Ältestenrat (ÄR) angerufen werden, soweit kein
-Verwaltungsakt im Sinne des § 35 Verwaltungsverfahrensgesetz NRW (VwVfG
-NRW) angegriffen wird. Das Nähere regelt die Verfahrensordnung des
-Ältestenrates.
+(11) Der Wahlleiterin obliegt die Vorbereitung, Einberufung und Leitung der Ausschusssitzungen
+sowie die Durchführung der Beschlüsse des Wahlausschusses. Sie übt bei den Sitzungen des
+Wahlausschusses das Hausrecht aus. Im Verhinderungsfall übernimmt die Stellvertreterin diese
+Aufgaben.
 
-(12) Der Wahlleiterin obliegt die Vorbereitung, Einberufung und Leitung der
-Ausschusssitzungen sowie die Durchführung der Beschlüsse des
-Wahlausschusses. Sie übt bei den Sitzungen des Wahlausschusses das Hausrecht
-aus. Im Verhinderungsfall übernimmt die Stellvertreterin diese Aufgaben.
+(12) Tritt die Wahlleiterin zurück, hat sie ihre Geschäfte kommissarisch bis zur Wahl einer neuen
+Wahlleiterin nach § 3 Abs. 5 weiterzuführen.
+
+(13) Das SP kann mit einer Zweidrittelmehrheit die Wahlleiterin konstruktiv abwählen.
 
 
 ### § 4 Aufgaben des Wahlausschusses
@@ -113,8 +130,13 @@ gehören nicht zur Öffentlichkeit. Über den Inhalt nichtöffentlicher Beratung
 Stillschweigen zu bewahren. Personen, die die Ordnung und Ruhe der Sitzungen
 des Wahlausschusses stören, können aus dem Sitzungsraum verwiesen werden.
 
-(3) Über die Verhandlungen des Wahlausschusses und seine Beschlüsse sind Niederschriften anzufertigen, die von der Wahlleiterin sowie einem weiteren Mitglied des Wahlausschusses und der Protokollführerin zu unterzeichnen sind. Diese Protokolle sollen dem Ältestenrat, dem SP, dem AStA und den Hochschulgruppen zugeleitet werden.
-Der AStA-Vorsitz sowie der WA haben die Protokolle zur allgemeinen Einsichtnahme zu verwahren. Die Protokolle sind bis spätestens zum 10. Tag nach der jeweiligen Sitzung zuzuleiten. Bei verspäteter Zuleitung wird dem mit der Protokollführung betrauten WA-Mitglied ein Teil seiner Aufwandsentschädigung abgezogen. Die hier genannten Protokolle ersetzen nicht die Protokolle gemäß § 20 WO, sondern stellen eine Ergänzung dar.
+(3) Über die Verhandlungen des Wahlausschusses und seine Beschlüsse sind Niederschriften
+anzufertigen, die von der Wahlleiterin sowie einem weiteren Mitglied des Wahlausschusses und der
+Protokollführerin zu unterzeichnen sind. Diese Protokolle sind zu veröffentlichen. Die Protokolle sind
+auf der nächsten Sitzung zu genehmigen und danach unverzüglich zu veröffentlichen. Bei
+verspäteter Veröffentlichung wird dem mit der Protokollführung betrauten WA-Mitglied ein Teil
+seiner Aufwandsentschädigung abgezogen. Die hier genannten Protokolle ersetzen nicht die
+Protokolle gemäß § 20 WO, sondern stellen eine Ergänzung dar.
 
 (4) Der Wahlausschuss und in eilbedürftigen oder in nach dieser Wahlordnung
 zuständigen Fällen die Wahlleiterin können zur ordnungsgemäßen Vorbereitung
@@ -134,45 +156,25 @@ unverzüglich zur Genehmigung vorzulegen.
 ### § 5 Aufwandsentschädigung
 (1) Für allgemeine Organisation und Koordination erhalten die Wahlleiterin eine
 Aufwandsentschädigung (AE) von 325,- Euro, die stellvertretende Wahlleiterin eine
-Aufwandsentschädigung von 250,- Euro. Des weiteren gibt es einen mit 5000,- Euro
-dotierten Titel "Aufwandsentschädigung Wahlausschuss". Dieses Geld teilen die
-Mitglieder des Wahlausschusses, gebunden an bestimmte Aufgaben, unter sich auf.
-Nach der Wahl ist eine Liste der Aufgabenverteilung samt AE-Verteilung zu erstellen
-und zur Kenntnisnahme an SP und AStA-Finanzreferat zu geben.
+Aufwandsentschädigung von 250,- Euro. Des Weiteren gibt es einen mit 5000,- Euro dotierten Titel
+"Aufwandsentschädigung Wahlausschuss". Dieses Geld teilen die Mitglieder des Wahlausschusses,
+gebunden an vom Wahlausschuss zu beschließende Kriterien, unter sich auf. Nach der Wahl ist eine
+Liste der Aufgabenverteilung samt AE-Verteilung zu erstellen und zur Kenntnisnahme an SP und
+AStA-Finanzreferat zu geben.
 
-(2) Übernimmt der Wahlausschuss die Aufgaben des Urabstimmungsausschusses,
-so erhöht sich der Betrag des Titels "Aufwandsentschädigung Wahlausschuss" um
-1000 € auf 6000 €.
+(2) Übernimmt der Wahlausschuss die Aufgaben des Urabstimmungsausschusses, so erhöht sich
+der Betrag des Titels "Aufwandsentschädigung Wahlausschuss" um 1000,- € auf 6000,- €.
 
-(3) Originäre Aufgaben, für die Aufwandsentschädigungen in Betracht kommen, sind
-insbesondere:
+(3) Das SP kann Tätigkeiten von einer Bezahlung ausschließen. Das SP-Präsidium lässt dem AStA-
+Finanzreferat vor der Wahl eine Liste aller von der Bezahlung ausgeschlossenen Tätigkeiten
+zukommen.
 
-a) Belehrungen
-b) Einteilung der Wahlhelferinnen
-c) Erstellung des Haushaltsplanes
-d) Erstellung des Shuttleplanes
-e) Erstellung des Urnenplanes
-f) Protokollführung
-g) Redaktion und Layout
-h) Anwesenheitsdienst im Wahlbüro
-
-(4) Originäre Ausschussarbeiten, für die keine AEs gezahlt werden, sind
-insbesondere:
-
-a) Teilnahme an Sitzungen
-b) Berichte auf SP-Sitzungen
-c) Herausgeben des Endergebnisses
-
-(5) Das SP kann weitere Tätigkeiten von einer Bezahlung ausschließen. Das SP-
-Präsidium lässt dem AStA-Finanzreferat vor der Wahl eine Liste aller von der
-Bezahlung ausgeschlossenen Tätigkeiten zukommen.
-
-(6) Am Auszählabend werden Mitglieder des Wahlausschusses, des Ältestenrates
+(4) Am Auszählabend werden Mitglieder des Wahlausschusses, des Ältestenrates
 und Auszählerinnen gleich bezahlt: Bis 1.00 Uhr wird eine pauschale
 Aufwandsentschädigung von 60,- Euro gezahlt, danach gibt es einen "Stundenlohn",
 der dem der Wahlhelferinnen entspricht.
 
-(7) Der Wahlausschuss beschließt den Stundensatz für die Wahlhelferinnen. Dabei
+(5) Der Wahlausschuss beschließt den Stundensatz für die Wahlhelferinnen. Dabei
 ist darauf zu achten, dass es sich hierbei dem Wesen nach nicht um Lohn für eine
 Angestelltentätigkeit, sondern um Aufwandsentschädigung für ein Ehrenamt
 handelt.
@@ -204,8 +206,10 @@ des AStA sein.
 # III. Vorbereitung der Wahlen und Wahlvorschläge
 
 ### § 8 Wahlausschreibung
-Der Wahlausschuss schreibt die Wahlen zum Studierendenparlament bis spätestens zum 27. Tag vor dem 1. Wahltag aus. Die Wahlausschreibung ist an den Anschlagbrettern der Universität durch Plakate zu veröffentlichen. Darüber hinaus soll die Wahlleiterin in auffälliger Weise für die Bekanntgabe sorgen.
-Die Wahlausschreibung muss mindestens enthalten:
+Der Wahlausschuss schreibt die Wahlen zum Studierendenparlament bis spätestens zum 27. Tag vor
+dem 1. Wahltag aus. Die Wahlausschreibung ist zu veröffentlichen. Darüber hinaus soll die
+Wahlleiterin in auffälliger Weise für die Bekanntgabe sorgen. Die Wahlausschreibung muss
+mindestens enthalten:
 
 1. Ort und Datum Ihrer Veröffentlichung;
 2. die Wahltage;
@@ -215,14 +219,11 @@ Die Wahlausschreibung muss mindestens enthalten:
 6. die Frist, innerhalb der Wahlvorschläge eingereicht werden können;
 7. das für die Entgegennahme der Wahlvorschläge zuständige Organ;
 8. eine Darstellung des Wahlsystems;
-9. einen Hinweis darauf, dass nur wählen kann, wer in das Wählerinnenverzeichnis
-eingetragen ist;
+9. einen Hinweis darauf, dass nur wählen kann, wer in das Wählerinnenverzeichnis eingetragen ist;
 10. einen Hinweis auf Ort und Zeit der Auslegung des Wählerinnenverzeichnisses;
-11. einen Hinweis, dass die Möglichkeit eines Antrages auf Briefwahl gegeben ist und
-einen Hinweis auf die bei der Briefwahl zu beachtenden Fristen;
+11. einen Hinweis, dass die Möglichkeit eines Antrags auf Briefwahl gegeben ist und einen Hinweis auf die bei der Briefwahl zu beachtenden Fristen;
 12. einen Hinweis auf die Einspruchsmöglichkeit nach § 16 dieser Ordnung;
-13. Die Vorgaben für das Format der Erklärungen der Listenbewerbungen über ihr Wahlprogramm.
-
+13. die Vorgaben für das Format der Erklärungen der Listenbewerbungen über ihr Wahlprogramm.
 
 ### § 9 Wahlbewerbungen
 
@@ -253,7 +254,6 @@ einen Hinweis auf die bei der Briefwahl zu beachtenden Fristen;
 1. Je volle tausend Wahlberechtigte eine Unterstützungsunterschrift einer wahlberechtigten Person. Wer Teil einer Listenbewerbung ist, unterstützt diese gleichzeitig. Jede Person kann mehrere Listenbewerbungen unterstützen.
 2. Eine Erklärung der Listenbewerbung über ihr Wahlprogramm. Der Wahlausschuss setzt die Vorgaben für das Format der Erklärungen für alle Listenbewerbungen mit der Wahlausschreibung einheitlich fest. Der Wahlausschuss nimmt darüber hinaus keinen Einfluss auf die Erklärungen. Bis auf die Formatvorgaben unterliegen die Listenbewerbungen bei der Gestaltung ihrer Erklärungen keinen Einschränkungen.
 
-
 (4) Eine Kandidatur enthält mindestens folgende Angaben:
 
 1. ein in die Matrikel oder im Personalausweis eingetragener Vorname;
@@ -261,14 +261,14 @@ einen Hinweis auf die bei der Briefwahl zu beachtenden Fristen;
 3. Geburtsdatum;
 4. Geburtsort;
 5. Matrikelnummer;
-6. mindestens 1 Studienfach dieser Person, zum Vermerk auf dem Stimmzettel und in 
-der Wahlbekanntmachung;
+6. mindestens 1 Studienfach dieser Person zum Vermerk auf dem Stimmzettel und in der Wahlbekanntmachung;
 7. ladungsfähige Anschrift;
 8. E-Mail-Adresse;
-9. Telefonnummer;
-10. Erklärung über die Bereitschaft zur Kandidatur für diese Wahl;
-11. Unterschrift unter den Wahlvorschlag.
+9. Erklärung über die Bereitschaft zur Kandidatur für diese Wahl;
+10. Unterschrift unter den Wahlvorschlag.
 
+Die Angaben sind lesbar einzureichen. Der Wahlausschuss erstellt ein Formblatt, welches als
+Kandidaturblatt verwendet werden soll."
 
 (5) Ordens-, Künstler- oder Spitznamen werden auf Antrag der Kandidatin
 zusätzlich angefügt, sofern diese in amtlichen Ausweisen gem. § 5 Abs. 2 Nr. 12
@@ -293,31 +293,98 @@ oder auf dem Stimmzettel unzulässig.
 (5) Zur Änderung der Listenbewerbung gelten diese Bestimmungen entsprechend. Insbesondere darf eine Kandidatin ihre eigene Kandidatur bis zum Ablauf der Frist zur Einreichung der Listenbewerbungen ändern. Nach Ablauf der Frist zur Einreichung der Listenbewerbungen sind Änderungen an den Listenbewerbungen nur noch durch den Wahlausschuss möglich.
 
 
-### § 12 Überprüfung der Wahlbewerbungen
+### § 12 Überprüfung der Listenbewerbungen
 
-(1) Der Wahlausschuss prüft eine Listenbewerbung sofort nach Eingang auf Vollständigkeit. Unvollständige Listenbewerbungen sind zurückzuweisen. Eine Listenbewerbung gilt nur dann als unvollständig, wenn das Listendeckblatt oder Angaben darauf fehlen.
+(1) Der Wahlausschuss prüft eine Listenbewerbung sofort nach Eingang auf Vollständigkeit.
+Unvollständige Listenbewerbungen sind zurückzuweisen. Eine Listenbewerbung gilt nur dann als
+unvollständig, wenn das Listendeckblatt oder Angaben darauf fehlen.
 
 (2) Verspätet eingegangene Listenbewerbungen bleiben unberücksichtigt.
 
-(3) Der Wahlausschuss ordnet jede Listenbewerbung einer Listenbewerbung der letzten Wahl zu oder entscheidet, dass es sich um eine neue Listenbewerbung handelt. Bei der Zuordnung sind Listennamen und Verkehrsauffassung zu berücksichtigen.
+(3) Der Wahlausschuss ordnet jede Listenbewerbung einer Listenbewerbung der letzten Wahl zu
+oder entscheidet, dass es sich um eine neue Listenbewerbung handelt. Bei der Zuordnung sind
+Listennamen und Verkehrsauffassung zu berücksichtigen.
 
-(4) Der Wahlausschuss prüft alle eingegangenen Listenbewerbungen unmittelbar nach dem Ende der Frist zur Einreichung auf Korrektheit. Zur Verifikation der eingereichten Kandidaturen arbeitet er unter Berücksichtigung des Datenschutzes mit der Hochschulverwaltung zusammen. Offensichtliche Fehler in den Kandidaturen und auf dem Bewerbungsdeckblatt korrigiert der Wahlausschuss selbsttätig, sofern dies mit vertretbarem Aufwand möglich ist. Dies gilt insbesondere für die inkorrekte Benennung von Studiengängen.
+(4) Der Wahlausschuss prüft alle eingegangenen Listenbewerbungen unmittelbar nach dem Ende
+der Frist zur Einreichung auf Korrektheit. Zur Verifikation der eingereichten Kandidaturen arbeitet er
+unter Berücksichtigung des Datenschutzes mit der Hochschulverwaltung zusammen. Offensichtliche
+Fehler in den Kandidaturen und auf dem Bewerbungsdeckblatt korrigiert der Wahlausschuss
+selbsttätig, sofern dies mit vertretbarem Aufwand möglich ist. Dies gilt insbesondere für die
+inkorrekte Benennung von Studiengängen.
 
-(5) Ergibt die Prüfung, dass eine Kandidatur Mängel enthält, die der Wahlausschuss nicht selbst beheben kann, so fordert er die Kandidatin und die Vertrauenspersonen ihrer Listenbewerbung unter Angabe der Gründe unverzüglich zu ihrer Beseitigung auf. Er hat für die Beseitigung eine Frist zu setzen. Lässt sich der Mangel nicht beseitigen oder erfolgt die Beseitigung nicht innerhalb der Frist, wird die entsprechende Kandidatur von der Listenbewerbung gestrichen. Ergeben sich dadurch neue Mängel an der Listenbewerbung, ist abermals eine Frist zu deren Behebung zu setzen, falls der Wahlausschuss diese nicht selbst beheben kann.
+(5) Ergibt die Prüfung, dass eine Kandidatur Mängel enthält, die der Wahlausschuss nicht selbst
+beheben kann, so fordert er die Kandidatin und die Vertrauenspersonen ihrer Listenbewerbung
+unter Angabe der Gründe unverzüglich zu ihrer Beseitigung auf. Er hat für die Beseitigung eine Frist
+zu setzen. Lässt sich der Mangel nicht beseitigen oder erfolgt die Beseitigung nicht innerhalb der
+Frist, wird die entsprechende Kandidatur von der Listenbewerbung gestrichen. Ergeben sich
+dadurch neue Mängel an der Listenbewerbung, ist abermals eine Frist zu deren Behebung zu
+setzen, falls der Wahlausschuss diese nicht selbst beheben kann.
 
-(6) Nach Prüfung und gegebenenfalls Korrektur der Listenbewerbungen erstellt der Wahlausschuss für jede Listenbewerbung ein Verzeichnis, das die für die Wahl relevanten Daten enthält. Dies sind insbesondere der Listenname sowie für jede Kandidatur Vor- und Nachnamen, Studiengang und Platz in der Listenreihung. Jeder Vertrauensperson wird dann dieses Verzeichnis ihrer Liste übersandt. Der Wahlausschuss setzt eine Frist fest, innerhalb derer die Vertrauenspersonen Korrekturen an diesem Verzeichnis fordern können. Korrekturforderungen sind zu begründen. Erkennt der Wahlausschuss die vorgebrachten Gründe an, wird die Listenbewerbung entsprechend geändert. Erkennt er sie nicht an, entscheidet der Ältestenrat.
+(6) Nach Prüfung und gegebenenfalls Korrektur der Listenbewerbungen erstellt der
+Wahlausschuss für jede Listenbewerbung ein Verzeichnis, das die für die Wahl relevanten Daten
+enthält. Dies sind insbesondere der Listenname sowie für jede Kandidatur Vor- und Nachnamen,
+Studiengang und Platz in der Listenreihung. Jeder Vertrauensperson wird dann dieses Verzeichnis
+ihrer Liste übersandt. Der Wahlausschuss setzt eine Frist fest, innerhalb derer die
+Vertrauenspersonen Korrekturen an diesem Verzeichnis fordern können. Korrekturforderungen sind
+zu begründen. Erkennt der Wahlausschuss die vorgebrachten Gründe an, wird die Listenbewerbung
+entsprechend geändert. Erkennt er sie nicht an, entscheidet der Ältestenrat.
 
 (7) Der Wahlausschuss beschließt nach Ablauf dieser Frist über die Zulassung der
 Listenbewerbungen zur Wahl. Die Entscheidung wird unter Anwendung des
-Landeszustellungsgesetzes NRW (LZG NRW) in der jeweils gültigen Fassung
-zugestellt.
+Landeszustellungsgesetzes NRW (LZG NRW) in der jeweils gültigen Fassung zugestellt.
 
 
-### § 13 Bekanntmachung der Wahlbewerbungen
+### § 12a Überprüfung zur Listenbewerbung beizufügender Dokumente
 
-(1) Alle zugelassenen Listenbewerbungen sind spätestens acht Tage vor der Wahl bekanntzumachen.
+(1) Der Wahlausschuss prüft nach der Prüfung gemäß § 12 Abs. 1 die Dokumente, die ihr nach
+§ 10 Abs. 3 beizufügen sind.
 
-(2) Die Bekanntmachung der Listenbewerbung muss die Erklärung der Listenbewerbung über ihr Wahlprogramm enthalten.
+(2) Ergibt die Prüfung, dass Dokumente Mängel enthalten, die der Wahlausschuss nicht selbst
+beheben kann, so fordert er die Vertrauenspersonen der zugehörigen Listenbewerbung unter
+Angabe der Gründe unverzüglich zur Beseitigung auf. Er hat für die Beseitigung eine angemessene
+Frist zu setzen.
+
+(3) Liegen nach Ablauf der Frist zum Einreichen der Wahlbewerbungen nicht ausreichend viele
+Unterstützungsunterschriften vor, ist die Listenbewerbung, der sie beigefügt wurden, nicht weiter
+zu berücksichtigen.
+
+(4) Erklärungen über das Wahlprogramm, die nicht fristgerecht eingereicht oder deren Mängel
+nicht fristgerecht behoben wurden, werden nicht weiter geprüft und nicht vom Wahlausschuss
+veröffentlicht.
+
+(5) Der Wahlausschuss prüft alle den Listenbewerbungen beizufügenden Dokumente unmittelbar
+nach dem Ende der jeweiligen Frist auf Korrektheit. Zur Überprüfung der Korrektheit persönlicher
+Angaben bei Unterstützungsunterschriften nach § 10 Abs. 3 Nr. 1 arbeitet er mit der
+Hochschulverwaltung zusammen. Offensichtliche Fehler in beizufügenden Dokumenten korrigiert
+der Wahlausschuss selbsttätig, sofern dies mit vertretbarem Aufwand möglich ist. Bei Erklärungen
+über das Wahlprogramm überprüft er ausschließlich die Form der Einreichung und nicht den Inhalt.
+
+(6) Nach Prüfung und gegebenenfalls Korrektur der den Listenbewerbungen beizufügenden
+Dokumente werden sie dem Verzeichnis der jeweiligen Listenbewerbung nach § 12 Abs. 6 beigefügt,
+bevor dieses an die Vertrauenspersonen übersandt wird. Der Wahlausschuss setzt eine Frist fest,
+innerhalb derer die Vertrauenspersonen Korrekturen an diesen Dokumenten fordern können.
+Korrekturforderungen sind zu begründen. Erkennt der Wahlausschuss die vorgebrachten Gründe an,
+wird das jeweilige Dokument entsprechend geändert.
+
+
+### § 13 Wahlbekanntmachung
+
+(1) Alle zugelassenen Listenbewerbungen sind spätestens acht Tage vor der Wahl
+bekanntzumachen.
+
+(2) Die Bekanntmachung der Listenbewerbung muss die Erklärung der Listenbewerbung über ihr
+Wahlprogramm enthalten.
+
+(3) Die Wahlleiterin hat in geeigneter Form die Voraussetzungen für eine möglichst hohe
+Wahlbeteiligung zu schaffen.
+
+(4) Die Organe der Studierendenschaft werden aufgefordert, über die Publikationsorgane die
+Wahlberechtigten, die sich im Urlaubssemester befinden, über Ort und Zeit der Wahl sowie das zu
+wählende Organ zu benachrichtigen und auf die Berechtigung zur Briefwahl hinzuweisen.
+
+(5) Die Wahlleiterin muss frühzeitig, spätestens zehn Tage vor dem ersten Wahltag, Termin und
+Ort der Wahl bekannt geben. Die Wahlbekanntmachung muss mindestens die Angaben des § 8 Ziff.
+1 bis 5 und 8 bis 12 enthalten.
 
 
 ### § 14 Stimmzettel
@@ -379,7 +446,11 @@ Beendigung der Wahl unverzüglich dem Wahlprüfungsausschuss zuzuleiten.
 Urnen und die Wahlutensilien an die Wahlhelferinnen. Diese haben den Empfang
 durch Unterschrift im Urnenbuch zu quittieren.
 
-(3) Jede Wahlurne soll stets von mindestens drei und muss stets von mindestens zwei Wahlhelferinnen besetzt sein, die für die ordnungsgemäße Durchführung der Wahl an dieser Urne verantwortlich sind. Die Wahlhelferinnen an einer Urne dürfen nicht der selben Hochschulgruppe angehören. Verlässt eine Wahlhelferin die Wahlurne, so wird bis zu ihrer Rückkehr der Wahlakt an dieser Urne durch Zwischensiegelung unterbrochen, sofern weniger als 2 Wahlhelferinnen an der Urne verbleiben würden.
+(3) Jede Wahlurne soll stets von mindestens drei und muss stets von mindestens zwei
+Wahlhelferinnen besetzt sein, die für die ordnungsgemäße Durchführung der Wahl an dieser Urne
+verantwortlich sind. Verlässt eine Wahlhelferin die Wahlurne, so wird bis zu ihrer Rückkehr der
+Wahlakt an dieser Urne durch Zwischensiegelung unterbrochen, sofern weniger als 2
+Wahlhelferinnen an der Urne verbleiben würden.
 
 (4) Die Wahlhelferinnen tragen bei Verlassen der Wahlurne in das Urnenbuch die
 Zeit ein, in der sie die angewiesene Urne beaufsichtigt haben. Sie bestätigen durch
@@ -396,15 +467,15 @@ ordnungsgemäß durchgeführt wurde.
 (7) Nach Beendigung jedes Wahltages sind die Urnen zu versiegeln und in einem
 geeigneten Raum zu verwahren.
 
-(8) Nach Abschluss der Wahl sind die Urnen von der Wahlleiterin wieder zu
-entsiegeln. Die Wahlleiterin hat im Urnenbuch die Unversehrtheit der Siegel zu
-dokumentieren.
+(8) Nach Abschluss der Wahl sind die Urnen von einem Mitglied des Wahlausschusses unter
+Aufsicht der Wahlleiterin wieder zu entsiegeln. Die Wahlleiterin hat im Urnenbuch die
+Unversehrtheit der Siegel zu dokumentieren.
 
 (9) Ergeben sich bei der Feststellung der ordnungsgemäßen Versiegelung Unregelmäßigkeiten, so hat der Wahlausschuss die erforderlichen Maßnahmen zu treffen.
 
-(10) Die Versiegelung vor der Wahl und Entsiegelung nach der Wahl erfolgen
-öffentlich durch die Wahlleiterin. Der Ältestenrat soll als Wahlbeobachter diesen
-Amtshandlungen beiwohnen. Es gilt § 3 Abs. 12 sinngemäß.
+(10) Die Versiegelung vor der Wahl und Entsiegelung nach der Wahl erfolgen öffentlich durch ein
+Mitglied des Wahlausschusses unter Aufsicht der Wahlleiterin. Der Ältestenrat soll als
+Wahlbeobachter diesen Amtshandlungen beiwohnen. Es gilt § 3 Abs. 12 sinngemäß.
 
 (11) Im Umkreis von 5 Metern um die Wahllokale ist jegliche Form der Wahlwerbung für Wahlvorschläge untersagt (Bannmeile). Der Wahlausschuss überwacht die Einhaltung dieser Vorschrift. Vom Wahlausschuss veröffentlichte Dokumente dürfen auch innerhalb der Bannmeile ausliegen.
 
@@ -430,13 +501,10 @@ wird die Wählerin in das Wahlbüro verwiesen.
 
 ### § 19 Briefwahl
 
-(1) Von der Briefwahlmöglichkeit kann jede Studentin auf schriftlichen Antrag hin
-Gebrauch machen. Der Antrag zur Briefwahl muss bei der Wahlleiterin gestellt
-werden. Auf dem Briefwahlantrag hat jede Briefwählerin neben Namen, Anschrift
-und Matrikelnummer die Versicherung abzugeben, dass die Wahlunterlagen
-persönlich ausgefüllt und nicht an andere Personen weitergegeben wurden. Der
-Antrag muss spätestens am sechsten Tag vor der Wahl bei der Wahlleiterin
-eingegangen sein.
+(1) Von der Briefwahlmöglichkeit kann jede Studentin auf schriftlichen Antrag hin Gebrauch
+machen. Der Antrag zur Briefwahl muss bei der Wahlleiterin gestellt werden. Auf dem
+Briefwahlantrag hat jede Briefwählerin Namen, Anschrift und Matrikelnummer anzugeben. Der
+Antrag muss spätestens am sechsten Tag vor der Wahl bei der Wahlleiterin eingegangen sein.
 
 (2) Die Briefwahlunterlagen müssen eine Belehrung über die rechtlichen Folgen einer
 Wahlfälschung enthalten. Jede Briefwählerin hat die Briefwahlunterlagen bis
@@ -514,17 +582,21 @@ zur Anwesenheit im Auszählbereich berechtigt.
 (4) Die Auszählung erfolgt öffentlich. Die Wahlleiterin kann Personen, die die
 Ordnung und Ruhe stören, aus dem Auszählungsraum verweisen.
 
-(5) Der Stimmzettel ist ungültig, wenn
+(5) Der Stimmzettel ist grundsätzlich ungültig, wenn
 
-a) auf ihm mehr als eine Stimme abgegeben wurde;
+a) auf ihm keine oder mehr als eine Stimme abgegeben wurde;
 b) er außer der ordnungsgemäßen Stimmabgabe irgendwelche Zusätze enthält;
 c) der Wille der Wählerin nicht zweifelsfrei erkennbar ist;
 d) ein nicht amtlicher Stimmzettel verwendet wurde.
+
 Im Zweifelsfall entscheidet der Wahlausschuss über die Gültigkeit von Stimmen.
 
-(6) Werden mehrere Kandidatinnen einer Liste oder mehrere Kandidatinnen einer Liste und zusätzlich die Liste angekreuzt, so ist in Abweichung von Abs. 5 lit. a) dieser Wahlordnung der Stimmzettel gültig. Die Stimme wird dann nur der Liste zugerechnet.
+(6) In Abweichung von Abs. 5 lit. a) ist der Stimmzettel gültig, sofern mehrere Kandidatinnen
+einer Liste oder mehrere Kandidatinnen einer Liste und zusätzlich die Liste angekreuzt werden. Die
+Stimme wird dann nur der Liste zugerechnet.
 
-(7) Werden eine Kandidatin und die Liste angekreuzt, für die sie kandidiert, so ist in Abweichung von Abs. 5 lit. a) dieser Wahlordnung der Stimmzettel gültig. Die Stimme wird der Kandidatin zugerechnet.
+(7) In Abweichung von Abs. 5 lit. a) ist der Stimmzettel gültig, sofern eine Kandidatin und die
+Liste, für die sie kandidiert, angekreuzt werden. Die Stimme wird der Kandidatin zugerechnet.
 
 (8) Die Wahlleiterin kann durch Verwaltungsvorschrift den Ablauf einer
 ordnungsgemäßen Auszählung der Wahl für alle Beteiligte regeln, soweit dies
@@ -562,13 +634,8 @@ nicht bereits durch die Wahlordnung erfolgt ist.
 (Sitzverteilung);
 8. die Angabe darüber, welche Kandidatinnen gewählt sind und welche nicht.
 
-(2) Über das Ergebnis der Wahl wird von der Wahlleiterin ein Protokoll
-angefertigt, das von ihr sowie dem Wahlausschuss zu unterzeichnen und unter
-Verschluss aufzubewahren ist. Je ein Doppel des Protokolls ist der Vorsitzenden
-des Ältestenrates, der Vorsitzenden des Allgemeinen Studierendenausschusses und
-der neuen 1. Sprecherin des Studierendenparlaments zu übersenden. Das Protokoll
-ist spätestens drei Tage nach Ermittlung des Wahlergebnisses nach Absatz 1 zu
-veröffentlichen.
+(2) Der Wahlausschuss stellt das Wahlergebnis auf einer Sitzung fest; es ist spätestens drei Tage
+nach seiner Feststellung zu veröffentlichen.
 
 (3) Bekanntgaben von einzelnen Urnenergebnissen während der Auszählung oder
 von vorläufigen Endergebnissen durch die Wahlleiterin sind zulässig. Diese
@@ -603,9 +670,16 @@ Kontaktdaten aller gewählten Kandidatinnen, Stellvertreterinnen und Nachrücker
 
 ### § 26 Nachrückerinnen
 
-(1) Bei Ausscheiden oder Verzicht einer gewählten Studierendenvertreterin während der regulären Amtsperiode rückt die Kandidatin der selben Liste mit den nächstmeisten Stimmen in das Studierendenparlament nach. Ist keine Nächstplatzierte vorhanden, bleibt der Sitz im Studierendenparlament frei.
+(1) Bei Ausscheiden oder Verzicht einer gewählten Studierendenvertreterin während der
+Amtsperiode rückt die Kandidatin derselben Liste mit den nächstmeisten Stimmen in das
+Studierendenparlament nach. Ist keine Nächstplatzierte vorhanden, bleibt der Sitz im
+Studierendenparlament frei.
 
-(2) Das Präsidium des Studierendenparlaments ist verpflichtet, die nachrückende Kandidatin sowie die Vertrauenspersonen der Liste umgehend schriftlich von ihrem Nachrücken zu informieren und aufzufordern, innerhalb einer Frist von sechs Tagen nach Zustellung der Benachrichtigung die Annahme des Mandats zu erklären. Verstreicht diese Frist ohne entsprechende Erklärung, so gilt das als Ablehnung im Sinne des Abs. 1 Satz 2 mit den entsprechenden Folgen.
+(2) Das Präsidium des Studierendenparlaments ist verpflichtet, die nachrückende Kandidatin
+sowie die Vertrauenspersonen der Liste umgehend schriftlich von ihrem Nachrücken zu informieren
+und aufzufordern, innerhalb einer Frist von sechs Tagen nach Zustellung der Benachrichtigung die
+Annahme des Mandats zu erklären. Verstreicht diese Frist ohne entsprechende Erklärung, so gilt das
+als Verzicht im Sinne des Abs. 1 Satz 1 mit den entsprechenden Folgen.
 
 (3) Eine Vertrauensperson kann dieses Amt auf eine andere Person übertragen. Dies ist dem SP-Präsidium schriftlich und mit den Unterschriften der Vertrauensperson und ihrer Nachfolgerin versehen mitzuteilen. Solange das neu gewählte Studierendenparlament sich nicht konstituiert hat, ist die Übertragung stattdessen der Wahlleiterin anzuzeigen. Bilden die Mitglieder einer Listenbewerbung eine Fraktion, wird die Fraktionssprecherin ebenfalls zur Vertrauensperson der Liste.
 
