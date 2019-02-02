@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Informatik
-date:  23. Januar 2018
+date:  29. Januar 2019
 type:  Satzung
 id:    FSSatzungInformatik
 contains:
@@ -33,6 +33,13 @@ contains:
   puborgan: AKUT
   pubdate:  18. Februar 2018
   puburl:   https://www.akut-bonn.de/wp-content/uploads/2018/02/akut_extra_2018-4.pdf
+- title: Vierte Änderungssatzung der Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: Vierte Änderungssatzung der Satzung der Fachschaft Informatik
+  actorgan: Fachschaftsvertretung Fachschaft Informatik
+  actdate:  16. Januar 2019
+  puborgan: AKUT
+  pubdate:  29. Januar 2019
+  puburl:   https://akut-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-2.pdf
 
 ---
 
@@ -111,12 +118,14 @@ per E-Mail. Sie ist fachschaftsöffentlich bekannt zu machen.
 
 (7) Sofern sie sich keine eigene Geschäftsordnung gibt, gilt für die FSV die Geschäftsordnung des Studierendenparlaments, soweit anwendbar, entsprechend.
 
-### § 8 Das Präsidium der FSV und seine Aufgaben 
 
+### § 8 Das Präsidium der FSV und seine Aufgaben 
 
 (1) Das Präsidium besteht aus dem Vorsitzenden und, falls gewählt, seinem Stellvertreter und dem Schriftführer.
 
-(2) Alle Mitglieder des Präsidiums müssen FSV-Mitglieder sein und werden einzeln in der konstituierenden Sitzung gewählt. Auf Verlangen eines FSV-Mitglieds findet die Wahl geheim statt.
+(2) Alle Mitglieder des Präsidiums müssen FSV-Mitglieder sein und werden einzeln in der
+konstituierenden Sitzung gewählt. Auf Verlangen eines FSV-Mitglieds findet die Wahl geheim
+statt. Ein Einspruch gegen dieses Verlangen ist nicht möglich.
 
 (3) Die Ämter des Präsidiums der FSV sind unvereinbar mit der Mitgliedschaft im FSR.
 
@@ -280,8 +289,9 @@ werden, im Hauptfach studieren.
 der Rheinischen Friedrich-Wilhelms-Universität Bonn, die als Teil ihrer Fachabschlusskombination
 „Informatik (LA BA Gym Ge)“ oder „Informatik (LA MA Gym Ge)“ führen - im Folgenden „Informatik-Lehrämtler“.
 
-(2) Stimmrecht haben alle anwesenden FSR-Mitglieder und Mitglieder der Fachschaft sowie Informatik-Lehrämtler.
-Auf Verlangen eines FSR-Mitglieds haben nur anwesende FSR-Mitglieder Stimmrecht.
+(2) Stimmrecht haben alle anwesenden FSR-Mitglieder und Mitglieder der Fachschaft sowie
+Informatik-Lehrämtler. Auf Verlangen eines FSR-Mitglieds haben nur anwesende FSR-
+Mitglieder Stimmrecht. Ein Einspruch gegen dieses Verlangen ist nicht möglich. 
 
 (3) Ein Beschluss ist rechtmäßig zustande gekommen, wenn 
 
