@@ -1,7 +1,7 @@
 ---
 title: Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Beitragsordnung der Studierendenschaft (BO)
-date:  20. August 2018
+date:  13. März 2019
 type:  Ordnung
 id:    BO
 contains:
@@ -41,6 +41,15 @@ contains:
   pubdate:  20. August 2018
   puborgan: Amtliche Bekanntmachungen
   puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/422798
+- title: Achtundzwanzigste Ordnung zur Änderung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - XXVIII. Beitragsordnungsänderungsordnung  (BOÄO XXVIII) -
+  short: XXVIII\. Beitragsordnungsänderungsordnung  (BOÄO XXVIII)
+  actdate:  13. Dezember 2018
+  actorgan: Studierendenparlament
+  confirmorgan: Rektorat
+  confirmdate: 29. Januar 2019
+  pubdate:  13. März 2019
+  puborgan: Amtliche Bekanntmachungen
+  puburl: http://hdl.handle.net/20.500.11811/1306
 
 ---
 
@@ -50,28 +59,21 @@ jedem Semester von allen immatrikulierten Studierenden ein Beitrag zur Deckung d
 Kosten der Selbstverwaltung, der Selbsthilfe und Mobilität der Studierendenschaft erhoben.
 
 ### § 2
-Der Beitrag in Höhe von 190,22 € (WS 2018/2019) bzw. 195,16 € (SS 2019) ist für folgende Zwecke
+Der Beitrag in Höhe von 197,82 € (WS 2019/2020) bzw. 199,56 € (SS 2020) ist für folgende Zwecke
 bestimmt:
 
 |   |                                                                           |         |
 |:--|:--------------------------------------------------------------------------|--------:|
-|1. |für die studentische Selbstverwaltung					|         |
-|   |WS 2018/2019								|  8,80 €,|
-|   |SS 2019									| 10,00 €,|
-|2. |für die studentischen Sozialeinrichtungen					|         |
-|   |WS 2018/19									|  0,55 €,|
-|   |SS 2019									|  0,75 €,|
+|1. |für die studentische Selbstverwaltung					| 10,00 €,|
+|2. |für die studentischen Sozialeinrichtungen					|  0,75 €,|
 |3. |für den Hilfsfonds zur Unterstützung in Not geratener Studierender		|  0,01 €,|
 |4. |für einen Mobilitätsbeitrag						|         |
-|   |a) Semesterticket								|         |
-|   |WS 2018/2019, SS 2019							|126,60 €,|
-|   |b) NRW-Ticket								|         |
-|   |WS 2018/19									| 52,80 €,|
-|   |SS 2019									| 54,60 €,|
+|   |a) Semesterticket								|131,00 €,|
+|   |b) NRW-Ticket								| 54,60 €,|
 |5. |für ein Sonderkonto zur Erstattung des Mobilitätsbeitrages			|  0,60 €,|
 |6. |für die Zuweisungen an die Fachschaften					|         |
-|   |WS 2018/2019								|  0,01 €,|
-|   |SS 2019									|  1,75 €,|
+|   |WS 2019/2020								|  0,01 €,|
+|   |SS 2020									|  1,75 €,|
 |7. |für den Studierendensport							|  0,85 €,|
 
 ### § 3
