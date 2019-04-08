@@ -50,6 +50,15 @@ contains:
   puborgan: Amtliche Bekanntmachungen
   pubdate:  07. Dezember 2017
   puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/363231
+- title: 5. Satzung zur Änderung der Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - SÄS 5 –
+  short: 5\. Satzungsänderungssatzung
+  actorgan: Studierendenparlament
+  actdate:  4. Dezember 2017
+  confirmorgan: Rektorat
+  confirmdate: 12. März 2019
+  puborgan: Amtliche Bekanntmachungen
+  pubdate:  28. März 2019
+  puburl: http://hdl.handle.net/20.500.11811/1321
 
 ---
 
@@ -262,13 +271,15 @@ Bescheinigung über die Mitgliedschaft und/oder Anwesenheit im SP ausstellen.
 bestimmt.
 
 Das SP gilt solange als beschlussfähig, bis auf Antrag eines Mitgliedes des SP durch
-die Sprecherin festgestellt wird, dass weniger als die Hälfte der SP-Mitglieder
+die Sprecherin festgestellt wird, dass weniger als die Mehrheit der SP-Mitglieder
 anwesend ist; Näheres regelt die Geschäftsordnung.
 
-(3) Bei Beschlussunfähigkeit muss innerhalb von 14 Tagen eine zweite Sitzung mit der
-gleichen Tagesordnung stattfinden. Die Einladung hat unter ausdrücklichem Hinweis
-darauf zu erfolgen, dass diese Sitzung unabhängig von der Zahl der erschienenen
-Mitglieder beschlussfähig ist.
+(3) Bei Beschlussunfähigkeit muss innerhalb von 14 Tagen eine außerordentliche 
+Sitzung stattfinden, die unabhängig von der Zahl der anwesenden Mitglieder beschlussfähig 
+ist. Darauf ist in der Einladung ausdrücklich hinzuweisen. Die Tagesordnung dieser 
+Sitzung umfasst ausschließlich alle noch nicht oder noch nicht zu Ende behandelten 
+Verhandlungsgegenstände sowie den Tagesordnungspunkt „Eröffnung“. Zu außerordentlichen 
+Sitzungen kann ausschließlich in Konsequenz einer Beschlussunfähigkeit eingeladen werden.
 
 (4) SP-Beschlüsse der laufenden Sitzungsperiode können nur durch mindestens 2/3-
 Mehrheit der anwesenden Mitglieder aufgehoben werden. Wenn ein höheres Quorum
