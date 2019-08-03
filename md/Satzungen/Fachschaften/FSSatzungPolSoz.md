@@ -1,6 +1,6 @@
 ---
-title: Satzung der Fachschaft Politik und Soziologie der Rheinischen Friedrich-Wilhelms-Universität Bonn
-short: Satzung der Fachschaft Politik und Soziologie
+title: Satzung der Fachschaft Politik &amp; Soziologie der Rheinischen Friedrich-Wilhelms-Universität Bonn
+short: Satzung der Fachschaft Politik &amp; Soziologie
 date:  15. Juli 2019
 type:  Satzung
 id:    FSSatzungPolSoz
