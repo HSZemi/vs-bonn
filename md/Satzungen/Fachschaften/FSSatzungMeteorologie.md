@@ -7,7 +7,7 @@ id:    FSSatzungMeteorologie
 contains:
 - title: Satzung der Fachschaft Meteorologie der Universität Bonn (FSSzg)
   short: Satzung der Fachschaft Meteorologie
-  actorgan: Fachschaftsvollversammlung Satzung Fachschaft Meteorologie
+  actorgan: 
   actdate:  
   puborgan: AKUT
   pubdate:  10. Oktober 2019
