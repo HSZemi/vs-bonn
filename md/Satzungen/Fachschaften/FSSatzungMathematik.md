@@ -427,7 +427,7 @@ c) die Belege den Buchungen des Kassenbuches entsprechen.
 (3) Die Abschlussprüfung ist notwendige Voraussetzung einer finanziellen Entlastung des FSR-Vorstandes.
 
 
-#Schlussbestimmungen
+# Schlussbestimmungen
 
 
 ### § 25 Satzungsänderungen

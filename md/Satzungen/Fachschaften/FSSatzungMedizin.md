@@ -128,39 +128,40 @@ geheimer Wahl in der konstituierenden Sitzung gewählt. (vgl.: § 6 Abs.4)
 
 (3) Die Ämter des Vorstandes der FSV sind vereinbar mit der Mitgliedschaft im FSR. 
 
-(4) Aufgabenbereiche der Vorsitzenden  
-
+(4) Aufgabenbereiche der Vorsitzenden 
+ 
 1. Der Vorsitz besteht aus 3 Mitgliedern der Fachschaftsvertretung. Jeweils eine 
 Person muss im vorklinischen bzw. im klinischen Abschnitt studieren. Der dritte 
-Vorsitzende ist aus beiden Abschnitten wählbar.  
+Vorsitzende ist aus beiden Abschnitten wählbar. 
 2. Die Vorsitzenden vertreten die FSV gegen über der Professorenschaft und der 
 Universität. Sie führen in eigener Verantwortung innerhalb der Richtlinien der 
 Fachschaftsvertretung die laufenden Geschäfte der Fachschaft und Beschlüsse 
 der Fachschaftsvertretung aus. Sie sind dafür rechenschaftspflichtig und alle 
-einzeln zeichnungsbefugt.  
+einzeln zeichnungsbefugt. 
 3. Die Mitglieder des Vorstandes sollen bei Sitzungen der Fachschaftsvertretung 
-anwesend sein.  
+anwesend sein. 
 4. Die Mitglieder des Vorstandes müssen 
 a. voll geschäftsfähig im Sinne des Bürgerlichen Gesetzbuchs (BGB) sein. b. 
-Mitglieder der Fachschaftsvertretung sein.  
+Mitglieder der Fachschaftsvertretung sein. 
 5. Die Fachschaftsvollversammlung wählt auf Vorschlag der Fachschaftsvertretung 
 oder auf Vorschlag mindestens 3 anwesender Mitglieder der Fachschaft einzeln - 
 und auf Wunsch eines Mitglieds der Fachschaftsvollversammlung in geheimer 
 Wahl - die Mitglieder des Vorstandes für die Dauer der Wahlperiode. Für die 
-Wahl in den Vorstand ist die absolute Mehrheit der Mitglieder erforderlich.  
-6. 4  Die Mitglieder scheiden vorzeitig aus dem Vorstand aus  
-
-    a. mit dem Ausscheiden aus der Fachschaftsvertretung,  
+Wahl in den Vorstand ist die absolute Mehrheit der Mitglieder erforderlich. 
+6. 4 Die Mitglieder scheiden vorzeitig aus dem Vorstand aus 
+    a. mit dem Ausscheiden aus der Fachschaftsvertretung, 
     b. durch Rücktritt von ihrem Amt, der durch die Wahl einer Nachfolgerin 
-    oder eines Nachfolgers wirksam wird,  
-    c. durch Exmatrikulation,  
+    oder eines Nachfolgers wirksam wird, 
+    c. durch Exmatrikulation, 
+ 
 
 (5) Der Schriftführer ist für die Erstellung des Sitzungsprotokolls verantwortlich. Er 
 kann an seiner statt ein Mitglied der FSV zum Protokollanten bestimmen. Der 
 Schriftführer ist dafür verantwortlich, dass das Protokoll der FSV-Sitzung eine Woche 
 nach der Sitzung sowohl in Schrift- als auch in digitaler Form ausgefertigt an den FSV-
 Vorsitzenden weitergeleitet und vom FSV-Vorsitzenden jeweils zur nächsten FSV-
-Sitzung allen Mitgliedern ausgehändigt wird.  
+Sitzung allen Mitgliedern ausgehändigt wird. 
+ 
 
 (6) Der Vorsitzende der FSV führt ihre laufenden Geschäfte. Er beruft die FSV ein, wenn 
 
@@ -306,7 +307,8 @@ soweit anwendbar, sofern er sich keine eigene Geschäftsordnung gibt.
 
 (1) Der zu wählende FSR-Sprecher muss der FSV zum Zeitpunkt seiner Wahl angehören. 
 Der FSR-Sprecher hat das alleinige Vorschlagsrecht für alle übrigen zu wählenden 
-Mitglieder des FSR.  
+Mitglieder des FSR. 
+ 
 
 (2) Der geschäftsführende Vorstand wird entsprechend § 8 Abs. 5 gewählt. 
 
@@ -344,7 +346,8 @@ des FSR, der FSVV, sowie eines FA, oder einer SfVV sofern sie gegen geltendes Re
 verstoßen, zu beanstanden. 
 
 
-## III. Die Fachschaftsvollversammlung (FSVV)  
+## III. Die Fachschaftsvollversammlung (FSVV) 
+ 
 
 ### § 16 Rechtsstellung der FSVV 
 Die FSVV, die aus allen wahlberechtigten Mitgliedern der Fachschaft Medizin besteht, ist 
@@ -353,7 +356,8 @@ das oberste beschlussfassende Organ der Fachschaft.
 
 ### § 17 Einberufung und Durchführung der FSVV 
 
-(1) Der Sprecher des FSR beruft die FSVV ein:  
+(1) Der Sprecher des FSR beruft die FSVV ein: 
+ 
 
 1. Auf Beschluss der FSV 
 2. Auf schriftlichen Antrag von mindestens sechs Mitgliedern der FSV, 
@@ -367,7 +371,8 @@ Die Ankündigung enthält mindestens
 1. die genaue Zeit und Ortsangabe der FSVV sowie 
 2. ihre Tagesordnung. 
 
-(3) Die FSVV wählt zu Beginn jeder Versammlung einen Versammlungsleiter.  
+(3) Die FSVV wählt zu Beginn jeder Versammlung einen Versammlungsleiter. 
+ 
 
 (4) Für die FSVV gilt § 7 Abs. 7 entsprechend. 
 
@@ -515,22 +520,29 @@ Einnahmen und Ausgaben der Fachschaft ordnungsgemäß Buch.
 
 (3) Vermögen der Fachschaft 
 
-1. Die Fachschaft hat ein eigenes Vermögen.  
+1. Die Fachschaft hat ein eigenes Vermögen. 
+ 
 2. Zur Durchführung ihrer Aufgaben erhält die Fachschaft ihre Mittel gemäß der 
-Finanzordnung der Studierendenschaft.  
-3. Die Fachschaftsvertretung bestimmt die Richtlinien der Mittelverwendung.  
+Finanzordnung der Studierendenschaft. 
+ 
+3. Die Fachschaftsvertretung bestimmt die Richtlinien der Mittelverwendung. 
+ 
 4. Das Verfügungsrecht über diese Mittel hat der Fachschaftsvorstand. Dieser 
-verwaltet das Vermögen gemäß der Satzung der Universität Köln.  
+verwaltet das Vermögen gemäß der Satzung der Universität Köln. 
+ 
 5. Einzeln Zeichnungsbefugt für das Vermögen der Fachschaft sind die Mitglieder 
 des Vorstandes sowie ein gewählter Finanzassistent / eine gewählte 
-Finanzassistentin.  
+Finanzassistentin. 
+ 
 
-(4) Buchführung  
+(4) Buchführung 
+ 
 
 1. Der oder die Finanzer(in) sowie der oder die Finanzassistent(in) sind 
 verpflichtet, über Einnahmen und Ausgaben der Fachschaft Humanmedizin Buch 
 zu führen. Insbesondere müssen Verwendungszweck und Datum der Ein- und 
-Ausgaben erfasst werden.  
+Ausgaben erfasst werden. 
+ 
 
 (5) Finanzbeauftragte: 
 
@@ -556,18 +568,22 @@ erheblichen Vorhaben beschließen. Der FSR kann mit der Mehrheit der gewählten
 Mitglieder Ausgaben beschließen, sofern der FSR-Sprecher oder der Finanzreferent mit 
 der Mehrheit stimmen. 
 
-# D. Haftung  
+# D. Haftung 
+ 
 
 (1) Verletzt jemand als Mitglied eines Organs der Fachschaft vorsätzlich oder grob 
 fahrlässig die ihr oder ihm obliegenden Pflichten, so hat sie oder er der Fachschaft 
-den ihr daraus entstehenden Schaden zu ersetzen.  
+den ihr daraus entstehenden Schaden zu ersetzen. 
+ 
 
 (2) Mit dem Beschluss über die Entlastung eines Mitglieds des Fachschaftsvorstandes 
 stellt die Fachschaft die ordnungsgemäße Verwendung der Mittel fest, die in dem 
 jeweiligen Geschäftsbereich ausgegeben wurden. Der Beschlussfassung geht eine 
-sorgfältige Kassenprüfung voraus. Die Entlastung stellt eine Haftungsfreistellung dar.  
+sorgfältige Kassenprüfung voraus. Die Entlastung stellt eine Haftungsfreistellung dar. 
+ 
 
-# E. Schlussbestimmungen  
+# E. Schlussbestimmungen 
+ 
 
 
 ### § 26 Abweichende Reglungen für Fachschaften ohne FSV 
