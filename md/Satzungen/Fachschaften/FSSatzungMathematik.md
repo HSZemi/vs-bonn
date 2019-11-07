@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Mathematik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Mathematik
-date:  13. August 2017
+date:  6. November 2019
 type:  Satzung
 id:    FSSatzungMathematik
 contains:
@@ -12,6 +12,13 @@ contains:
   puborgan: AKUT
   pubdate:  13. August 2017
   puburl: https://www.akut-bonn.de/wp-content/uploads/2017/08/akut_extra_2017-13.pdf
+- title: Dritte Satzungsänderung der Satzung der Fachschaft Mathematik der Universität Bonn
+  short: Dritte Satzungsänderung der Satzung der Fachschaft Mathematik
+  actorgan: Fachschaftsvertretung Fachschaft Mathematik
+  actdate:  23. Oktober 2019
+  puborgan: AKUT
+  pubdate:  6. November 2019
+  puburl: https://www.akut-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-20.pdf
 ---
 
 # Präliminarien
@@ -161,7 +168,7 @@ eine Wahl nicht, sofern die Ämterkonkurrenz noch in der gleichen Organsitzung a
 ### § 8 Wahl
 
 (1) Die FSV wird jährlich von den Mitgliedern der Fachschaft in allgemeiner, direkter, freier,
-gleicher und geheimer Urnenwahl gewählt.
+gleicher und geheimer Urnenwahl, die als personalisierte Verhältniswahl durchgeführt wird, gewählt.
 
 (2) Die Wahl wird nach Maßgabe der Fachschaftswahlordnung von einem Wahlausschuss vorbereitet und durchgeführt, der gemäß § 12 gewählt wird.
 
