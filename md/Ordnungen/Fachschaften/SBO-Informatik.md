@@ -1,7 +1,7 @@
 ---
 title: Benutzungsordnung der Schließfächer der Fachschaft Informatik
 short: Benutzungsordnung der Schließfächer der Fachschaft Informatik
-date:  09. Juni 2016
+date:  22. Oktober 2019
 type:  Ordnung
 id:    SBO-Informatik
 contains:
