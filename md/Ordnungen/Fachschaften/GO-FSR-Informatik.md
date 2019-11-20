@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
-date:  14. April 2015
+date:  20. November 2019
 type:  Ordnung
 id:    GO-FSR-Informatik
 contains:
@@ -12,10 +12,18 @@ contains:
   puborgan: AKUT
   pubdate:  16. April 2015
   puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/Geschaeftsordnung-FSR-beschlossen-akut-extra.pdf
+- title: 1. Änderungsordnung der Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: 1. Änderungsordnung der Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
+  actorgan: Fachschaftsrat Fachschaft Informatik
+  actdate:  20. November 2019
+  puborgan: AKUT
+  pubdate:  20. November 2019
+  puburl: https://akut-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-23.pdf
 
 ---
 
 Diese Geschäftsordnung gilt für die Sitzungen des Fachschaftsrats der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn.
+In der Geschäftsordnung können Bezeichnungen unterschiedlichen Geschlechts benutzt werden, sie gelten jeweils für alle Menschen unabhängig ihres Geschlechts in gleicher Weise.
 
 ### § 1 Sitzungstermine
 
@@ -50,11 +58,15 @@ Diese Geschäftsordnung gilt für die Sitzungen des Fachschaftsrats der Fachscha
 
 (3) Nach Abhandlung eines Tagesordnungspunkts ist dessen Niederschrift zu verlesen. Korrekturwünsche sind zu berücksichtigen. Dann wird festgestellt, ob der Tagesordnungspunkt dem öffentlichen oder dem fachschaftsöffentlichen Teil zuzuordnen ist.
 
-(4) Nach der Sitzung wird das Protokoll korrekturgelesen und versandt. Der öffentliche Teil wird an eine öffentliche Mailingliste und an die interne Mailingliste versandt, der fachschaftsöffentliche Teil nur an die interne Mailingliste. Das fachschaftsöffentliche Protokoll wird außerdem im Fachschaftsbüro zur Einsicht aufbewahrt.
+(4) Während der Sitzung ist eine Anwesenheitsliste zu führen. Wenn jemand die Sitzung verlässt oder verspätet erscheint, ist dies mit Uhrzeit festzuhalten.
 
-(5) Korrekturen zu einem versandten Protokoll werden im Protokoll der folgenden Sitzung festgehalten.
+(5) Nach Abhandlung eines Tagesordnungspunkts ist dessen Niederschrift zu verlesen. Korrekturwünsche sind zu berücksichtigen. Dann wird festgestellt, ob der Tagesordnungspunkt dem öffentlichen oder dem fachschaftsöffentlichen Teil zuzuordnen ist.
 
-(6) Das Protokoll wird auf der folgenden Sitzung genehmigt.
+(6) Nach der Sitzung wird das Protokoll korrekturgelesen und versandt. Der öffentliche Teil wird an eine öffentliche Mailingliste und an die interne Mailingliste versandt, der fachschaftsöffentliche Teil nur an die interne Mailingliste. Das fachschaftsöffentliche Protokoll wird außerdem im Fachschaftsbüro zur Einsicht aufbewahrt.
+
+(7) Korrekturen zu einem versandten Protokoll werden im Protokoll der folgenden Sitzung festgehalten.
+
+(8) Das Protokoll wird auf der folgenden Sitzung genehmigt.
 
 
 ### § 5 Sprache
@@ -90,6 +102,9 @@ k. der Antrag auf erneute Auszählung einer Abstimmung; diesem Antrag muss auf V
    Anwesenden durch die Sitzungsleitung statt. Bei einer erneuten Auszählung dürfen nur die
    Stimmen der Personen berücksichtigt werden, die an der Abstimmung teilgenommen
    haben.
+l. Antrag auf Feststellung der Beschlussfähigkeit: diesem Antrag muss auf Verlangen eines 
+   Mitglieds stattgegeben werden (Vgl. § 10 Abs. 6 Satzung). Der Zeitpunkt der Feststellung 
+   muss im Protokoll vermerkt weren.
 
 (2) Zu einer Meldung zur Geschäftsordnung erteilt die Sitzungsleitung das Wort unmittelbar und
 außerhalb der Redeliste; ein laufender Redebeitrag darf nicht unterbrochen werden. Meldungen zur
@@ -109,9 +124,3 @@ Diese Geschäftsordnung kann in drei Lesungen auf mindestens zwei getrennten Sit
 ### § 8 Inkrafttreten
 
 Diese Geschäftsordnung tritt am Tag nach ihrer Veröffentlichung in der AKUT in Kraft.
-
-
-*Ausgefertigt aufgrund des Beschlusses des Fachschaftsrats der Fachschaft Informatik am 14.04.2015.*
-
-Sven Zemanek
-Vorsitzender des Fachschaftsrats
