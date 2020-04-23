@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Mathematik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Mathematik
-date:  6. November 2019
+date:  1. April 2020
 type:  Satzung
 id:    FSSatzungMathematik
 contains:
@@ -168,7 +168,7 @@ eine Wahl nicht, sofern die Ämterkonkurrenz noch in der gleichen Organsitzung a
 ### § 8 Wahl
 
 (1) Die FSV wird jährlich von den Mitgliedern der Fachschaft in allgemeiner, direkter, freier,
-gleicher und geheimer Urnenwahl, die als personalisierte Verhältniswahl durchgeführt wird, gewählt.
+gleicher und geheimer Urnenwahl gewählt.
 
 (2) Die Wahl wird nach Maßgabe der Fachschaftswahlordnung von einem Wahlausschuss vorbereitet und durchgeführt, der gemäß § 12 gewählt wird.
 
