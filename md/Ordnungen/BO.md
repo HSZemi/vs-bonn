@@ -1,7 +1,7 @@
 ---
 title: Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Beitragsordnung der Studierendenschaft (BO)
-date:  13. März 2019
+date:  1. Oktober 2019
 type:  Ordnung
 id:    BO
 contains:
@@ -50,6 +50,15 @@ contains:
   pubdate:  13. März 2019
   puborgan: Amtliche Bekanntmachungen
   puburl: http://hdl.handle.net/20.500.11811/1306
+- title: Neunundzwanzigste Ordnung zur Änderung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - XXIX. Beitragsordnungsänderungsordnung  (BOÄO XXIX) -
+  short: XXIX\. Beitragsordnungsänderungsordnung  (BOÄO XXIX)
+  actdate:  17. April 2019
+  actorgan: Studierendenparlament
+  confirmorgan: Rektorat
+  confirmdate: 4. Juni 2019
+  pubdate:  17. Juni 2019
+  puborgan: Amtliche Bekanntmachungen
+  puburl: http://hdl.handle.net/20.500.11811/1346
 
 ---
 
@@ -59,22 +68,27 @@ jedem Semester von allen immatrikulierten Studierenden ein Beitrag zur Deckung d
 Kosten der Selbstverwaltung, der Selbsthilfe und Mobilität der Studierendenschaft erhoben.
 
 ### § 2
-Der Beitrag in Höhe von 197,82 € (WS 2019/2020) bzw. 199,56 € (SS 2020) ist für folgende Zwecke
+Der Beitrag in Höhe von 200,82 € (WS 2019/2020) bzw. 205,86 € (SS 2020) ist für folgende Zwecke
 bestimmt:
 
 |   |                                                                           |         |
 |:--|:--------------------------------------------------------------------------|--------:|
-|1. |für die studentische Selbstverwaltung					| 10,00 €,|
-|2. |für die studentischen Sozialeinrichtungen					|  0,75 €,|
-|3. |für den Hilfsfonds zur Unterstützung in Not geratener Studierender		|  0,01 €,|
-|4. |für einen Mobilitätsbeitrag						|         |
-|   |a) Semesterticket								|131,00 €,|
-|   |b) NRW-Ticket								| 54,60 €,|
-|5. |für ein Sonderkonto zur Erstattung des Mobilitätsbeitrages			|  0,60 €,|
-|6. |für die Zuweisungen an die Fachschaften					|         |
-|   |WS 2019/2020								|  0,01 €,|
-|   |SS 2020									|  1,75 €,|
-|7. |für den Studierendensport							|  0,85 €,|
+|1. |für die studentische Selbstverwaltung                                      |         |
+|   |Wintersemester 2019/2020                                                   | 10,00 €,|
+|   |Sommersemester 2020                                                        | 11,50 €,|
+|2. |für die studentischen Sozialeinrichtungen                                  |  0,75 €,|
+|3. |für den Hilfsfonds zur Unterstützung in Not geratener Studierender         |  0,01 €,|
+|4. |für einen Mobilitätsbeitrag                                                |         |
+|   |a) Semesterticket                                                          |131,00 €,|
+|   |b) NRW-Ticket                                                              |         |
+|   |   Wintersemester 2019/2020                                                | 54,60 €,|
+|   |   Sommersemester 2020                                                     | 56,40 €,|
+|5. |für ein Sonderkonto zur Erstattung des Mobilitätsbeitrages                 |  0,60 €,|
+|6. |für die Zuweisungen an die Fachschaften                                    |         |
+|   |Wintersemester 2019/2020                                                   |  0,01 €,|
+|   |Sommersemester 2020                                                        |  1,75 €,|
+|7. |für den Studierendensport                                                  |  0,85 €,|
+|8. |für das Kulturticket                                                       |  3,00 €,|
 
 ### § 3
 (1) Beitragspflicht entsteht
