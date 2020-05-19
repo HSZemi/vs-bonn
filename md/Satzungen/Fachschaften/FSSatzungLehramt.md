@@ -11,14 +11,14 @@ contains:
   actdate:  8. Dezember 2015
   puborgan: AKUT
   pubdate:  26. Januar 2016
-  puburl: http://www.akut-bonn.de/wp-content/uploads/2015/05/AK_Ex_Satzung-der-Fachschaft-Lehramt.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2016/AK_Ex_Satzung-der-Fachschaft-Lehramt.pdf
 - title: Satzung der Fachschaft Lehramt der Rheinischen-Friedrich-Wilhelms-Universität Bonn
   short: Satzung der Fachschaft Lehramt
   actorgan: Fachschaftsvertretung Fachschaft Lehramt
   actdate:  30. Oktober 2018
   puborgan: AKUT
   pubdate:  7. Dezember 2018
-  puburl: https://www.akut-bonn.de/bekanntmachungen/files/2018/akut_extra_2018-16.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2018/akut_extra_2018-16.pdf
 
 ---
 

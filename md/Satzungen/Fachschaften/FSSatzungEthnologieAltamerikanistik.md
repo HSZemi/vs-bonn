@@ -11,7 +11,7 @@ contains:
   actdate:  August 2019
   puborgan: AKUT
   pubdate:  16. August 2019
-  puburl: https://akut-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-15.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-15.pdf
 
 ---
 

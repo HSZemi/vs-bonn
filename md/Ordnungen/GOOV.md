@@ -13,7 +13,7 @@ contains:
   confirmdate:  15. Juli 2015
   puborgan: AKUT
   pubdate:  18. Juli 2015
-  puburl:  http://www.akut-bonn.de/wp-content/uploads/2015/07/AK_Ex_GO-Obleuteversammlung-10stk.pdf
+  puburl:  https://sp.uni-bonn.de/bekanntmachungen/files/2015/AK_Ex_GO-Obleuteversammlung-10stk.pdf
 - title: Geschäftsordnung der Obleuteversammlung
   short: Geschäftsordnung der OV
   actorgan: Obleuteversammlung
@@ -22,7 +22,7 @@ contains:
   confirmdate:  8. Juli 2016
   puborgan: AKUT
   pubdate:  4. Oktober 2016
-  puburl:  https://www.akut-bonn.de/wp-content/uploads/2016/10/akut_extra_2016-111.pdf
+  puburl:  https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut_extra_2016-111.pdf
 
 ---
 

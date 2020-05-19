@@ -11,42 +11,42 @@ contains:
   actdate:  21. November 2013
   puborgan: AKUT
   pubdate:  15. Januar 2014
-  puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/Satzung_Fachschaft_Informatik-akut.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2014/Satzung_Fachschaft_Informatik-akut.pdf
 - title: Erste Änderungssatzung der Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Erste Änderungssatzung der Satzung der Fachschaft Informatik
   actorgan: Fachschaftsvertretung Fachschaft Informatik
   actdate:  12. Mai 2015
   puborgan: AKUT
   pubdate:  12. Mai 2015
-  puburl: http://www.akut-bonn.de/wp-content/uploads/2015/05/AK_ex_12-05-2015-FSInfoAendSatzung.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2015/AK_ex_12-05-2015-FSInfoAendSatzung.pdf
 - title: Zweite Änderungssatzung der Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Zweite Änderungssatzung der Satzung der Fachschaft Informatik
   actorgan: Fachschaftsvertretung Fachschaft Informatik
   actdate:  28. Januar 2016
   puborgan: AKUT
   pubdate:  2. Februar 2016
-  puburl:   https://www.akut-bonn.de/wp-content/uploads/2016/02/akut-extra__Zweite-%c3%84nderungssatzung-der-Satzung-der-Fachschaft-Informatik-der-Rheinischen-Friedrich-Wilhelms-Universit%c3%a4t-Bonn.pdf
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut-extra__Zweite-%c3%84nderungssatzung-der-Satzung-der-Fachschaft-Informatik-der-Rheinischen-Friedrich-Wilhelms-Universit%c3%a4t-Bonn.pdf
 - title: Dritte Änderungssatzung der Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Dritte Änderungssatzung der Satzung der Fachschaft Informatik
   actorgan: Fachschaftsvertretung Fachschaft Informatik
   actdate:  23. Januar 2018
   puborgan: AKUT
   pubdate:  18. Februar 2018
-  puburl:   https://www.akut-bonn.de/wp-content/uploads/2018/02/akut_extra_2018-4.pdf
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2018/akut_extra_2018-4.pdf
 - title: Vierte Änderungssatzung der Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Vierte Änderungssatzung der Satzung der Fachschaft Informatik
   actorgan: Fachschaftsvertretung Fachschaft Informatik
   actdate:  16. Januar 2019
   puborgan: AKUT
   pubdate:  29. Januar 2019
-  puburl:   https://akut-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-2.pdf
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-2.pdf
 - title: Fünfte Änderungssatzung der Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Fünfte Änderungssatzung der Satzung der Fachschaft Informatik
   actorgan: Fachschaftsvertretung Fachschaft Informatik
   actdate:  19. November 2019
   puborgan: AKUT
   pubdate:  20. November 2019
-  puburl:   https://akut-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-22.pdf
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-22.pdf
 
 ---
 

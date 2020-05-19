@@ -13,7 +13,7 @@ contains:
   confirmdate: 6. April 2011
   puborgan: AKUT
   pubdate:  6. April 2011
-  puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/verfoaer.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2011/verfoaer.pdf
 - title: Verfahrens- und Geschäftsordnung des Ältestenrats (VerfGOÄR)
   short: Verfahrens- und Geschäftsordnung des Ältestenrats (VerfGOÄR)
   actorgan: Ältestenrat
@@ -22,7 +22,7 @@ contains:
   confirmdate: 14. März 2018
   puborgan: AKUT
   pubdate:  18. März 2018
-  puburl: https://www.akut-bonn.de/wp-content/uploads/2018/03/akut_extra_2018-5.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2018/akut_extra_2018-5.pdf
 
 ---
 

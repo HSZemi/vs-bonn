@@ -11,7 +11,7 @@ contains:
   actdate:  26. November 2015
   puborgan: AKUT
   pubdate:  2. Dezember 2015
-  puburl: http://www.akut-bonn.de/wp-content/uploads/2015/12/AK_Ex_Satzung-FSEvTheo.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2015/AK_Ex_Satzung-FSEvTheo.pdf
 
 ---
 

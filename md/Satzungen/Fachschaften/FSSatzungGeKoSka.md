@@ -11,7 +11,7 @@ contains:
   actdate:  25. März 2014
   puborgan: AKUT
   pubdate:  8. April 2014
-  puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/Satzung-GeKoSka.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2014/Satzung-GeKoSka.pdf
 
 ---
 

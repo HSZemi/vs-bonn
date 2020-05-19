@@ -13,7 +13,7 @@ contains:
   confirmdate: 8. September 2015
   pubdate:  29. September 2015
   puborgan: Amtliche Bekanntmachungen
-  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/247040
+  puburl: https://epflicht.ulb.uni-bonn.de/periodical/titleinfo/247040
 - title: Fünfundzwanzigste Ordnung zur Änderung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - XXV. Beitragsordnungsänderungsordnung (BOÄO XXV) -
   short: XXV\. Beitragsordnungsänderungsordnung (BOÄO XXV)
   actdate:  25. Januar 2017
@@ -22,7 +22,7 @@ contains:
   confirmdate: 14. Februar 2017
   pubdate:  23. Februar 2017
   puborgan: Amtliche Bekanntmachungen
-  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/312032
+  puburl: https://epflicht.ulb.uni-bonn.de/periodical/titleinfo/312032
 - title: Sechsundzwanzigste Ordnung zur Änderung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - XXVI. Beitragsordnungsänderungsordnung (BOÄO XXVI) -
   short: XXVI\. Beitragsordnungsänderungsordnung (BOÄO XXVI)
   actdate:  24. Mai 2017
@@ -31,7 +31,7 @@ contains:
   confirmdate: 18. Juli 2017
   pubdate:  7. August 2017
   puborgan: Amtliche Bekanntmachungen
-  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/342430
+  puburl: https://epflicht.ulb.uni-bonn.de/periodical/titleinfo/342430
 - title: Siebenundzwanzigste Ordnung zur Änderung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - XXVII. Beitragsordnungsänderungsordnung (BOÄO XXVII) -
   short: XXVII\. Beitragsordnungsänderungsordnung (BOÄO XXVII)
   actdate:  6. Juni 2018
@@ -40,7 +40,7 @@ contains:
   confirmdate: 17. Juli 2018
   pubdate:  20. August 2018
   puborgan: Amtliche Bekanntmachungen
-  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/422798
+  puburl: https://epflicht.ulb.uni-bonn.de/periodical/titleinfo/422798
 - title: Achtundzwanzigste Ordnung zur Änderung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - XXVIII. Beitragsordnungsänderungsordnung  (BOÄO XXVIII) -
   short: XXVIII\. Beitragsordnungsänderungsordnung  (BOÄO XXVIII)
   actdate:  13. Dezember 2018
@@ -49,7 +49,7 @@ contains:
   confirmdate: 29. Januar 2019
   pubdate:  13. März 2019
   puborgan: Amtliche Bekanntmachungen
-  puburl: http://hdl.handle.net/20.500.11811/1306
+  puburl: https://hdl.handle.net/20.500.11811/1306
 - title: Neunundzwanzigste Ordnung zur Änderung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - XXIX. Beitragsordnungsänderungsordnung  (BOÄO XXIX) -
   short: XXIX\. Beitragsordnungsänderungsordnung  (BOÄO XXIX)
   actdate:  17. April 2019
@@ -58,7 +58,7 @@ contains:
   confirmdate: 4. Juni 2019
   pubdate:  17. Juni 2019
   puborgan: Amtliche Bekanntmachungen
-  puburl: http://hdl.handle.net/20.500.11811/1346
+  puburl: https://hdl.handle.net/20.500.11811/1346
 
 ---
 

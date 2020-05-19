@@ -11,7 +11,7 @@ contains:
   actdate:  25. September 2013
   puborgan: AKUT
   pubdate:  5. Juni 2015
-  puburl: http://www.akut-bonn.de/wp-content/uploads/2015/06/AKUT-Extra__Rechtshilfefonds-k.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2015/AKUT-Extra__Rechtshilfefonds-k.pdf
 
 ---
 

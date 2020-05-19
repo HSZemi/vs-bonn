@@ -11,14 +11,14 @@ contains:
   actdate:  19. Juli 2017
   puborgan: AKUT
   pubdate:  13. August 2017
-  puburl: https://www.akut-bonn.de/wp-content/uploads/2017/08/akut_extra_2017-13.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2017/akut_extra_2017-13.pdf
 - title: Dritte Satzungsänderung der Satzung der Fachschaft Mathematik der Universität Bonn
   short: Dritte Satzungsänderung der Satzung der Fachschaft Mathematik
   actorgan: Fachschaftsvertretung Fachschaft Mathematik
   actdate:  23. Oktober 2019
   puborgan: AKUT
   pubdate:  6. November 2019
-  puburl: https://www.akut-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-20.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-20.pdf
 ---
 
 # Präliminarien

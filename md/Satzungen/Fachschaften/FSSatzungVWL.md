@@ -11,14 +11,14 @@ contains:
   actdate:  07. Juni 2018
   puborgan: AKUT
   pubdate:  13. Juni 2018
-  puburl: https://www.akut-bonn.de/wp-content/uploads/2018/06/akut_extra_2018-8.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2018/akut_extra_2018-8.pdf
 - title: Satzung der Fachschaft Volkswirtschaftslehre der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Satzung der Fachschaft Volkswirtschaftslehre
   actorgan: Fachschaftsvertretung Fachschaft Volkswirtschaftslehre
   actdate:  16. Januar 2020
   puborgan: AKUT
   pubdate:  29. April 2020
-  puburl: https://www.akut-bonn.de/bekanntmachungen/files/2020/akut_extra_2020-6.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2020/akut_extra_2020-6.pdf
 
 ---
 # Präambel

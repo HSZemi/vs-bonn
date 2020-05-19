@@ -11,14 +11,14 @@ contains:
   actdate:  19. Dezember 2013
   puborgan: AKUT
   pubdate:  17. Januar 2014
-  puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/akut-EXTRA-_Fachschaftssatzung-Romanistik.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2014/akut-EXTRA-_Fachschaftssatzung-Romanistik.pdf
 - title: Erste Änderungssatzung der Satzung der Fachschaft Romanistik der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Erste Änderungssatzung der Satzung der Fachschaft Romanistik
   actorgan: Fachschaftsvertretung Fachschaft Romanistik
   actdate:  12. Mai 2016
   puborgan: AKUT
   pubdate:  12. Mai 2016
-  puburl: https://www.akut-bonn.de/wp-content/uploads/2016/05/akut-extra__Erste-A%CC%88nderungssatzung-der-Satzung-der-Fachschaft-Romanistik-der-Rheinischen-Friedrich-Wilhelms-Universita%CC%88t-Bonn.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut-extra__Erste-%C3%84nderungssatzung-der-Satzung-der-Fachschaft-Romanistik-der-Rheinischen-Friedrich-Wilhelms-Universit%C3%A4t-Bonn.pdf
 
 ---
 

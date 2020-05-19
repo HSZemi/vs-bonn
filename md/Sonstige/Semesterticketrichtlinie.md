@@ -11,35 +11,35 @@ contains:
   actdate:  20. April 2016
   puborgan: AKUT
   pubdate:  30. Mai 2016
-  puburl: https://www.akut-bonn.de/wp-content/uploads/2016/05/akut-extra__RLST.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut-extra__RLST.pdf
 - title: Richtlinie für die Arbeit des Ausschusses für das Semesterticket des Studierendenparlamentes an der RFWU Bonn – Semesterticket - Richtlinie (RLST)
   short: Semesterticket-Richtlinie (RLST)
   actorgan: Studierendenparlament
   actdate:  6. September 2016
   puborgan: AKUT
   pubdate:  4. Oktober 2016
-  puburl: https://www.akut-bonn.de/wp-content/uploads/2016/05/akut-extra__RLST.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut-extra__RLST.pdf
 - title: Richtlinie für die Arbeit des Ausschusses für das Semesterticket des Studierendenparlamentes an der RFWU Bonn – Semesterticket - Richtlinie (RLST)
   short: Semesterticket-Richtlinie (RLST)
   actorgan: Studierendenparlament
   actdate:  30. August 2017
   puborgan: AKUT
   pubdate:  8. September 2017 
-  puburl: https://www.akut-bonn.de/wp-content/uploads/2017/09/akut_extra_2017-14.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2017/akut_extra_2017-14.pdf
 - title: Richtlinie für die Arbeit des Ausschusses für das Semesterticket des Studierendenparlamentes an der RFWU Bonn – Semesterticket - Richtlinie (RLST)
   short: Semesterticket-Richtlinie (RLST)
   actorgan: Studierendenparlament
   actdate:  30. August 2017
   puborgan: AKUT
   pubdate:  30. Oktober 2017 
-  puburl: https://www.akut-bonn.de/wp-content/uploads/2017/10/akut_extra_2017-15.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2017/akut_extra_2017-15.pdf
 - title: Richtlinie des Semesterticketausschusses
   short: Semesterticket-Richtlinie (RLST)
   actorgan: Studierendenparlament
   actdate:  17. Juli 2019
   puborgan: AKUT
   pubdate:  20. November 2019
-  puburl: https://akut-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-21.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-21.pdf
 
 ---
 

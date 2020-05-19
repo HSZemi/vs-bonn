@@ -11,21 +11,21 @@ contains:
   actdate:  29. Mai 2017
   puborgan: AKUT
   pubdate:  08. Juli 2017
-  puburl: https://www.akut-bonn.de/wp-content/uploads/2017/07/akut_extra_2017-10.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2017/akut_extra_2017-10.pdf
 - title: Satzung der Fachschaft Molekulare Biomedizin
   short: Satzung der Fachschaft Molekulare Biomedizin
   actorgan: Fachschaftsvollversammlung Fachschaft Molekulare Biomedizin
   actdate:  14. Mai 2018
   puborgan: AKUT
   pubdate:  15. Mai 2018
-  puburl: https://www.akut-bonn.de/wp-content/uploads/2018/05/akut_extra_2018-7.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2018/akut_extra_2018-7.pdf
 - title: Satzung der Fachschaft Molekulare Biomedizin
   short: Satzung der Fachschaft Molekulare Biomedizin
   actorgan: Fachschaftsvollversammlung Fachschaft Molekulare Biomedizin
   actdate:  05. April 2019
   puborgan: AKUT
   pubdate:  15. Juli 2019
-  puburl: https://akut-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-6.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-6.pdf
 
 ---
 

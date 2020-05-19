@@ -11,7 +11,7 @@ contains:
   actdate:  10. Oktober 2014
   puborgan: AKUT
   pubdate:  14. November 2014
-  puburl: http://www.akut-bonn.de/wp-content/uploads/2015/05/Satzung-Fachschaft-Kunstgeschichte.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2014/Satzung-Fachschaft-Kunstgeschichte.pdf
 
 ---
 

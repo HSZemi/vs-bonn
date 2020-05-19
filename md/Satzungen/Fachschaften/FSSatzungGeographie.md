@@ -11,7 +11,7 @@ contains:
   actdate:  5. November 2019
   puborgan: AKUT
   pubdate:  27. November 2019
-  puburl: https://akut-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-26.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-26.pdf
 
 ---
 

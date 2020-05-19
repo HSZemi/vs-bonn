@@ -11,7 +11,7 @@ contains:
   actdate:  14. Mai 2013
   puborgan: AKUT
   pubdate:  01. Juli 2013
-  puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/Satzung-Physik-Astronomie.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2013/Satzung-Physik-Astronomie.pdf
 
 ---
 

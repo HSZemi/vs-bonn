@@ -11,14 +11,14 @@ contains:
   actdate:  15. Juli 2015
   puborgan: AKUT
   pubdate:  18. Juli 2015
-  puburl:  http://www.akut-bonn.de/wp-content/uploads/2015/07/AK_Ex_Sportstatut-10stk.pdf
+  puburl:  https://sp.uni-bonn.de/bekanntmachungen/files/2015/AK_Ex_Sportstatut-10stk.pdf
 - title: Statut des Studentinnensports
   short: Statut des Studentinnensports - Sportstatut - (SpS)
   actorgan: Studierendenparlament
   actdate:  6. September 2016
   puborgan: AKUT
   pubdate:  4. Oktober 2016
-  puburl:  https://www.akut-bonn.de/wp-content/uploads/2016/10/akut_extra_2016-12.pdf
+  puburl:  https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut_extra_2016-12.pdf
 
 ---
 

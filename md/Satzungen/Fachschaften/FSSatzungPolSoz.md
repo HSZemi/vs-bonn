@@ -11,7 +11,7 @@ contains:
   actdate:  08. Dezember 2018
   puborgan: AKUT
   pubdate:  15. Juli 2019
-  puburl: https://akut-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-3.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-3.pdf
 
 ---
 

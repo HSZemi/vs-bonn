@@ -11,14 +11,14 @@ contains:
   actdate:  14. April 2015
   puborgan: AKUT
   pubdate:  16. April 2015
-  puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/Geschaeftsordnung-FSR-beschlossen-akut-extra.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2015/Geschaeftsordnung-FSR-beschlossen-akut-extra.pdf
 - title: 1. Änderungsordnung der Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: 1. Änderungsordnung der Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
   actorgan: Fachschaftsrat Fachschaft Informatik
   actdate:  20. November 2019
   puborgan: AKUT
   pubdate:  20. November 2019
-  puburl: https://akut-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-23.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-23.pdf
 
 ---
 

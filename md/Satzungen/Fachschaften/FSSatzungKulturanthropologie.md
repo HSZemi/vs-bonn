@@ -11,7 +11,7 @@ contains:
   actdate:  5. Februar 2014
   puborgan: AKUT
   pubdate:  25. Februar 2014
-  puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/Satzung-der-Fachschaft-Kulturanthropologie-der-RFWU.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2014/Satzung-der-Fachschaft-Kulturanthropologie-der-RFWU.pdf
 
 ---
 

@@ -11,7 +11,7 @@ contains:
   actorgan: Studierendenparlament
   pubdate:  24. November 2015
   puborgan: AKUT
-  puburl: http://www.akut-bonn.de/wp-content/uploads/2015/11/AK_Ex_O-VergabeAE-Aussch%C3%BCsse.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2015/AK_Ex_O-VergabeAE-Aussch%C3%BCsse.pdf
 
 ---
 

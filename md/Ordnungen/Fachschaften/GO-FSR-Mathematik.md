@@ -11,7 +11,7 @@ contains:
   actdate:  10. Februar 2016
   puborgan: AKUT
   pubdate:  10. Februar 2016
-  puburl: http://www.akut-bonn.de/wp-content/uploads/2016/02/akut-extra__Gescha%CC%88ftsordnung-des-Fachschaftsrats-der-Fachschaft-Mathematik-der-Rheinischen-Friedrich-Wilhelms-Universita%CC%88t-Bonn.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut-extra__Gesch%C3%A4ftsordnung-des-Fachschaftsrats-der-Fachschaft-Mathematik-der-Rheinischen-Friedrich-Wilhelms-Universit%C3%A4t-Bonn.pdf
 
 ---
 

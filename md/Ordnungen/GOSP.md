@@ -11,28 +11,28 @@ contains:
   actorgan: Studierendenparlament
   pubdate:  13. Mai 2015
   puborgan: AKUT
-  puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/AKUT-Extra_GO-SPa__13-05-15.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2015/AKUT-Extra_GO-SPa__13-05-15.pdf
 - title: Geschäftsordnung des Bonner Studierendenparlaments (GO-SP)
   short: Geschäftsordnung des Bonner Studierendenparlaments (GO-SP)
   actdate:  27. September 2017
   actorgan: Studierendenparlament
   pubdate:  18. Februar 2018
   puborgan: AKUT
-  puburl: https://www.akut-bonn.de/wp-content/uploads/2018/02/akut_extra_2018-3.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2018/akut_extra_2018-3.pdf
 - title: Geschäftsordnung des Bonner Studierendenparlaments
   short: Geschäftsordnung des Bonner Studierendenparlaments
   actdate:  12. Dezember 2018
   actorgan: Studierendenparlament
   pubdate:  16. Dezember 2018
   puborgan: AKUT
-  puburl: https://www.akut-bonn.de/bekanntmachungen/files/2018/akut_extra_2018-17.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2018/akut_extra_2018-17.pdf
 - title: Geschäftsordnung des Bonner Studierendenparlaments
   short: Geschäftsordnung des Bonner Studierendenparlaments
   actdate:  20. November 2019
   actorgan: Studierendenparlament
   pubdate:  29. April 2020
   puborgan: AKUT
-  puburl: https://www.akut-bonn.de/bekanntmachungen/files/2020/akut_extra_2020-4.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2020/akut_extra_2020-4.pdf
 
 ---
 

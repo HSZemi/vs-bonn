@@ -11,14 +11,14 @@ contains:
   actdate:  3. Mai 2016
   puborgan: AKUT
   pubdate:  10. Mai 2016
-  puburl: https://www.akut-bonn.de/wp-content/uploads/2016/05/akut-extra__Richtlinie-fu%CC%88r-die-Fo%CC%88rderung-studentischer-Gruppen-1.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut-extra__Richtlinie-f%C3%BCr-die-F%C3%B6rderung-studentischer-Gruppen-1.pdf
 - title: Richtlinie für die Förderung studentischer Gruppen
   short: Richtlinie für die Förderung studentischer Gruppen
   actorgan: Studierendenparlament
   actdate:  1. Oktober 2018
   puborgan: AKUT
   pubdate:  30. Oktober 2018
-  puburl: https://www.akut-bonn.de/wp-content/uploads/2018/11/akut_extra_2018-10.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2018/akut_extra_2018-10.pdf
 ---
 
 

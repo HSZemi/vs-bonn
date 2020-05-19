@@ -11,7 +11,7 @@ contains:
   actdate:  5. November 2014
   puborgan: AKUT
   pubdate:  1. Juli 2015
-  puburl: http://www.akut-bonn.de/wp-content/uploads/2015/07/AK_Ex_Verfahrensordnung-Kulturplenum.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2015/AK_Ex_Verfahrensordnung-Kulturplenum.pdf
 ---
 
 ### § 1 [Einberufung, Tagesordnung und Ablauf]

@@ -11,7 +11,7 @@ contains:
   actorgan: Studierendenparlament
   pubdate:  19. Oktober 2016
   puborgan: AKUT
-  puburl:   https://www.akut-bonn.de/wp-content/uploads/2016/11/akut_extra_2016-14-1.pdf
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut_extra_2016-14-1.pdf
 
 ---
 

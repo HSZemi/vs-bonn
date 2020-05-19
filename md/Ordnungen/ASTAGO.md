@@ -11,14 +11,14 @@ contains:
   actorgan: Gesamt-AStA-Sitzung
   pubdate:  
   puborgan: 
-  puburl: http://www.asta-bonn.de/w/images/c/c3/GO-AStA.pdf
+  puburl: https://www.asta-bonn.de/w/images/c/c3/GO-AStA.pdf
 - title: Geschäftsordnung des Allgemeinen Studierenden Ausschuss (GO AStA)
   short: Geschäftsordnung des Allgemeinen Studierenden Ausschuss
   actdate:  17. Oktober 2017
   actorgan: Gesamt-AStA-Sitzung
   pubdate:  29. März 2018
   puborgan: AKUT
-  puburl: https://www.akut-bonn.de/wp-content/uploads/2018/03/akut_extra_2018-6.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2018/akut_extra_2018-6.pdf
 
 ---
 

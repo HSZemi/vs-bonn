@@ -11,14 +11,14 @@ contains:
   actdate:  15. April 2014
   puborgan: AKUT
   pubdate:  28. April 2014
-  puburl: http://www.akut-bonn.de/wp-content/uploads/2013/12/Satzung-Arch%C3%A4ologie_akut-EXTRA.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2014/Satzung-Arch%C3%A4ologie_akut-EXTRA.pdf
 - title: Satzung der Fachschaft Archäologien
   short: Satzung der Fachschaft Archäologien
   actorgan: Fachschaftsvollversammlung Fachschaft Archäologie
   actdate:  04. April 2019
   puborgan: AKUT
   pubdate:  15. Juli 2019
-  puburl: https://akut-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-5.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-5.pdf
 
 ---
 

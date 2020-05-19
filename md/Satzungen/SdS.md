@@ -13,7 +13,7 @@ contains:
   confirmdate: 8. Oktober 2013
   puborgan: Amtliche Bekanntmachungen
   pubdate:  21. Oktober 2013
-  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/119590
+  puburl: https://epflicht.ulb.uni-bonn.de/periodical/titleinfo/119590
 - title: Änderung der Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: 1\. Satzungsänderungssatzung
   actorgan: Studierendenparlament
@@ -22,7 +22,7 @@ contains:
   confirmdate: 25. August 2015
   puborgan: Amtliche Bekanntmachungen
   pubdate:  8. September 2015
-  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/263363
+  puburl: https://epflicht.ulb.uni-bonn.de/periodical/titleinfo/263363
 - title: 2. Satzung zur Änderung der Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: 2\. Satzungsänderungssatzung
   actorgan: Studierendenparlament
@@ -31,7 +31,7 @@ contains:
   confirmdate: 09. Februar 2016
   puborgan: Amtliche Bekanntmachungen
   pubdate:  17. März 2016
-  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/268920
+  puburl: https://epflicht.ulb.uni-bonn.de/periodical/titleinfo/268920
 - title: 3. Satzung zur Änderung der Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - SÄS 3 –
   short: 3\. Satzungsänderungssatzung
   actorgan: Studierendenparlament
@@ -40,7 +40,7 @@ contains:
   confirmdate: 28. Juni 2016
   puborgan: Amtliche Bekanntmachungen
   pubdate:  13. Juli 2016
-  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/283357
+  puburl: https://epflicht.ulb.uni-bonn.de/periodical/titleinfo/283357
 - title: 4. Satzung zur Änderung der Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - SÄS 4 –
   short: 4\. Satzungsänderungssatzung
   actorgan: Studierendenparlament
@@ -49,7 +49,7 @@ contains:
   confirmdate: 21. November 2017
   puborgan: Amtliche Bekanntmachungen
   pubdate:  07. Dezember 2017
-  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/363231
+  puburl: https://epflicht.ulb.uni-bonn.de/periodical/titleinfo/363231
 - title: 5. Satzung zur Änderung der Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - SÄS 5 –
   short: 5\. Satzungsänderungssatzung
   actorgan: Studierendenparlament
@@ -58,7 +58,7 @@ contains:
   confirmdate: 12. März 2019
   puborgan: Amtliche Bekanntmachungen
   pubdate:  28. März 2019
-  puburl: http://hdl.handle.net/20.500.11811/1321
+  puburl: https://hdl.handle.net/20.500.11811/1321
 - title: Sechste Satzung zur Änderung der Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - SÄS 6 –
   short: 6\. Satzungsänderungssatzung
   actorgan: Studierendenparlament
@@ -67,7 +67,7 @@ contains:
   confirmdate: 10. März 2020
   puborgan: Amtliche Bekanntmachungen
   pubdate:  4. Mai 2020
-  puburl: http://hdl.handle.net/20.500.11811/8341
+  puburl: https://hdl.handle.net/20.500.11811/8341
 
 ---
 

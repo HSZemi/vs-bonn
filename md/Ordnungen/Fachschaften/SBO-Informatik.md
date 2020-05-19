@@ -11,14 +11,14 @@ contains:
   actdate:  01. Juni 2016
   puborgan: AKUT
   pubdate:  09. Juni 2016
-  puburl: https://www.akut-bonn.de/wp-content/uploads/2015/05/akut-extra_Benuzungsordnung-der-Schlie%C3%9Ff%C3%A4cher-der-Fachschaft-Informatik_-Nr.8.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2015/akut-extra_Benuzungsordnung-der-Schlie%C3%9Ff%C3%A4cher-der-Fachschaft-Informatik_-Nr.8.pdf
 - title: Benutzungsordnung der Schließfächer der Fachschaft Informatik
   short: Benutzungsordnung der Schließfächer der Fachschaft Informatik
   actorgan: Fachschaftsrat Fachschaft Informatik
   actdate:  20. November 2018
   puborgan: AKUT
   pubdate:  22. Oktober 2019
-  puburl: https://akut-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-19.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-19.pdf
 
 ---
 

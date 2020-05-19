@@ -11,7 +11,7 @@ contains:
   actdate:  1. Juni 2015
   puborgan: AKUT
   pubdate:  1. Juni 2015
-  puburl:   http://www.akut-bonn.de/wp-content/uploads/2015/05/AKUT-Extra__FKGO.pdf
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2015/AKUT-Extra__FKGO.pdf
 - title: Anlage "Fachschaftenliste" zur FKGO
   short: Anlage "Fachschaftenliste" zur FKGO
   actorgan: Fachschaftenkonferenz
@@ -20,14 +20,14 @@ contains:
   confirmdate: 11. März 2015
   puborgan:
   pubdate:
-  puburl: http://www.asta-bonn.de/w/images/9/93/Fachschaftenliste-beschlossen-20150209.pdf
+  puburl: https://www.asta-bonn.de/w/images/9/93/Fachschaftenliste-beschlossen-20150209.pdf
 - title:    Erste Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms- Universität Bonn [FKGO]
   short:    1\. Änderungsordnung der FKGO
   actorgan: Fachschaftenkonferenz
   actdate:  29. Juni 2015
   puborgan: AKUT
   pubdate:  1. Juli 2015
-  puburl:   https://www.akut-bonn.de/wp-content/uploads/2015/12/AK_Ex_A%CC%88O%CC%88-FKGO.pdf
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2015/AK_Ex_%C3%84o-FKGO.pdf
 - title:    Zweite Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich- Wilhelms- Universität Bonn [FKGO]
   short:    2\. Änderungsordnung der FKGO
   actorgan: Fachschaftenkonferenz
@@ -36,7 +36,7 @@ contains:
   confirmdate: 16. November 2016
   puborgan: AKUT
   pubdate:  16. November 2016
-  puburl:   https://www.akut-bonn.de/wp-content/uploads/2016/11/akut_extra_2016-15.pdf
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut_extra_2016-15.pdf
 - title:    Liste der Fachschaften der RFWU Bonn mit zugeordneten Studiengängen
   short:    Anlage "Fachschaftenliste" zur FKGO
   actorgan: Fachschaftenkonferenz
@@ -45,7 +45,7 @@ contains:
   confirmdate: 7. Februar 2017
   puborgan: AKUT
   pubdate:  14. Februar 2017
-  puburl:   https://www.akut-bonn.de/wp-content/uploads/2017/02/akut_extra_2017-4.pdf
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2017/akut_extra_2017-4.pdf
 - title:    Liste der Fachschaften der RFWU Bonn mit zugeordneten Studiengängen
   short:    Anlage "Fachschaftenliste" zur FKGO
   actorgan: Fachschaftenkonferenz
@@ -54,7 +54,7 @@ contains:
   confirmdate: 7. November 2018
   puborgan: AKUT
   pubdate:  13. November 2018
-  puburl:   https://www.akut-bonn.de/wp-content/uploads/2018/11/akut_extra_2018-11.pdf
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2018/akut_extra_2018-11.pdf
 - title:    Liste der Fachschaften der RFWU Bonn mit zugeordneten Studiengängen
   short:    Anlage "Fachschaftenliste" zur FKGO
   actorgan: Fachschaftenkonferenz
@@ -63,7 +63,7 @@ contains:
   confirmdate: 22. Januar 2020
   puborgan: AKUT
   pubdate:  29. April 2020
-  puburl:   https://www.akut-bonn.de/bekanntmachungen/files/2020/akut_extra_2020-5.pdf
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2020/akut_extra_2020-5.pdf
 
 ---
 

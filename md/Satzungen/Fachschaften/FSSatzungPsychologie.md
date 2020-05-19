@@ -11,7 +11,7 @@ contains:
   actdate:  15. März 2016
   puborgan: AKUT
   pubdate:  18. April 2016
-  puburl: https://www.akut-bonn.de/wp-content/uploads/2016/04/akut-extra__Fachschaftssatzung_Physik.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut-extra__Fachschaftssatzung_Physik.pdf
 
 ---
 

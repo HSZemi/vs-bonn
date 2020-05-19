@@ -11,7 +11,7 @@ contains:
   actdate:  26. Februar 2016
   puborgan: AKUT
   pubdate:  21. Dezember 2016
-  puburl: https://www.akut-bonn.de/wp-content/uploads/2016/12/akut_extra_2016-20.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut_extra_2016-20.pdf
 
 ---
 

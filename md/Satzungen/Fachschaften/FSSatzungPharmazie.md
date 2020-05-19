@@ -11,7 +11,7 @@ contains:
   actdate:  20. Januar 2020
   puborgan: AKUT
   pubdate:  29. April 2020
-  puburl: https://www.akut-bonn.de/bekanntmachungen/files/2020/akut_extra_2020-3.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2020/akut_extra_2020-3.pdf
 
 ---
 

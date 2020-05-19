@@ -13,7 +13,7 @@ contains:
   confirmdate: 18. November 2014
   puborgan:  Amtliche Bekanntmachungen
   pubdate:  24. November 2014
-  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/183517
+  puburl: https://epflicht.ulb.uni-bonn.de/periodical/titleinfo/183517
 - title: Ordnung zur Änderung der Wahlordnung für die Wahlen zum Studierendenparlament
   short: 1\. Wahlordnungsänderungsordnung
   actorgan: Studierendenparlament
@@ -22,7 +22,7 @@ contains:
   confirmdate: 25. August 2015
   puborgan:  Amtliche Bekanntmachungen
   pubdate:   8. September 2015
-  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/263359
+  puburl: https://epflicht.ulb.uni-bonn.de/periodical/titleinfo/263359
 - title: Zweite Ordnung zur Änderung der Wahlordnung für die Wahlen zum Studierendenparlament
   short: 2\. Wahlordnungsänderungsordnung
   actorgan: Studierendenparlament
@@ -31,7 +31,7 @@ contains:
   confirmdate: 15. November 2016
   puborgan:  Amtliche Bekanntmachungen
   pubdate: 24. November 2016
-  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/299983
+  puburl: https://epflicht.ulb.uni-bonn.de/periodical/titleinfo/299983
 - title: Dritte Ordnung zur Änderung der Wahlordnung für die Wahlen zum Studierendenparlament
   short: 3\. Wahlordnungsänderungsordnung
   actorgan: Studierendenparlament
@@ -40,7 +40,7 @@ contains:
   confirmdate: 21. November 2017
   puborgan:  Amtliche Bekanntmachungen
   pubdate: 07. Dezember 2017
-  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/363235
+  puburl: https://epflicht.ulb.uni-bonn.de/periodical/titleinfo/363235
 - title: Vierte Ordnung zur Änderung der Wahlordnung für die Wahlen zum Studierendenparlament
   short: 4\. Wahlordnungsänderungsordnung
   actorgan: Studierendenparlament
@@ -49,7 +49,7 @@ contains:
   confirmdate: 4. Dezember 2018
   puborgan:  Amtliche Bekanntmachungen
   pubdate: 24. Januar 2019
-  puburl: http://epflicht.ulb.uni-bonn.de/periodical/titleinfo/460860
+  puburl: https://epflicht.ulb.uni-bonn.de/periodical/titleinfo/460860
 
 ---
 

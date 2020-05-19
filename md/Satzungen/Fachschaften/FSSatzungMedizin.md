@@ -11,7 +11,7 @@ contains:
   actdate:  13. Juni 2017
   puborgan: AKUT
   pubdate:  14. Juni 2017
-  puburl: https://www.akut-bonn.de/wp-content/uploads/2017/06/akut_extra_2017-9.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2017/akut_extra_2017-9.pdf
 
 ---
 

@@ -11,14 +11,14 @@ contains:
   actdate:  
   puborgan: AKUT
   pubdate:  14. November 2015
-  puburl: http://www.akut-bonn.de/wp-content/uploads/2015/11/AK_Ex_Satzung-FSGrichLatPhiliolo.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2015/AK_Ex_Satzung-FSGrichLatPhiliolo.pdf
 - title: Satzung der Fachschaft für Griechische und Lateinische Philologie
   short: Satzung der Fachschaft für Griechische und Lateinische Philologie
   actorgan:  
   actdate:  
   puborgan: AKUT
   pubdate:  20. Dezember 2017
-  puburl: https://www.akut-bonn.de/wp-content/uploads/2015/05/akut_extra_2017-18.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2017/akut_extra_2017-18.pdf
 
 ---
 
