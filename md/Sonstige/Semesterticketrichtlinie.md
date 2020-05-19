@@ -1,7 +1,7 @@
 ---
 title: Richtlinie für die Arbeit des Ausschusses für das Semesterticket des Studierendenparlamentes an der RFWU Bonn – Semesterticket-Richtlinie (RLST)
 short: Semesterticket-Richtlinie (RLST)
-date:  20. November 2019
+date:  19. Mai 2020
 type:  Richtlinie
 id:    Semesterticketrichtlinie
 contains:
@@ -40,6 +40,13 @@ contains:
   puborgan: AKUT
   pubdate:  20. November 2019
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-21.pdf
+- title: Richtlinie des Semesterticketausschusses
+  short: Semesterticket-Richtlinie (RLST)
+  actorgan: Studierendenparlament
+  actdate:  6. Mai 2020
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  19. Mai 2020
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2020/vsbonn_bekanntmachung_2020-07.pdf
 
 ---
 
@@ -97,7 +104,7 @@ Rechtsmittelbelehrung beizufügen.
 eingeschriebene Studentin für das Semester stellen, für das sie den Beitrag entrichtet hat.
 
 (2) Der Antrag ist schriftlich mit dem hierfür vom STA zur Verfügung gestellten Formular zu
-stellen, der STA kann eine elektronische Antragstellung auf einer Website ermöglichen.
+stellen, ein unterschriebenes Antragsformular kann elektronisch im PDF-Format eingereicht werden.
 Der STA kann beschließen, dass die schriftliche Antragsstellung nur auf begründeten Antrag
 hin möglich ist.
 
@@ -120,7 +127,8 @@ dieser Frist kann in Ausnahmefällen abgewichen werden, wenn glaubhaft gemacht w
 kann, dass ein Antrag durch unverschuldete Gründe nicht vor Ablauf der Frist gestellt werden
 konnte, dies ist insbesondere dann der Fall, wenn die Antragstellerin sich erst nach der Frist
 eingeschrieben hat oder die Tatsachen, die die Erstattung begründen, erst nach Antragschluss
-eintreten.
+eintreten. Abweichend von Satz 1 müssen Anträge für die Erstattung im Sommersemester 2020 bis 
+zum 20. Juni 2020 eingegangen sein.
 
 (6) Für unvollständige und/oder fehlerhafte Anträge setzt der STA einmalig eine Frist zur
 Vervollständigung und/oder Nachbesserung (Nachbesserungsfrist) von 30 Tagen. Bei
@@ -286,11 +294,11 @@ ist.
 2. Längerfristiger Aufenthalt außerhalb des Vertragsgebietes wegen dringender
 familiärer Gründe.
     a. Als zusätzlicher Nachweis sind in diesem Fall Nachweise einzureichen, aus
-    denen die Existenz des Grundes hervorgeht (Sterbeurkunden, ärztliche Atteste,
-    Pflegestufenbescheinigung etc.). Dem Datenschutz der Familienangehörigen ist
-    Rechnung zu tragen. Die eingereichten Nachweise dürfen so geschwärzt sein,
-    dass aus ihnen lediglich die Verwandtschaftsbeziehung sowie die Existenz des
-    Grundes hervorgeht.
+    denen die Existenz des Grundes hervorgeht (Geburtsurkunden, Bescheinigungen über 
+    Mutterschutz, Sterbeurkunden, ärztliche Atteste, Pflegestufenbescheinigung etc.). 
+    Dem Datenschutz der Familienangehörigen ist Rechnung zu tragen. Die eingereichten 
+    Nachweise dürfen so geschwärzt sein, dass aus ihnen lediglich die Verwandtschaftsbeziehung 
+    sowie die Existenz des Grundes hervorgeht.
 3. Studentinnen, bei denen im Zuge ihrer Abschlussarbeit eine Anwesenheit im
 Vertragsgebiet nicht erforderlich ist, die lediglich ihrer Abschlussarbeit nachgehen,
 keine andere universitäre Veranstaltung belegt haben und die ihren Wohnort außerhalb
