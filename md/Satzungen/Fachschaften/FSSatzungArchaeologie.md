@@ -209,9 +209,8 @@ stehen.
 besorgenden Geschäfte, sowie im Eilfall auch Beschlussorgan. Im Übrigen führt er die Beschlüsse der
 FSV aus.
 
-(2) Der FSR wird von der FSV oder bei nicht vorhandener FSV durch die Mitglieder der Fachschaft gemäß
-
-### § 26 Absatz (1) der Satzung der Studierendenschaft direkt gewählt.
+(2) Der FSR wird von der FSV oder bei nicht vorhandener FSV durch die Mitglieder der Fachschaft gemäß § 26 Absatz (1) 
+der Satzung der Studierendenschaft direkt gewählt.
 
 (3) Der FSR tritt zusammen:
 
