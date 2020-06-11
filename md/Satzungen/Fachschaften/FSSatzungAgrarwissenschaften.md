@@ -3,7 +3,7 @@ title: Satzung der Fachschaft Landwirtschaft der Rheinischen Friedrich-Wilhelms-
 short: Satzung der Fachschaft Landwirtschaft
 date:  15. Juli 2019
 type:  Satzung
-id:    FSSatzungLandwirtschaft
+id:    FSSatzungAgrarwissenschaften
 contains:
 - title: Satzung der Fachschaft Agrarwissenschaften der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Satzung der Fachschaft Agrarwissenschaften
