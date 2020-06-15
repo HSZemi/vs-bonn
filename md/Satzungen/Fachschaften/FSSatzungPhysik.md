@@ -83,7 +83,6 @@ Fachschaftswahlordnung (FSWO), das aktive und passive
 Wahlrecht zu den Organen der FS.
 2. Jedes Mitglied hat Rede- und Antragsrecht bei den
 zuständigen Organen der FS. Diese Regelung kann nur
-Seite 2 von 10
 aufgrund der Geschäftsordnung des entsprechenden
 Organs eingeschränkt werden.
 3. Alle Studenten nach § 2 (1) unterliegen mit der
@@ -122,7 +121,6 @@ FS.
 1. Die FSVV ist die Versammlung der Mitglieder der FS.
 2. Die FSVV ist Beschlussorgan und dient der Information
 ihrer Mitglieder.
-Seite 3 von 10
 3. Die FSVV wird vom FSR mindestens einmal im Semester
 durch öffentlichen Aushang einberufen und darüber
 hinaus auf schriftlichen Antrag
@@ -163,7 +161,6 @@ SzgSt.
 3. Die Mitglieder der FSV werden in allgemeiner, freier,
 gleicher und geheimer Wahl nach den Grundsätzen der
 Verhältniswahl, die mit Elementen der Personenwahl
-Seite 4 von 10
 verbunden ist, von den Mitgliedern der FS durch
 Urnenwahl gewählt
 4. Die Amtsperiode der Mitglieder der FSV endet mit der
@@ -245,7 +242,6 @@ wenn sie nicht Mitglieder der FSV sind.
 2. Die Mitglieder nach Abs. 1 I. bis V. werden von der FSV
 auf Vorschlag eines ihrer Mitglieder gewählt.
 3. § 19 (1) SzgSt gilt entsprechend.
-Seite 6 von 10
 4. Die Mitglieder des FSR bleiben bis zur Konstituierung des
 neu gewählten FSR geschäftsführend im Amt.
 
