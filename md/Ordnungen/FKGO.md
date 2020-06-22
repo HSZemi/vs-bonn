@@ -399,7 +399,7 @@ Antrag eines Mitglieds des FSK oder eines stimmberechtigten
 Mitglieds der FK der Antrag einmalig vertagt werden. Die Abstimmung
 ist in diesem Fall ergebnislos.
 
-IV. Das Fachschaftenkollektiv (FSK)
+# IV. Das Fachschaftenkollektiv (FSK)
 
 ### § 17 Wahl des Vorsitzenden und der weiteren Mitglieder des FSK
 
