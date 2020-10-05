@@ -1,7 +1,7 @@
 ---
 title: Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Beitragsordnung der Studierendenschaft (BO)
-date:  1. Oktober 2019
+date:  21. September 2020
 type:  Ordnung
 id:    BO
 contains:
@@ -59,38 +59,58 @@ contains:
   pubdate:  17. Juni 2019
   puborgan: Amtliche Bekanntmachungen
   puburl: https://hdl.handle.net/20.500.11811/1346
+- title: Dreißigste Ordnung zur Änderung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - XXX. Beitragsordnungsänderungsordnung  (BOÄO XXX) -
+  short: XXX\. Beitragsordnungsänderungsordnung  (BOÄO XXX)
+  actdate:  2. Dezember 2019
+  actorgan: Studierendenparlament
+  confirmorgan: Rektorat
+  confirmdate: 24. März 2020
+  pubdate:  30. April 2020
+  puborgan: Amtliche Bekanntmachungen
+  puburl: https://hdl.handle.net/20.500.11811/8340
+- title: Einunddreißigste Ordnung zur Änderung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - XXXI. Beitragsordnungsänderungsordnung  (BOÄO XXXI) -
+  short: XXXI\. Beitragsordnungsänderungsordnung  (BOÄO XXXI)
+  actdate:  17. Juni 2020
+  actorgan: Studierendenparlament
+  confirmorgan: Rektorat
+  confirmdate: 8. September 2020
+  pubdate:  21. September 2020
+  puborgan: Amtliche Bekanntmachungen
+  puburl: https://hdl.handle.net/20.500.11811/8608
 
 ---
 
 ### § 1
+
 Von der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn wird in
 jedem Semester von allen immatrikulierten Studierenden ein Beitrag zur Deckung der
 Kosten der Selbstverwaltung, der Selbsthilfe und Mobilität der Studierendenschaft erhoben.
 
+
 ### § 2
-Der Beitrag in Höhe von 200,82 € (WS 2019/2020) bzw. 205,86 € (SS 2020) ist für folgende Zwecke
-bestimmt:
+
+Der Beitrag in Höhe von 209,91€ (WS 2020/21) bzw. 214,01 € (SS 2021) ist fürfolgende Zwecke bestimmt:
 
 |   |                                                                           |         |
 |:--|:--------------------------------------------------------------------------|--------:|
-|1. |für die studentische Selbstverwaltung                                      |         |
-|   |Wintersemester 2019/2020                                                   | 10,00 €,|
-|   |Sommersemester 2020                                                        | 11,50 €,|
+|1. |für die studentische Selbstverwaltung                                      | 11,50 €,|
 |2. |für die studentischen Sozialeinrichtungen                                  |  0,75 €,|
 |3. |für den Hilfsfonds zur Unterstützung in Not geratener Studierender         |  0,01 €,|
 |4. |für einen Mobilitätsbeitrag                                                |         |
-|   |a) Semesterticket                                                          |131,00 €,|
+|   |a) Semesterticket                                                          |134,80 €,|
 |   |b) NRW-Ticket                                                              |         |
-|   |   Wintersemester 2019/2020                                                | 54,60 €,|
-|   |   Sommersemester 2020                                                     | 56,40 €,|
+|   |   WS 2020/2021                                                            | 56,40 €,|
+|   |   SS 2021                                                                 | 58,50 €,|
 |5. |für ein Sonderkonto zur Erstattung des Mobilitätsbeitrages                 |  0,60 €,|
 |6. |für die Zuweisungen an die Fachschaften                                    |         |
-|   |Wintersemester 2019/2020                                                   |  0,01 €,|
-|   |Sommersemester 2020                                                        |  1,75 €,|
+|   |Wintersemester 2020/2021                                                   |  2,00 €,|
+|   |Sommersemester 2021                                                        |  4,00 €,|
 |7. |für den Studierendensport                                                  |  0,85 €,|
 |8. |für das Kulturticket                                                       |  3,00 €,|
 
+
 ### § 3
+
 (1) Beitragspflicht entsteht
 
 a) mit der Einschreibung,
@@ -100,7 +120,9 @@ c) mit der Beurlaubung.
 (2) Der Beitrag ist an die Universitätskasse zu zahlen. Der Nachweis ist bei der
 Einschreibung, Rückmeldung oder Beurlaubung zu erbringen.
 
+
 ### § 4
+
 (1) Der Beitrag kann mit Ausnahme der in § 4 Abs. 2 und 3 geregelten Fälle nicht
 erlassen, ermäßigt oder gestundet werden.
 
@@ -124,7 +146,9 @@ des/der AStA-FinanzreferentIn ganz oder teilweise erlassen werden.
 Vorlesungszeit des Semesters erfolgt, für das der Beitrag geleistet wurde, ist der Betrag
 zurückzuerstatten; im übrigen besteht kein Anspruch auf anteilige Rückzahlung.
 
+
 ### § 5
+
 (1) Das Beitragsaufkommen wird innerhalb der Studierendenschaft wie folgt verwandt:
 
 1. die Anteile nach § 2 Ziffer 1 für den Allgemeinen Studierendenausschuss (AStA),
