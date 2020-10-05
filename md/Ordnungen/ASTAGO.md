@@ -139,8 +139,9 @@ Sportobleuteversammlung anzuwenden.
 6. Die Angehörigen der anderen selbstverwalteten Referate werden durch die Vollversammlungen
 der entsprechenden Interessensgruppen gewählt. Näheres regeln Abschnitt VII dieser
 Geschäftsordnung.
-III. Finanzen
 
+
+# III. Finanzen
 
 ### § 8 Finanzanträge
 
