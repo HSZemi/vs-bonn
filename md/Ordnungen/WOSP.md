@@ -1,7 +1,7 @@
 ---
 title: Wahlordnung für die Wahlen zum Studierendenparlament (WOSP)
 short: Wahlordnung für die Wahlen zum Studierendenparlament (WOSP)
-date:  24. Januar 2019
+date:  19. November 2020
 type:  Ordnung
 id:    WOSP
 contains:
@@ -50,6 +50,15 @@ contains:
   puborgan:  Amtliche Bekanntmachungen
   pubdate: 24. Januar 2019
   puburl: https://epflicht.ulb.uni-bonn.de/periodical/titleinfo/460860
+- title: Fünfte Ordnung zur Änderung der Wahlordnung für die Wahlen zum Studierendenparlament
+  short: 5\. Wahlordnungsänderungsordnung
+  actorgan: Studierendenparlament
+  actdate:  5. Oktober 2020
+  confirmorgan: Rektorat
+  confirmdate: 3. November 2020
+  puborgan:  Amtliche Bekanntmachungen
+  pubdate: 19. November 2020
+  puburl: https://hdl.handle.net/20.500.11811/8786
 
 ---
 
@@ -58,6 +67,7 @@ Soweit Bezeichnungen, die für Frauen und Männer gelten, in der weiblichen Spra
 # I. Allgemeine Grundsätze
 
 ### § 1 Geltungsbereich
+
 Diese Wahlordnung gilt für die Wahlen zum Studierendenparlament (SP).
 
 
@@ -67,7 +77,8 @@ Diese Wahlordnung gilt für die Wahlen zum Studierendenparlament (SP).
 
 (2) Die Vertreterinnen werden aufgrund ihrer Bewerbung gewählt.
 
-(3) Wahlberechtigt und wählbar ist jedes Mitglied der Studierendenschaft, das bis zum 40. Tag vor der Wahl an der Universität Bonn immatrikuliert ist. Zweithörerinnen und Gasthörerinnen haben weder aktives noch passives Wahlrecht.
+(3) Wahlberechtigt und wählbar ist jedes Mitglied der Studierendenschaft, das bis zum 45. Tag vor der Wahl an der Universität Bonn immatrikuliert ist. Zweithörerinnen und Gasthörerinnen haben weder aktives noch passives Wahlrecht.
+
 
 # II. Wahlorgane und Wahlämter
 
@@ -84,7 +95,11 @@ Diese Wahlordnung gilt für die Wahlen zum Studierendenparlament (SP).
 
 (4) Die Mitglieder und stellvertretenden Mitglieder des Wahlausschusses müssen vom Studierendenparlament mit absoluter Mehrheit der Stimmen gewählt werden. Im dritten Wahlgang genügt die einfache Mehrheit.
 
-(5) Das SP wählt die Wahlleitung (Wahlleiterin und deren Stellvertreterin) aus der Mitte des Wahlausschusses. Dafür ist in den ersten beiden Wahlgängen eine Zweidrittelmehrheit erforderlich. Im dritten Wahlgang ist gewählt, wer die meisten Stimmen erhält. Vorschläge für die Kandidatur erfolgen schriftlich. Den Kandidierenden ist im SP genügend Zeit für ihre Vorstellung einräumen.
+(5) Das SP wählt die Wahlleitung (Wahlleiterin und deren Stellvertreterin) aus der Mitte des Wahlausschusses. 
+Dafür ist in den ersten beiden Wahlgängen eine Zweidrittelmehrheit erforderlich. 
+Im dritten Wahlgang ist gewählt, wer die meisten Stimmen erhält. Vorschläge für die Kandidatur 
+erfolgen schriftlich. Den Kandidierenden ist im SP genügend Zeit für ihre Vorstellung einräumen.
+Die Wahlleitung soll spätestens 90 Tage vor dem ersten Wahltag gewählt werden.
 
 (6) Die erste Sitzung des Wahlausschusses hat spätestens 10 Tage nach der Wahl der Wahlleitung stattzufinden.
 
@@ -94,18 +109,22 @@ Diese Wahlordnung gilt für die Wahlen zum Studierendenparlament (SP).
 Stunden vor deren Beginn per E-Mail bekanntzugeben. Ebenfalls ist die Ladung zur nächsten Sitzung
 mündlich während der laufenden Sitzung möglich, wobei die nicht anwesenden Mitglieder auch
 (fern)mündlich geladen werden können. Während der Wahlwoche kann die Ladungsfrist nach
-Beschluss verkürzt werden.
+Beschluss verkürzt werden. Die Anberaumung einer Sitzung soll vor der Sitzung veröffentlicht 
+und den Vertrauenspersonen der Listenbewerbungen bekanntgegeben werden.
 
 (9) Der Wahlausschuss fasst Beschlüsse grundsätzlich mit der Mehrheit seiner gewählten
 Mitglieder, sofern diese Ordnung nichts anderes vorsieht. Konnten Beschlüsse wegen
-Beschlussunfähigkeit nicht gefasst werden, so ist unverzüglich eine neue Sitzung einzuberufen, die
-unabhängig von der Anzahl der erschienen Mitglieder beschlussfähig ist und Beschlüsse mit
-absoluter Mehrheit der erschienenen Mitglieder fasst.
+Beschlussunfähigkeit nicht gefasst werden, so ist unverzüglich eine neue Sitzung
+einzuberufen, die unabhängig von der Anzahl der erschienen Mitglieder beschlussfähig
+ist und Beschlüsse mit absoluter Mehrheit der erschienenen Mitglieder fasst (außerordentliche
+Sitzung). Hierauf ist bei der Einladung ausdrücklich hinzuweisen.
+Eine außerordentliche Sitzung kann 30 Minuten nach Beginn einer nicht beschlussfähigen
+ordentlichen Sitzung stattfinden; hierzu muss unverzüglich nach Feststellung
+der Beschlussunfähigkeit eingeladen werden.
 
-(10) Gegen Beschlüsse und Entscheidungen des Wahlausschusses und der Wahlleiterin kann der
-Ältestenrat (ÄR) angerufen werden, soweit kein Verwaltungsakt im Sinne des § 35
-Verwaltungsverfahrensgesetz NRW (VwVfG NRW) angegriffen wird. Das Nähere regelt die
-Verfahrensordnung des Ältestenrats.
+(10) Gegen Beschlüsse und Entscheidungen des Wahlausschusses und der Wahlleiterin kann das 
+Schlichtungsgremium angerufen werden, soweit kein Verwaltungsakt im Sinne des § 35
+Verwaltungsverfahrensgesetz NRW (VwVfG NRW) angegriffen wird.
 
 (11) Der Wahlleiterin obliegt die Vorbereitung, Einberufung und Leitung der Ausschusssitzungen
 sowie die Durchführung der Beschlüsse des Wahlausschusses. Sie übt bei den Sitzungen des
@@ -125,7 +144,7 @@ Wahlleiterin nach § 3 Abs. 5 weiterzuführen.
 (2) Die Sitzungen des Wahlausschusses sind grundsätzlich öffentlich. Die
 Nichtöffentlichkeit kann ausnahmsweise für bestimmte Tagesordnungspunkte
 nach Beschluss hergestellt werden, soweit dies hinsichtlich der Wahrnehmung der
-übertragenen Aufgaben verhältnismäßig ist. Die Mitglieder des Ältestenrates
+übertragenen Aufgaben verhältnismäßig ist. Die Mitglieder des Schlichtungsgremiums
 gehören nicht zur Öffentlichkeit. Über den Inhalt nichtöffentlicher Beratungen ist
 Stillschweigen zu bewahren. Personen, die die Ordnung und Ruhe der Sitzungen
 des Wahlausschusses stören, können aus dem Sitzungsraum verwiesen werden.
@@ -149,11 +168,12 @@ gültigen Fassung Anwendung.
 (5) Eilentscheidungen der Wahlleiterin nach Absatz 4 sind dem Wahlausschuss
 unverzüglich zur Genehmigung vorzulegen.
 
-(6) Der Ältestenrat berät und unterstützt die Wahlleitung und den Wahlausschuss unabhängig und
+(6) Das Schlichtungsgremium berät und unterstützt die Wahlleitung und den Wahlausschuss unabhängig und
 überparteilich bei den ihnen übertragenen Aufgaben.
 
 
 ### § 5 Aufwandsentschädigung
+
 (1) Für allgemeine Organisation und Koordination erhalten die Wahlleiterin eine
 Aufwandsentschädigung (AE) von 325,- Euro, die stellvertretende Wahlleiterin eine
 Aufwandsentschädigung von 250,- Euro. Des Weiteren gibt es einen mit 5000,- Euro dotierten Titel
@@ -169,10 +189,10 @@ der Betrag des Titels "Aufwandsentschädigung Wahlausschuss" um 1000,- € auf 6
 Finanzreferat vor der Wahl eine Liste aller von der Bezahlung ausgeschlossenen Tätigkeiten
 zukommen.
 
-(4) Am Auszählabend werden Mitglieder des Wahlausschusses, des Ältestenrates
-und Auszählerinnen gleich bezahlt: Bis 1.00 Uhr wird eine pauschale
-Aufwandsentschädigung von 60,- Euro gezahlt, danach gibt es einen "Stundenlohn",
-der dem der Wahlhelferinnen entspricht.
+(4) Am Auszählabend werden Mitglieder des Wahlausschusses und Auszählhelferinnen
+gleich bezahlt: Bis 1.00 Uhr wird eine pauschale Aufwandsentschädigung von 60,-
+Euro gezahlt, danach gibt es einen „Stundenlohn“, der dem der Wahlhelferinnen
+entspricht.
 
 (5) Der Wahlausschuss beschließt den Stundensatz für die Wahlhelferinnen. Dabei
 ist darauf zu achten, dass es sich hierbei dem Wesen nach nicht um Lohn für eine
@@ -206,6 +226,7 @@ des AStA sein.
 # III. Vorbereitung der Wahlen und Wahlvorschläge
 
 ### § 8 Wahlausschreibung
+
 Der Wahlausschuss schreibt die Wahlen zum Studierendenparlament bis spätestens zum 27. Tag vor
 dem 1. Wahltag aus. Die Wahlausschreibung ist zu veröffentlichen. Darüber hinaus soll die
 Wahlleiterin in auffälliger Weise für die Bekanntgabe sorgen. Die Wahlausschreibung muss
@@ -253,6 +274,11 @@ mindestens enthalten:
 
 1. Je volle tausend Wahlberechtigte eine Unterstützungsunterschrift einer wahlberechtigten Person. Wer Teil einer Listenbewerbung ist, unterstützt diese gleichzeitig. Jede Person kann mehrere Listenbewerbungen unterstützen.
 2. Eine Erklärung der Listenbewerbung über ihr Wahlprogramm. Der Wahlausschuss setzt die Vorgaben für das Format der Erklärungen für alle Listenbewerbungen mit der Wahlausschreibung einheitlich fest. Der Wahlausschuss nimmt darüber hinaus keinen Einfluss auf die Erklärungen. Bis auf die Formatvorgaben unterliegen die Listenbewerbungen bei der Gestaltung ihrer Erklärungen keinen Einschränkungen.
+3. eine maschinenlesbare Tabelle mit folgenden Angaben aller Kandidierenden:
+    a) ein in die Matrikel oder im Personalausweis eingetragener Vorname;
+    b) vollständiger Nachname;
+    c) mindestens ein Studienfach dieser Person zum Vermerk auf dem Stimmzettel und in der Wahlbekanntmachung;
+    d) E-Mail-Adresse.
 
 (4) Eine Kandidatur enthält mindestens folgende Angaben:
 
@@ -327,7 +353,7 @@ Studiengang und Platz in der Listenreihung. Jeder Vertrauensperson wird dann die
 ihrer Liste übersandt. Der Wahlausschuss setzt eine Frist fest, innerhalb derer die
 Vertrauenspersonen Korrekturen an diesem Verzeichnis fordern können. Korrekturforderungen sind
 zu begründen. Erkennt der Wahlausschuss die vorgebrachten Gründe an, wird die Listenbewerbung
-entsprechend geändert. Erkennt er sie nicht an, entscheidet der Ältestenrat.
+entsprechend geändert. Erkennt er sie nicht an, entscheidet das Schlichtungsgremium.
 
 (7) Der Wahlausschuss beschließt nach Ablauf dieser Frist über die Zulassung der
 Listenbewerbungen zur Wahl. Die Entscheidung wird unter Anwendung des
@@ -378,9 +404,10 @@ Wahlprogramm enthalten.
 (3) Die Wahlleiterin hat in geeigneter Form die Voraussetzungen für eine möglichst hohe
 Wahlbeteiligung zu schaffen.
 
-(4) Die Organe der Studierendenschaft werden aufgefordert, über die Publikationsorgane die
-Wahlberechtigten, die sich im Urlaubssemester befinden, über Ort und Zeit der Wahl sowie das zu
-wählende Organ zu benachrichtigen und auf die Berechtigung zur Briefwahl hinzuweisen.
+(4) Die Organe der Studierendenschaft und die Fachschaften werden aufgefordert, über
+die Publikationsorgane die Wahlberechtigten, die sich im Urlaubssemester befinden,
+über Ort und Zeit der Wahl sowie das zu wählende Organ zu benachrichtigen und
+auf die Berechtigung zur Briefwahl hinzuweisen.
 
 (5) Die Wahlleiterin muss frühzeitig, spätestens zehn Tage vor dem ersten Wahltag, Termin und
 Ort der Wahl bekannt geben. Die Wahlbekanntmachung muss mindestens die Angaben des § 8 Ziff.
@@ -422,7 +449,7 @@ Sie wird durch Nummerierung vor dem Namen deutlich gemacht. Hinter dem Namen sin
 
 (4) Die Wahlleiterin hat in geeigneter Form die Voraussetzungen für eine möglichst hohe Wahlbeteiligung zu schaffen.
 
-(5) Die Organe der Studierendenschaft werden aufgefordert, über die Publikationsorgane die Wahlberechtigten, die sich im Urlaubssemester befindenden, über Ort und Zeit der Wahl sowie das zu wählende Organ zu benachrichtigen und auf die Berechtigung zur Briefwahl hinzuweisen.
+(5) (weggefallen)
 
 (6) Die Wahlleiterin muss frühzeitig, spätestens zehn Tage vor dem ersten Wahltag, Termin und Ort der Wahl durch Plakate, Rundschreiben an die betreffenden Fachschaften und Institute sowie an die Studierendenwohnheime und durch Handzettel bekanntmachen. Die Wahlbekanntmachung muss mindestens die Angaben des § 8 Ziff. 1 bis 5 und 8 bis 12 enthalten.
 
@@ -474,8 +501,8 @@ Unversehrtheit der Siegel zu dokumentieren.
 (9) Ergeben sich bei der Feststellung der ordnungsgemäßen Versiegelung Unregelmäßigkeiten, so hat der Wahlausschuss die erforderlichen Maßnahmen zu treffen.
 
 (10) Die Versiegelung vor der Wahl und Entsiegelung nach der Wahl erfolgen öffentlich durch ein
-Mitglied des Wahlausschusses unter Aufsicht der Wahlleiterin. Der Ältestenrat soll als
-Wahlbeobachter diesen Amtshandlungen beiwohnen. Es gilt § 3 Abs. 12 sinngemäß.
+Mitglied des Wahlausschusses unter Aufsicht der Wahlleiterin. Das Schlichtungsgremium soll 
+als Wahlbeobachter der Versiegelung beiwohnen. Es gilt § 3 Abs. 11 sinngemäß.
 
 (11) Im Umkreis von 5 Metern um die Wahllokale ist jegliche Form der Wahlwerbung für Wahlvorschläge untersagt (Bannmeile). Der Wahlausschuss überwacht die Einhaltung dieser Vorschrift. Vom Wahlausschuss veröffentlichte Dokumente dürfen auch innerhalb der Bannmeile ausliegen.
 
@@ -503,8 +530,9 @@ wird die Wählerin in das Wahlbüro verwiesen.
 
 (1) Von der Briefwahlmöglichkeit kann jede Studentin auf schriftlichen Antrag hin Gebrauch
 machen. Der Antrag zur Briefwahl muss bei der Wahlleiterin gestellt werden. Auf dem
-Briefwahlantrag hat jede Briefwählerin Namen, Anschrift und Matrikelnummer anzugeben. Der
-Antrag muss spätestens am sechsten Tag vor der Wahl bei der Wahlleiterin eingegangen sein.
+Briefwahlantrag hat jede Briefwählerin Namen, Anschrift und Matrikelnummer anzugeben. 
+Der Wahlausschuss setzt eine angemessene Frist für den Eingang des Antrages fest. 
+Auf diese Frist muss entsprechend hingewiesen werden.
 
 (2) Die Briefwahlunterlagen müssen eine Belehrung über die rechtlichen Folgen einer
 Wahlfälschung enthalten. Jede Briefwählerin hat die Briefwahlunterlagen bis
@@ -554,7 +582,7 @@ führen. Das Protokoll muss enthalten:
 Wahlordnung ordnungsgemäß durchgeführt worden ist;
 2. besondere Vorkommnisse die Wahl betreffend.
 Dieses Protokoll ist unverzüglich dem Wahlausschuss, dem
-Studierendenparlament und dem Ältestenrat zuzuleiten.
+Studierendenparlament und dem Schlichtungsgremium zuzuleiten.
 
 
 ### § 21 Pflichten der Wahlleiterin
@@ -576,8 +604,7 @@ Urnenbücher von der ordnungsgemäßen Wahldurchführung zu überzeugen.
 
 (3) Die Auszählung der Stimmen erfolgt unter Aufsicht der Wahlleitung durch die
 Mitglieder des Wahlausschusses und die hierfür bestimmten Wahlhelferinnen
-unverzüglich nach Beendigung der Wahl. Der Ältestenrat ist als Wahlbeobachter
-zur Anwesenheit im Auszählbereich berechtigt.
+unverzüglich nach Beendigung der Wahl.
 
 (4) Die Auszählung erfolgt öffentlich. Die Wahlleiterin kann Personen, die die
 Ordnung und Ruhe stören, aus dem Auszählungsraum verweisen.
@@ -643,13 +670,13 @@ entfalten keine Rechtswirkung. Ein Anspruch auf Bekanntgabe oder Mitteilung
 besteht nicht. Mangels Gewährleistung des Wahlgeheimnisses sind Bekanntgaben
 der nach Urne aufgeschlüsselten Personenstimmen unzulässig.
 
-(4) Mitteilungen über die Wahlbeteiligung erfolgen nach jedem Wahltag durch die
-Wahlleiterin. Für den Fall einer parallel durchgeführten Urabstimmung erfolgt die
+(4) Mitteilungen über die Wahlbeteiligung erfolgen nach jedem Wahltag durch ein Mitglied
+des Wahlausschusses. Für den Fall einer parallel durchgeführten Urabstimmung erfolgt die
 letzte Mitteilung über die Wahlbeteiligung nach dem zweiten Wahltag.
 
 (5) Mitteilungen über einzelne Urnenergebnisse, vorläufige Endergebnisse oder
 Wahlbeteiligungen vor öffentlicher Bekanntgabe nach Absatz 3 Satz 1 bzw.
-Absatz 4 Satz 1 durch andere Mitglieder des Wahlausschusses, des Ältestenrates
+Absatz 4 Satz 1 durch andere Mitglieder des Wahlausschusses, des Schlichtungsgremiums
 oder durch die Wahlhelferinnen sind unzulässig.
 
 
@@ -703,10 +730,10 @@ als Verzicht im Sinne des Abs. 1 Satz 1 mit den entsprechenden Folgen.
 (3) Solange das neu gewählte Studierendenparlament sich nicht konstituiert hat, nimmt die Wahlleiterin die Wahlanfechtungen entgegen. Sie leitet die Wahlanfechtungen zusammen mit ihrem Bericht gemäß § 20 dieser Wahlordnung weiter.
 
 
-### § 29 Anrufung des Ältestenrates
+### § 29 Anrufung des Schlichtungsgremiums
 
-Gegen die Entscheidung des Studierendenparlaments kann beim Ältestenrat Beschwerde eingelegt
-werden; dieser schlichtet daraufhin.
+Gegen die Entscheidung des Studierendenparlaments kann beim Schlichtungsgremium
+Beschwerde eingelegt werden.
 
 
 # VII. Sonstiges
