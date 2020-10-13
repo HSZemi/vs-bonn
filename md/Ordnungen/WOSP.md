@@ -1,7 +1,7 @@
 ---
 title: Wahlordnung für die Wahlen zum Studierendenparlament (WOSP)
 short: Wahlordnung für die Wahlen zum Studierendenparlament (WOSP)
-date:  19. November 2020
+date:  1. April 2021
 type:  Ordnung
 id:    WOSP
 contains:
@@ -170,6 +170,13 @@ unverzüglich zur Genehmigung vorzulegen.
 
 (6) Das Schlichtungsgremium berät und unterstützt die Wahlleitung und den Wahlausschuss unabhängig und
 überparteilich bei den ihnen übertragenen Aufgaben.
+
+(7) Publikationen und Erzeugnisse in Zusammenhang mit der Wahl sollen in deutscher
+und englischer Sprache erfolgen. Dazu zählen insbesondere Wahlausschreibung, 
+Wahlbekanntmachung, Benachrichtigung der Wahlberechtigten, die sich im
+Urlaubssemester befinden, Teile des Stimmzettels gemäß § 14 Abs. 2 Nrn. 1 und 2,
+Unterlagen im Zusammenhang mit einer Briefwahl, das Wahlergebnis und Mitteilungen
+über die Wahlbeteiligung.
 
 
 ### § 5 Aufwandsentschädigung
