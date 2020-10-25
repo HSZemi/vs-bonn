@@ -33,6 +33,13 @@ contains:
   pubdate:  29. April 2020
   puborgan: AKUT
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2020/akut_extra_2020-4.pdf
+- title: Änderungsordnung zur Änderung der Geschäftsordnung des Studierendenparlaments
+  short: Änderungsordnung zur Änderung der Geschäftsordnung des Studierendenparlaments
+  actdate:  5. Oktober 2020
+  actorgan: Studierendenparlament
+  pubdate:  25. Oktober 2020
+  puborgan: Öffentlichkeitsbeauftragte
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2020/vsbonn_bekanntmachung_2020-30.pdf
 
 ---
 
@@ -46,7 +53,7 @@ werden, gelten diese Bezeichnungen für alle Menschen unabhängig von ihrem Gesc
 
 (1) Das neu gewählte Studierendenparlament (SP) wird zu seiner ersten Sitzung von der Wahlleiterin
 einberufen. Die Einberufung erfolgt an dem Tag, an dem die Stimmauszählung beendet wird.
-Abweichend von § 10 Abs. 1 beträgt die Ladungsfrist 5 Kalendertage, wenn der Termin zuvor in der
+Abweichend von § 10 Abs. 1 beträgt die Ladungsfrist 2 Kalendertage, wenn der Termin zuvor in der
 Bekanntmachung der Wahlbewerbungen gemäß § 12 der Wahlordnung für die Wahlen zum
 Studierendenparlament angekündigt wurde.
 
