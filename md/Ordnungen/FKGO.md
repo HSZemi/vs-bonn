@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms-Universität Bonn [FKGO]
 short: Geschäftsordnung der Fachschaftenkonferenz (FKGO)
-date:  18. Juni 2020
+date:  17. November 2020
 type:  Ordnung
 id:    FKGO
 contains:
@@ -71,6 +71,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  18. Juni 2020
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2020/vsbonn_bekanntmachung_2020-12.pdf
+- title:    Erste Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  short:    Erste Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  actorgan: Fachschaftenkonferenz
+  actdate:  16. November 2020
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  17. November 2020
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2020/vsbonn_bekanntmachung_2020-33.pdf
 
 ---
 
@@ -435,7 +442,6 @@ beschäftigen. Aushilfsstellen sind öffentlich auszuschreiben. Sie
 erhalten eine angemessene Aufwandsentschädigung. Sie sind nicht Teil
 des FSK und dürfen keine Finanzangelegenheiten bearbeiten.
 
-(8) Die Wahl ist geheim.
 
 ### § 18 Aufgaben des FSK
 
