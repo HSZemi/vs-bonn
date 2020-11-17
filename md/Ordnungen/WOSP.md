@@ -268,7 +268,7 @@ mindestens enthalten:
 10. Unterschrift unter den Wahlvorschlag.
 
 Die Angaben sind lesbar einzureichen. Der Wahlausschuss erstellt ein Formblatt, welches als
-Kandidaturblatt verwendet werden soll."
+Kandidaturblatt verwendet werden soll.
 
 (5) Ordens-, Künstler- oder Spitznamen werden auf Antrag der Kandidatin
 zusätzlich angefügt, sofern diese in amtlichen Ausweisen gem. § 5 Abs. 2 Nr. 12
