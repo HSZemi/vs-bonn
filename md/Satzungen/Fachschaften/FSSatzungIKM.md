@@ -1,9 +1,9 @@
 ---
 title: Satzung der Fachschaft Kommunikation in der globalisierten Mediengesellschaft
 short: Satzung der Fachschaft Kommunikation in der globalisierten Mediengesellschaft
-date:  18. Januar 2017
+date:  25. November 2020
 type:  Satzung
-id:    FSSatzungKGM
+id:    FSSatzungIKM
 contains:
 - title: Satzung der Fachschaft Kommunikation in der globalisierten Mediengesellschaft
   short: Satzung der Fachschaft Kommunikation in der globalisierten Mediengesellschaft
@@ -12,29 +12,35 @@ contains:
   puborgan: AKUT
   pubdate:  18. Januar 2017
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2017/akut_extra_2017-2.pdf
+- title: Satzung der Fachschaft IKM
+  short: Satzung der Fachschaft IKM
+  actorgan: Fachschaftsvollversammlung der Fachschaft Internationale Kommunikation und Medien (IKM)
+  actdate:  16. September 2020
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  25. November 2020
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2020/vsbonn_bekanntmachung_2020-34.pdf
 
 ---
 
 # Präambel
 
-Diese Satzung soll das Fachschaftswesen im Studiengang Kommunikation in der
-globalisierten Mediengesellschaft organisieren und ist bei der Ausübung jeglicher
-Tätigkeiten der Fachschaft verpflichtend zu berücksichtigen.
+Diese Satzung soll das Fachschaftswesen der Studiengänge Sprache und Kommunikation in der
+globalisierten Mediengesellschaft sowie Deutsch als Zweit- und Fremdsprache organisieren und ist
+bei der Ausübung jeglicher Tätigkeiten der Fachschaft verpflichtend zu berücksichtigen.
 
 # A. Fachschaft
 
-
-
 ### § 1 Begriffsbestimmung und Rechtsstellung
 
-(1) Alle Studierenden, die im Studienfach Kommunikation in der globalisierten
-Mediengesellschaft im Zwei-Fach-Bachelor an der RFWU Bonn eingeschrieben und
-wahlberechtigt sind, bilden die Fachschaft KGM.
+(1) Alle Studierenden, die im Studienfach Sprache und Kommunikation in der globalisierten
+Mediengesellschaft oder im Studienfach Deutsch als Zweit- und Fremdsprache im Zwei-Fach-
+Bachelor an der RFWU Bonn eingeschrieben und wahlberechtigt sind, bilden die Fachschaft IKM.
 
 (2) Die Fachschaft nimmt alle sie betreffenden Aufgaben innerhalb der
 Studierendenschaft wahr und vertritt im Rahmen ihrer Möglichkeiten die Belange
 der Studierenden, die im Studienfach Kommunikation in der globalisierten
-Mediengesellschaft im Zwei-Fach-Bachelor an der RFWU Bonn eingeschrieben sind.
+Mediengesellschaft oder im Studienfach Deutsch als Zweit- und Fremdsprache im Zwei-Fach Bachelor
+an der RFWU Bonn eingeschrieben sind.
 
 
 ### § 2 Organe der Fachschaft
@@ -68,10 +74,10 @@ Willensbildung vollzieht sich in den studentischen Vereinigungen der Hochschule.
 (2) Der FSR wirkt an der fachlichen und organisatorischen Gestaltung des Studiums
 mit.
 
+
 # B. Die Organe der Fachschaft
 
 ## I. Die Fachschaftsvertretung (FSV)
-
 
 ### § 4 Rechtsstellung der FSV
 
@@ -192,7 +198,7 @@ ausgeschiedene Mitglied sein Amt kommissarisch bis zur Nachwahl weiter.
 
 ### § 9 Ausscheiden, Ausschluss und Nachrücken von Mitgliedern
 
-(1)Ein Mitglied scheidet aus der FSV aus
+(1) Ein Mitglied scheidet aus der FSV aus
 
 1. durch Niederlegung seines Mandats
 2. durch Exmatrikulation oder durch Umschreibung in ein anderes Hauptfach
@@ -208,7 +214,7 @@ nachrücken, bis sich die Kandidatenliste der betreffenden Fraktion erschöpft h
 
 ### § 10 Beschlüsse der FSV
 
-(1) Rederecht haben alle Mitglieder der Fachschaft KGM.
+(1) Rederecht haben alle Mitglieder der Fachschaft IKM.
 
 (2) Stimm-und Antragsrecht haben nur FSV-Mitglieder.
 
@@ -220,14 +226,14 @@ folgenden Sitzung anwesend zu sein (Zitierrecht).
 
 1. Die FSV beschlussfähig war und
 2. er die einfache Mehrheit gefunden hat, soweit die Satzung nichts anderes
-   vorschreibt.
+vorschreibt.
 3. Die FSV gilt solange als beschlussfähig, bis auf Antrag eines FSV Mitgliedes durch
-   den Vorsitzenden das Gegenteil festgestellt wird.
+den Vorsitzenden das Gegenteil festgestellt wird.
 
 (5) Die Beschlussfähigkeit wird auf Antrag unverzüglich festgestellt. Sie ist
 gegeben, wenn mehr als die Hälfte der FSV-Mitglieder anwesend ist. Ein Einspruch
 gegen diesen Antrag ist nicht möglich. Der FSV-Vorsitzende überprüft
-dieBeschlussfähigkeit durch namentlichen Aufruf.
+die Beschlussfähigkeit durch namentlichen Aufruf.
 
 (6) Bei Beschlussunfähigkeit muss nach spätestens 10 Tagen eine zweite Sitzung mit
 der gleichen Tagesordnung einberufen werden. Die normalen Ladungsfristen sind zu
@@ -265,7 +271,6 @@ Die Regelungen über die FSV gelten auch in der vorlesungsfreien Zeit.
 ## II. Der Fachschaftsrat (FSR)
 
 ### § 13 Rechtsstellung des FSR
-
 Der FSR vertritt die Fachschaft und führt die Geschäfte der Fachschaft unter
 Leitung seines Sprechers.
 
@@ -358,13 +363,11 @@ beanstanden.
 
 ## III. Die Fachschaftsvollversammlung (FSVV)
 
-
 ### § 17 Rechtsstellung der FSVV
 
-Die FSVV, die aus allen wahlberechtigten Mitgliedern der Fachschaft KGM besteht,
+Die FSVV, die aus allen wahlberechtigten Mitgliedern der Fachschaft IKM besteht,
 ist oberstes beschlussfassendes Organ der Fachschaft. Sofern keine FSV besteht,
 übernimmt sie die Aufgaben der FSV.
-
 
 ### § 18 Einberufung und Durchführung der FSVV
 
@@ -374,7 +377,7 @@ ist oberstes beschlussfassendes Organ der Fachschaft. Sofern keine FSV besteht,
 2. Auf schriftlichen Antrag von mindestens sechs Mitgliedern der FSV,
 3. Auf Beschluss des FSR
 4. Auf schriftlichen Antrag von mindestens 5% der Mitglieder der Fachschaft, sofern
-   der Antrag eine Tagesordnung enthält.
+der Antrag eine Tagesordnung enthält.
 
 (2) Die Ankündigung der FSVV erfolgt mindestens zwei Wochen vor ihrer
 Durchführung. Die Ankündigung enthält mindestens
@@ -399,8 +402,7 @@ entsprechenden Mehrheit aufgehoben werden. Die Einberufung dieser
 folgenden FSVV erfolgt gemäß § 18.
 
 
-# C.Haushalts- und Wirtschaftsführung
-
+## C. Haushalts- und Wirtschaftsführung
 
 ### § 20 Grundsätze und Kontrolle der Haushaltsführung
 
@@ -431,18 +433,18 @@ insbesondere
 
 1. der Kassen-Ist-Bestand mit dem Kassen-Soll-Bestand übereinstimmt und
 2. die Buchungen nach der Zeitfolge mit den Buchungen nach der im Haushaltsplan
-   vorgesehenen Ordnung übereinstimmen.
+vorgesehenen Ordnung übereinstimmen.
 
 Über die Kassenprüfung ist Protokoll zu führen, in das die Kassen- und
 Kontobestände aufzunehmen sind.
 
-(7) Zur finanziellen Verpflichtung der Fachschaft sind die Unterschriften des FSR-
-Sprechers und des Finanzreferenten oder die Unterschrift des zuständigen
+(7) Zur finanziellen Verpflichtung der Fachschaft sind die Unterschriften des FSRSprechers und des
+Finanzreferenten oder die Unterschrift des zuständigen
 Referenten nach Zustimmung des FSR-Sprechers und des Finanzreferenten
 erforderlich. Der FSR kann gegen die Stimmen von Fachschaftssprecher und
 Finanzreferent keine finanziell erheblichen Vorhaben beschließen. Der FSR kann
-mit der Mehrheit der gewählten Mitglieder Ausgaben beschließen, sofern der FSR-
-Sprecher oder der Finanzreferent mit der Mehrheit stimmen.
+mit der Mehrheit der gewählten Mitglieder Ausgaben beschließen, sofern der FSRSprecher oder der
+Finanzreferent mit der Mehrheit stimmen.
 
 
 # D. Schlussbestimmungen
@@ -461,8 +463,8 @@ Regelungen über die Vollversammlung im Widerspruch stehen.
 
 (1) Diese Satzung kann auf Beschluss der FSV oder der FSVV geändert werden.
 
-(2) Dieser Beschluss muss jedes Mal von mindestens 2/3 der satzungsmäßigen FSV-
-Mitglieder bzw. von 2/3 der anwesenden FSVV-Mitglieder gefasst werden. Die
+(2) Dieser Beschluss muss jedes Mal von mindestens 2/3 der satzungsmäßigen FSVMitglieder bzw.
+von 2/3 der anwesenden FSVV-Mitglieder gefasst werden. Die
 Regelung zu außerordentlichen FSV-Sitzungen ist unanwendbar (§ 10 Abs. 6).
 
 (3) Der Tagesordnungspunkt „Satzungsänderung“ muss bereits in der Einladung zur
