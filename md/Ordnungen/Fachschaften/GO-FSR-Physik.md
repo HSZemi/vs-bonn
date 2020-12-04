@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung des Fachschaftsrats der Fachschaft Physik/Astronomie der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Geschäftsordnung des Fachschaftsrats der Fachschaft Physik/Astronomie
-date:  02. Februar 2016
+date:  4. Dezember 2020
 type:  Ordnung
 id:    GO-FSR-Physik
 contains:
@@ -12,6 +12,13 @@ contains:
   puborgan: AKUT
   pubdate:  21. Dezember 2016
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut_extra_2016-18.pdf
+- title: Erste Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrates der Fachschaft Physik/Astronomie
+  short: Erste Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrates der Fachschaft Physik/Astronomie
+  actorgan: Fachschaftsrat Fachschaft Physik/Astronomie
+  actdate:  1. Dezember 2020
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  4. Dezember 2020
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2020/vsbonn_bekanntmachung_2020-37.pdf
 
 ---
 
@@ -177,6 +184,9 @@ Antragsberechtigten kann die Tagesordnung geändert werden.
     wurden, müssen nur in dem der Schlussabstimmung zu Grunde liegenden
     Wortlaut aufgenommen werden.
 
+5.  Abs. 4 gilt nicht für genehmigte Protokolle.
+
+
 ### § 12 Anträge zur Geschäftsordnung
 
 1.  Anträge zur Geschäftsordnung können von antragsberechtigten
@@ -248,41 +258,49 @@ Antragsberechtigten kann die Tagesordnung geändert werden.
 
 1.  Das Protokoll hat die Form eines Ergebnisprotokolls
 
-2.  Das Protokoll enthält insbesondere:
+2.  Das Protokoll muss die wesentlichen Diskussionsinhalte und Ergebnisse der Sitzung so
+    wiedergeben, dass auch Personen, die nicht auf der Sitzung anwesend waren, diese nachvollziehen können.
+
+3.  Das Protokoll enthält insbesondere:
 
     \(1) die Namen aller anwesenden Mitglieder der FS sowie die Namen
         aller Gäste,
 
     \(2) die Tagesordnung,
+    
+    \(3) Änderungen zum zu genehmigende Protokoll,
 
-    \(3) die gestellten Sachanträge,
+    \(4) das Abstimmungsergebnis der Genehmigung des Protokolls,
 
-    \(4) die Abstimmungsergebnisse zu den Sachanträgen,
+    \(5) die gestellten Sachanträge,
 
-    \(5) Entscheidungen auf Grund von Anträgen zur Geschäftsordnung,
+    \(6) die Abstimmungsergebnisse zu den Sachanträgen,
 
-    \(6) wesentliche Punkte der Debatten,
+    \(7) Entscheidungen auf Grund von Anträgen zur Geschäftsordnung,
 
-    \(7) Äußerungen, von denen ein stimmberechtigtes Mitglied
+    \(8) wesentliche Punkte der Debatten,
+
+    \(9) Äußerungen, von denen ein stimmberechtigtes Mitglied
         unverzüglich die Aufnahme ins Protokoll verlangt und
 
-    \(8) bei Wahlen die Namen aller Kandidaten und die Ergebnisse
+    \(10) bei Wahlen die Namen aller Kandidaten und die Ergebnisse
         der Wahl.
 
-3.  Inhalte nach §13 Abs. 2 (3) können, sofern schriftlich vorliegend,
+4.  Inhalte nach §13 Abs. 2 (3) können, sofern schriftlich vorliegend,
     auch als Anlage an das Protokoll angehängt werden.
 
 ### § 14 Ausfertigung und Genehmigung des Protokolls
 
-1.  Für die Ausfertigung des Protokolls sind die Sitzungsleitung und der
-    jeweilige Schriftführer verantwortlich. Das Protokoll ist vom
-    Schriftführer zu unterzeichnen.
+1.  Für die Ausfertigung des Protokolls auf deutscher und englischer Sprache sind die
+    Sitzungsleitung und der jeweilige Schriftführer verantwortlich. Das Protokoll ist von
+    der Sitzungsleitung und vom Schriftführer zu unterzeichnen.
 
-2.  Das Protokoll ist für jeden einsehbar im
-    Fachschaftsraum aufzubewahren. Damit gelten das Protokoll und die
-    Beschlüsse als veröffentlicht.
+2.  Das Protokoll wird auf der nächstmöglichen Sitzung zur Genehmigung gestellt.
 
-3.  Das Protokoll des FSR bedarf keiner Genehmigung.
+3.  Das Protokoll ist zeitnah nach Beschluss auf der Internetseite des FSR mindestens
+    hochschulöffentlich zu veröffentlichen. Darüber hinaus ist das unterschriebene Original
+    im Fachschaftsraum für jeden einsehbar aufzubewahren.
+
 
 # VI Arbeitskreise
 
@@ -308,16 +326,13 @@ Antragsberechtigten kann die Tagesordnung geändert werden.
 
 2.  Die Geschäftsordnung kann nur auf Beschluss des FSR geändert werden.
 
-3.  Änderungen der Geschäftsordnung treten sieben Kalendartage nach
-    ihrem Beschluss in Kraft.
-
-4.  Die Geschäftsordnung in ihrer aktuellen Form ist im
+3.  Die Geschäftsordnung in ihrer aktuellen Form ist im
     Fachschaftsraum aufzubewahren.
 
 ### § 17 Inkrafttreten und Gültigkeit
 
-1.  Diese Geschäftsordnung tritt am Tage ihrer Veröffentlichung im
-    Nachrichtenblatt der Studierendenschaft, AKUT, in Kraft.
+1.  Diese Geschäftsordnung tritt am Tage nach der Veröffentlichung auf der 
+    Bekanntmachungsplattform der Studierendenschaft in Kraft.
 
 2.  Diese Geschäftsordnung verliert ihre Gültigkeit an dem Tage, an dem
     eine neue, von dem FSR in freier Entscheidung beschlossene
@@ -328,9 +343,3 @@ Antragsberechtigten kann die Tagesordnung geändert werden.
 Sollte ein Teil dieser Ordnung gegen geltendes Recht verstoßen, so
 verliert nur dieser Teil seine Gültigkeit. Der Rest dieser Ordnung
 bleibt davon unberührt in Kraft.
-
-
-*Angefertigt auf Beschluss des FSR Physik/Astronomie Bonn, den 02.02.2016*
-
-Kevin Luckas  
-Vorsitzender des FSR
