@@ -1,6 +1,6 @@
 ---
-title: Satzung der Fachschaft Kommunikation in der globalisierten Mediengesellschaft
-short: Satzung der Fachschaft Kommunikation in der globalisierten Mediengesellschaft
+title: Satzung der Fachschaft Internationale Kommunikation und Medien (IKM)
+short: Satzung der Fachschaft Internationale Kommunikation und Medien (IKM)
 date:  25. November 2020
 type:  Satzung
 id:    FSSatzungIKM
