@@ -12,6 +12,13 @@ contains:
   puborgan: AKUT
   pubdate:  27. November 2019
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-25.pdf
+- title: Änderung der Richtlinie für die finanziellen Aufwendungen bei der Durchführung der Wahlen zum Studierendenparlament
+  short: Änderung der Richtlinie für die finanziellen Aufwendungen bei der Durchführung der Wahlen zum Studierendenparlament
+  actorgan: Studierendenparlament
+  actdate:  15. Dezember 2020
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  17. Januar 2021
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-02.pdf
 ---
 
 Soweit Bezeichnungen, die für Frauen und Männer gelten, in der weiblichen Sprachform
@@ -156,3 +163,7 @@ durch Änderung gemäß § 11 auszuräumen.
 ### § 7 Inkrafttreten
 
 Diese Richtlinie tritt mit ihrer Veröffentlichung in der AKUT in Kraft.
+
+### § 8
+
+§ 4 dieser Richtlinie gilt nicht für die Wahlen zum 43. Studierendenparlament.
