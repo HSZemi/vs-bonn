@@ -1,7 +1,7 @@
 ---
-title: Geschäftsordnung des Bonner Studierendenparlaments (GO-SP)
-short: Geschäftsordnung des Bonner Studierendenparlaments (GO-SP)
-date:  29. April 2020
+title: Geschäftsordnung des Bonner Studierendenparlaments
+short: Geschäftsordnung des Bonner Studierendenparlaments
+date:  25. Januar 2021
 type:  Ordnung
 id:    GOSP
 contains:
@@ -40,6 +40,13 @@ contains:
   pubdate:  25. Oktober 2020
   puborgan: Öffentlichkeitsbeauftragte
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2020/vsbonn_bekanntmachung_2020-30.pdf
+- title: Änderungsordnung zur Änderung der Geschäftsordnung des Studierendenparlaments
+  short: Änderungsordnung zur Änderung der Geschäftsordnung des Studierendenparlaments
+  actdate:  17. Dezember 2020
+  actorgan: Studierendenparlament
+  pubdate:  25. Januar 2021
+  puborgan: Öffentlichkeitsbeauftragte
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-05.pdf
 
 ---
 
@@ -58,6 +65,7 @@ Bekanntmachung der Wahlbewerbungen gemäß § 12 der Wahlordnung für die Wahlen
 Studierendenparlament angekündigt wurde.
 
 (2) In der konstituierenden Sitzung führt die Wahlleiterin den Vorsitz, bis die SP-Sprecherin gewählt ist.
+Die Wahlleiterin kann hinsichtlich der konstituierenden Sitzung Entscheidungen nach § 5 Abs. 5 Corona-Epidemie-Hochschulverordnung in der Fassung vom 31. Oktober 2020 treffen.
 Die Wahlleiterin stellt durch namentlichen Aufruf die Beschlussfähigkeit des SP fest. Hiernach erfolgt
 die Wahl des Präsidiums[^1].
 
