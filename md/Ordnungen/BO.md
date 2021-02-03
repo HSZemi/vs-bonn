@@ -1,7 +1,7 @@
 ---
 title: Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Beitragsordnung der Studierendenschaft (BO)
-date:  21. September 2020
+date:  29. Januar 2021
 type:  Ordnung
 id:    BO
 contains:
@@ -77,6 +77,15 @@ contains:
   pubdate:  21. September 2020
   puborgan: Amtliche Bekanntmachungen
   puburl: https://hdl.handle.net/20.500.11811/8608
+- title: Zweiunddreißigste Ordnung zur Änderung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - XXXII. Beitragsordnungsänderungsordnung  (BOÄO XXXII) -
+  short: XXXII\. Beitragsordnungsänderungsordnung  (BOÄO XXXI)
+  actdate:  18. Januar 2021
+  actorgan: Studierendenparlament
+  confirmorgan: Rektorat
+  confirmdate: 26. Januar 2021
+  pubdate:  29. Januar 2021
+  puborgan: Amtliche Bekanntmachungen
+  puburl: http://hdl.handle.net/20.500.11811/8903
 
 ---
 
@@ -89,7 +98,7 @@ Kosten der Selbstverwaltung, der Selbsthilfe und Mobilität der Studierendenscha
 
 ### § 2
 
-Der Beitrag in Höhe von 209,91€ (WS 2020/21) bzw. 214,01 € (SS 2021) ist fürfolgende Zwecke bestimmt:
+Der Beitrag in Höhe von 209,91 € (WS 2020/21) bzw. 212,91 € (SS 2021) ist für folgende Zwecke bestimmt:
 
 |   |                                                                           |         |
 |:--|:--------------------------------------------------------------------------|--------:|
@@ -100,11 +109,11 @@ Der Beitrag in Höhe von 209,91€ (WS 2020/21) bzw. 214,01 € (SS 2021) ist f�
 |   |a) Semesterticket                                                          |134,80 €,|
 |   |b) NRW-Ticket                                                              |         |
 |   |   WS 2020/2021                                                            | 56,40 €,|
-|   |   SS 2021                                                                 | 58,50 €,|
+|   |   SS 2021                                                                 | 57,40 €,|
 |5. |für ein Sonderkonto zur Erstattung des Mobilitätsbeitrages                 |  0,60 €,|
 |6. |für die Zuweisungen an die Fachschaften                                    |         |
-|   |Wintersemester 2020/2021                                                   |  2,00 €,|
-|   |Sommersemester 2021                                                        |  4,00 €,|
+|   |WS 2020/2021                                                               |  2,00 €,|
+|   |SS 2021                                                                    |  4,00 €,|
 |7. |für den Studierendensport                                                  |  0,85 €,|
 |8. |für das Kulturticket                                                       |  3,00 €,|
 
@@ -152,17 +161,13 @@ zurückzuerstatten; im übrigen besteht kein Anspruch auf anteilige Rückzahlung
 (1) Das Beitragsaufkommen wird innerhalb der Studierendenschaft wie folgt verwandt:
 
 1. die Anteile nach § 2 Ziffer 1 für den Allgemeinen Studierendenausschuss (AStA),
-2. die Anteile nach § 2 Ziffer 2 nach Entscheidung des Studierendenparlaments für
-    die Studierendenkinderkrippe und andere soziale studentische Einrichtungen,
-3. die Anteile nach § 2 Ziffer 3 für ein Sonderkonto, über das ein vom
-    Studierendenparlament gewählter Ausschuss im Einvernehmen mit dem AStA
-    verfügt,
+2. die Anteile nach § 2 Ziffer 2 nach Entscheidung des Studierendenparlaments für die Studierendenkinderkrippe und andere soziale studentische Einrichtungen,
+3. die Anteile nach § 2 Ziffer 3 für ein Sonderkonto, über das ein vom Studierendenparlament gewählter Ausschuss im Einvernehmen mit dem AStA verfügt,
 4. die Anteile nach § 2 Ziffer 4 für ein Semester-, NRW-Ticket,
-5. die Anteile nach § 2 Ziffer 5 für ein Sonderkonto, über das ein vom
-    Studierendenparlament gewählter Ausschuss im Einvernehmen mit dem AStA
-    verfügt,
+5. die Anteile nach § 2 Ziffer 5 für ein Sonderkonto, über das ein vom Studierendenparlament gewählter Ausschuss im Einvernehmen mit dem AStA verfügt,
 6. die Anteile nach § 2 Ziffer 6 für die Selbstbewirtschaftung der Fachschaften,
-7. die Anteile nach § 2 Ziffer 7 für den Studierendensport.
+7. die Anteile nach § 2 Ziffer 7 für den Studierendensport,
+8. die Anteile nach § 2 Ziffer 8 für Kooperationen mit kulturellen Institutionen für Preisreduktionen bei deren Angeboten für Studierende.
 
 (2) Der Anteil für die studentische Selbstverwaltung darf nur für ihre satzungsgemäßen
 Aufgaben verwendet werden.
