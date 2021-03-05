@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung des Fachschaftsrats der Fachschaft Physik/Astronomie der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Geschäftsordnung des Fachschaftsrats der Fachschaft Physik/Astronomie
-date:  4. Dezember 2020
+date:  4. März 2021
 type:  Ordnung
 id:    GO-FSR-Physik
 contains:
@@ -19,6 +19,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  4. Dezember 2020
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2020/vsbonn_bekanntmachung_2020-37.pdf
+- title: Korrektur zur „Ersten Ordnung zur Änderung derGeschäftsordnung des Fachschaftsrates der FachschaftPhysik/Astronomie“
+  short: Korrektur zur „Ersten Ordnung zur Änderung derGeschäftsordnung des Fachschaftsrates der FachschaftPhysik/Astronomie“
+  actorgan: Fachschaftsrat Fachschaft Physik/Astronomie
+  actdate:  9. Februar 2021
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  4. März 2021
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-16.pdf
 
 ---
 
