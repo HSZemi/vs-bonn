@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms-Universität Bonn [FKGO]
 short: Geschäftsordnung der Fachschaftenkonferenz (FKGO)
-date:  17. November 2020
+date:  4. März 2021
 type:  Ordnung
 id:    FKGO
 contains:
@@ -78,6 +78,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  17. November 2020
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2020/vsbonn_bekanntmachung_2020-33.pdf
+- title:    Zweite Ordnung zur Änderung der Geschäftsordnung derFachschaftenkonferenz
+  short:    Zweite Ordnung zur Änderung der Geschäftsordnung derFachschaftenkonferenz
+  actorgan: Fachschaftenkonferenz
+  actdate:  22. Februar 2021
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  4. März 2021
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-15.pdf
 
 ---
 
@@ -956,6 +963,18 @@ Das FSK stellt den Fachschaften einen aktuellen Auszug der
 Geschäftsordnung und der Anlage II als Leitfaden über die Regelungen zur
 Verteilung und Beantragung der für die Fachschaften eingezogenen Beträge
 zur Verfügung.
+
+## §33a Fristverlängerungen aufgrund der Covid-19-Pandemie
+
+(1) Für AFsG-Anträge bezüglich des Wintersemesters 2018/19 oder des 
+Sommersemesters 2019 wird die in § 26 Absatz 8 genannte Frist um ein 
+Semester verlängert.
+
+(2) Für BFsG-Anträge die das Wintersemester 2019/20, das Sommersemester 2020 
+oder das Wintersemester 2020/21 betreffen, wird die in § 28 Absatz 8 genannte 
+Frist um 6 Monate und die in § 28 Absatz 9 genannte Frist um ein Semester 
+verlängert.
+
 
 # VIII. Schlussbestimmungen
 
