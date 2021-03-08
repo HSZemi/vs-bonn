@@ -1,6 +1,6 @@
 ---
-title: Satzung der Fachschaft für Griechische und Lateinische Philologie
-short: Satzung der Fachschaft für Griechische und Lateinische Philologie
+title: Satzung der Fachschaft Griechische und Lateinische Philologie
+short: Satzung der Fachschaft Griechische und Lateinische Philologie
 date:  20. Dezember 2017
 type:  Satzung
 id:    FSSatzungGriechLatPhil

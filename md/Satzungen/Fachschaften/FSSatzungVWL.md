@@ -1,6 +1,6 @@
 ---
-title: Satzung der Fachschaft Volkswirtschaftslehre der Rheinischen Friedrich-Wilhelms-Universität Bonn
-short: Satzung der Fachschaft Volkswirtschaftslehre
+title: Satzung der Fachschaft VWL der Rheinischen Friedrich-Wilhelms-Universität Bonn
+short: Satzung der Fachschaft VWL
 date:  29. April 2020
 type:  Satzung
 id:    FSSatzungVWL

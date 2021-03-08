@@ -1,9 +1,9 @@
 ---
-title: Satzung der Fachschaft Steinmann der Rheinischen Friedrich-Wilhelms-Universität Bonn
-short: Satzung der Fachschaft Steinmann
+title: Satzung der Fachschaft Geowissenschaften der Rheinischen Friedrich-Wilhelms-Universität Bonn
+short: Satzung der Fachschaft Geowissenschaften
 date:  15. Juli 2019
 type:  Satzung
-id:    FSSatzungSteinmann
+id:    FSSatzungGeowissenschaften
 contains:
 - title: Satzung der Fachschaft Geowissenschaften
   short: Satzung der Fachschaft Geowissenschaften

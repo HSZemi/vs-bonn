@@ -1,6 +1,6 @@
 ---
-title: Satzung der Fachschaft Evangelische Theologie
-short: Satzung der Fachschaft Evangelische Theologie
+title: Satzung der Fachschaft Katholische Theologie
+short: Satzung der Fachschaft Katholische Theologie
 date:  27. November 2019
 type:  Satzung
 id:    FSSatzungKatholischeTheologie

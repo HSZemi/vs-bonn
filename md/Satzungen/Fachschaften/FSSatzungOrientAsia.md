@@ -1,6 +1,6 @@
 ---
-title: Satzung der Fachschaft OrientAsia der Rheinischen Friedrich-Wilhelms-Universität Bonn
-short: Satzung der Fachschaft OrientAsia
+title: Satzung der Fachschaft Orient Asia der Rheinischen Friedrich-Wilhelms-Universität Bonn
+short: Satzung der Fachschaft Orient Asia
 date:  18. Juni 2018
 type:  Satzung
 id:    FSSatzungOrientAsia

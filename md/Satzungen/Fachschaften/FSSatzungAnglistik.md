@@ -1,6 +1,6 @@
 ---
-title: Satzung der Fachschaft Anglistik der Rheinischen Friedrich-Wilhelms-Universität Bonn
-short: Satzung der Fachschaft Anglistik
+title: Satzung der Fachschaft Anglistik, Amerikanistik und Keltologie
+short: Satzung der Fachschaft Anglistik, Amerikanistik und Keltologie
 date:  15. Juli 2019
 type:  Satzung
 id:    FSSatzungAnglistik

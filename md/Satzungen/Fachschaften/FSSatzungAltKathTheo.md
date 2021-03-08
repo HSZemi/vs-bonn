@@ -1,13 +1,13 @@
 ---
-title: Satzung der Fachschaft Altkatholische Theologie
-short: Satzung der Fachschaft Altkatholische Theologie
+title: Satzung der Fachschaft Altkatholisches Seminar
+short: Satzung der Fachschaft Altkatholisches Seminar
 date:  15. Juli 2019
 type:  Satzung
 id:    FSSatzungAltKathTheo
 contains:
 - title: Satzung der Fachschaft Alt-Katholisches Seminar
   short: Satzung der Fachschaft Alt-Katholisches Seminar
-  actorgan: Fachschaftsvollversammlung Fachschaft Altkatholische Theologie
+  actorgan: Fachschaftsvollversammlung Fachschaft Altkatholisches Seminar
   actdate:  06. Februar 2019
   puborgan: AKUT
   pubdate:  15. Juli 2019
