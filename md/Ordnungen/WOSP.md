@@ -189,10 +189,10 @@ der Betrag des Titels "Aufwandsentschädigung Wahlausschuss" um 1000,- € auf 6
 Finanzreferat vor der Wahl eine Liste aller von der Bezahlung ausgeschlossenen Tätigkeiten
 zukommen.
 
-(4) ~~Am Auszählabend werden Mitglieder des Wahlausschusses und Auszählhelferinnen
+(4) Am Auszählabend werden Mitglieder des Wahlausschusses und Auszählhelferinnen
 gleich bezahlt: Bis 1.00 Uhr wird eine pauschale Aufwandsentschädigung von 60,-
 Euro gezahlt, danach gibt es einen „Stundenlohn“, der dem der Wahlhelferinnen
-entspricht.~~ **(vgl. § 15a)**
+entspricht.
 
 (5) Der Wahlausschuss beschließt den Stundensatz für die Wahlhelferinnen. Dabei
 ist darauf zu achten, dass es sich hierbei dem Wesen nach nicht um Lohn für eine
@@ -202,9 +202,9 @@ handelt.
 
 ### § 6 Wahlhelferinnen
 
-(1) _Für die ordnungsgemäße Durchführung der Wahlen werden vom
+(1) Für die ordnungsgemäße Durchführung der Wahlen werden vom
 Wahlausschuss nach öffentlicher Ausschreibung freiwillige Wahlhelferinnen
-eingesetzt._ **(vgl. §15a)**
+eingesetzt.
 
 (2) Die Wahlleiterin ist gegenüber den eingesetzten Wahlhelferinnen
 weisungsbefugt. Insbesondere können in erforderlichen Fällen einzelnen
@@ -227,13 +227,13 @@ des AStA sein.
 
 ### § 8 Wahlausschreibung
 
-_Der Wahlausschuss schreibt die Wahlen zum Studierendenparlament bis spätestens zum 27. Tag vor
+Der Wahlausschuss schreibt die Wahlen zum Studierendenparlament bis spätestens zum 27. Tag vor
 dem 1. Wahltag aus. Die Wahlausschreibung ist zu veröffentlichen. Darüber hinaus soll die
-Wahlleiterin in auffälliger Weise für die Bekanntgabe sorgen._ **(vgl. § 15a)** Die Wahlausschreibung muss
+Wahlleiterin in auffälliger Weise für die Bekanntgabe sorgen. Die Wahlausschreibung muss
 mindestens enthalten:
 
 1. Ort und Datum Ihrer Veröffentlichung;
-2. ~~die Wahltage;~~ **(vgl. § 15a)**
+2. die Wahltage;
 3. Ort und Zeit der Stimmabgabe;
 4. die Bezeichnung des zu wählenden Organs;
 5. die Zahl der zu wählenden Mitglieder;
@@ -242,7 +242,7 @@ mindestens enthalten:
 8. eine Darstellung des Wahlsystems;
 9. einen Hinweis darauf, dass nur wählen kann, wer in das Wählerinnenverzeichnis eingetragen ist;
 10. einen Hinweis auf Ort und Zeit der Auslegung des Wählerinnenverzeichnisses;
-11. ~~einen Hinweis, dass die Möglichkeit eines Antrags auf Briefwahl gegeben ist und einen Hinweis auf die bei der Briefwahl zu beachtenden Fristen;~~ **(vgl. § 15a)**
+11. einen Hinweis, dass die Möglichkeit eines Antrags auf Briefwahl gegeben ist und einen Hinweis auf die bei der Briefwahl zu beachtenden Fristen;
 12. einen Hinweis auf die Einspruchsmöglichkeit nach § 16 dieser Ordnung;
 13. die Vorgaben für das Format der Erklärungen der Listenbewerbungen über ihr Wahlprogramm.
 
@@ -277,7 +277,7 @@ mindestens enthalten:
 3. eine maschinenlesbare Tabelle mit folgenden Angaben aller Kandidierenden:
     a) ein in die Matrikel oder im Personalausweis eingetragener Vorname;
     b) vollständiger Nachname;
-    c) mindestens ein Studienfach dieser Person zum Vermerk ~~auf dem Stimmzettel~~ **(vgl. § 15a)** und in der Wahlbekanntmachung;
+    c) mindestens ein Studienfach dieser Person zum Vermerk auf dem Stimmzettel und in der Wahlbekanntmachung;
     d) E-Mail-Adresse.
 
 (4) Eine Kandidatur enthält mindestens folgende Angaben:
@@ -287,7 +287,7 @@ mindestens enthalten:
 3. Geburtsdatum;
 4. Geburtsort;
 5. Matrikelnummer;
-6. mindestens 1 Studienfach dieser Person zum Vermerk ~~auf dem Stimmzettel~~ **(vgl. § 15a)** und in der Wahlbekanntmachung;
+6. mindestens 1 Studienfach dieser Person zum Vermerk auf dem Stimmzettel und in der Wahlbekanntmachung;
 7. ladungsfähige Anschrift;
 8. E-Mail-Adresse;
 9. Erklärung über die Bereitschaft zur Kandidatur für diese Wahl;
@@ -396,7 +396,7 @@ wird das jeweilige Dokument entsprechend geändert.
 ### § 13 Wahlbekanntmachung
 
 (1) Alle zugelassenen Listenbewerbungen sind spätestens acht Tage vor der Wahl
-_bekanntzumachen_ **(vgl. § 15a)**.
+bekanntzumachen.
 
 (2) Die Bekanntmachung der Listenbewerbung muss die Erklärung der Listenbewerbung über ihr
 Wahlprogramm enthalten.
@@ -404,10 +404,10 @@ Wahlprogramm enthalten.
 (3) Die Wahlleiterin hat in geeigneter Form die Voraussetzungen für eine möglichst hohe
 Wahlbeteiligung zu schaffen.
 
-(4) ~~Die Organe der Studierendenschaft und die Fachschaften werden aufgefordert, über
+(4) Die Organe der Studierendenschaft und die Fachschaften werden aufgefordert, über
 die Publikationsorgane die Wahlberechtigten, die sich im Urlaubssemester befinden,
 über Ort und Zeit der Wahl sowie das zu wählende Organ zu benachrichtigen und
-auf die Berechtigung zur Briefwahl hinzuweisen.~~ **(vgl. § 15a)** 
+auf die Berechtigung zur Briefwahl hinzuweisen.
 
 (5) Die Wahlleiterin muss frühzeitig, spätestens zehn Tage vor dem ersten Wahltag, Termin und
 Ort der Wahl bekannt geben. Die Wahlbekanntmachung muss mindestens die Angaben des § 8 Ziff.
@@ -428,7 +428,7 @@ errungenen Stimmenzahl;
 
 
 (3) Auf einer Liste werden alle Kandidatinnen namentlich aufgeführt. Die Reihenfolge der Listenkandidatinnen entspricht derjenigen beim Eingang der Listenbewerbung. 
-Sie wird durch Nummerierung vor dem Namen deutlich gemacht. ~~Hinter dem Namen sind die in der Bewerbung der Kandidatin angegebenen Studienfächer in geeigneter Form auszuweisen.~~ **(vgl. § 15a)**
+Sie wird durch Nummerierung vor dem Namen deutlich gemacht. Hinter dem Namen sind die in der Bewerbung der Kandidatin angegebenen Studienfächer in geeigneter Form auszuweisen.
 
 # IV. Wahldurchführung
 
@@ -436,66 +436,14 @@ Sie wird durch Nummerierung vor dem Namen deutlich gemacht. ~~Hinter dem Namen s
 
 (1) Die Wahl findet in der Regel gemäß § 6 Abs. 1 der Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität statt.
 
-(2) ~~Die Wahl hat an vier aufeinanderfolgenden Wahltagen innerhalb einer Woche stattzufinden.~~ **(vgl. § 15a)** Wahltage sind Werktage mit ordentlichem Vorlesungsbetrieb außer Sonnabend. Das Studierendenparlament legt die Wahltage bis spätestens 50 Tage vor dem ersten Wahltag fest.
+(2) Die Wahl hat an vier aufeinanderfolgenden Wahltagen innerhalb einer Woche stattzufinden. Wahltage sind Werktage mit ordentlichem Vorlesungsbetrieb außer Sonnabend. Das Studierendenparlament legt die Wahltage bis spätestens 50 Tage vor dem ersten Wahltag fest.
 
-
-### § 15a
-
-Für die Wahl zum 43. Studierendenparlament gelten aufgrund der teilweisen
-Schließung der Universitätsgebäude ob der COVID-19-Pandemie folgende
-Besonderheiten:
-
-Der Wahlausschuss kann beschließen, dass die Wahl als reine Briefwahl
-durchgeführt wird. In diesem Fall erhalten alle Wahlberechtigten ohne
-gesonderten Antrag die Briefwahlunterlagen gemäß § 19 zugesandt. In
-diesem Fall treten folgende Änderungen in Kraft:
-
-1. In § 5 wird Absatz 4 wie folgt neu gefasst:  
-„Bei der Auszählung werden Mitglieder des Wahlausschusses und Auszählhelferinnen
-gleich bezahlt: Für die ersten fünf Stunden wird eine pauschale Aufwandsentschädigung
-von 60,- Euro gezahlt, danach gibt es einen „Stundenlohn“, der dem der
-Wahlhelferinnen entspricht.“
-2. § 6 Abs. 1 gilt mit der Maßgabe, dass die Einsetzung von Wahlhelferinnen fakultativ ist
-und im Ermessen des Wahlausschusses steht.
-3. § 8 gilt mit der Maßgabe, dass eine Wahlausschreibung hochschulöffentlich im Internet
-genügt. Nr. 2 gilt nicht. Nr. 11 wird wie folgt neu gefasst:  
-„einen Hinweis auf die bei der Briefwahl zu beachtenden Fristen;“
-4. § 10 Abs. 3 Nr. 3, sowie Absatz 4 Nr. 6 gelten mit der Maßgabe, dass kein Studienfach
-auf dem Stimmzettel vermerkt werden muss.
-5. § 13 gilt mit der Maßgabe, dass eine Bekanntmachung hochschulöffentlich im Internet
-genügt. § 13 Abs. 4 gilt nicht.
-6. § 14 Abs. 3 Satz 4 wird ersetzt und Satz 5 wie folgt angefügt:  
-„Der Wahlausschuss ist berechtigt, Namen nach eigenem Ermessen abzukürzen, soweit
-dies der Übersichtlichkeit des Stimmzettels dient. Dies soll nur nach Rücksprache mit der
-betroffenen Kandidatin geschehen.“
-7. § 15 Abs. 2 Satz 1 gilt nicht.
-8. § 16 Abs. 2 wird wie folgt neu gefasst:  
-„Das Wählerinnenverzeichnis liegt drei Wochen vor Wahlbeginn zur Einsichtnahme
-aus.“
-9. § 16 Abs. 5 und Abs. 6 Satz 1 gelten nicht. Die Wahlleiterin hat dafür Sorge zu tragen,
-dass Termin und Ort der Wahl zehn Tage vor der Wahl in geeigneter Weise bekannt
-gemacht werden.
-10. § 17 gilt mit der Maßgabe, dass das Aufstellen von Urnen zusätzlich zur
-Briefwahlmöglichkeit fakultativ ist.
-11. § 18 Abs. 2 bis 5 gelten nicht.
-12. § 19 Abs. 1, Abs. 2 Sätze 2 bis 4, Abs. 3, Abs. 5 Satz 3 Nr. 1, Abs. 6 gelten nicht. § 19 Abs. 5
-Satz 2 wird wie folgt neu gefasst:  
-„Die Wahlumschläge sind zu prüfen und die Wahlbriefe in dafür bestimmten Urnen
-aufzubewahren.“
-13. § 21 Abs. 2 gilt nicht.
-14. § 22 Abs. 1 gilt nicht.
-15. § 22 Abs. 3 gilt mit der Maßgabe, dass die Auszählung der Stimmen binnen einer Woche
-nach Beendigung der Wahl zu erfolgen hat.
-16. In § 22 Abs. 4 wird Satz 1 wie folgt neu gefasst:  
-„Die Auszählung erfolgt öffentlich, soweit dies mit Hygiene- und Schutzbestimmungen
-zur Eindämmung der COVID-19-Pandemie vereinbar ist.“
-17. § 24 Abs. 4 gilt nicht.
 
 ### § 16 Wahlbekanntmachung und Wahlbenachrichtigung
 
 (1) Die Wahlleiterin erstellt in Zusammenarbeit mit der Hochschulverwaltung ein Wählerinnenverzeichnis, das Namen und Matrikelnummer der Wahlberechtigten enthält. Bei der Erstellung des Wählerinnenverzeichnisses ist den Erfordernissen des Datenschutzes Rechnung zu tragen.
 
-(2) ~~Das Wählerinnenverzeichnis liegt drei Wochen vor Wahlbeginn bei der Wahlleiterin zur Einsichtnahme aus.~~ **(vgl. § 15a)**
+(2) Das Wählerinnenverzeichnis liegt drei Wochen vor Wahlbeginn bei der Wahlleiterin zur Einsichtnahme aus.
 
 (3) Einsprüche gegen die Richtigkeit des Wählerinnenverzeichnisses können bei der Wahlleiterin schriftlich oder zur Niederschrift bis eine Woche vor Wahlbeginn eingelegt werden.
 
@@ -503,12 +451,10 @@ zur Eindämmung der COVID-19-Pandemie vereinbar ist.“
 
 (5) (weggefallen)
 
-(6) ~~Die Wahlleiterin muss frühzeitig, spätestens zehn Tage vor dem ersten Wahltag, Termin und Ort der Wahl durch Plakate, Rundschreiben an die betreffenden Fachschaften und Institute sowie an die Studierendenwohnheime und durch Handzettel bekanntmachen.~~ **(vgl. § 15a)** Die Wahlbekanntmachung muss mindestens die Angaben des § 8 Ziff. 1 bis 5 und 8 bis 12 enthalten.
+(6) Die Wahlleiterin muss frühzeitig, spätestens zehn Tage vor dem ersten Wahltag, Termin und Ort der Wahl durch Plakate, Rundschreiben an die betreffenden Fachschaften und Institute sowie an die Studierendenwohnheime und durch Handzettel bekanntmachen. Die Wahlbekanntmachung muss mindestens die Angaben des § 8 Ziff. 1 bis 5 und 8 bis 12 enthalten.
 
 
 ### § 17 Wahlsicherung
-
-**Obacht! vgl. § 15a**
 
 (1) Für jede Urne wird ein Urnenbuch geführt. Das Urnenbuch ist eine
 zusammengesetzte Urkunde zur Dokumentation der Einhaltung der
@@ -565,19 +511,19 @@ als Wahlbeobachter der Versiegelung beiwohnen. Es gilt § 3 Abs. 11 sinngemäß.
 
 (1) Jede Wählerin hat nur eine Stimme. Die Wahl erfolgt durch Ankreuzen der gewünschten Kandidatin oder durch Ankreuzen der Liste in dem dafür vorgesehen Teil des Stimmzettels.
 
-(2) ~~Während der Stimmabgabe wird der Studierendenausweis der Wählerin durch die Wahlhelferin gekennzeichnet.~~ **(vgl. § 15a)**
+(2) Während der Stimmabgabe wird der Studierendenausweis der Wählerin durch die Wahlhelferin gekennzeichnet.
 
-(3) ~~Die in die Urne abgegebenen Stimmzettel sind von den Wahlhelferinnen im
+(3) Die in die Urne abgegebenen Stimmzettel sind von den Wahlhelferinnen im
 Urnenbuch in der Reihenfolge der Stimmabgabe mit Name, Vorname,
-Matrikelnummer und Unterschrift der Wählerin zu dokumentieren.~~ **(vgl. § 15a)**
+Matrikelnummer und Unterschrift der Wählerin zu dokumentieren.
 
-(4) ~~Studierende, die eine Ersatzausfertigung ihres Studierendenausweises erhalten haben, sind in einer gesonderten Liste zu erfassen, die von der Hochschulverwaltung erstellt wird. Anhand dieser Liste überprüfen die Wahlhelferinnen die Wahlberechtigung.~~ **(vgl. § 15a)**
+(4) Studierende, die eine Ersatzausfertigung ihres Studierendenausweises erhalten haben, sind in einer gesonderten Liste zu erfassen, die von der Hochschulverwaltung erstellt wird. Anhand dieser Liste überprüfen die Wahlhelferinnen die Wahlberechtigung.
 
-(5) ~~In Fällen, in denen anhand des Studierendenausweises oder wegen sonstiger
+(5) In Fällen, in denen anhand des Studierendenausweises oder wegen sonstiger
 Gründe die Wahlberechtigung der Wählerin zweifelhaft ist, wird von den
 Wahlhelferinnen unverzüglich die Wahlleiterin kontaktiert. Die Stimmabgabe ist
 bis zur Entscheidung zu untersagen. Ist eine Klärung telefonisch nicht möglich,
-wird die Wählerin in das Wahlbüro verwiesen.~~ **(vgl. § 15a)**
+wird die Wählerin in das Wahlbüro verwiesen.
 
 
 ### § 19 Briefwahl
@@ -589,17 +535,17 @@ Der Wahlausschuss setzt eine angemessene Frist für den Eingang des Antrages fes
 Auf diese Frist muss entsprechend hingewiesen werden.
 
 (2) Die Briefwahlunterlagen müssen eine Belehrung über die rechtlichen Folgen einer
-Wahlfälschung enthalten. ~~Jede Briefwählerin hat die Briefwahlunterlagen bis
+Wahlfälschung enthalten. Jede Briefwählerin hat die Briefwahlunterlagen bis
 spätestens 24 Stunden vor der Wahl bei der Wahlleiterin abzuholen. Vorzulegen sind
-hierbei:~~
+hierbei:
 
-1. ~~ein amtlicher Lichtbildausweis;~~
-2. ~~der Studierendenausweis bzw. Ersatzausfertigung.~~
+1. ein amtlicher Lichtbildausweis;
+2. der Studierendenausweis bzw. Ersatzausfertigung.
 
-~~Die Aushändigung der Briefwahlunterlagen wird von der Wahlleiterin schriftlich
-festgehalten.~~ **(vgl. § 15a)**
+Die Aushändigung der Briefwahlunterlagen wird von der Wahlleiterin schriftlich
+festgehalten.
 
-(3) ~~Wahlberechtigte, die weder in der Lage sind, während der Wahltage an den
+(3) Wahlberechtigte, die weder in der Lage sind, während der Wahltage an den
 aufgestellten Urnen zu wählen, noch ihre Briefwahlunterlagen persönlich bei der
 Wahlleiterin abzuholen, können die Briefwahlunterlagen schriftlich bei der
 Wahlleiterin anfordern. Hierzu ist der Wahlleiterin bis spätestens sechs Tage vor
@@ -607,7 +553,7 @@ Wahlbeginn ein schriftlicher Antrag zuzusenden. Jene Briefwählerinnen, die ihre
 Briefwahlunterlagen schriftlich anfordern, haben die in Absatz 1 geforderten
 Daten und Erklärungen abzugeben. Nach Prüfung des Briefwahlantrages und der
 Wahlberechtigung der Antragstellerin durch die Wahlleiterin werden der
-Briefwählerin die Briefwahlunterlagen zugesandt.~~
+Briefwählerin die Briefwahlunterlagen zugesandt.
 
 (4) Der Stimmzettel ist von der Briefwählerin in einem verschlossenen Umschlag
 (Wahlbrief) unterzubringen. Auf dem Stimmzettel oder dem Wahlbrief dürfen
@@ -615,16 +561,16 @@ keinerlei Angaben zur Person der Wählerin oder sonstige Angaben gemacht werden.
 Andernfalls sind die Stimmzettel ungültig.
 
 (5) Der Wahlbrief im Wahlumschlag muss spätestens bis zu dem vom
-Wahlausschuss gesetzten Ende der Wahl bei der Wahlleiterin eingegangen sein. ~~Die
+Wahlausschuss gesetzten Ende der Wahl bei der Wahlleiterin eingegangen sein. Die
 Wahlumschläge sind vom Wahlausschuss nach Eingang zu prüfen und die Wahlbriefe
-in einer gesonderten Urne aufzubewahren.~~ **(vgl. § 15a)** Dem Wahlumschlag sind beizufügen:
+in einer gesonderten Urne aufzubewahren. Dem Wahlumschlag sind beizufügen:
 
-1. ~~Die Bestätigung über die rechtlichen Folgen einer doppelten Stimmabgabe
-und einer anderen Wahlfälschung belehrt worden zu sein;~~ **(vgl. § 15a)**
+1. Die Bestätigung über die rechtlichen Folgen einer doppelten Stimmabgabe
+und einer anderen Wahlfälschung belehrt worden zu sein;
 2. eine Versicherung, dass der Stimmzettel von der Antragstellerin selbst
 ausgefüllt wurde.
 
-(6) ~~Sämtliche Briefwählerinnen sind in einer gesonderten Liste zu erfassen, die den Wahlhelferinnen an die einzelnen Urnen mitzugeben ist.~~ **(vgl. § 15a)**
+(6) Sämtliche Briefwählerinnen sind in einer gesonderten Liste zu erfassen, die den Wahlhelferinnen an die einzelnen Urnen mitzugeben ist.
 
 
 ### § 20 Wahlprotokoll
@@ -644,23 +590,23 @@ Studierendenparlament und dem Schlichtungsgremium zuzuleiten.
 (1) Die Wahlleitung ist während der Wahltage von 7 Uhr bis 21 Uhr stets
 telefonisch erreichbar.
 
-(2) ~~Die Wahlleiterin hat sich stichprobenartig in den Wahllokalen und anhand der
-Urnenbücher von der ordnungsgemäßen Wahldurchführung zu überzeugen.~~ **(vgl. § 15a)**
+(2) Die Wahlleiterin hat sich stichprobenartig in den Wahllokalen und anhand der
+Urnenbücher von der ordnungsgemäßen Wahldurchführung zu überzeugen.
 
 
 # V. Feststellung und Bekanntgabe des Wahlergebnisses
 
 ### § 22 Auswertung der Wahl
 
-(1) ~~Die Wahlhelferinnen liefern unverzüglich nach Beendigung der Wahl die versiegelten Urnen sowie die Wahlutensilien bei dem Wahlausschuss ab.~~ **(vgl. § 15a)**
+(1) Die Wahlhelferinnen liefern unverzüglich nach Beendigung der Wahl die versiegelten Urnen sowie die Wahlutensilien bei dem Wahlausschuss ab.
 
 (2) Die Wahlleiterin prüft die Siegel auf ihre Unversehrtheit.
 
-(3) _Die Auszählung der Stimmen erfolgt unter Aufsicht der Wahlleitung durch die
+(3) Die Auszählung der Stimmen erfolgt unter Aufsicht der Wahlleitung durch die
 Mitglieder des Wahlausschusses und die hierfür bestimmten Wahlhelferinnen
-unverzüglich nach Beendigung der Wahl._ **(vgl. § 15a)**
+unverzüglich nach Beendigung der Wahl.
 
-(4) ~~Die Auszählung erfolgt öffentlich.~~ **(vgl. § 15a)** Die Wahlleiterin kann Personen, die die
+(4) Die Auszählung erfolgt öffentlich. Die Wahlleiterin kann Personen, die die
 Ordnung und Ruhe stören, aus dem Auszählungsraum verweisen.
 
 (5) Der Stimmzettel ist grundsätzlich ungültig, wenn
@@ -724,9 +670,9 @@ entfalten keine Rechtswirkung. Ein Anspruch auf Bekanntgabe oder Mitteilung
 besteht nicht. Mangels Gewährleistung des Wahlgeheimnisses sind Bekanntgaben
 der nach Urne aufgeschlüsselten Personenstimmen unzulässig.
 
-(4) ~~Mitteilungen über die Wahlbeteiligung erfolgen nach jedem Wahltag durch ein Mitglied
+(4) Mitteilungen über die Wahlbeteiligung erfolgen nach jedem Wahltag durch ein Mitglied
 des Wahlausschusses. Für den Fall einer parallel durchgeführten Urabstimmung erfolgt die
-letzte Mitteilung über die Wahlbeteiligung nach dem zweiten Wahltag.~~ **(vgl. § 15a)**
+letzte Mitteilung über die Wahlbeteiligung nach dem zweiten Wahltag.
 
 (5) Mitteilungen über einzelne Urnenergebnisse, vorläufige Endergebnisse oder
 Wahlbeteiligungen vor öffentlicher Bekanntgabe nach Absatz 3 Satz 1 bzw.
