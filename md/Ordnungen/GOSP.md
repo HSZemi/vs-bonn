@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung des Bonner Studierendenparlaments
 short: Geschäftsordnung des Bonner Studierendenparlaments
-date:  25. Januar 2021
+date:  01. April 2021
 type:  Ordnung
 id:    GOSP
 contains:
@@ -65,7 +65,6 @@ Bekanntmachung der Wahlbewerbungen gemäß § 12 der Wahlordnung für die Wahlen
 Studierendenparlament angekündigt wurde.
 
 (2) In der konstituierenden Sitzung führt die Wahlleiterin den Vorsitz, bis die SP-Sprecherin gewählt ist.
-Die Wahlleiterin kann hinsichtlich der konstituierenden Sitzung Entscheidungen nach § 5 Abs. 5 Corona-Epidemie-Hochschulverordnung in der Fassung vom 31. Oktober 2020 treffen.
 Die Wahlleiterin stellt durch namentlichen Aufruf die Beschlussfähigkeit des SP fest. Hiernach erfolgt
 die Wahl des Präsidiums[^1].
 
