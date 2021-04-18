@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
-date:  20. November 2019
+date:  16. April 2021
 type:  Ordnung
 id:    GO-FSR-Informatik
 contains:
@@ -19,6 +19,13 @@ contains:
   puborgan: AKUT
   pubdate:  20. November 2019
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-23.pdf
+- title: Zweite Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
+  short: Zweite Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
+  actorgan: Fachschaftsrat Fachschaft Informatik
+  actdate:  14. April 2021
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  16. April 2021
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-18.pdf
 
 ---
 
@@ -56,7 +63,7 @@ In der Geschäftsordnung können Bezeichnungen unterschiedlichen Geschlechts ben
 
 (2) Das Protokoll besteht aus einem öffentlichen und einem fachschaftsöffentlichen Teil.
 
-(3) Nach Abhandlung eines Tagesordnungspunkts ist dessen Niederschrift zu verlesen. Korrekturwünsche sind zu berücksichtigen. Dann wird festgestellt, ob der Tagesordnungspunkt dem öffentlichen oder dem fachschaftsöffentlichen Teil zuzuordnen ist.
+(3) Im Protokoll sind Sitzungsbeginn und Sitzungsende zu vermerken.
 
 (4) Während der Sitzung ist eine Anwesenheitsliste zu führen. Wenn jemand die Sitzung verlässt oder verspätet erscheint, ist dies mit Uhrzeit festzuhalten.
 
