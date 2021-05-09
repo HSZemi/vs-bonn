@@ -1,6 +1,6 @@
 ---
-title: Satzung der Fachschaft Musikwissenschaft/Sound Studies
-short: Satzung der Fachschaft Musikwissenschaft/Sound Studies
+title: Satzung der Fachschaft Musikwissenschaften/Sound Studies
+short: Satzung der Fachschaft Musikwissenschaften/Sound Studies
 date:  03. Dezember 2019
 type:  Satzung
 id:    FSSatzungMuwi

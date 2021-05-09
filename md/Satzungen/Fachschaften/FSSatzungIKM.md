@@ -1,6 +1,6 @@
 ---
-title: Satzung der Fachschaft Internationale Kommunikation und Medien (IKM)
-short: Satzung der Fachschaft Internationale Kommunikation und Medien (IKM)
+title: Satzung der Fachschaft Interkulturelle Kommunikation und Mehrsprachigkeitsforschung (IKM)
+short: Satzung der Fachschaft Interkulturelle Kommunikation und Mehrsprachigkeitsforschung (IKM)
 date:  25. November 2020
 type:  Satzung
 id:    FSSatzungIKM

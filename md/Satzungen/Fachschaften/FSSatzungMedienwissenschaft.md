@@ -1,6 +1,6 @@
 ---
-title: Satzung der Fachschaft Medienwissenschaften
-short: Satzung der Fachschaft Medienwissenschaften
+title: Satzung der Fachschaft Medienwissenschaft
+short: Satzung der Fachschaft Medienwissenschaft
 date:  15. August 2019
 type:  Satzung
 id:    FSSatzungMedienwissenschaften
