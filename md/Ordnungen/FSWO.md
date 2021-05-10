@@ -619,10 +619,7 @@ sofern noch keine gewählten Fachschaftsorgane existieren.
 einer Wahlvollversammlung durchgeführt wird.
 
 (2) Die Wahl in einer Wahlvollversammlung findet als Persönlichkeitswahl ohne Bindung an die vorgeschlagenen
-Kandidaturen statt. Jedes Mitglied der Fachschaft ist wählbar. Briefwahl ist möglich.
-
-
-### § 26 Absatz 1 findet keine Anwendung.
+Kandidaturen statt. Jedes Mitglied der Fachschaft ist wählbar. Briefwahl ist möglich. § 26 Absatz 1 findet keine Anwendung.
 
 (3) Bis zum 25. Tag vor dem Wahltag legt der Wahlausschuss Ort und Zeit der Wahlvollversammlung
 fest. Die Nummern 1, 4 und 5 in § 13 Absatz 5 entfallen. Nummer 2 in § 15 Absatz 2 entfällt.
