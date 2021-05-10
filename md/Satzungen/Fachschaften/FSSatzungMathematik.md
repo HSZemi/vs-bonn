@@ -64,8 +64,8 @@ Mathematik-Lehramts-Studierenden der Rheinischen Friedrich-Wilhelms-Universität
 
 (2) Beschlussfassende Organe der Fachschaft sind:
 
-1. die Fachschaftsvertretung (FSV),?
-2. der Fachschaftsrat (FSR),?
+1. die Fachschaftsvertretung (FSV),*
+2. der Fachschaftsrat (FSR),*
 3. die Fachschaftsvollversammlung (FSVV).
 
 Die gewählten Organe sind mit einem Stern gekennzeichnet.
