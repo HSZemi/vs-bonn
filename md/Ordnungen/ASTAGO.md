@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung des Allgemeinen Studierenden Ausschuss (GO AStA)
 short: Geschäftsordnung des AStA (GO AStA)
-date:  29. März 2018
+date:  20. Januar 2021
 type:  Ordnung
 id:    ASTAGO
 contains:
