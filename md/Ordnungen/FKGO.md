@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms-Universität Bonn [FKGO]
 short: Geschäftsordnung der Fachschaftenkonferenz (FKGO)
-date:  9. Mai 2021
+date:  19. Juli 2021
 type:  Ordnung
 id:    FKGO
 contains:
@@ -78,8 +78,8 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  17. November 2020
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2020/vsbonn_bekanntmachung_2020-33.pdf
-- title:    Zweite Ordnung zur Änderung der Geschäftsordnung derFachschaftenkonferenz
-  short:    Zweite Ordnung zur Änderung der Geschäftsordnung derFachschaftenkonferenz
+- title:    Zweite Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  short:    Zweite Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   actorgan: Fachschaftenkonferenz
   actdate:  22. Februar 2021
   puborgan: Öffentlichkeitsbeauftragte
@@ -94,6 +94,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  9. Mai 2021
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-21.pdf
+- title:    Dritte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  short:    Dritte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  actorgan: Fachschaftenkonferenz
+  actdate:  12. Juli 2021
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  19. Juli 2021
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-42.pdf
 
 ---
 
@@ -973,7 +980,7 @@ Geschäftsordnung und der Anlage II als Leitfaden über die Regelungen zur
 Verteilung und Beantragung der für die Fachschaften eingezogenen Beträge
 zur Verfügung.
 
-### § 33a Fristverlängerungen aufgrund der Covid-19-Pandemie
+### § Fristverlängerungen sowie Änderungen am Kriterienkatalog aufgrund der Covid-19-Pandemie
 
 (1) Für AFsG-Anträge bezüglich des Wintersemesters 2018/19 oder des 
 Sommersemesters 2019 wird die in § 26 Absatz 8 genannte Frist um ein 
@@ -983,6 +990,11 @@ Semester verlängert.
 oder das Wintersemester 2020/21 betreffen, wird die in § 28 Absatz 8 genannte 
 Frist um 6 Monate und die in § 28 Absatz 9 genannte Frist um ein Semester 
 verlängert.
+
+(3) Abweichend von 3.1.1 im Kriterienkatalog können im Wintersemester 2021/2022 sowie 
+im Sommersemester 2022 (Erst-)Semesterfahrten angeboten werden, die sich an 
+höhersemestrige Studierende richten. Die genannte Quote für Studienanfänger\*innen ist für 
+Fahrten in diesen Semestern aufgehoben.
 
 
 # VIII. Schlussbestimmungen
