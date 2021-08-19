@@ -1,7 +1,7 @@
 ---
 title: Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Beitragsordnung der Studierendenschaft (BO)
-date:  29. Januar 2021
+date:  9. August 2021
 type:  Ordnung
 id:    BO
 contains:
@@ -78,14 +78,23 @@ contains:
   puborgan: Amtliche Bekanntmachungen
   puburl: https://hdl.handle.net/20.500.11811/8608
 - title: Zweiunddreißigste Ordnung zur Änderung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - XXXII. Beitragsordnungsänderungsordnung  (BOÄO XXXII) -
-  short: XXXII\. Beitragsordnungsänderungsordnung  (BOÄO XXXI)
+  short: XXXII\. Beitragsordnungsänderungsordnung  (BOÄO XXXII)
   actdate:  18. Januar 2021
   actorgan: Studierendenparlament
   confirmorgan: Rektorat
   confirmdate: 26. Januar 2021
   pubdate:  29. Januar 2021
   puborgan: Amtliche Bekanntmachungen
-  puburl: http://hdl.handle.net/20.500.11811/8903
+  puburl: https://hdl.handle.net/20.500.11811/8903
+- title: Dreiunddreißigste Ordnung zur Änderung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - XXXIII. Beitragsordnungsänderungsordnung  (BOÄO XXXIII) -
+  short: XXXIII\. Beitragsordnungsänderungsordnung  (BOÄO XXXIII)
+  actdate:  9. Juni 2021
+  actorgan: Studierendenparlament
+  confirmorgan: Rektorat
+  confirmdate: 29. Juni 2021
+  pubdate:  9. August 2021
+  puborgan: Amtliche Bekanntmachungen
+  puburl: https://hdl.handle.net/20.500.11811/9263
 
 ---
 
@@ -98,7 +107,7 @@ Kosten der Selbstverwaltung, der Selbsthilfe und Mobilität der Studierendenscha
 
 ### § 2
 
-Der Beitrag in Höhe von 209,91 € (WS 2020/21) bzw. 212,91 € (SS 2021) ist für folgende Zwecke bestimmt:
+Der Beitrag in Höhe von 215,06 € (WS 2021/22) bzw. 217,06 € (SS 2022) ist für folgende Zwecke bestimmt:
 
 |   |                                                                           |         |
 |:--|:--------------------------------------------------------------------------|--------:|
@@ -106,14 +115,12 @@ Der Beitrag in Höhe von 209,91 € (WS 2020/21) bzw. 212,91 € (SS 2021) ist f
 |2. |für die studentischen Sozialeinrichtungen                                  |  0,75 €,|
 |3. |für den Hilfsfonds zur Unterstützung in Not geratener Studierender         |  0,01 €,|
 |4. |für einen Mobilitätsbeitrag                                                |         |
-|   |a) Semesterticket                                                          |134,80 €,|
+|   |a) Semesterticket                                                          |138,70 €,|
 |   |b) NRW-Ticket                                                              |         |
-|   |   WS 2020/2021                                                            | 56,40 €,|
-|   |   SS 2021                                                                 | 57,40 €,|
+|   |   WS 2021/2022                                                            | 57,40 €,|
+|   |   SS 2022                                                                 | 59,40 €,|
 |5. |für ein Sonderkonto zur Erstattung des Mobilitätsbeitrages                 |  0,60 €,|
-|6. |für die Zuweisungen an die Fachschaften                                    |         |
-|   |WS 2020/2021                                                               |  2,00 €,|
-|   |SS 2021                                                                    |  4,00 €,|
+|6. |für die Zuweisungen an die Fachschaften                                    |  2,25 €,|
 |7. |für den Studierendensport                                                  |  0,85 €,|
 |8. |für das Kulturticket                                                       |  3,00 €,|
 
@@ -161,7 +168,7 @@ zurückzuerstatten; im übrigen besteht kein Anspruch auf anteilige Rückzahlung
 (1) Das Beitragsaufkommen wird innerhalb der Studierendenschaft wie folgt verwandt:
 
 1. die Anteile nach § 2 Ziffer 1 für den Allgemeinen Studierendenausschuss (AStA),
-2. die Anteile nach § 2 Ziffer 2 nach Entscheidung des Studierendenparlaments für die Studierendenkinderkrippe und andere soziale studentische Einrichtungen,
+2. die Anteile nach § 2 Ziffer 2 nach Entscheidung des Studierendenparlaments für die Studierendenkinderkrippe den AStA-Verhütungsmittelfonds und andere soziale studentische Einrichtungen,
 3. die Anteile nach § 2 Ziffer 3 für ein Sonderkonto, über das ein vom Studierendenparlament gewählter Ausschuss im Einvernehmen mit dem AStA verfügt,
 4. die Anteile nach § 2 Ziffer 4 für ein Semester-, NRW-Ticket,
 5. die Anteile nach § 2 Ziffer 5 für ein Sonderkonto, über das ein vom Studierendenparlament gewählter Ausschuss im Einvernehmen mit dem AStA verfügt,
