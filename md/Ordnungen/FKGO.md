@@ -465,6 +465,7 @@ beschäftigen. Aushilfsstellen sind öffentlich auszuschreiben. Sie
 erhalten eine angemessene Aufwandsentschädigung. Sie sind nicht Teil
 des FSK und dürfen keine Finanzangelegenheiten bearbeiten.
 
+(8) Die Wahl ist geheim.
 
 ### § 18 Aufgaben des FSK
 
