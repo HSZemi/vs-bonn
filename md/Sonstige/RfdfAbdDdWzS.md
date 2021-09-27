@@ -1,7 +1,7 @@
 ---
 title: Richtlinie für die finanziellen Aufwendungen bei der Durchführung der Wahlen zum Studierendenparlament
 short: Richtlinie für die finanziellen Aufwendungen bei der Durchführung der Wahlen zum Studierendenparlament
-date:  27. November 2019
+date:  31. März 2021
 type:  Richtlinie
 id:    RfdfAbdDdWzS
 contains:
@@ -164,6 +164,3 @@ durch Änderung gemäß § 11 auszuräumen.
 
 Diese Richtlinie tritt mit ihrer Veröffentlichung in der AKUT in Kraft.
 
-### § 8
-
-§ 4 dieser Richtlinie gilt nicht für die Wahlen zum 43. Studierendenparlament.
