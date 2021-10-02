@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
-date:  16. April 2021
+date:  2. Oktober 2021
 type:  Ordnung
 id:    GO-FSR-Informatik
 contains:
@@ -26,6 +26,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  16. April 2021
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-18.pdf
+- title: Dritte Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
+  short: Dritte Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
+  actorgan: Fachschaftsrat Fachschaft Informatik
+  actdate:  30. September 2021
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  2. Oktober 2021
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-51.pdf
 
 ---
 
@@ -38,7 +45,9 @@ In der Geschäftsordnung können Bezeichnungen unterschiedlichen Geschlechts ben
 
 (2) Die Sitzungstermine sind auf der Fachschaftswebseite bekannt zu machen.
 
-(3) Zu den Sitzungen des FSR soll vor Beginn der Sitzung per E-Mail eingeladen werden. Die Einladung enthält den Vorschlag für eine Tagesordnung. 
+(3) Zu den Sitzungen des FSR soll vor Beginn der Sitzung per E-Mail eingeladen werden. Die Einladung enthält mindestens den Sitzungsbeginn, den Sitzungsort sowie einen Vorschlag für eine Tagesordnung.
+
+(4) Sitzungen können auf Beschluss des FSR in elektronischer Kommunikation (digitale Sitzung) oder teilweiser elektronischer Kommunikation (Hybrid-Sitzung) stattfinden. In der Einladung ist darauf hinzuweisen.
 
 
 ### § 2 Aufgabenverteilung
@@ -55,6 +64,12 @@ In der Geschäftsordnung können Bezeichnungen unterschiedlichen Geschlechts ben
 (2) Die Sitzungsleitung stellt die Fragen so zur Abstimmung, dass sie sich mit "Ja" oder "Nein" beantworten lassen.
 
 (3) Abgestimmt wird durch Handzeichen. Auf Verlangen eines FSR-Mitglieds findet eine geheime Abstimmung statt. Auf Verlangen eines FSR-Mitglieds findet eine namentliche Abstimmung statt. Sind zu demselben Antrag geheime und namentliche Abstimmung verlangt worden, entscheidet der FSR mit einfacher Mehrheit über das Abstimmungsverfahren. Bei Stimmgleichheit geht die namentliche Abstimmung der geheimen Abstimmung vor.
+
+(4) Auf digitalen Sitzungen und Hybrid-Sitzungen kann mithilfe elektronischer Hilfsmittel abgestimmt werden. Eine geheime Abstimmung ist nicht möglich. Wird auf einer solchen Sitzung für einen Antrag eine geheime Abstimmung gefordert, so gilt die Sitzung für diesen Punkt als nicht beschlussfähig.
+
+(5) Auf digitalen Sitzungen und Hybrid-Sitzungen können FSR-Mitglieder die Vertagung eines Tagesordnungspunkts auf eine Präsenzsitzung verlangen, ein Einspruch ist nicht möglich.
+
+(6) Wahlen können nicht auf digitalen oder hybriden Sitzungen stattfinden.
 
 
 ### § 4 Protokoll
@@ -81,6 +96,7 @@ In der Geschäftsordnung können Bezeichnungen unterschiedlichen Geschlechts ben
 (1) Sitzungssprache ist Deutsch. Auf Verlangen eines FSR-Mitglieds werden einzelne Tagesordnungspunkte oder die gesamte Sitzung auf Englisch behandelt, falls dem kein FSR-Mitglied widerspricht.
 
 (2) Das Sitzungsprotokoll wird auf Deutsch verfasst. Auf Verlangen eines FSR-Mitglieds wird die Niederschrift zu einem Tagesordnungspunkt zusätzlich auf Englisch verfasst.
+
 
 ### § 6 Anträge zur Geschäftsordnung
 
@@ -127,6 +143,7 @@ Antrag nach Anhörung einer Gegenrede abzustimmen.
 ### § 7 Änderungen der Geschäftsordnung
 
 Diese Geschäftsordnung kann in drei Lesungen auf mindestens zwei getrennten Sitzungen durch Beschluss der Mehrheit der FSR-Mitglieder geändert werden.
+
 
 ### § 8 Inkrafttreten
 
