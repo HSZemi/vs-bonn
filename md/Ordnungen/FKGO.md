@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms-Universität Bonn [FKGO]
 short: Geschäftsordnung der Fachschaftenkonferenz (FKGO)
-date:  19. Juli 2021
+date:  2. Oktober 2021
 type:  Ordnung
 id:    FKGO
 contains:
@@ -101,6 +101,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  19. Juli 2021
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-42.pdf
+- title:    Vierte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  short:    Vierte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  actorgan: Fachschaftenkonferenz
+  actdate:  27. September 2021
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  2. Oktober 2021
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-52.pdf
 
 ---
 
@@ -208,6 +215,10 @@ Sonderfachschaftenkonferenz ein. Im Antrag ist der zu behandelnde
 Tagesordnungspunkt zu nennen. Der Vorsitzende des FSK kann eine
 Sonderfachschaftenkonferenz zudem nach eigenem Ermessen einberufen.
 Eine Ladungsfrist von 48 Stunden ist einzuhalten.
+
+(4) Sitzungen können auf Beschluss der FK in elektronischer
+Kommunikation (digitale Sitzung) oder teilweiser elektronischer
+Kommunikation (Hybrid-Sitzung) stattfinden.
 
 ### § 5 Tagesordnung (TO)
 
@@ -429,6 +440,19 @@ Antrag eines Mitglieds des FSK oder eines stimmberechtigten
 Mitglieds der FK der Antrag einmalig vertagt werden. Die Abstimmung
 ist in diesem Fall ergebnislos.
 
+(6) Auf digitalen Sitzungen und Hybrid-Sitzungen kann mithilfe elektronischer
+Hilfsmittel abgestimmt werden. Eine geheime Abstimmung ist nicht möglich.
+Wird auf einer solchen Sitzung für einen Antrag eine geheime Abstimmung
+gefordert, so gilt die Sitzung für diesen Punkt als nicht beschlussfähig.
+
+(7) Auf digitalen Sitzungen und Hybrid-Sitzungen können Delegierte sowie
+FSK-Mitglieder die Vertagung eines Tagesordnungspunkts auf eine
+Präsenzsitzung verlangen, ein Einspruch ist nicht möglich.
+
+(8) Wahlen können nicht auf digitalen oder hybriden Sitzungen stattfinden,
+wenn mehr Personen kandidieren als Plätze zu besetzen sind.
+
+
 # IV. Das Fachschaftenkollektiv (FSK)
 
 ### § 17 Wahl des Vorsitzenden und der weiteren Mitglieder des FSK
@@ -465,7 +489,6 @@ beschäftigen. Aushilfsstellen sind öffentlich auszuschreiben. Sie
 erhalten eine angemessene Aufwandsentschädigung. Sie sind nicht Teil
 des FSK und dürfen keine Finanzangelegenheiten bearbeiten.
 
-(8) Die Wahl ist geheim.
 
 ### § 18 Aufgaben des FSK
 
@@ -583,7 +606,7 @@ leitet diese und ist für die Weiterleitung von Arbeitsergebnissen
 verantwortlich.
 
 (6) Die Bestimmungen zum Wahlprüfungsausschuss der Fachschaften (WPAF)
-richten sich nach § 22 der Fachschaftswahlordnung (FSWO).
+richten sich nach § 24 der Fachschaftswahlordnung (FSWO).
 
 (7) Der Satzungs- und Geschäftsordnungsausschuss (GoSaFK) ist für die
 Ausarbeitung von Dokumenten, welche die Arbeit der Fachschaften
