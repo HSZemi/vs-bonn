@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung des Fachschaftsrats der Fachschaft Mathematik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Geschäftsordnung des Fachschaftsrats der Fachschaft Mathematik
-date:  10. Februar 2016
+date:  6. Oktober 2021
 type:  Ordnung
 id:    GO-FSR-Mathematik
 contains:
@@ -12,6 +12,13 @@ contains:
   puborgan: AKUT
   pubdate:  10. Februar 2016
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut-extra__Gesch%C3%A4ftsordnung-des-Fachschaftsrats-der-Fachschaft-Mathematik-der-Rheinischen-Friedrich-Wilhelms-Universit%C3%A4t-Bonn.pdf
+- title: Erste Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrates der Fachschaft Mathematik
+  short: Erste Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrates der Fachschaft Mathematik
+  actorgan: Fachschaftsrat Fachschaft Mathematik
+  actdate:  5. Oktober 2021
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  6. Oktober 2021
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-53.pdf
 
 ---
 
@@ -27,19 +34,28 @@ Geschlechts in gleicher Weise.
 (1) Die Sitzungen des FSR finden während der Vorlesungszeit wöchentlich, während der vorlesungsfreien 
 Zeit zweiwöchentlich statt. Der FSR kann Abweichungen hiervon beschließen.
 
-(2) Außerordentliche Sitzungstermine sind am Fachschaftsbrett bekannt zu machen.
+(2) Außerordentliche Sitzungstermine sind am Fachschaftsbrett anzukündigen und müssen
+den FSR-Mitgliedern per E-Mail zugehen. Sollte ein Aushängen im Nebengebäude nicht
+möglich sein, reicht eine Ankündigung per E-Mail über den dafür vorgesehenen E-Mail-
+Verteiler.
 
 (3) Die Sitzungen sind offentlich.  ̈Zu einzelnen Tagesordnungspunkten kann der FSR Nicht-FSR-
 Mitglieder ausschließen. Hierüber ist in geheimer Abstimmung durch die FSR-Mitglieder zu entscheiden.
 
+(4) Sitzungen können auf begründeten Beschluss des FSR-Vorstandes in elektronischer Kommunikation
+(Online-Sitzung) oder teilweise elektronischer Kommunikation (Hybrid-Sitzung)
+stattfinden.
+
 
 ### § 2 Aufgabenverteilung
 
- (1) Der FSR-Vorsitzende leitet die Sitzung. Er kann durch den FSR-Vorstand vertreten werden. Die
+(1) Der FSR-Vorsitzende leitet die Sitzung. Er kann durch den FSR-Vorstand vertreten werden. Die
 Sitzungsleitung kann an FSR-Mitglieder abgegeben werden. Ist der FSR-Vorstand nicht anwesend,
 leitet das dienstälteste anwesende FSR-Mitglied die Sitzung.
 
-(2) Die Sitzungsleitung übt im Sitzungssaal das Hausrecht aus und wahrt die Ordnung im Sitzungsraum.
+(2) Die Sitzungsleitung übt im Sitzungssaal das Hausrecht aus und wahrt die Ordnung im
+Sitzungsraum. Sollte die Sitzung als Online- oder Hybrid-Sitzung stattfinden, gelten äquivalente
+Regelungen für den digitalen Sitzungsort.
 
 (3) Zu Beginn der Sitzung wird eine Protokollführung bestimmt. Kann keine Einigung erzielt
 werden, bestimmt die Sitzungsleitung eine Protokollführung.
@@ -76,6 +92,14 @@ wird, so ist diese ergebnislos.
 (8) Bei nicht einstimmigen Abstimmungen sind alle Stimmberechtigen berechtigt, dem Protokoll
 ein Sondervotum hinzuzufügen. Dieses wird Bestandteil des Protokolls; bei Bezugnahme auf den
 Beschluss ist das Sondervotum stets anzugeben.
+
+(9) Auf digitalen Sitzungen und Hybrid-Sitzungen kann mithilfe elektronischer Hilfsmittel
+abgestimmt werden. Eine geheime Abstimmung ist nicht möglich. Wird auf einer solchen
+Sitzung für einen Antrag eine geheime Abstimmung gefordert, so wird die Abstimmung
+auf eine folgende Präsenzsitzung verschoben.
+
+(10) Auf digitalen Sitzungen und Hybrid-Sitzungen können FSR-Mitglieder die Vertagung eines
+Tagesordnungspunkts auf eine Präsenzsitzung verlangen, ein Einspruch ist nicht möglich.
 
 
 ### § 4 Protokoll
@@ -149,6 +173,7 @@ entsprechendes Handzeichen angezeigt.
 
 (4) Erhebt sich zu einem GO-Antrag kein Widerspruch, so gilt er als angenommen; andernfalls ist
 der Antrag nach Anhörung einer Gegenrede abzustimmen.
+
 
 ### § 7 Änderungen der Geschäftsordnung
 
