@@ -1004,7 +1004,7 @@ Geschäftsordnung und der Anlage II als Leitfaden über die Regelungen zur
 Verteilung und Beantragung der für die Fachschaften eingezogenen Beträge
 zur Verfügung.
 
-### § Fristverlängerungen sowie Änderungen am Kriterienkatalog aufgrund der Covid-19-Pandemie
+### § 33a Fristverlängerungen sowie Änderungen am Kriterienkatalog aufgrund der Covid-19-Pandemie
 
 (1) Für AFsG-Anträge bezüglich des Wintersemesters 2018/19 oder des 
 Sommersemesters 2019 wird die in § 26 Absatz 8 genannte Frist um ein 
