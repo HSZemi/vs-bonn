@@ -48,7 +48,7 @@ end
 -- Helper function that extracts the paragraph number from a heading.
 -- If there is none, the regular id is returned.
 local function paragraph_id(s, attr)
-  local id = string.match(s, '^§ ([0-9]+)')
+  local id = string.match(s, '^§ ([0-9]+[a-z]?)')
   if id == nil then
     return attr.id
   end
