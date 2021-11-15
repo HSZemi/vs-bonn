@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
-date:  2. Oktober 2021
+date:  15. November 2021
 type:  Ordnung
 id:    GO-FSR-Informatik
 contains:
@@ -33,6 +33,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  2. Oktober 2021
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-51.pdf
+- title: Vierte Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
+  short: Vierte Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
+  actorgan: Fachschaftsrat Fachschaft Informatik
+  actdate:  10. November 2021
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  15. November 2021
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-61.pdf
 
 ---
 
@@ -69,7 +76,11 @@ In der Geschäftsordnung können Bezeichnungen unterschiedlichen Geschlechts ben
 
 (5) Auf digitalen Sitzungen und Hybrid-Sitzungen können FSR-Mitglieder die Vertagung eines Tagesordnungspunkts auf eine Präsenzsitzung verlangen, ein Einspruch ist nicht möglich.
 
-(6) Wahlen können nicht auf digitalen oder hybriden Sitzungen stattfinden.
+(6) Wahlen können nicht auf digitalen Sitzungen stattfinden.
+
+(7) Wahlen auf Hybridsitzungen können stattfinden, wenn die Wahl und deren Ablauf in der Einladung angekündigt wird.
+Dabei sind nur die in Präsenz anwesenden Personen stimmberechtigt.
+Es gelten die Regelungen für Beschlussfähigkeit und Mehrheiten, als ob alle online Teilnehmenden nicht anwesend wären.
 
 
 ### § 4 Protokoll
