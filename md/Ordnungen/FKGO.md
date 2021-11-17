@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms-Universität Bonn [FKGO]
 short: Geschäftsordnung der Fachschaftenkonferenz (FKGO)
-date:  2. Oktober 2021
+date:  17. November 2021
 type:  Ordnung
 id:    FKGO
 contains:
@@ -108,6 +108,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  2. Oktober 2021
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-52.pdf
+- title:    Fünfte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  short:    Fünfte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  actorgan: Fachschaftenkonferenz
+  actdate:  15. November 2021
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  17. November 2021
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-62.pdf
 
 ---
 
@@ -678,41 +685,33 @@ Finanzfachschaftenkonferenzen, soweit sie innerhalb der
 Vorlesungszeit liegen \[Finanz-FK\]. Die FK kann abweichende Termine
 festlegen.
 
-(5) Grundlegende Voraussetzung für die Auszahlung von Geldern an eine
-Fachschaft sind:
+(5) Grundlegende Voraussetzung für die Anweisung der Auszahlung von Geldern an eine Fachschaft sind:
 
-1. die demokratische Wahl der Gremien der Fachschaft im Sinne der
-Fachschaftswahlordnung (FSWO) innerhalb der letzten 12 Monate
-vor dem Antragszeitpunkt.
-2. die vom Wahlleiter unterschriebenen Wahlergebnisse der Wahlen
-der Fachschaftsvertretungen, die im Antragszeitraum im Amt
-waren,
-3. die von Wahlleiter, Vorsitzendem und Protokollanten
-unterschriebenen Protokolle der konstituierenden Sitzungen der
-Fachschaftsvertretungen, die im Antragszeitraum im Amt waren,
-4. ein Bankkonto, welches auf die Fachschaft selbst eingetragen
-ist. Geld wird ausschließlich auf diese Fachschaftskonten
-ausgezahlt.
-5. eine gültige und im Sinne der Satzung der Studierendenschaft
-veröffentlichte Fachschaftssatzung.
-6. für das aktuelle und vergangene Haushaltsjahr gültige
-Haushaltspläne
-7. das vom Protokollanten unterschriebene Protokoll der Sitzung,
-auf der dieser HHP beschlossen wurde, mit allen weiteren vom
-jeweiligen Protokollanten unterschriebenen Protokollen der
-Sitzungen, auf denen Änderungen des HHP beschlossen wurden.
-8. die Kassenabrechnungen, des vergangenen Haushaltsjahres,
-orientiert an den Posten des HHP mit Kassenständen zu Beginn und
-zu Ende des Antragszeitraums, unterschrieben vom
-Finanzreferenten.
-9. die von den Kassenprüfern unterschriebenen
-Kassenprüfungsberichte aller Kassenprüfungen, welche das
-vergangene Haushaltsjahr abdecken, sowie das vom Protokollanten
-unterschriebene Protokoll der Wahl der Kassenprüfer.
-10. ein von der Fachschaftsvertretung oder einer
-Fachschaftsvollversammlung gefasster und durch deren
-Vorsitzenden unterschriebener Beschluss über die finanzielle
-Entlastung des Fachschaftsrates des vergangenen Haushaltsjahres.
+1. Innerhalb der vergangenen 12 Monate wurde eine Fachschaftswahl gemäß der Fachschaftswahlordnung durchgeführt,
+2. für die letzte Fachschaftswahl läuft aktuell kein Wahlprüfungsverfahren,
+3. falls in einem Wahlprüfungsverfahren für die letzte Fachschaftswahl Mängel festgestellt wurden, müssen diese behoben sein,
+4. nach der letzten Fachschaftswahl hat das gewählte Gremium sich ordentlich konstituiert,
+5. die Fachschaft hat eine gültige Fachschaftssatzung,
+6. die Fachschaft hat einen gültigen Haushaltsplan für ihr laufendes Haushaltsjahr,
+7. die Fachschaft hatte einen gültigen Haushaltsplan für ihr letztes Haushaltsjahr,
+8. die Fachschaft hat eine Haushaltsrechnung für ihr letztes Haushaltsjahr, und
+9. das letzte Haushaltsjahr der Fachschaft ist vollständig von Kassenprüfungen abgedeckt.
+
+Die Punkte 7, 8 und 9 entfallen für Fachschaften, die neu gegründet wurden und 
+deshalb kein letztes Haushaltsjahr hatten.
+
+Die folgenden Nachweise werden jeweils benötigt, um nachzuweisen, dass die 
+Voraussetzungen erfüllt sind:
+
+1. Das auf der Bekanntmachungsplattform der Studierendenschaft veröffentlichte Wahlergebnis,
+2. (die entsprechende Information liegt dem FSK vor),
+3. (die entsprechende Information liegt dem FSK vor),
+4. das Protokoll der konstituierenden Sitzung des Gremiums,
+5. die auf der Bekanntmachungsplattform der Studierendenschaft veröffentlichte Fachschaftssatzung,
+6. der Haushaltsplan, etwaige Nachtragshaushaltspläne, sowie die Protokolle der Sitzungen, auf der Haushaltsplan und ggf. Nachtragshaushaltspläne beschlossen wurden,
+7. der Haushaltsplan, etwaige Nachtragshaushaltspläne, sowie die Protokolle der Sitzungen, auf der Haushaltsplan und ggf. Nachtragshaushaltspläne beschlossen wurden,
+8. die Haushaltsrechnung, welche die tatsächlichen Einnahmen und Ausgaben zu den Haushaltstiteln im Haushaltsplan sowie die Kassenstände zu Beginn und Ende des Haushaltsjahres aufführt, und
+9. die Kassenprüfungsberichte, die Protokolle der Sitzung, auf der die Kassenprüfungsausschüsse gewählt wurden, sowie der Nachweis, dass für die Mitglieder der Kassenprüfungsausschüsse keine Ausschlussgründe vorlagen.
 
 (6) Kassenprüfer kann nur sein, wer weder im geprüften Zeitraum noch zum
 Prüfungszeitpunkt Mitglied des FSR oder Teil des Vorstands der FSV
@@ -732,13 +731,8 @@ solche Veranstaltung ersetzen.
 (9) Antragsberechtigt sind die Fachschaftsräte der Fachschaften der RFWU
 Bonn.
 
-(10) Im Falle einer Wahlprüfung ist die Anweisung bzw. Auszahlung von
-AFsG und BFsG an die betreffende Fachschaft auszusetzen, bis die
-Wahlprüfung beendet ist. Solange eine Wahlprüfung aufgrund fehlender
-Unterlagen nicht möglich ist, kann die betreffende Fachschaft für
-die betroffene Wahlperiode keine Anträge auf AFsG und BFsG stellen,
-außer sie hat diesen Umstand nachweislich nicht selbst zu
-verschulden.
+(10) Zuweisungen an eine Fachschaft werden ausschließlich auf ein Bankkonto 
+ausgezahlt, welches auf die Fachschaft selbst eingetragen ist.
 
 (11) Die Finanzanträge einer Fachschaft dürfen im FSK nicht von einer
 Person mit gleicher Fachschaftszugehörigkeit geprüft oder angewiesen
@@ -765,13 +759,21 @@ Der Antrag kann frühestens für das aktuell laufende Semester
 gestellt werden und spätestens 2 Semester nach Ablauf des Semesters,
 auf welches sich der Antrag bezieht.
 
-(5) Dem FSK müssen die in §25 Abs. 5 genannten Dokumente für den
-Antragszeitraum vorliegen.
+(5) Dem FSK müssen für das Semester, auf das der Antrag sich bezieht, die folgenden 
+Dokumente vorliegen:
+
+1. (Nachtrags-)Haushaltspläne, deren Gültigkeitszeiträume das Semester abdecken,
+2. die Protokolle der Sitzungen, auf denen diese Haushaltspläne beschlossen wurden,
+3. Haushaltsrechnungen für diese Haushaltspläne, welche die tatsächlichen Einnahmen und Ausgaben zu den Haushaltstiteln im Haushaltsplan sowie die Kassenstände zu Beginn und Ende des Haushaltsjahres aufführen,
+4. Kassenprüfungsberichte, die das Semester abdecken,
+5. die Protokolle der Sitzungen, auf denen die betreffenden Kassenprüfungsausschüsse gewählt wurden,
+6. Nachweise, dass für die Mitglieder der Kassenprüfungsausschüsse keine Ausschlussgründe vorlagen, und
+7. das aktuellste Ergebnis einer Fachschaftswahl in diesem oder dem vorhergehenden Semester.
 
 (6) Zudem hat die beantragende Fachschaft ihre aktuellen Kontaktdaten
 vollständig beizulegen.
 
-(7) Sind die Voraussetzungen nach Abs. 5 erfüllt, der Antrag
+(7) Sind die Voraussetzungen nach Abs. 5 erfüllt, der Antrag
 ordnungsgemäß ausgefüllt und bestehen sonst keine Bedenken gegen die
 Auszahlung der Gelder, so werden die Gelder vom Vorsitzenden des FSK
 oder seinem Vertreter angewiesen.
@@ -853,7 +855,8 @@ wurde.
 abgestimmt wurden, gelten als nicht gestellt und müssen neu
 beantragt werden.
 
-(9) Gelder können maximal 1 Semester rückwirkend beantragt werden.
+(9) BFSG können nur für das aktuelle und für das vorangegangene Semester beantragt
+werden. Bei mehrtägigen Antragsanlässen ist der Endzeitpunkt maßgeblich.
 
 (10) Die genaue Höhe und Ausgestaltung der BFsG bestimmt sich nach § 30
 und Anlage II.
@@ -874,9 +877,7 @@ Fachschaftskonten ausgezahlt.
 
 ### § 30 Kriterien zu Vergabe der BFsG
 
-(1) Als Voraussetzung für die Beantragung von BFsG gilt § 25. Ausnahme
-bildet die Bezuschussung von neugegründeten Fachschaften, deren
-Voraussetzungen in Anlage II geregelt werden.
+(1) (weggefallen)
 
 (2) Es werden nur für die in Anlage II definierten Kostenpunkte Anträge
 gewährt.
@@ -1004,11 +1005,12 @@ Geschäftsordnung und der Anlage II als Leitfaden über die Regelungen zur
 Verteilung und Beantragung der für die Fachschaften eingezogenen Beträge
 zur Verfügung.
 
-### § 33a Fristverlängerungen sowie Änderungen am Kriterienkatalog aufgrund der Covid-19-Pandemie
+### § 33a Maßnahmen zur Berücksichtigung der Auswirkungen der Covid-19-Pandemie
 
-(1) Für AFsG-Anträge bezüglich des Wintersemesters 2018/19 oder des 
-Sommersemesters 2019 wird die in § 26 Absatz 8 genannte Frist um ein 
-Semester verlängert.
+(1) § 26 Absatz 5 Punkt 7 entfällt für Anträge für die folgenden Semester:
+
+1. Sommersemester 2020
+2. Wintersemester 2020/21
 
 (2) Für BFsG-Anträge die das Wintersemester 2019/20, das Sommersemester 2020 
 oder das Wintersemester 2020/21 betreffen, wird die in § 28 Absatz 8 genannte 
@@ -1037,9 +1039,16 @@ des Studierendenparlaments der RFWU Bonn entsprechend anzuwenden.
 
 ### § 35 Übergangsbestimmungen
 
-Abweichend von § 26 Abs. 8 gelten Anträge auf AFsG, die vor dem
-Sommersemester 2020 gestellt wurden, ab dem 01. Oktober 2021 als nicht
-gestellt.
+Abweichend von § 26 Abs. 8 gelten Anträge auf AFSG, welche für die folgenden 
+Semester gestellt wurden, ab dem 01. April 2022 als nicht gestellt:
+
+1. Sommersemester 2019
+2. Wintersemester 2018/19
+3. Sommersemester 2018
+4. Wintersemester 2017/18
+5. Sommersemester 2017
+6. Wintersemester 2016/17
+7. Sommersemester 2016
 
 ----
 
