@@ -63,7 +63,7 @@ außen auf.
 2. Ein Referat konstituiert sich aus einer Referentin und ihren Mitarbeiterinnen. In
 begründeten Ausnahmefällen sind zwei Referentinnen zulässig.
 3. Die Referate führen möglichst im Zwei-Wochen-Rhythmus, jedoch mindestens einmal
-im Monat Referatssitzungen durch, zu denen die Referentin einlädt. UU ber diese
+im Monat Referatssitzungen durch, zu denen die Referentin einlädt. Über diese
 Sitzungen ist Protokoll zu führen, das dem Vorsitz zugeschickt werden muss. Der
 Vorsitz ist zu diesen Sitzungen einzuladen.
 4. Es wird angestrebt, Entscheidungen innerhalb der Referate im Konsens zu fassen. Ist
@@ -74,7 +74,7 @@ Verlangen sind Minderheitsvoten zu dokumentieren.
 ### § 4 Referentinnen
 
 1. Die Referentinnen koordinieren die Arbeit des Referats. Insbesondere obliegt ihnen
-die PRlicht, für die ordnungsgemäße Arbeit des Referats Sorge zu tragen. Sowohl AStA-
+die Pflicht, für die ordnungsgemäße Arbeit des Referats Sorge zu tragen. Sowohl AStA-
 intern als auch nach Außen spricht grundsätzlich die Referentin für ihr Referat.
 2. Der Referentin obliegt die Verwaltung der dem Referat zugeordneten Haushaltstitel.
 Sie hat die Zeichnungsberechtigung („rechnerisch richtig") für diese Titel.
@@ -119,7 +119,7 @@ Mehrheit hierfür ausspricht.
 Referat für Frauen und Geschlechtergerechtigkeit‚ das Referat für Internationale
 Studierende und das Queer-Referat.
 2. Die selbstverwalteten Referate treten innerhalb ihrer Arbeitsbereiche eigenständig
-nach außen auf. Abweichend von § 5 Abs. 2 Rindet eine inhaltliche EinRlussnahme der
+nach außen auf. Abweichend von § 5 Abs. 2 findet eine inhaltliche Einflussnahme der
 Gesamt-AStA-Sitzung nicht statt.
 3. Mitarbeiterinnen der selbstverwalteten Referate werden abweichend von den
 Bestimmungen unter § 5 Abs. 3 nicht durch die Gesamt-AStA-Sitzung gewählt,
@@ -149,12 +149,12 @@ Dabei muss ein Antrag grundsätzlich vier Werktage vor der jeweiligen Sitzung be
 Vorsitz eingegangen sein. Diese Anträge sind unmittelbar nach Zugang, spätestens
 jedoch mit der Einladung zur behandelnden Gesamt-AStA-Sitzung an die Referate zu
 übermitteln.
-3. UU ber die Behandlung von Anträgen, die nicht nach dem in Abs. 2 beschriebenen
+3. Über die Behandlung von Anträgen, die nicht nach dem in Abs. 2 beschriebenen
 Prozedere eingereicht wurden, entscheidet die Gesamt-AStA-Sitzung per Zweidrittel-
 Mehrheit. Dies ist jedoch nicht möglich bei Anträgen, die sich nicht auf dem
 antragsstellenden Referat zugehörigen Haushaltstitel beziehen.
-4. Die Antragstellerin kann ihren Antrag während der Sitzung modiRizieren. Die Höhe
-der beantragten Summe kann von der Gesamt-AStA-Sitzung modiRiziert werden.
+4. Die Antragstellerin kann ihren Antrag während der Sitzung modifizieren. Die Höhe
+der beantragten Summe kann von der Gesamt-AStA-Sitzung modifiziert werden.
 5. Im Falle, dass die Aufschiebung der Auszahlung von Finanzmitteln, erheblich Schaden
 für den AStA oder die verfasste Studierendenschaft bedeutet, kann der Vorsitz im
 Einvernehmen mit der Finanzreferentin eine sofortige Auszahlung veranlassen. Dies
@@ -174,7 +174,7 @@ Angehörigen des Referats schlägt die Referentin vor.
 jeden Monats zur weiteren Veranlassung der Auszahlung vorgelegt werden.
 5. Die Anzahl der ausgezahlten AE pro Monat darf nicht die Anzahl der aktiven
 Mitarbeiterinnen im selbigen Monat übersteigen. Ausgenommen sind der Vorsitz und
-das Finanzreferat sowie das autonome Sportreferat. UU ber weitere Ausnahmen kann
+das Finanzreferat sowie das autonome Sportreferat. Über weitere Ausnahmen kann
 die Gesamt-AStA-Sitzung mit qualifizierter Zwei-Drittel-Mehrheit entscheiden. Die
 maximale AE-Anzahl pro Monat für eine Mitarbeiterin aus einem Referat ist zwei.
 Weitere AE können aus anderen Referaten oder Projektstellen bezogen werden.
@@ -191,7 +191,7 @@ Haushaltsjahr stattfindet.
 Sitzung eingebracht.
 2. Der Haushaltsplan ist spätestens mit der Einladung zur behandelnden Gesamt-AStA-
 Sitzung an die Referate zu senden.
-3. Bei der Beschlussfassung über den Haushaltsplan Rinden die Regelungen in § 41
+3. Bei der Beschlussfassung über den Haushaltsplan finden die Regelungen in § 41
 Beratung und Inkrafttreten des Haushaltsplanes Abs. 4 und 5 der Satzung der
 verfassten Studierendenschaft Anwendung.
 
@@ -204,7 +204,7 @@ verfassten Studierendenschaft Anwendung.
 dem Vorsitz anzuzeigen.
 2. Der Vorsitz kann bei erheblichen Bedenken ein Veto gegen die Durchführung der
 Veranstaltung einlegen und die Sache an die Gesamt-AStA-Sitzung verweisen, die über
-die Durchführung beRindet.
+die Durchführung befindet.
 
 
 ### § 12 Publikationen
@@ -213,7 +213,7 @@ die Durchführung beRindet.
 AStA‚ sofern diese als solche auftreten, sind vor ihrer Veröffentlichung dem Vorsitz zur
 Kenntnisnahme vorzulegen. Dieser kann bei erheblichen Bedenken ein Veto gegen
 deren Veröffentlichung einlegen und die Sache an die Gesamt-AStA-Sitzung verweisen,
-die über die Veröffentlichung beRindet.
+die über die Veröffentlichung befindet.
 2. Publikationen sind rechtzeitig der Gesamt-AStA-Sitzung und der
 Öffentlichkeitsreferentin anzuzeigen.
 
@@ -250,7 +250,7 @@ die Geschäftsordnung einlegen. Hierüber entscheidet dann die darauffolgende GA
 
 ### § 13 Rechenschaftsberichte der Referate
 
-1. Jedem Referat obliegt die PRlicht, Rechenschaft über die Arbeit des vergangenen
+1. Jedem Referat obliegt die Pflicht, Rechenschaft über die Arbeit des vergangenen
 Monats abzulegen. Dieser Bericht ist dem Vorschlag für die
 Aufwandsentschädigungen beizufügen und zu veröffentlichen.
 2. Die Mitarbeiterinnen der Referate müssen der Referentin unaufgefordert Auskunft
@@ -259,7 +259,7 @@ Aufwandsentschädigungen beizufügen und zu veröffentlichen.
 
 ### § 14 Rechenschaftsberichte des AStA
 
-1. Dem Vorsitz obliegt die PRlicht jeden Monat Rechenschaft über die Arbeit abzulegen.
+1. Dem Vorsitz obliegt die Pflicht jeden Monat Rechenschaft über die Arbeit abzulegen.
 Dieser Bericht ist zu veröffentlichen.
 2. Einmal jährlich legt der gesamte AStA Rechenschaft über die Arbeit des vergangenen
 Jahres ab. Dieser Bericht ist zu veröffentlichen.
@@ -269,10 +269,10 @@ Jahres ab. Dieser Bericht ist zu veröffentlichen.
 
 ### § 15 Einberufung und Tagesordnung
 
-1. Zur Gesamt-AStA-Sitzung wird durch den Vorsitz eingeladen. Grundsätzlich Rinden die
+1. Zur Gesamt-AStA-Sitzung wird durch den Vorsitz eingeladen. Grundsätzlich finden die
 Sitzungen vierzehntägig statt.
 2. Die Einladung muss mindestens drei Werktage vor der Sitzung per Email erfolgen.
-3. Die Einladung enthält eine vorläuRige Tagesordnung. Diese umfasst zumindest die
+3. Die Einladung enthält eine vorläufige Tagesordnung. Diese umfasst zumindest die
 Punkte: Wahl der Sitzungsleitung, Genehmigung von Sitzungsprotokollen, Bericht aus
 dem Vorsitz, Berichte aus den Referaten, Vorstellung neuer Mitarbeiterinnen und
 Verschiedenes.
@@ -339,7 +339,7 @@ Anwesenden gefasst.
 ### § 23 Anträge
 
 1. Anträge sind schriftlich an den AStA-Vorsitz zu stellen. Sofern keine Vorschrift dies
-fordert, ist die elektronische UU bermittlung zulässig. Während einer Sitzung können
+fordert, ist die elektronische Übermittlung zulässig. Während einer Sitzung können
 Anträge mündlich gestellt werden. Diese sind dem Wortlaut nach ins Protokoll
 aufzunehmen.
 2. Anträge können, sofern dies nicht von einer Vorschrift gefordert wird, jederzeit
@@ -349,7 +349,7 @@ gestellt werden und sollen schnellstmöglich behandelt werden.
 ### § 24 Öffentlichkeit
 
 1. Die Gesamt-AStA-Sitzungen sind öffentlich.
-2. Der Antrag auf Ausschluss der Öffentlichkeit ist zulässig. UU ber ihn wird, nach
+2. Der Antrag auf Ausschluss der Öffentlichkeit ist zulässig. Über ihn wird, nach
 Anhörung der anwesenden Nichtmitglieder der Sitzung, nicht öffentlich beraten.
 3. Von der Öffentlichkeit grundsätzlich ausgenommen sind Anträge, die persönliche
 Informationen Betroffener enthalten.
