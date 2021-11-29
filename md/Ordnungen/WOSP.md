@@ -1,7 +1,7 @@
 ---
 title: Wahlordnung für die Wahlen zum Studierendenparlament (WOSP)
 short: Wahlordnung für die Wahlen zum Studierendenparlament (WOSP)
-date:  1. April 2021
+date:  29. November 2021
 type:  Ordnung
 id:    WOSP
 contains:
@@ -59,6 +59,15 @@ contains:
   puborgan:  Amtliche Bekanntmachungen
   pubdate: 19. November 2020
   puburl: https://hdl.handle.net/20.500.11811/8786
+- title: Sechste Ordnung zur Änderung der Wahlordnung für die Wahlen zum Studierendenparlament der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: 6\. Wahlordnungsänderungsordnung
+  actorgan: Studierendenparlament
+  actdate:  24. November 2021
+  confirmorgan: Rektorat
+  confirmdate: 
+  puborgan:  Amtliche Bekanntmachungen
+  pubdate: 29. November 2021
+  puburl: https://hdl.handle.net/20.500.11811/9431
 
 ---
 
@@ -445,6 +454,55 @@ Sie wird durch Nummerierung vor dem Namen deutlich gemacht. Hinter dem Namen sin
 
 (2) Die Wahl hat an vier aufeinanderfolgenden Wahltagen innerhalb einer Woche stattzufinden. Wahltage sind Werktage mit ordentlichem Vorlesungsbetrieb außer Sonnabend. Das Studierendenparlament legt die Wahltage bis spätestens 50 Tage vor dem ersten Wahltag fest.
 
+### § 15a Wahldurchführung als reine Briefwahl
+
+Für die Wahl zum 44. Studierendenparlament gelten aufgrund der anhaltenden Einschränkungen des
+universitären Lebens ob der COVID-19-Pandemie, namentlich einer möglichen Schließung der
+Universitätsgebäude folgende Besonderheiten:
+
+Der Wahlausschuss kann beschließen, dass die Wahl als reine Briefwahl durchgeführt wird. In diesem
+Fall erhalten alle Wahlberechtigten ohne gesonderten Antrag die Briefwahlunterlagen gemäß § 19
+zugesandt. In diesem Fall treten folgende Änderungen in Kraft:
+
+1. In § 5 wird Abs. 4 wie folgt neu gefasst:  
+Bei der Auszählung werden Mitglieder des Wahlausschusses und Auszählhelferinnen gleich
+bezahlt: Für die ersten fünf Stunden wird eine pauschale Aufwandsentschädigung
+von 60,00 Euro gezahlt, danach gibt es einen „Stundenlohn“, der dem der Wahlhelferinnen
+entspricht.
+2. § 6 Abs. 1 gilt mit der Maßgabe, dass die Einsetzung von Wahlhelferinnen fakultativ ist und
+im Ermessen des Wahlausschusses steht.
+3. § 8 gilt mit der Maßgabe, dass eine Wahlausschreibung hochschulöffentlich im Internet
+genügt. Nr. 2 gilt nicht. Nr. 11 wird wie folgt neu gefasst: „einen Hinweis auf die bei der
+Briefwahl zu beachtenden Fristen;“
+4. § 10 Abs. 3 Nr. 3, sowie Absatz 4 Nr. 6 gelten mit der Maßgabe, dass kein Studienfach auf dem
+Stimmzettel vermerkt werden muss.
+5. § 13 gilt mit der Maßgabe, dass eine Bekanntmachung hochschulöffentlich im Internet genügt.
+§ 13 Abs. 4 gilt nicht.
+6. § 14 Abs. 3 Satz 4 wird ersetzt und Satz 5 wie folgt angefügt:  
+„Der Wahlausschuss ist berechtigt, Namen nach eigenem Ermessen abzukürzen, soweit dies
+der Übersichtlichkeit des Stimmzettels dient. Dies soll nur nach Rücksprache mit der
+betroffenen Kandidatin geschehen.“
+7. § 15 Abs. 2 Satz 1 gilt nicht.
+8. § 16 Abs. 2 wird wie folgt neu gefasst:  
+„Das Wählerinnenverzeichnis liegt drei Wochen vor Wahlbeginn zur Einsichtnahme aus.“
+9. § 16 Abs. 5 und Abs. 6 Satz 1 gelten nicht. Die Wahlleiterin hat dafür Sorge zu tragen, dass
+Termin und Ort der Wahl zehn Tage vor der Wahl in geeigneter Weise bekannt gemacht
+werden.
+10. § 17 gilt mit der Maßgabe, dass das Aufstellen von Urnen zusätzlich zur Briefwahlmöglichkeit
+fakultativ ist.
+11. § 18 Abs. 2 bis 5 gelten nicht.
+12. § 19 Abs. 1, Abs. 2 Sätze 2 bis 4, Abs. 3, Abs. 5 Satz 3 Nr. 1, Abs. 6 gelten nicht. § 19 Abs. 5 Satz
+2 wird wie folgt neu gefasst:  
+„Die Wahlumschläge sind zu prüfen und die Wahlbriefe in dafür bestimmten Urnen
+aufzubewahren.“
+13. § 21 Abs. 2 gilt nicht.
+14. § 22 Abs. 1 gilt nicht.
+15. § 22 Abs. 3 gilt mit der Maßgabe, dass die Auszählung der Stimmen binnen einer Woche nach
+Beendigung der Wahl zu erfolgen hat.
+16. In § 22 Abs. 4 wird Satz 1 wie folgt neu gefasst:  
+„Die Auszählung erfolgt öffentlich, soweit dies mit Hygiene- und Schutzbestimmungen zur
+Eindämmung der COVID-19-Pandemie vereinbar ist.“
+17. § 24 Abs. 4 gilt nicht.“
 
 ### § 16 Wahlbekanntmachung und Wahlbenachrichtigung
 
