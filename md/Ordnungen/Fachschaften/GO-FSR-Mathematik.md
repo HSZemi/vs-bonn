@@ -39,7 +39,7 @@ den FSR-Mitgliedern per E-Mail zugehen. Sollte ein Aushängen im Nebengebäude n
 möglich sein, reicht eine Ankündigung per E-Mail über den dafür vorgesehenen E-Mail-
 Verteiler.
 
-(3) Die Sitzungen sind offentlich.  ̈Zu einzelnen Tagesordnungspunkten kann der FSR Nicht-FSR-
+(3) Die Sitzungen sind öffentlich. Zu einzelnen Tagesordnungspunkten kann der FSR Nicht-FSR-
 Mitglieder ausschließen. Hierüber ist in geheimer Abstimmung durch die FSR-Mitglieder zu entscheiden.
 
 (4) Sitzungen können auf begründeten Beschluss des FSR-Vorstandes in elektronischer Kommunikation
@@ -66,7 +66,7 @@ werden, bestimmt die Sitzungsleitung eine Protokollführung.
 (1) Alle Mitglieder der Fachschaft sind rede-, antrags- und stimmberechtigt. Ein FSR-Mitglied
 kann für den aktuellen Tagesordnungspunkt Abstimmung von ausschließlich FSR-Mitgliedern beantragen.
 
-(2) Drei FSR-Mitglieder können verlangen, dass auf der n ̈achsten Sitzung ein gew ̈ahltes Mitglied
+(2) Drei FSR-Mitglieder können verlangen, dass auf der nächsten Sitzung ein gewähltes Mitglied
 eines anderen Fachschaftsorgans anwesend zu sein hat (Zitierrecht). Die Sitzungsleitung darf den
 Beschluss wegen fehlender Begründung zurückweisen.
 
@@ -86,7 +86,7 @@ werden.
 
 (7) Soweit diese Geschäftsordnung für den speziellen Fall nichts Gegenteiliges bestimmt, gilt ein
 Beschluss als angenommen, wenn die Zahl der Ja-Stimmen die Zahl der Nein-Stimmen übersteigt.
-Wenn bei einer Abstimmung mehr als die H ̈alfte der abgegebenen Stimmen als Enthaltung abgegeben 
+Wenn bei einer Abstimmung mehr als die Hälfte der abgegebenen Stimmen als Enthaltung abgegeben 
 wird, so ist diese ergebnislos.
 
 (8) Bei nicht einstimmigen Abstimmungen sind alle Stimmberechtigen berechtigt, dem Protokoll
@@ -107,12 +107,12 @@ Tagesordnungspunkts auf eine Präsenzsitzung verlangen, ein Einspruch ist nicht 
 (1) Es wird ein ergebnisorientiertes Protokoll geführt, dass die wesentlichen vorgetragenen Argumente 
 enthalten soll.
 
-(2) Das Protokoll besteht aus einem offentlichen ünd eventuell einem fachschafts ̈offentlichen Teil.
+(2) Das Protokoll besteht aus einem öffentlichen und eventuell einem fachschaftsöffentlichen Teil.
 Nach Abhandlung eines Tagesordnungspunkts wird festgestellt, ob ein Teil des Tagesordnungspunkt
-dem offentlichen öder dem fachschaftsöffentlichen Teil zuzuordnen ist. Wenn ein Teil eines Tagesordnungspunkt 
+dem öffentlichen öder dem fachschaftsöffentlichen Teil zuzuordnen ist. Wenn ein Teil eines Tagesordnungspunkt 
 fachschaftsöffentlich behandelt werden soll, soll dies vorher angekündigt werden.
 
-(3) Angenommene Anträge werden im  ̈offentlichen Teil protokolliert.
+(3) Angenommene Anträge werden im öffentlichen Teil protokolliert.
 
 (4) In der Woche nach der Sitzung wird das Protokoll vom FSR-Vorsitzenden korrekturgelesen und
 über die interne Mailingliste versandt.
@@ -150,7 +150,7 @@ a. der Antrag auf Aussetzung; seine Annahme hat zur Folge, dass der Punkt auf ei
     Sitzung kenntlich gemacht werden;
 b. der Antrag auf Vertagung; seine Annahme hat zur Folge, dass der Punkt auf die Tagesordnung
     der folgenden Sitzung gesetzt wird;
-c. der Antrag auf Nichtbefassung; seine Annahme hat zur Folge, dass der Punkt nicht er ̈ortert
+c. der Antrag auf Nichtbefassung; seine Annahme hat zur Folge, dass der Punkt nicht erörtert
     wird;
 d. der Antrag auf Übergang zur Tagesordnung; seine Annahme hat die sofortige Behandlung des
     folgenden Tagesordnungspunktes oder -unterpunktes zur Folge;
