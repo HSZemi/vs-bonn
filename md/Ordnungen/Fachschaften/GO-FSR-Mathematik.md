@@ -29,15 +29,15 @@ Vorrang.
 Alle Personen- und Funktionsbezeichnungen in dieser GO gelten für alle Menschen unabhängig ihres
 Geschlechts in gleicher Weise.
 
-### § 1 Sitzungstermine und Offentlichkeit
+### § 1 Sitzungstermine und Öffentlichkeit
 
 (1) Die Sitzungen des FSR finden während der Vorlesungszeit wöchentlich, während der vorlesungsfreien
 Zeit zweiwöchentlich statt. Der FSR kann Abweichungen hiervon beschließen.
 
 (2) Außerordentliche Sitzungstermine sind am Fachschaftsbrett anzukündigen und müssen
 den FSR-Mitgliedern per E-Mail zugehen. Sollte ein Aushängen im Nebengebäude nicht
-möglich sein, reicht eine Ankündigung per E-Mail über den dafür vorgesehenen E-Mail-
-Verteiler.
+möglich sein, reicht eine Ankündigung per E-Mail über den dafür vorgesehenen
+E-Mail-Verteiler.
 
 (3) Die Sitzungen sind öffentlich. Zu einzelnen Tagesordnungspunkten kann der FSR Nicht-FSR-
 Mitglieder ausschließen. Hierüber ist in geheimer Abstimmung durch die FSR-Mitglieder zu entscheiden.
