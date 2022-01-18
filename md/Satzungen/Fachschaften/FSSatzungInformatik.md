@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Informatik
-date:  9. Mai 2021
+date:  18. Januar 2022
 type:  Satzung
 id:    FSSatzungInformatik
 contains:
@@ -54,6 +54,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  9. Mai 2021
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-22.pdf
+- title: Siebte Satzung zur Änderung der Satzung der Fachschaft Informatik
+  short: Siebte Satzung zur Änderung der Satzung der Fachschaft Informatik
+  actorgan: Fachschaftsvertretung Fachschaft Informatik
+  actdate:  18. Januar 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  18. Januar 2022
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-03.pdf
 
 ---
 
@@ -85,6 +92,9 @@ wahr und vertritt im Rahmen ihrer Möglichkeiten auch die Belange der Studierend
 
 (4) Die Organe der Fachschaft veröffentlichen ihre Beschlüsse sowie eine kurze Begründung auf der Fachschaftswebseite.
 
+(5) Sitzungen der Organe können in elektronischer Kommunikation (digitale Sitzung) oder teilweiser elektronischer Kommunikation (Hybrid-Sitzung) stattfinden.
+Wahlen sind nur in Präsenz möglich. Sofern die Geschäftsordnung(GO) des jeweiligen Organs nichts anderes bestimmt, finden digitale und Hybrid-Sitzungen nur
+auf Beschluss des jeweiligen Organs statt. Weiteres kann die Geschäftsordnung des jeweiligen Organs regeln.
 
 ### § 3 Gemeinsame Aufgaben der Organe FSV und FSR 
  
@@ -129,7 +139,7 @@ per E-Mail. Sie ist fachschaftsöffentlich bekannt zu machen.
 
 (5) Die FSV beschließt über den Haushaltsplan.
 
-(6) Die FSV beschließt mit der Mehrheit ihrer satzungsmäßigen Mitglieder die Entlastung des FSR. Die finanzielle Entlastung kann nicht verweigert werden, wenn die Kassenprüfung keine Ungenauigkeiten ergibt. Die Entlastung muss von einem Mitglied der FSV beantragt werden. Finanzielle Entlastung kann auch von den Kassenprüfern beantragt werden. Auf Antrag eines Mitglieds der FSV muss eine Einzelentlastung durchgeführt werden.
+(6) Die FSV beschließt mit der Mehrheit ihrer geählten Mitglieder die Entlastung des FSR. Die finanzielle Entlastung kann nicht verweigert werden, wenn die Kassenprüfung keine Ungenauigkeiten ergibt. Die Entlastung muss von einem Mitglied der FSV beantragt werden. Finanzielle Entlastung kann auch von den Kassenprüfern beantragt werden. Auf Antrag eines Mitglieds der FSV muss eine Einzelentlastung durchgeführt werden.
 
 (7) Sofern sie sich keine eigene Geschäftsordnung gibt, gilt für die FSV die Geschäftsordnung des Studierendenparlaments, soweit anwendbar, entsprechend.
 
@@ -378,7 +388,7 @@ Die Beschlüsse der FSVV binden alle Organe der Fachschaft.
 
 (2) Dem Finanzreferenten obliegt die Finanzführung der Fachschaft. Er führt über alle Einnahmen und Ausgaben der Fachschaft ordnungsgemäß Buch.
 
-(3) Der Finanzreferent hat vor Beginn des Haushaltsjahres einen ausgeglichenen Haushaltsplan aufzustellen und diesen der FSV in drei Lesungen auf mindestens zwei getrennten Sitzungen vor Beginn des Haushaltsjahres zur Abstimmung vorzulegen, wobei die zweite und dritte Lesung in der gleichen Sitzung stattfinden dürfen. Das Haushaltsjahr beginnt am 1. Februar eines jeden Jahres und endet am 31. Januar des darauffolgenden Jahres.
+(3) Der Finanzreferent hat vor Beginn des Haushaltsjahres einen ausgeglichenen Haushaltsplan aufzustellen und diesen der FSV in drei Lesungen auf mindestens zwei getrennten Sitzungen vor Beginn des Haushaltsjahres zur Abstimmung vorzulegen, wobei die zweite und dritte Lesung in der gleichen Sitzung stattfinden dürfen. Das Haushaltsjahr beginnt am 1. April eines jeden Jahres und endet am 31. März des darauffolgenden Jahres.
 
 (4) Anschaffungen und Ausgaben, die von den unter dem Titel „Sonstiges“ im Haushaltsplan ausgewiesenen Geldern getätigt werden und einen Höchstbetrag von 125,- Euro überschreiten, sind von der FSV gesondert zu beschließen.
 
@@ -388,8 +398,7 @@ Die Beschlüsse der FSVV binden alle Organe der Fachschaft.
 
 1. eine Haushaltsjahresabschlussprüfung;
 2. eine Sommersemesterabschlussprüfung;
-3. eine Wintersemesterabschlussprüfung;
-4. eine Abschlussprüfung nach dem Ende der Amtszeit des FSR.
+3. eine Abschlussprüfung nach dem Ende der Amtszeit des FSR.
 
 Unabhängig davon kann die Kasse von den Kassenprüfern mindestens einmal jährlich unangekündigt geprüft
 werden. Die Kassenprüfung dient dem Zweck festzustellen, ob insbesondere
@@ -418,3 +427,7 @@ Beträgt die Zahl der Mitglieder der Fachschaft weniger als 500, so wird eine FS
 (2) Dieser Beschluss muss jedes Mal in drei Lesungen auf mindestens zwei getrennten Sitzungen von mindestens 2/3 der gewählten FSV-Mitglieder bzw. von einer beschlussfähigen FSVV gefasst werden, wobei die zweite und dritte Lesung in der gleichen Sitzung stattfinden dürfen. Die Regelung zu außerordentlichen FSV-Sitzungen ist unanwendbar (§ 10 Abs. 6).
 
 (3) Der Tagesordnungspunkt „Satzungsänderung“ muss bereits in der Einladung zur betreffenden FSV-Sitzung oder FSVV-Sitzung angekündigt werden. In der Einladung müssen die zu ändernden Vorschriften ausdrücklich benannt werden. Dem Einladungsschreiben ist weiterhin der Wortlaut der beantragten Satzungsänderung beizufügen.
+
+### § 22 Übergangsbestimmungen
+
+Abweichend von § 19 Absatz 3 Satz 2 beginnt das Haushaltsjahr 2022/23 am 1. Februar 2022 und endet am 31. März 2023.
