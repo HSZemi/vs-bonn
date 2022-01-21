@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms-Universität Bonn [FKGO]
 short: Geschäftsordnung der Fachschaftenkonferenz (FKGO)
-date:  17. November 2021
+date:  21. Januar 2022
 type:  Ordnung
 id:    FKGO
 contains:
@@ -115,6 +115,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  17. November 2021
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-62.pdf
+- title:    Sechste Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  short:    Sechste Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  actorgan: Fachschaftenkonferenz
+  actdate:  17. Januar 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  21. Januar 2022
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-05.pdf
 
 ---
 
@@ -1039,7 +1046,7 @@ des Studierendenparlaments der RFWU Bonn entsprechend anzuwenden.
 
 ### § 35 Übergangsbestimmungen
 
-Abweichend von § 26 Abs. 8 gelten Anträge auf AFSG, welche für die folgenden 
+(1) Abweichend von § 26 Abs. 8 gelten Anträge auf AFSG, welche für die folgenden 
 Semester gestellt wurden, ab dem 01. April 2022 als nicht gestellt:
 
 1. Sommersemester 2019
@@ -1049,6 +1056,14 @@ Semester gestellt wurden, ab dem 01. April 2022 als nicht gestellt:
 5. Sommersemester 2017
 6. Wintersemester 2016/17
 7. Sommersemester 2016
+
+(2) Für Semester vor dem Sommersemester 2022 kann das FSK bezüglich der
+notwendigen Dokumente gemäß § 26 Absatz 5 anstelle eines Haushaltsplans und der
+zugehörigen Haushaltsrechnung auch haushaltsplansähnliche Dokumente und
+zugehörige haushaltsrechnungsähnliche Dokumente akzeptieren, sofern die
+haushaltsplansähnlichen Dokumente formal wie Haushaltspläne beschlossen wurden.
+Insbesondere sollen Pläne akzeptiert werden, die für einzelne Semester aufgestellt
+wurden.
 
 ----
 
