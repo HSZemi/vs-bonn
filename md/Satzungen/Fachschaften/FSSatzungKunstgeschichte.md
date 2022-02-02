@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Kunstgeschichte der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Kunstgeschichte
-date:  23. November 2021
+date:  1. Februar 2022
 type:  Satzung
 id:    FSSatzungKunstgeschichte
 contains:
@@ -19,6 +19,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  23. November 2021
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-63.pdf
+- title: Erste Satzung zur Änderung der Satzung der Fachschaft Kunstgeschichte
+  short: Erste Satzung zur Änderung der Satzung der Fachschaft Kunstgeschichte
+  actorgan: Fachschaftsvertretung Fachschaft Kunstgeschichte
+  actdate:  27. Januar 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  1. Februar 2022
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-10.pdf
 
 ---
 
@@ -571,16 +578,19 @@ Amtszeit von maximal einem Jahr eine SfVV zur Neuwahl des FA einzuberufen.
 (1) Die Haushalts- und Wirtschaftsführung richtet sich nach den Vorgaben der Satzung der Studierendenschaft
 und der HWVO NRW.
 
-(2) Bei der Aufstellung und Ausführung des Haushaltsplans sind die Grundsätze der Wirtschaftlichkeit
+(2) Das Haushaltsjahr der Fachschaft beginnt am 1. Oktober eines jeden Jahres und
+endet am 30. September des jeweiligen Folgejahres.
+
+(3) Bei der Aufstellung und Ausführung des Haushaltsplans sind die Grundsätze der Wirtschaftlichkeit
 und Sparsamkeit zu beachten.
 
-(3) Dem Abschluss von Verträgen über Lieferungen und Leistungen muss ein Preisvergleich vorausgehen.
+(4) Dem Abschluss von Verträgen über Lieferungen und Leistungen muss ein Preisvergleich vorausgehen.
 Bei Aufträgen mit einem Wert von mehr als 1.000 Euro sind mindestens 3 Angebote im Wettbewerb
 einzuholen, bei Aufträgen mit einem Wert von mehr als 10.000 Euro sind mindestens 6 Bewerber/innen
 zur Angebotsabgabe aufzufordern. Der Preisvergleich ist aktenkundig zu machen und die
 Vergabeentscheidung zu dokumentieren.
 
-(4) Dem Finanzreferenten obliegt die Finanzführung der Fachschaft. Er führt über alle Einnahmen und
+(5) Dem Finanzreferenten obliegt die Finanzführung der Fachschaft. Er führt über alle Einnahmen und
 Ausgaben der Fachschaft ordnungsgemäß Buch.
 
 
