@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft ELW
 short: Satzung der Fachschaft ELW
-date:  18. Mai 2021
+date:  1. Februar 2022
 type:  Satzung
 id:    FSSatzungELW
 contains:
@@ -19,6 +19,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  18. Mai 2021
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-26.pdf
+- title: Erste Satzung zur Änderung der Satzung der Fachschaft ELW
+  short: Erste Satzung zur Änderung der Satzung der Fachschaft ELW
+  actorgan: Fachschaftsvertretung Fachschaft ELW
+  actdate:  21. Dezember 2021
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  1. Februar 2022
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-11.pdf
 
 ---
 
@@ -111,10 +118,11 @@ Gestaltung des Studiums mit.
 
 (1) Die FSV besteht aus 15 Mitgliedern.
 
-(2) Sie tagt mindestens einmal im Semester. Die Einladung zur FSV-
-Sitzung bedarf der Schriftform. Eine Einladung durch unsignierte
-elektronische Form (E-Mail) ist zulässig, soweit kein Mitglied der FSV
-dem widerspricht.
+(2) Sie tagt mindestens einmal im Semester. Die Sitzungen können sowohl in physischer Präsenz sowie
+vollständig in elektronischer Kommunikation als Online-Videokonferenzsitzung (Online-Sitzung) oder
+teilweise in elektronischer Kommunikation abgehalten werden. Die Einladung zur FSV-Sitzung bedarf
+der Schriftform. Eine Einladung durch unsignierte elektronische Form (E-Mail) ist zulässig, soweit kein
+Mitglied der FSV dem widerspricht.
 
 (3) Die Mitglieder der FSV sind grundsätzlich verpflichtet, an den
 Sitzungen teilzunehmen, sofern sie nicht begründet entschuldigt sind.
@@ -367,15 +375,16 @@ Sitzungen des FSR teil.
 
 (4) Der FSR tritt grundsätzlich in öffentlicher Sitzung zusammen:
 
-1. während der Vorlesungszeit grundsätzlich wöchentlich (jeden
-Dienstag),
+1. während der Vorlesungszeit grundsätzlich wöchentlich,
 2. auf eigenen Beschluss,
 3. auf Beschluss der FSV,
 4. auf Beschluss eines FA.
 
-Auf das Zusammentreten des FSR soll in Form einer schriftlichen
-öffentlichen Ankündigung durch den/die Vorsitzende/n bzw.
-seinen/ihre Stellvertreter/in hingewiesen werden.
+Die Sitzungen können sowohl in physischer Präsenz sowie vollständig in elektronischer
+Kommunikation als Online-Videokonferenzsitzung (Online-Sitzung) oder teilweise in elektronischer
+Kommunikation abgehalten werden. Auf das Zusammentreten des FSR soll in Form einer schriftlichen
+öffentlichen Ankündigung durch den/die Vorsitzende/n bzw. seinen/ihren Stellvertreter/in
+hingewiesen werden.
 
 (5) Zu einzelnen Tagesordnungspunkten kann der FSR mit der
 Mehrheit der anwesenden Stimmberechtigten beschließen die
@@ -829,8 +838,8 @@ Einnahmen und Ausgaben der Fachschaft ordnungsgemäß Buch.
 (2) Der/die Finanzreferent/in hat vor Beginn des Haushaltsjahres
 einen ausgeglichenen Haushaltsplan aufzustellen und diesen der FSV
 auf einer Sitzung vor Beginn des Haushaltsjahres zur Abstimmung
-vorzulegen. Das Haushaltsjahr beginnt am ersten des Monats nach dem
-Wahltermin eines jeden Jahres.
+vorzulegen. Das Haushaltsjahr der Fachschaft beginnt am 1. Oktober
+eines jeden Jahres und endet am 30. September des jeweiligen Folgejahres.
 
 (3) Anschaffungen und Ausgaben, die von den unter dem Titel
 „Sonstiges“ im Haushaltsplan ausgewiesenen Geldern getätigt werden
