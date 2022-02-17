@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft ELW
 short: Satzung der Fachschaft ELW
-date:  1. Februar 2022
+date:  17. Februar 2022
 type:  Satzung
 id:    FSSatzungELW
 contains:
@@ -26,6 +26,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  1. Februar 2022
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-11.pdf
+- title: Zweite Satzung zur Änderung der Satzung der Fachschaft ELW
+  short: Zweite Satzung zur Änderung der Satzung der Fachschaft ELW
+  actorgan: Fachschaftsvertretung Fachschaft ELW
+  actdate:  15. Februar 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  17. Februar 2022
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-15.pdf
 
 ---
 
@@ -173,6 +180,9 @@ Einzelentlastung durchgeführt werden.
 den Fachschaftsrat,  
 den Kassenprüfungsausschuss sowie  
 den Wahlausschuss.
+
+(3a) Die FSV kann zusätzlich zu den regulär gewählten Mitgliedern des FSR je Studienfach bis zu zwei
+weitere Vertreter/innen ihrer Fach-Abschluss-Kombinationen (FAKs) in den FSR wählen (gem. §27 Abs. 5 SdS).
 
 (4) Die FSV kann mittels konstruktiven Misstrauensvotums den vom
 FSR gewählten Kassenprüfungsausschuss abwählen und neu besetzen.
@@ -697,33 +707,7 @@ stattfand.
 Für die SfVV findet § 6 Abs. 5 entsprechende Anwendung.
 
 
-### § 25 Wahl der Studienfach-Vertreter/innen
-
-(1) Die Mitglieder eines jeden durch die Fachschaft vertretenen
-Studienfaches können auf einer SfVV beschließen, dass zur nächsten
-Fachschaftswahl zwei Vertreter/innen des jeweiligen Studienfaches
-gem. § 13 Abs. 1 gewählt werden.
-
-(2) Dieser Beschluss muss bis spätestens zum 30. Tag vor dem ersten
-Wahltag in schriftlicher Form dem/der FSR-Vorsitzenden und dem/der
-Wahlleiter/in, sofern der Wahlausschuss konstituiert ist, mitgeteilt
-werden.
-
-(3) Die Mandate des Studienfaches werden gleichzeitig mit den
-regulären Vertretern von allen Mitgliedern der Fachschaft gem. § 17
-Abs. 1 und 3 gewählt. Dabei bilden die Kandidaten und Kandidatinnen
-zur Wahl der Vertreter/innen der Studienfächer je Studienfach eine
-separate Kandidatenliste.
-
-(4) Jedes Mitglied der Fachschaft vergibt eine Stimme pro
-Kandidatenliste.
-
-(5) Eine gleichzeitige Kandidatur für ein reguläres Mandat sowie ein
-Studienfachmandat sind möglich. Erhält ein/e Kandidat/in bei der Wahl
-sowohl ein reguläres FSR-Mandat als auch ein Mandat als Studienfach-
-Vertreter/in, so tritt er/sie das reguläre Mandat an. Das Mandat als
-Studienfach-Vertreter/in verfällt auf den/die Studienfach-
-Kandidaten/Kandidatin mit den nächstmeisten Stimmen.
+### § 25 (weggefallen)
 
 
 ### § 26 Beschlüsse der SfVV
