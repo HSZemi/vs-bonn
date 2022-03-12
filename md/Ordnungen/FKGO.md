@@ -1363,13 +1363,13 @@ Altkatholisches Seminar
 -----------------------
   * Alt-Katholische und Ökumenische Theologie (Master of Arts)
   * Altkatholische Theologie (Kirchl.Ex.)
+  * Religionstheorie und interreligiöser Dialog (Promotion)
 
 Anglistik, Amerikanistik und Keltologie
 ---------------------------------------
   * Allgemeine Sprachwissenschaft (Promotion)
   * Anglistik/Amerikanistik: Literatur- und Kulturwissenschaft (Promotion)
   * Anglistik/Amerikanistik: Sprachwissenschaft (Promotion)
-  * Anglistik II (Promotion)
   * Anglistik/Neuere Englische Literatur (Promotion)
   * Applied Linguistics (Master of Arts)
   * Englische Philologie (Promotion)
@@ -1380,13 +1380,10 @@ Anglistik, Amerikanistik und Keltologie
 
 Archäologie
 -----------
-  * Ägyptologie (Master of Arts)
   * Ägyptologie (Promotion)
   * Archäologien (Bachelor of Arts)
   * Archäologische Wissenschaften (Master of Arts)
   * Christliche Archäologie (Promotion)
-  * Frühgeschichtliche Archäologie und Archäologie der Römischen Provinzen (Master of Arts)
-  * Klassische Archäologie (Master of Arts)
   * Klassische Archäologie (Promotion)
   * Kunstgeschichte und Archäologie (Bachelor of Arts)
   * Vor- u. frühgeschichtliche Archäologie (Promotion)
@@ -1422,11 +1419,9 @@ ELW
 
 Ethnologie / Altamerikanistik
 -----------------------------
-  * Alt-Amerikanistik (Promotion)
   * Altamerikanistik und Ethnologie (Bachelor of Arts)
   * Altamerikanistik/Ethnologie (Master of Arts)
   * Anthropology of the Americas (Master of Arts)
-  * Ethnologie (Promotion)
   * Ethnologie unter besond.Berücks.d.Altamerikanistik (Promotion)
   * Kulturstudien zu Lateinamerika/Estudios culturales de America Latina (Master of Arts)
   * Lateinamerika- und Altamerikastudien (Bachelor of Arts)
@@ -1436,17 +1431,16 @@ Evangelische Theologie
   * Ecumenical Studies (Master of Arts)
   * Evangelische Theologie und Hermeneutik (Bachelor of Arts)
   * Evangelische Theologie (Kirchl.Ex.)
-  * Evangelische Theologie (Magister Theologiae (ev.))
+  * Evangelische Theologie (Magister Theologiae)
   * Evangelische Theologie (Master of Arts)
   * Evangelische Theologie (Promotion)
   * Extended Ecumenical Studies (Master of Arts)
 
 GeKoSka
 -------
-  * Ält.u.Neu.Germanistik (Promotion)
   * Deutsche Sprache u.ältere deutsche Literatur (Promotion)
   * German and Comparative Literature (Master of Arts)
-  * Germanische Linguistik (Promotion)
+  * Germanistische Linguistik (Promotion)
   * Germanistik (Bachelor of Arts)
   * Germanistik (Master of Arts)
   * Germanistik, Vergleichende Literatur- und Kulturwissenschaft (Bachelor of Arts)
@@ -1458,7 +1452,6 @@ GeKoSka
   * Skandinavistik (Bachelor of Arts)
   * Skandinavistik (Master of Arts)
   * Skandinavistik (Promotion)
-  * Slavistik (Promotion)
   * Vergleichende Literaturwissenschaft (Promotion)
   * Linguistik (Master of Arts)
 
@@ -1468,7 +1461,7 @@ Geodäsie
   * Geodäsie und Geoinformation (Bachelor of Science)
   * Geodäsie und Geoinformation (Master of Science)
   * Geodäsie und Geoinformation (Promotion)
-  * Geodetic Engineering (Master of Sience)
+  * Geodetic Engineering (Master of Science)
 
 Geographie
 ----------
@@ -1479,20 +1472,18 @@ Geographie
   * Geographie (Promotion)
   * Geography of Environmental Risks and Human Security (Master of Science)
   * Historische Geographie (Promotion)
-  * Katastrophenvorsorge und Katastrophenmanagement (Master of Disaster Management and Risk Governance) (Master (Weiterbildung))
+  * Katastrophenvorsorge und Risikomanagement (Master of Disaster Preparedness and Risk Management) (Master)
 
 Geowissenschaften
 -----------------
   * Geochemie/Petrologie (Master of Science)
-  * Geochemie/Petrologie (Promotion)
   * Geologie (Master of Science)
-  * Geologie (Promotion)
+  * Geologie/Paläontologie (Promotion)
   * Geophysik (Promotion)
   * Geowissenschaften (Bachelor of Science)
   * Geowissenschaften (Master of Science)
   * Geowissenschaften (Promotion)
   * Paläontologie (Master of Science)
-  * Paläontologie (Promotion)
 
 Geschichte
 ----------
@@ -1505,8 +1496,9 @@ Geschichte
   * Mittelalterliche und neuere Geschichte (Promotion)
   * Mittelalterstudien (Master of Arts)
   * Osteuropäische Geschichte (Promotion)
-  * Politisch-Historische Studien (Master (Weiterbildung))
+  * Politisch-Historische Studien (Master)
   * Rheinische Landesgeschichte (Promotion)
+  * Slavery Studies (Master of Arts)
   * Verfassungs-, Sozial- und Wirtschaftsgeschichte (Promotion)
 
 Griechische und Lateinische Philologie
@@ -1535,13 +1527,14 @@ Informatik
 Interkulturelle Kommunikation und Mehrsprachigkeitsforschung (IKM)
 ------------------------------------------------------------------
   * Sprache und Kommunikation in der globalisierten Mediengesellschaft (Bachelor of Arts)
+  * Sprachliche Kommunikation (Bachelor of Arts)
   * Deutsch als Zweit- und Fremdsprache (Bachelor of Arts)
+  * Übersetzungswissenschaft (Promotion)
 
 Jura
 ----
   * Begleitfach Rechtswissenschaft (Bachelor of Arts)
   * Deutsches Recht (Master of Laws)
-  * Deutsches Recht für im Ausland graduierte Juristen (Magister)
   * Law and Economics (Bachelor of Laws)
   * Rechtswissenschaft (Promotion)
   * Rechtswissenschaft (Staatsex.)
@@ -1551,11 +1544,11 @@ Katholische Theologie
   * Katholische Theologie (Kirchl.Ex.)
   * Katholische Theologie (Promotion)
   * Katholische Theologie (Bachelor of Arts)
-  * Katholische Theologie (Magister Theologiae (kath.))
+  * Katholische Theologie (Magister Theologiae)
 
 Kulturanthropologie
 -------------------
-  * Kulturanthropologie/Volkskunde (Master of Arts)
+  * Kulturanthropologie/ Empirische Kulturwissenschaft (Bachelor of Arts)
   * Transkulturelle Studien/Kulturanthropologie (Master of Arts)
   * Kulturanthropologie/Volkskunde (Promotion)
 
@@ -1565,7 +1558,7 @@ Kunstgeschichte
   * Kunstgeschichte (Bachelor of Arts)
   * Kunstgeschichte (Master of Arts)
   * Kunstgeschichte (Promotion)
-  * Provenienzforschung und Geschichte des Sammelns. (Master of Arts)
+  * Provenienzforschung und Geschichte des Sammelns (Master of Arts)
 
 Lehramt
 -------
@@ -1638,37 +1631,33 @@ Medienwissenschaft
 
 Medizin
 -------
-  * Doctor medicinae (Dr. med.)
   * Epidemiologie (Doctor of Philosophy)
   * Epidemiologie (Med.Doc/Doc.of Philosophy)
   * Experimentelle Medizin (Doctor of Philosophy)
   * Experimentelle Medizin (Med.Doc/Doc.of Philosophy)
-  * Global Health Risk Management and Hygiene Policies(Master (Weiterbildung))
-  * Humangenetik (Doctor of Philosophy)
+  * Global Health - Risk Management and Hygiene Policies (Master)
   * Humangenetik (Med.Doc/Doc.of Philosophy)
-  * Humanmedizin (Staatsex.)
   * Klinische Immunologie (Doctor of Philosophy)
   * Klinische Immunologie (Med.Doc/Doc.of Philosophy)
   * Klinische Infektiologie (Doctor of Philosophy)
-  * Klinische Infektologie (Med.Doc/Doc.of Philosophy)
-  * Klinische Medizin (Doctor of Philosophy)
   * Klinische Medizin (Med.Doc/Doc.of Philosophy)
-  * Medical Immunosciences and Infection (Master)
+  * Medizin (Promotion)
+  * Medizin (Staatsex.)
   * Medizinische Biometrie (Doctor of Philosophy)
-  * Medizinische Biometrie (Med.Doc/Doc.of Philosophy)
+  * Medizinische Neurowissenschaften (Med.Doc/Doc.of Philosophy)
   * Medizinische Psychologie (Doctor of Philosophy)
   * Medizinische Psychologie (Med.Doc/Doc.of Philosophy)
   * Medizinische Soziologie (Doctor of Philosophy)
   * Medizinische Soziologie (Med.Doc/Doc.of Philosophy)
   * Public Health (Doctor of Philosophy)
   * Public Health (Med.Doc/Doc.of Philosophy)
-  * Translationale Medizin (Doctor of Philosophy)
-  * Translationale Medizin (Med.Doc/Doc.of Phiolosphy)
+  * Translationale Medizin (Med.Doc/Doc.of Philosophy)
   * Versorgungsforschung (Doctor of Philosophy)
   * Versorgungsforschung (Med.Doc/Doc.of Philosophy)
 
 Meteorologie
 ------------
+  * Meteorologie (Bachelor of Science)
   * Meteorologie und Geophysik (Bachelor of Science)
   * Meteorologie (Promotion)
   * Physik der Erde und Atmosphäre (Master of Science)
@@ -1679,10 +1668,11 @@ Molekulare Biomedizin
   * Medical Immunosciences and Infection (Master of Science)
   * Molekulare Biomedizin (Bachelor of Science)
   * Molekulare Biomedizin (Promotion)
-  * Immunbiology: from molecules to integrative systems (Master of Science)
+  * Immunobiology: from molecules to integrative systems (Master of Science)
 
 Musikwissenschaften/Sound Studies
 ---------------------------------
+  * Musik- und Klangkulturen der Moderne (Master of Arts)
   * Musikwissenschaft/Sound Studies (Bachelor of Arts)
   * Musikwissenschaft (Bachelor of Arts)
   * Musikwissenschaft (Promotion)
@@ -1692,23 +1682,26 @@ Neuroscience
   * Neurosciences (Master of Science)
   * Neurowissenschaften (Doctor of Philosophy)
   * Neurowissenschaften (Med.Doc/Doc.of Philosophy)
+  * Neurowissenschaften (Promotion)
 
 OrientAsia
 ----------
   * Arabisch (Bachelor of Arts)
   * Arabistik (Promotion)
   * Asiatische und Orientalische Schwerpunktsprachen (Bachelor of Arts)
-  * Asienwissenschaften (Bachelor of Arts (als Kern-/ Ergänzungsfach))
-  * Asienwissenschaften (Bachelor of Arts (als Vollstudiengang))
+  * Asienwissenschaften (Bachelor of Arts)
   * Asienwissenschaften (Master of Arts)
   * Asiatische und Islamische Kunstgeschichte (Bachelor of Arts)
   * Bengalisch (Bachelor of Arts)
   * Chinesisch (Bachelor of Arts)
   * Hindi (Bachelor of Arts)
+  * Indologie (Bachelor of Arts)
+  * Indologie (Promotion)
   * Indonesisch (Bachelor of Arts)
-  * Iranistik (Promotion)
   * Islamwissenschaft (Promotion)
+  * Islamwissenschaft/Nahostsprachen (Bachelor of Arts)
   * Japanisch (Bachelor of Arts)
+  * Japanologie (Promotion)
   * Koreanisch (Bachelor of Arts)
   * Mongolisch (Bachelor of Arts)
   * Mongolistik (Bachelor of Arts)
@@ -1717,6 +1710,7 @@ OrientAsia
   * Ostasiatische Geschichte (Promotion)
   * Persisch (Bachelor of Arts)
   * Sinologie (Promotion)
+  * Regionalwissenschaft Südostasien (Promotion)
   * Südasienwissenschaft (Bachelor of Arts)
   * Südasienwissenschaft (Promotion)
   * Südostasienwissenschaft (Bachelor of Arts)
@@ -1724,7 +1718,7 @@ OrientAsia
   * Tibetisch (Bachelor of Arts)
   * Tibetologie (Bachelor of Arts)
   * Tibetologie (Promotion)
-  * Transnational European EastAsian Culture and History (TEACH) (Master of Arts)
+  * Transnational European and East Asian Culture and History (Master of Arts)
   * Türkisch (Bachelor of Arts)
   * Vergleichende Religionswissenschaft (Bachelor of Arts)
   * Vergleichende Religionswissenschaft (Promotion)
@@ -1734,7 +1728,7 @@ Pharmazie
 ---------
   * Arzneimittelforschung (Drug Research) (Master of Science)
   * Arzneimittelwissenschaften (Promotion)
-  * Drug Regulatory Affairs (Master (Weiterbildung))
+  * Drug Regulatory Affairs (Master)
   * Pharmazie (Promotion)
   * Pharmazie (Staatsex.)
 
@@ -1756,6 +1750,7 @@ Physik/Astronomie
 
 Politik &amp; Soziologie
 ------------------------
+  * European Studies - Governance and Regulation (Master)
   * Gesellschaften, Globalisierung und Entwicklung (Master of Arts)
   * Soziologie (Master of Arts)
   * Politik und Gesellschaft (Bachelor of Arts)
@@ -1770,8 +1765,9 @@ Psychologie
   * Psychologie (Bachelor of Science)
   * Psychologie (Master of Science)
   * Psychologie (Promotion)
-  * Rechtspsychologie: Schwerpunkt Psychologie im Straf- und Maßregelvollzug (Master (Weiterbildung))
-  * Rechtspsychologie: Schwerpunkt Psychologie im Straf- und Zivilverfahren (Master (Weiterbildung))
+  * Rechtspsychologie (Master)
+  * Rechtspsychologie: Schwerpunkt Psychologie im Straf- und Maßregelvollzug (Master)
+  * Rechtspsychologie: Schwerpunkt Psychologie im Straf- und Zivilverfahren (Master)
 
 Romanistik
 ----------
@@ -1783,8 +1779,6 @@ Romanistik
   * Hispanistik (Bachelor of Arts)
   * Italianistik (Bachelor of Arts)
   * Renaissance-Studien (Master of Arts)
-  * Romanische Mediävistik (Promotion)
-  * Romanische Philologie, 2 Teilgebiete (Promotion)
   * Romanische Philologie (Promotion)
   * Romanistik (Bachelor of Arts)
   * Romanistik (Master of Arts)
@@ -1803,7 +1797,6 @@ VWL
 Zahnmedizin
 -----------
   * Zahnmedizin (Doctor of Philosophy)
-  * Zahnmedizin (Dr. med. Dent)
-  * Zahnmedizin (Med.Doc/Doc.ofPhilosophy)
+  * Zahnmedizin (Med.Doc/Doc.of Philosophy)
+  * Zahnmedizin (Promotion)
   * Zahnmedizin (Staatsex.)
-
