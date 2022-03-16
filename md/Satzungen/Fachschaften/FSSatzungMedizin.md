@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Medizin der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Medizin
-date:  14. Juni 2017
+date:  15. März 2022
 type:  Satzung
 id:    FSSatzungMedizin
 contains:
@@ -12,6 +12,13 @@ contains:
   puborgan: AKUT
   pubdate:  14. Juni 2017
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2017/akut_extra_2017-9.pdf
+- title: Satzungsänderung der Satzung der Fachschaft Medizin
+  short: Satzungsänderung der Satzung der Fachschaft Medizin
+  actorgan: Fachschaftsvertretung Fachschaft Medizin
+  actdate:  18. Januar 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  15. März 2022
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-20.pdf
 
 ---
 
@@ -527,8 +534,8 @@ Finanzordnung der Studierendenschaft.
  
 3. Die Fachschaftsvertretung bestimmt die Richtlinien der Mittelverwendung. 
  
-4. Das Verfügungsrecht über diese Mittel hat der Fachschaftsvorstand. Dieser 
-verwaltet das Vermögen gemäß der Satzung der Universität Köln. 
+4. Das Verfügungsrecht über diese Mittel hat der geschäftsführende Vorstand des FSR,
+dieser verwaltet das Vermögen gemäß der Satzung der Universität Bonn.
  
 5. Einzeln Zeichnungsbefugt für das Vermögen der Fachschaft sind die Mitglieder 
 des Vorstandes sowie ein gewählter Finanzassistent / eine gewählte 
@@ -544,11 +551,9 @@ zu führen. Insbesondere müssen Verwendungszweck und Datum der Ein- und
 Ausgaben erfasst werden. 
  
 
-(5) Finanzbeauftragte: 
-
-1. Die Finanzbeauftragenten werden von drei Mitgliedern der 
-Fachschaftsvertretung gebildet. Mindestens einer dieser Beauftragten muss im 
-klinischen Studienabschnitt sein. 
+(5) Die Finanzbeauftragten werden von drei Mitgliedern der Fachschaftsvertretung
+gebildet. Mindestens einer dieser Beauftragten muss im klinischen Studienabschnitt
+sein.
 
 (6) Die Kassenprüfer der FSV sollten eine Jahresabschlussprüfung durchführen. Die 
 Kassenprüfung dient dem Zweck festzustellen, ob insbesondere 
@@ -566,27 +571,46 @@ nach Zustimmung des FSR- Sprechers und des Finanzreferenten erforderlich. Der FS
 kann gegen die Stimmen von Fachschaftssprecher und Finanzreferent keine finanziell 
 erheblichen Vorhaben beschließen. Der FSR kann mit der Mehrheit der gewählten 
 Mitglieder Ausgaben beschließen, sofern der FSR-Sprecher oder der Finanzreferent mit 
-der Mehrheit stimmen. 
+der Mehrheit stimmen.
 
-# D. Haftung 
- 
+(8) Haushaltsplan
+
+1. Der Finanzreferent hat vor Beginn des Haushaltsjahres einen
+ausgeglichenen Haushaltsplan aufzustellen und diesen der FSV in drei
+Lesungen auf mindestens zwei getrennten Sitzungen vor Beginn des
+Haushaltsjahres zur Abstimmung vorzulegen, wobei die zweite und dritte
+Lesung in der gleichen Sitzung stattfinden dürfen. Das Haushaltsjahr der
+Fachschaft beginnt am 31. März eines jeden Jahres und endet am 30. März
+des jeweiligen Folgejahres.
+2. Anschaffungen und Ausgaben, die von den im Haushaltsplan unter einem
+flexiblen Titel, etwa "Sonstiges", ausgewiesenen Geldern getätigt werden und
+die einen Höchstbetrag von 200 Euro überschreiten, sind vor der Anweisung
+von der FSV gesondert zu beschließen.
+3. Überplanmäßige oder außerplanmäßige Ausgaben sind vor Inkrafttreten
+eines Nachtrags zum Haushaltsplan, der sie vorsieht, nur dann zulässig, wenn
+sie unabweisbar sind. Sie sind der FSV unverzüglich anzuzeigen.
+4. Nachträge zum Haushaltsplan können nur für das laufende Haushaltsjahr
+eingebracht werden. Ein Nachtragshaushaltsplans muss dann beschlossen
+werden, wenn die im Haushaltsplan vorgesehenen Beträge teilweise
+überschritten werden sollen. Ein Nachtragshaushaltsplan muss im gleichen
+Verfahren wie der Haushaltsplan nach § 25. Abs. 8 S. 1 beschlossen werden.
+
+
+### § 26 Haftung 
 
 (1) Verletzt jemand als Mitglied eines Organs der Fachschaft vorsätzlich oder grob 
 fahrlässig die ihr oder ihm obliegenden Pflichten, so hat sie oder er der Fachschaft 
 den ihr daraus entstehenden Schaden zu ersetzen. 
  
-
-(2) Mit dem Beschluss über die Entlastung eines Mitglieds des Fachschaftsvorstandes 
-stellt die Fachschaft die ordnungsgemäße Verwendung der Mittel fest, die in dem 
-jeweiligen Geschäftsbereich ausgegeben wurden. Der Beschlussfassung geht eine 
-sorgfältige Kassenprüfung voraus. Die Entlastung stellt eine Haftungsfreistellung dar. 
+(2) Mit dem Beschluss über die Entlastung des geschäftsführenden Vorstands der FSR
+stellt die Fachschaft die ordnungsgemäße Verwendung der Mittel fest, die in dem
+jeweiligen Geschäftsbereich ausgegeben wurden. Der Beschlussfassung geht eine
+sorgfältige Kassenprüfung voraus. Die Entlastung stellt eine Haftungsfreistellung dar.
  
 
 # E. Schlussbestimmungen 
  
-
-
-### § 26 Abweichende Reglungen für Fachschaften ohne FSV 
+### § 27 Abweichende Reglungen für Fachschaften ohne FSV 
 
 (1) Hat die Fachschaft nach § 27 Satzung der Studierendenschaft keine FSV, so finden 
 die Regelungen über die FSV keine Anwendung. 
@@ -596,7 +620,7 @@ Regelungen über die FSV sind entsprechend anzuwenden, soweit sie nicht mit
 Regelungen über die Vollversammlung im Widerspruch stehen. 
 
 
-### § 21 Satzungsänderung 
+### § 28 Satzungsänderung 
 
 (1) Diese Satzung kann auf Beschluss der FSV oder der FSVV geändert werden. Sie muss 
 im Einklang mit der von FK und SP beschlossenen Mustersatzung stehen. 
