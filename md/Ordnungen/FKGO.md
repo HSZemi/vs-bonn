@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms-Universität Bonn [FKGO]
 short: Geschäftsordnung der Fachschaftenkonferenz (FKGO)
-date:  21. Januar 2022
+date:  15. März 2022
 type:  Ordnung
 id:    FKGO
 contains:
@@ -122,6 +122,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  21. Januar 2022
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-05.pdf
+- title:    Siebte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  short:    Siebte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  actorgan: Fachschaftenkonferenz
+  actdate:  7. März 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  15. März 2022
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-21.pdf
 
 ---
 
@@ -720,30 +727,42 @@ Voraussetzungen erfüllt sind:
 8. die Haushaltsrechnung, welche die tatsächlichen Einnahmen und Ausgaben zu den Haushaltstiteln im Haushaltsplan sowie die Kassenstände zu Beginn und Ende des Haushaltsjahres aufführt, und
 9. die Kassenprüfungsberichte, die Protokolle der Sitzung, auf der die Kassenprüfungsausschüsse gewählt wurden, sowie der Nachweis, dass für die Mitglieder der Kassenprüfungsausschüsse keine Ausschlussgründe vorlagen.
 
-(6) Kassenprüfer kann nur sein, wer weder im geprüften Zeitraum noch zum
+(6) Das FSK kann beschließen, Gelder an eine Fachschaft anzuweisen, die die
+Voraussetzungen nach Absatz 5 nicht erfüllt, wenn
+
+1. die Fachschaft die nicht erfüllten Voraussetzungen nicht innerhalb des aktuellen
+Haushaltsjahres selbst heilen kann und
+2. der Fachschaft durch die ausbleibende Anweisung eine besondere Härte droht.
+Davon ist insbesondere dann auszugehen, wenn der Kassenstand insgesamt
+weniger als 0 € beträgt.
+
+Die FK ist über die Entscheidung des FSK zu informieren.
+
+(7) Kassenprüfer kann nur sein, wer weder im geprüften Zeitraum noch zum
 Prüfungszeitpunkt Mitglied des FSR oder Teil des Vorstands der FSV
 war beziehungsweise ist. Kassenprüfer müssen Teil der
 Studierendenschaft der RFWU Bonn sein.
 
-(7) Wurde für eine Amtsperiode keine Fachschaftsvertretung gewählt,
+(8) Wurde für eine Amtsperiode keine Fachschaftsvertretung gewählt,
 tritt in diesen Bestimmungen an ihre Stelle die
 Fachschaftsvollversammlung.
 
-(8) Die Gelder der Fachschaften dürfen nicht dazu verwendet werden,
+(9) Die Gelder der Fachschaften dürfen nicht dazu verwendet werden,
 Aufgaben der Institute oder Seminare der Universität zu finanzieren.
 Sie dürfen außerdem nicht für Veranstaltungen verwendet werden, die
 für das bestehen einer Lehrveranstaltung notwendig sind oder eine
 solche Veranstaltung ersetzen.
 
-(9) Antragsberechtigt sind die Fachschaftsräte der Fachschaften der RFWU
+(10) Antragsberechtigt sind die Fachschaftsräte der Fachschaften der RFWU
 Bonn.
 
-(10) Zuweisungen an eine Fachschaft werden ausschließlich auf ein Bankkonto 
+(11) Zuweisungen an eine Fachschaft werden ausschließlich auf ein Bankkonto 
 ausgezahlt, welches auf die Fachschaft selbst eingetragen ist.
 
-(11) Die Finanzanträge einer Fachschaft dürfen im FSK nicht von einer
+(12) Die Finanzanträge einer Fachschaft dürfen im FSK nicht von einer
 Person mit gleicher Fachschaftszugehörigkeit geprüft oder angewiesen
 werden.
+
 
 ### § 26 AFsG
 
@@ -1058,12 +1077,15 @@ Semester gestellt wurden, ab dem 01. April 2022 als nicht gestellt:
 7. Sommersemester 2016
 
 (2) Für Semester vor dem Sommersemester 2022 kann das FSK bezüglich der
-notwendigen Dokumente gemäß § 26 Absatz 5 anstelle eines Haushaltsplans und der
+notwendigen Dokumente gemäß § 25 Absatz 5 und § 26 Absatz 5 anstelle eines Haushaltsplans und der
 zugehörigen Haushaltsrechnung auch haushaltsplansähnliche Dokumente und
 zugehörige haushaltsrechnungsähnliche Dokumente akzeptieren, sofern die
 haushaltsplansähnlichen Dokumente formal wie Haushaltspläne beschlossen wurden.
 Insbesondere sollen Pläne akzeptiert werden, die für einzelne Semester aufgestellt
 wurden.
+
+(3) Abweichend von § 26 Abs. 8 gelten Anträge auf AFSG, welche für das
+Wintersemester 2019/20 gestellt wurden, ab dem 01. Juni 2022 als nicht gestellt.
 
 ----
 
