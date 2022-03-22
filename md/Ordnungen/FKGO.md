@@ -1779,6 +1779,8 @@ Romanistik
   * Hispanistik (Bachelor of Arts)
   * Italianistik (Bachelor of Arts)
   * Renaissance-Studien (Master of Arts)
+  * Romanische Mediävistik (Promotion)
+  * Romanische Philologie, 2 Teilgebiete (Promotion)
   * Romanische Philologie (Promotion)
   * Romanistik (Bachelor of Arts)
   * Romanistik (Master of Arts)
