@@ -67,7 +67,7 @@ contains:
 - title:    Geschäftsordnung der Fachschaftenkonferenz (FKGO)
   short:    Geschäftsordnung der Fachschaftenkonferenz (FKGO)
   actorgan: Fachschaftenkonferenz
-  actdate:  5. Mai 2020
+  actdate:  4. Mai 2020
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  18. Juni 2020
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2020/vsbonn_bekanntmachung_2020-12.pdf
