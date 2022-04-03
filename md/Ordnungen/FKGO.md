@@ -1641,6 +1641,7 @@ Medizin
   * Klinische Immunologie (Med.Doc/Doc.of Philosophy)
   * Klinische Infektiologie (Doctor of Philosophy)
   * Klinische Medizin (Med.Doc/Doc.of Philosophy)
+  * Medical Immunosciences and Infection (Master of Science)
   * Medizin (Promotion)
   * Medizin (Staatsex.)
   * Medizinische Biometrie (Doctor of Philosophy)
@@ -1665,7 +1666,6 @@ Meteorologie
 Molekulare Biomedizin
 ---------------------
   * Biochemistry (Master of Science)
-  * Medical Immunosciences and Infection (Master of Science)
   * Molekulare Biomedizin (Bachelor of Science)
   * Molekulare Biomedizin (Promotion)
   * Immunobiology: from molecules to integrative systems (Master of Science)
