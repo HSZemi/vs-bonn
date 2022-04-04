@@ -1472,7 +1472,7 @@ Geographie
   * Geographie (Promotion)
   * Geography of Environmental Risks and Human Security (Master of Science)
   * Historische Geographie (Promotion)
-  * Katastrophenvorsorge und Risikomanagement (Master of Disaster Preparedness and Risk Management) (Master)
+  * Katastrophenvorsorge und Katastrophenmanagement (Master of Disaster Management and Risk Governance) (Master)
 
 Geowissenschaften
 -----------------
