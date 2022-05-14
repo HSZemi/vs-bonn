@@ -15,16 +15,16 @@ contains:
 
 ---
 
-Diese Geschäftsordnung regelt die Arbeit der Konferenz der mathematisch-naturwissenschaftlichen Fachschaf-
-ten. Sie ist nicht zu verwechseln mit der Geschäftsordnung der Fachschaftenkonferenz (FKGO), welche die
+Diese Geschäftsordnung regelt die Arbeit der Konferenz der mathematisch-naturwissenschaftlichen Fachschaften.
+Sie ist nicht zu verwechseln mit der Geschäftsordnung der Fachschaftenkonferenz (FKGO), welche die
 Vollversammlung aller Fachschaften an der RFWU Bonn betrifft.
-Soweit sich Formulierungen in dieser Geschäftordnung auf Personen und Personengruppen beziehen, gelten diese
+Soweit sich Formulierungen in dieser Geschäftsordnung auf Personen und Personengruppen beziehen, gelten diese
 unabhängig des verwendeten Genus für alle Menschen.
 
 ### § 1 Allgemeines
 
-(1) Die mathematisch-naturwissenschaftliche Fachschaftenkonferenz (Mat.-Nat.-FK) ist die Vollver-
-sammlung all jener Fachschaften, die Studierende in Studiengängen vertreten, die an der
+(1) Die mathematisch-naturwissenschaftliche Fachschaftenkonferenz (Mat.-Nat.-FK) ist die 
+Vollversammlung all jener Fachschaften, die Studierende in Studiengängen vertreten, die an der
 Mathematisch-Naturwissenschaftlichen Fakultät der Rheinischen Friedrich-Wilhelms Universität
 Bonn angesiedelt sind.
 
@@ -36,12 +36,11 @@ Fassung.
 (3) Die Mat.-Nat.-FK dient der Vernetzung und dem Erfahrungsaustausch der
 mathematisch-naturwissenschaftlichen Fachschaften.
 
-(4) Die Mat.-Nat.-FK übernimmt die Vertretung der Fachschaften gegenüber der Fakultät, der rest-
-lichen Studierendenschaft und der Öffentlichkeit, sobald es um Belange geht, die die Gesamtheit
+(4) Die Mat.-Nat.-FK übernimmt die Vertretung der Fachschaften gegenüber der Fakultät, der restlichen
+Studierendenschaft und der Öffentlichkeit, sobald es um Belange geht, die die Gesamtheit
 der Fachschaften betreffen und eine Koordination nötig machen.
 
-(5) Jede Fachschaft ist angehalten, eine Vertretung auf die Mat.-Nat.-FK zu entsenden und die Sit-
-zungsprotokolle zu lesen.
+(5) Jede Fachschaft ist angehalten, eine Vertretung auf die Mat.-Nat.-FK zu entsenden und die Sitzungsprotokolle zu lesen.
 
 ### § 2 Vorsitz
 
@@ -58,7 +57,7 @@ Zeitpunkt einzuberufen.
 
 (1) Die Mat.-Nat.-FK tagt mindestens zweimal im Semester.
 
-(2) Die Fachschaften und stundentischen Vertretungen werden zu den Sitzungen mindestens eine
+(2) Die Fachschaften und studentischen Vertretungen werden zu den Sitzungen mindestens eine
 Woche vorher in Textform eingeladen.
 
 (3) Der Vorsitz leitet die Sitzungen.
@@ -66,45 +65,44 @@ Woche vorher in Textform eingeladen.
 (4) Jede Fachschaft nimmt mit einer Stimme an den Abstimmungen teil, stimmberechtigt sind die von
 den Fachschaften entsendeten Vertretungen.
 
-(5) Solange keine anderen Vorgaben in dieser Geschäftordnung oder übergeordneten Satzungen beste-
-hen, erfolgen Beschlüsse in einer Lesung.
+(5) Solange keine anderen Vorgaben in dieser Geschäftsordnung oder übergeordneten Satzungen bestehen,
+erfolgen Beschlüsse in einer Lesung.
 
 (6) Es gelten die weiteren Regelungen der FKGO entsprechend.
 
 
 ### § 4 Nominierung von Gremienvertretungen
 
-(1) Die Mat.-Nat.-FK nominiert die studentischen Vertretungen für den Studienbeirat, die Qualitäts-
-verbesserungskommission, die Finanzkommission, und die Strukturkommission der Fakulät, die stu-
-dentische Vertretung der math.-nat. Fakulät in der zentralen Qualitätsverbesserungs-
-kommission, sowie die studentischen Vertretungen in weiteren Kommissionen auf Fakultäts- oder
+(1) Die Mat.-Nat.-FK nominiert die studentischen Vertretungen für den Studienbeirat, die
+Qualitätsverbesserungskommission, die Finanzkommission, und die Strukturkommission der Fakultät, die 
+studentische Vertretung der math.-nat. Fakulät in der zentralen Qualitätsverbesserungskommission, 
+sowie die studentischen Vertretungen in weiteren Kommissionen auf Fakultäts- oder
 Universitätsebene.
 
 (2) Die Fachschaften haben das Vorschlagsrecht. Solange die Größe der Kommissionen es zulässt, soll
 jede Fachschaft bzw. jede Fachgruppe vertreten sein. Erheben mehrere Fachschaften Anspruch auf
-Besetzung eines Sitzes und kann keine Einigung erziehlt werden, entscheidet der Vorsitz durch das
+Besetzung eines Sitzes und kann keine Einigung erzielt werden, entscheidet der Vorsitz durch das
 Los.
 
-(3) Der Vorsitz leitet die Nominierungen an die entsprechenden Stellen weiter und sichert die Benach-
-richtigung der gewählten Vertretungen.
+(3) Der Vorsitz leitet die Nominierungen an die entsprechenden Stellen weiter und sichert die 
+Benachrichtigung der gewählten Vertretungen.
 
-(4) Die studentischen Vertretungen können jederzeit zurücktreten. Dies ist dem Vorsitz und der ent-
-sendenden Fachschaft umgehend in Textform mitzuteilen. Die frei gewordene Position ist auf der
+(4) Die studentischen Vertretungen können jederzeit zurücktreten. Dies ist dem Vorsitz und der 
+entsendenden Fachschaft umgehend in Textform mitzuteilen. Die frei gewordene Position ist auf der
 nächsten Sitzung der Mat.-Nat.-FK neu zu besetzen.
 
 ### § 5 Berichte aus den Gremien
 
 (1) Die von der Mat.-Nat.-FK entsendeten studentischen Vertretungen berichten soweit möglich regel-
-mäßig von ihrer Arbeit in den Kommissionen und legen grundlegende Entscheidungen der Mat.-
-Nat.-FK vor.
+mäßig von ihrer Arbeit in den Kommissionen und legen grundlegende Entscheidungen der Mat.-Nat.-FK vor.
 
 (2) Die studentischen Mitglieder im Fakultätsrat sind angehalten an den Sitzungen der Mat.-Nat.-FK
 teilzunehmen und über ihre Arbeit zu berichten.
 
 ### § 6 Weitere Aufgaben
 
-(1) Die Mat.-Nat.-FK kann gemäß § 29 Abs. 2 FKGO die Beantragung von Geldern für fachschafts-
-übergreifende Maßnahmen und Anschaffungen koordinieren. Die Anträge werden gemäß FKGO
+(1) Die Mat.-Nat.-FK kann gemäß § 29 Abs. 2 FKGO die Beantragung von Geldern für fachschaftsübergreifende
+Maßnahmen und Anschaffungen koordinieren. Die Anträge werden gemäß FKGO
 der Gesamt-Fachschaftschaftenkonferenz vorgestellt und durch diese abgestimmt.
 
 (2) Die Mat.-Nat.-FK kann die Schaffung von gemeinsamen Fachschaftenlisten für die Wahlen der
