@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Medizin der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Medizin
-date:  15. März 2022
+date:  17. Mai 2022
 type:  Satzung
 id:    FSSatzungMedizin
 contains:
@@ -19,6 +19,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  15. März 2022
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-20.pdf
+- title: Zweite Änderung der Satzung der Fachschaft Medizin
+  short: Zweite Änderung der Satzung der Fachschaft Medizin
+  actorgan: Fachschaftsvertretung Fachschaft Medizin
+  actdate:  30. April 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  17. Mai 2022
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-35.pdf
 
 ---
 
@@ -544,14 +551,13 @@ Finanzassistentin.
 
 (4) Buchführung 
  
-
 1. Der oder die Finanzer(in) sowie der oder die Finanzassistent(in) sind 
 verpflichtet, über Einnahmen und Ausgaben der Fachschaft Humanmedizin Buch 
 zu führen. Insbesondere müssen Verwendungszweck und Datum der Ein- und 
 Ausgaben erfasst werden. 
  
 
-(5) Die Finanzbeauftragten werden von drei Mitgliedern der Fachschaftsvertretung
+(5) Die Finanzbeauftragten werden von vier Mitgliedern der Fachschaftsvertretung
 gebildet. Mindestens einer dieser Beauftragten muss im klinischen Studienabschnitt
 sein.
 
@@ -579,9 +585,9 @@ der Mehrheit stimmen.
 ausgeglichenen Haushaltsplan aufzustellen und diesen der FSV in drei
 Lesungen auf mindestens zwei getrennten Sitzungen vor Beginn des
 Haushaltsjahres zur Abstimmung vorzulegen, wobei die zweite und dritte
-Lesung in der gleichen Sitzung stattfinden dürfen. Das Haushaltsjahr der
-Fachschaft beginnt am 31. März eines jeden Jahres und endet am 30. März
-des jeweiligen Folgejahres.
+Lesung in der gleichen Sitzung stattfinden dürfen. Das Haushaltsjahr 
+beginnt am 1. Oktober eines jeden Jahres und endet am 30. September des
+darauffolgenden Jahres.
 2. Anschaffungen und Ausgaben, die von den im Haushaltsplan unter einem
 flexiblen Titel, etwa "Sonstiges", ausgewiesenen Geldern getätigt werden und
 die einen Höchstbetrag von 200 Euro überschreiten, sind vor der Anweisung
@@ -637,3 +643,7 @@ beizufügen.
 
 (4) Die Satzung tritt mit ihrer Veröffentlichung durch Veröffentlichung in der AKUT (vgl. § 37 Satzung der SdS) in Kraft.
 
+### § 29 Übergangsbestimmungen
+
+Abweichend von § 25 Absatz 8 Nr. 1 Satz 2 beginnt das Übergangs-Haushaltsjahr
+2022 am 31. März 2022 und endet am 30. September 2022.
