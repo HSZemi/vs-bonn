@@ -33,6 +33,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:   13. Juni 2022
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-41.pdf
+- title: Dritte Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrats der Fachschaft Physik/Astronomie
+  short: Dritte Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrats der Fachschaft Physik/Astronomie
+  actorgan: Fachschaftsrat Fachschaft Physik/Astronomie
+  actdate:  24. Mai 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:   13. Juni 2022
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-42.pdf
 
 ---
 
@@ -168,12 +175,18 @@ Sitzungen muss der Änderungsantrag als eigener Tagesordnungspunkt behandelt wer
 
 3.  Personalwahlen sind grundsätzlich geheim durchzuführen.
 
-4.  Sofern nichts anderes bestimmt ist, ist für Beschlüsse die einfache
-    Mehrheit erforderlich. Die einfache Mehrheit ist erreicht, wenn die
-    Zahl der Ja-Stimmen die Zahl der Nein-Stimmen übersteigt. Bei
-    Stimmengleichheit kann über den Antrag nochmal abgestimmt werden.
-    Sollte wieder Stimmengleichheit herrschen ist der Antrag auf die
-    nächste Sitzung vertagt.
+4.  Sofern nichts anderes durch die FSSzg oder diese Geschäftsordnung bestimmt ist, ist für
+    Beschlüsse die einfache Mehrheit erforderlich. Die einfache Mehrheit ist erreicht, wenn die Zahl
+    der Ja-Stimmen die Zahl der Nein-Stimmen übersteigt und zudem Ja- und Nein-Stimmen
+    zusammen mindestens 1/3 der insgesamt abgegebenen Stimmen ausmachen.
+
+5.  Bei Stimmgleichheit *und einer Enthaltungen von mindestens 2/3 der stimmberechtigten
+    Mitglieder (Enthaltungsmehrheit)* kann über den Antrag erneut abgestimmt werden. Sollte wieder
+    Stimmgleichheit *oder Enthaltungsmehrheit* herrschen ist der Antrag auf die nächste Sitzung
+    vertagt.  
+    Sollte es keine zweite Abstimmung in der Sitzung geben, so ist die Abstimmung automatisch
+    auf die folgende Sitzung verschoben.
+
 
 # III Rechte und Pflichten der Sitzungsleitung
 
