@@ -54,6 +54,13 @@ contains:
   pubdate:  21. Juni 2022
   puborgan: Öffentlichkeitsbeauftragte
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-45.pdf
+- title: Zweite Ordnung zur Änderung der Geschäftsordnung des Bonner Studierendenparlaments durch das 43. Bonner Studierendenparlament
+  short: Zweite Ordnung zur Änderung der Geschäftsordnung des Bonner Studierendenparlaments durch das 43. Bonner Studierendenparlament
+  actdate:  10. Januar 2022
+  actorgan: Studierendenparlament
+  pubdate:  21. Juni 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-46.pdf
 
 ---
 
@@ -288,20 +295,6 @@ fristgerecht dem AStA-Vorsitz, den Mitgliedern der SP-Ausschüsse, allen AStA-Re
 Fachschaftsräten übermittelt werden. Die Einladung muss spätestens am 6. Kalendertag vor
 der Sitzung hochschulöffentlich zugänglich gemacht werden. Die beigefügten Dokumente
 sind entsprechend § 5b zu veröffentlichen.
-
-
-### § 10a Sitzungsform
-
-(1) Sitzungen können bei Vorliegen einer epidemischen Lage von nationaler oder landesweiter
-Tragweite auf Beschluss des Präsidiums in elektronischer Kommunikation (Online-Sitzung)
-oder teilweise elektronischer Kommunikation (Hybrid-Sitzung) stattfinden.
-
-(2) Auf Online-Sitzungen und Hybrid-Sitzungen kann mithilfe elektronischer Hilfsmittel
-abgestimmt werden. Wird auf einer solchen Sitzung für einen Antrag eine geheime Abstimmung
-gefordert, so wird die Abstimmung auf eine folgende Präsenzsitzung verschoben.
-
-(3) Auf Verlangen eines Fünftel der SP-Mitglieder muss auf einer Online-Sitzung oder
-Hybrid-Sitzungen ein Tagesordnungspunkt auf eine Präsenzsitzung vertagt werden.
 
 
 ### § 11 Tagesordnung (TO)
