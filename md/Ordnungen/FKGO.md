@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms-Universität Bonn [FKGO]
 short: Geschäftsordnung der Fachschaftenkonferenz (FKGO)
-date:  21. April 2022
+date:  26. Juni 2022
 type:  Ordnung
 id:    FKGO
 contains:
@@ -138,6 +138,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  21. April 2022
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-26.pdf
+- title:    Neunte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  short:    Neunte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  actorgan: Fachschaftenkonferenz
+  actdate:  20. Juni 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  26. Juni 2022
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-48.pdf
 
 ---
 
@@ -768,9 +775,8 @@ Bonn.
 (11) Zuweisungen an eine Fachschaft werden ausschließlich auf ein Bankkonto 
 ausgezahlt, welches auf die Fachschaft selbst eingetragen ist.
 
-(12) Die Finanzanträge einer Fachschaft dürfen im FSK nicht von einer
-Person mit gleicher Fachschaftszugehörigkeit geprüft oder angewiesen
-werden.
+(12) Die Finanzanträge und die Nachweise nach Absatz 5 einer Fachschaft dürfen im FSK nicht von einer
+Person mit gleicher Fachschaftszugehörigkeit geprüft oder angewiesen werden.
 
 
 ### § 26 AFsG
@@ -816,6 +822,12 @@ oder seinem Vertreter angewiesen.
 (8) Anträge, die vier Semester nach Ablauf des Semesters, auf das sich
 der Antrag bezieht, die Voraussetzungen des Abs. 5 nicht erfüllen,
 gelten als nicht gestellt.
+
+(9) Das FSK kann die Frist nach Absatz 8 einmalig verlängern, wenn für einen Antrag alle Dokumente
+nach Absatz 5 vorliegen und lediglich noch behebbare Mängel aufweisen. Das FSK teilt der betroffenen
+Fachschaft hierfür die zu behebenden Mängel sowie eine angemessene Frist zur Behebung dieser
+Mängel mit. Diese Fristverlängerung ist auch rückwirkend möglich.
+
 
 ### § 27 Sockelsatz der AFsG
 
@@ -1319,6 +1331,7 @@ Dem Antrag muss zusätzlich beigefügt werden:
 | i | Ausrichtung BuFaTa     | 2000 € pro BuFaTa              |
 | j | Fachschaftskleidung    | 200 € pro Jahr                 |
 | k | Fachschaftsneugründung | AFsG-Sockelsatz, i.d.R. 1000 € |
+| l | Schulungen             | 400 € pro Jahr                 |
 
 #### 5.1 Anmerkungen
 
@@ -1337,6 +1350,10 @@ Dem Antrag muss zusätzlich beigefügt werden:
 - Maßgeblich ist die Aufnahme in die Fachschaftenliste (Anhang
     Fachschaftenliste FKGO).
 
+##### 5.1.4 Schulungen
+
+Fortbildende Maßnahmen, die im unmittelbaren Zusammenhang mit der Fachschaftsarbeit stehen, wie etwa
+Erste-Hilfe-Kurse oder Schulungen für Awarenessmaßnahmen.
 
 ----
 
