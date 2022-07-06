@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Medizin der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Medizin
-date:  17. Mai 2022
+date:  6. Juli 2022
 type:  Satzung
 id:    FSSatzungMedizin
 contains:
@@ -26,6 +26,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  17. Mai 2022
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-35.pdf
+- title: Dritte Änderung der Satzung der Fachschaft Medizin
+  short: Dritte Änderung der Satzung der Fachschaft Medizin
+  actorgan: Fachschaftsvertretung Fachschaft Medizin
+  actdate:  5. Juli 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  6. Juli 2022
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-53.pdf
 
 ---
 
@@ -132,70 +139,107 @@ Einzelentlastung durchgeführt werden.
 soweit anwendbar, sofern sie sich keine eigene Geschäftsordnung gibt. 
 
 
-### § 7 Der Vorstand der FSV und seine Aufgaben 
+### § 7 Der Vorstand der Fachschaft und seine Aufgaben
 
-(1) Der Vorstand besteht aus den drei Vorsitzenden, den zwei Finanzlern und dem 
-Schriftführer. 
+(1) Der Vorstand der Fachschaft setzt sich zusammen aus der oder dem Vorsitzenden der
+FSV, der Protokollantin oder dem Protokollanten der FSV sowie den Mitgliedern des
+FSR.
 
-(2) Alle Mitglieder des Vorstandes müssen FSV-Mitglieder sein und werden einzeln in 
-geheimer Wahl in der konstituierenden Sitzung gewählt. (vgl.: § 6 Abs.4) 
+(2) Alle Mitglieder des Vorstandes müssen FSV-Mitglieder sein und werden einzeln in
+geheimer Wahl in der konstituierenden Sitzung der FSV gewählt.
 
-(3) Die Ämter des Vorstandes der FSV sind vereinbar mit der Mitgliedschaft im FSR. 
+(3) Eine Personalunion der oder des Vorsitzenden der FSV, der Protokollantin oder des
+Protokollanten der FSV und der Mitglieder des FSR untereinander ist unzulässig.
 
-(4) Aufgabenbereiche der Vorsitzenden 
- 
-1. Der Vorsitz besteht aus 3 Mitgliedern der Fachschaftsvertretung. Jeweils eine 
-Person muss im vorklinischen bzw. im klinischen Abschnitt studieren. Der dritte 
-Vorsitzende ist aus beiden Abschnitten wählbar. 
-2. Die Vorsitzenden vertreten die FSV gegen über der Professorenschaft und der 
-Universität. Sie führen in eigener Verantwortung innerhalb der Richtlinien der 
-Fachschaftsvertretung die laufenden Geschäfte der Fachschaft und Beschlüsse 
-der Fachschaftsvertretung aus. Sie sind dafür rechenschaftspflichtig und alle 
-einzeln zeichnungsbefugt. 
-3. Die Mitglieder des Vorstandes sollen bei Sitzungen der Fachschaftsvertretung 
-anwesend sein. 
-4. Die Mitglieder des Vorstandes müssen 
-a. voll geschäftsfähig im Sinne des Bürgerlichen Gesetzbuchs (BGB) sein. b. 
-Mitglieder der Fachschaftsvertretung sein. 
-5. Die Fachschaftsvollversammlung wählt auf Vorschlag der Fachschaftsvertretung 
-oder auf Vorschlag mindestens 3 anwesender Mitglieder der Fachschaft einzeln - 
-und auf Wunsch eines Mitglieds der Fachschaftsvollversammlung in geheimer 
-Wahl - die Mitglieder des Vorstandes für die Dauer der Wahlperiode. Für die 
-Wahl in den Vorstand ist die absolute Mehrheit der Mitglieder erforderlich. 
-6. 4 Die Mitglieder scheiden vorzeitig aus dem Vorstand aus 
-    a. mit dem Ausscheiden aus der Fachschaftsvertretung, 
-    b. durch Rücktritt von ihrem Amt, der durch die Wahl einer Nachfolgerin 
-    oder eines Nachfolgers wirksam wird, 
-    c. durch Exmatrikulation, 
- 
+(4) Die Aufgabenbereiche des Vorstandes der Fachschaft sind unterteilt in Vorsitz,
+Finanzen und Protokollführung.
 
-(5) Der Schriftführer ist für die Erstellung des Sitzungsprotokolls verantwortlich. Er 
-kann an seiner statt ein Mitglied der FSV zum Protokollanten bestimmen. Der 
-Schriftführer ist dafür verantwortlich, dass das Protokoll der FSV-Sitzung eine Woche 
-nach der Sitzung sowohl in Schrift- als auch in digitaler Form ausgefertigt an den FSV-
-Vorsitzenden weitergeleitet und vom FSV-Vorsitzenden jeweils zur nächsten FSV-
-Sitzung allen Mitgliedern ausgehändigt wird. 
- 
+1. Der Aufgabenbereich Vorsitz wird vertreten durch die Vorsitzende oder den
+Vorsitzenden der FSV, die Vorsitzende oder den Vorsitzenden des FSR und die
+stellvertretende Vorsitzende oder den stellvertretenden Vorsitzenden des FSR.
+2. Der Aufgabenbereich Finanzen wird vertreten durch die Finanzreferentin oder den
+Finanzreferenten des FSR und drei weitere Finanzbeauftragte des FSR.
+3. Der Aufgabenbereich Protokollführung wird vertreten durch die Protokollantin oder
+den Protokollanten der FSV.
 
-(6) Der Vorsitzende der FSV führt ihre laufenden Geschäfte. Er beruft die FSV ein, wenn 
+(5) Aufgabenbereich Vorsitz
 
-1. der FSR-Sprecher, 
-2. die Mehrheit des FSR, 
-3. sechs Mitglieder der FSV, 
-4. die FSVV, 
-5. ein FA, 
-6. eine SfVV, 
-7. 5% der Mitglieder der Fachschaft dies unter Angabe von zu behandelnden 
-Tagesordnungspunkten schriftlich verlangen. 
+1. Der Vorsitz besteht aus 3 Mitgliedern der Fachschaftsvertretung. Jeweils eine
+Person muss im vorklinischen bzw. im klinischen Abschnitt studieren. Der dritte
+Vorsitzende ist aus beiden Abschnitten wählbar.
+2. Die Vertreter des Aufgabenbereichs Vorsitz vertreten die Fachschaft gegenüber
+der Professorenschaft und der Universität. Sie sind für die Ausführung der
+Beschlüsse der FSV verantwortlich.
 
-(7) Die Einladung muss 7 Tage vor der geplanten Sitzung an alle FSR- und FSV-
-Mitglieder verschickt werden. Maßgeblich ist das Datum des Absendens. Zu demselben 
-Termin muss auch öffentlich eingeladen werden. 
+(6) Aufgabenbereich Finanzen
 
-(8) Tritt ein Mitglied des Vorstandes zurück, wählt die FSV unverzüglich den Nachfolger. 
-Kann die Wahl nicht auf derselben Sitzung erfolgen, so führt das ausgeschiedene 
-Mitglied sein Amt kommissarisch bis zur Nachwahl weiter. 
+1. Die Vertreter des Aufgabenbereichs Finanzen („Finanzer“) setzen sich aus vier
+Mitgliedern der FSV zusammen. Mindestens eine Person sollte im vorklinischen
+Studienabschnitt und mindestens eine im klinischen Abschnitt studieren.
+2. Die Finanzreferentin oder der Finanzreferent und die drei Finanzbeauftragten des
+FSR führen in eigener Verantwortung innerhalb der Richtlinien der
+Fachschaftsvertretung die laufenden Geschäfte der Fachschaft. Sie sind dafür
+rechenschaftspflichtig und alle einzeln zeichnungsbefugt.
 
+(7) Aufgabenbereich Protokollführung
+
+1. Die Protokollantin oder der Protokollant ist für die Erstellung des
+Sitzungsprotokolls der regelmäßigen Fachschaftssitzung verantwortlich. Dies gilt
+auch für FSV-Sitzungen, die entweder im Rahmen der regelmäßigen
+Fachschaftssitzung oder gesondert stattfinden. Sie oder er kann an ihrer oder
+seiner statt ein Mitglied der Fachschaft zur Protokollführerin / zum
+Protokollführer bestimmen. Die Protokollfüherin oder der Protokollführer ist
+dafür verantwortlich, dass das Protokoll der Fachschaftssitzung eine Woche nach
+der Sitzung mindestens in digitaler Form ausgefertigt an die FSV-Vorsitzende oder
+den FSV-Vorsitzenden weitergeleitet und allen Fachschaftsmitgliedern zugänglich
+gemacht wird.
+2. Das Sitzungsprotokoll muss mindestens enthalten:
+    a. Ort der Sitzung
+    b. Datum der Sitzung
+    c. Name des tagenden Gremiums, insbesondere bei Sitzungen der FSV
+    d. Zeiten zu Beginn und Ende der Sitzung
+    e. Bei FSV Sitzungen zusätzlich Auflistung der anwesenden FSV-Mitglieder
+    f. Name der Protokollführerin oder des Protokollführers.
+3. Für die Erstellung und Ausfertigung von Sitzungsprotokollen des FSR ist die
+Vorsitzende oder der Vorsitzende des FSR verantwortlich. Wenn eine FSR-Sitzung
+im Rahmen der regelmäßigen Fachschaftssitzung stattfindet, so können
+Erstellung, Führung und Ausfertigung des Protokolls an die protokollführende
+Person dieser regelmäßigen Fachschaftsitzung delegiert werden. Es gelten die
+Bestimmungen aus § 7 Abs.7 S.1 entsprechend.
+
+(8) Die Mitglieder des Vorstandes sollen bei Sitzungen der Fachschaftsvertretung
+anwesend sein.
+
+(9) Die Mitglieder des Vorstandes müssen voll geschäftsfähig im Sinne des Bürgerlichen
+Gesetzbuchs (BGB) sein.
+
+(10) Die Mitglieder scheiden vorzeitig aus dem Vorstand aus
+
+a. mit dem Ausscheiden aus der Fachschaftsvertretung.
+b. durch Rücktritt von ihrem Amt, der durch die Wahl einer Nachfolgerin oder eines
+Nachfolgers wirksam wird.
+c. durch Exmatrikulation.
+
+(11) Die Vorsitzende oder der Vorsitzende der FSV führt ihre laufenden Geschäfte. Er
+beruft die FSV ein, wenn:
+
+1. die Vorsitzende oder der Vorsitzende des FSR
+2. die Mehrheit des FSR,
+3. sechs Mitglieder der FSV,
+4. die FSVV,
+5. ein FA,
+6. eine SfVV,
+7. 5% der Mitglieder der Fachschaft
+
+dies unter Angabe von zu behandelnden Tagesordnungspunkten schriftlich verlangen.
+
+(12) Die Einladung muss 7 Tage vor der geplanten Sitzung an alle FSR- und FSV-
+Mitglieder verschickt werden. Maßgeblich ist das Datum des Absendens. Zu demselben
+Termin muss auch öffentlich eingeladen werden.
+
+(13) Tritt ein Mitglied des Vorstandes zurück, wählt die FSV unverzüglich den Nachfolger.
+Kann die Wahl nicht auf derselben Sitzung erfolgen, so führt das ausgeschiedene Mitglied
+sein Amt kommissarisch bis zur Nachwahl weiter.
 
 ### § 8 Ausscheiden, Ausschluss und Nachrücken von Mitgliedern 
 
@@ -283,12 +327,12 @@ seines Sprechers.
 
 (1) Der FSR besteht aus bis zu 9 Mitgliedern. 
 
-(2) Der FSR besteht aus 
+(2) Der FSR besteht aus
 
-1. dem Sprecher 
-2. dem stellvertretenden Sprecher 
-3. dem Finanzreferent als geschäftsführendem Vorstand und höchstens sechs 
-weiteren Mitgliedern. 
+1. der Vorsitzenden oder dem Vorsitzenden
+2. der stellvertretenden Vorsitzenden oder dem stellvertretenden Vorsitzenden
+3. der Finanzreferentin oder dem Finanzreferenten
+4. Drei weiteren Finanzbeauftragten
 
 (3) Der Sprecher kann auf Vorschlag des Referenten einen entsprechenden Beauftragten 
 für das Referat benennen. Dieser nimmt mit beratender Stimme an den Sitzungen des 
@@ -319,10 +363,9 @@ soweit anwendbar, sofern er sich keine eigene Geschäftsordnung gibt.
 
 ### § 14 Wahl des FSR 
 
-(1) Der zu wählende FSR-Sprecher muss der FSV zum Zeitpunkt seiner Wahl angehören. 
-Der FSR-Sprecher hat das alleinige Vorschlagsrecht für alle übrigen zu wählenden 
-Mitglieder des FSR. 
- 
+(1) Die oder der zu wählende Vorsitzende des FSR muss der FSV zum Zeitpunkt ihrer oder seiner Wahl angehören. 
+Die Vorsitzende oder der Vorsitzende des FSR hat das alleinige Vorschlagsrecht für alle übrigen zu wählenden 
+Mitglieder des FSR.
 
 (2) Der geschäftsführende Vorstand wird entsprechend § 8 Abs. 5 gewählt. 
 
@@ -330,17 +373,17 @@ Mitglieder des FSR.
 auf Verlangen einzeln, mit der Mehrheit der satzungsmäßigen Mitglieder der FSV 
 gewählt (§ 8 Abs. 5). 
 
-(4) Die FSV kann den FSR-Sprecher nur im Wege eines konstruktiven 
-Misstrauensvotums abwählen. Mit der Beendigung der Amtszeit des FSR-Sprechers 
+(4) Die FSV kann die Vorsitzende oder den Vorsitzenden des FSR nur im Wege eines konstruktiven 
+Misstrauensvotums abwählen. Mit der Beendigung der Amtszeit der Vorsitzenden oder des Vorsitzenden des FSR
 endet die Amtszeit aller Referenten. 
 
-(5) Nur der FSR-Sprecher hat das Recht, der FSV anzutragen, einen Referenten zu 
+(5) Nur die Vorsitzende oder der Vorsitzende des FSR hat das Recht, der FSV anzutragen, einen Referenten zu 
 entlassen. Die Abwahl eines Referenten erfolgt mit der Mehrheit der satzungsmäßigen 
 Mitglieder der FSV. 
 
 (6) FSR-Mitglieder können jederzeit zurücktreten. Sie sind jedoch verpflichtet, die 
 Geschäfte bis zur Wahl eines Nachfolgers weiterzuführen. Wenn es nach Entscheidung 
-des FSR-Sprechers keinen Nachfolger in diesem Amt geben soll, hat der Referent das 
+der Vorsitzenden oder des Vorsitzenden des FSR keinen Nachfolger in diesem Amt geben soll, hat der Referent das 
 Amt in möglichst drei Wochen ordnungsgemäß zu Ende zu führen. Tritt ein Mitglied des 
 geschäftsführenden Vorstandes zurück, wählt die FSV unverzüglich seinen Nachfolger. 
 Dazu muss gemäß § 8 Abs. 7 eingeladen werden. 
@@ -524,83 +567,82 @@ halten. Zudem hat er den Kontakt zum FSR zu halten.
 
 # C. Haushalts-­ und Wirtschaftsführung 
 
-### § 25 Grundsätze und Kontrolle der Haushaltsführung 
+### § 25 Grundsätze und Kontrolle der Haushaltsführung
 
-(1) Die Haushalts- und Wirtschaftsführung richtet sich nach den Vorgaben der Satzung 
-der Studierendenschaft und der Fachschaftsrahmenordnung. 
+(1) Die Haushalts- und Wirtschaftsführung richtet sich nach den Vorgaben der Satzung
+der Studierendenschaft, der Geschäftsordnung der Fachschaftenkonferenz und der
+Haushalts- und Wirtschaftsführungs-Verordnung der Studierendenschaften NRW.
 
-(2) Die Finanzreferenten obliegt die Finanzführung der Fachschaft. Er führt über alle 
-Einnahmen und Ausgaben der Fachschaft ordnungsgemäß Buch. 
+(2) Der Finanzreferentin oder dem Finanzreferenten obliegt die Finanzführung der
+Fachschaft. Er führt über alle Einnahmen und Ausgaben der Fachschaft ordnungsgemäß
+Buch.
 
-(3) Vermögen der Fachschaft 
+(3) Vermögen der Fachschaft
 
-1. Die Fachschaft hat ein eigenes Vermögen. 
- 
-2. Zur Durchführung ihrer Aufgaben erhält die Fachschaft ihre Mittel gemäß der 
-Finanzordnung der Studierendenschaft. 
- 
-3. Die Fachschaftsvertretung bestimmt die Richtlinien der Mittelverwendung. 
- 
-4. Das Verfügungsrecht über diese Mittel hat der geschäftsführende Vorstand des FSR,
-dieser verwaltet das Vermögen gemäß der Satzung der Universität Bonn.
- 
-5. Einzeln Zeichnungsbefugt für das Vermögen der Fachschaft sind die Mitglieder 
-des Vorstandes sowie ein gewählter Finanzassistent / eine gewählte 
-Finanzassistentin. 
- 
+1. Die Fachschaft hat ein eigenes Vermögen.
+2. Zur Durchführung ihrer Aufgaben erhält die Fachschaft ihre Mittel gemäß der
+Geschäftsordnung der Fachschaftenkonferenz.
+3. Die Fachschaftsvertretung bestimmt die Richtlinien der Mittelverwendung.
+4. Das Verfügungsrecht über diese Mittel hat die Finanzreferentin oder der
+Finanzreferent, diese oder dieser verwaltet das Vermögen.
+5. Einzeln Zeichnungsbefugt für das Vermögen der Fachschaft sind die
+Finanzreferentin oder der Finanzreferent und die drei Finanzbeauftragten (alle
+zusammengefasst: „Finanzer“), entsprechend § 7 Absatz 6.
 
-(4) Buchführung 
- 
-1. Der oder die Finanzer(in) sowie der oder die Finanzassistent(in) sind 
-verpflichtet, über Einnahmen und Ausgaben der Fachschaft Humanmedizin Buch 
-zu führen. Insbesondere müssen Verwendungszweck und Datum der Ein- und 
-Ausgaben erfasst werden. 
- 
+(4) Die Finanzer sind verpflichtet, über Einnahmen und Ausgaben der Fachschaft Medizin
+Buch zu führen. Insbesondere müssen Verwendungszweck und Datum der Ein- und
+Ausgaben erfasst werden.
 
-(5) Die Finanzbeauftragten werden von vier Mitgliedern der Fachschaftsvertretung
-gebildet. Mindestens einer dieser Beauftragten muss im klinischen Studienabschnitt
-sein.
+(5) Die Geschäftsführung der Finanzreferentin oder des Finanzreferenten unterliegt der
+Prüfung durch die FSV. Die FSV bestellt die Kassenprüferinnen oder Kassenprüfer, die
+nicht der FSV selbst angehören dürfen, jedoch Studierende der RFWU Bonn sein müssen.
+Die Kassenprüfung ist mindestens einmal jährlich unvermutet durchzuführen. Sie dient
+dem Zweck festzustellen, ob insbesondere
 
-(6) Die Kassenprüfer der FSV sollten eine Jahresabschlussprüfung durchführen. Die 
-Kassenprüfung dient dem Zweck festzustellen, ob insbesondere 
+1. der Kassenistbestand mit dem Kassensollbestand übereinstimmt
+(Kassenbestandsaufnahme)
+2. die Buchungen nach der Zeitfolge mit den Buchungen nach der im Haushaltsplan
+vorgesehenen Ordnung übereinstimmen,
+3. die erforderlichen Kassenanordnungen vorhanden sind, und
+4. die Vordrucke für Schecks und die Quittungsblöcke vollständig vorhanden sind.
+Über die Kassenprüfung ist ein Bericht zu fertigen, in den auch der Kassenbestand
+aufzunehmen ist.
 
-1. der Kassen-Ist-Bestand mit dem Kassen-Soll-Bestand übereinstimmt und 
-2. die Buchungen nach der Zeitfolge mit den Buchungen nach der im Haushaltsplan 
-2. vorgesehenen Ordnung übereinstimmen. 
+Unverzüglich nach Feststellung der Haushaltsrechnung für ein abgeschlossenes
+Haushaltsjahr ist eine weitere Kassenprüfung als Jahresabschlussprüfung durchzuführen.
+Absatz 5 Nrn. 1 bis 4 gilt entsprechend. Diese soll die insbesondere die Richtigkeit der
+Haushaltsrechnung prüfen.
 
-Über die Kassenprüfung ist Protokoll zu führen, in das die Kassen- und Kontobestände 
-aufzunehmen sind. 
+(6) Zur finanziellen Verpflichtung der Fachschaft sind die Unterschriften der oder des
+Vorsitzenden des FSR und der Finanzreferentin oder des Finanzreferenten oder die
+Unterschrift des zuständigen Referenten nach Zustimmung der oder des Vorsitzenden
+des FSR und der Finanzreferentin oder des Finanzreferenten erforderlich. Der FSR kann
+gegen die Stimmen der oder des Vorsitzenden des FSR und der Finanzreferentin oder des
+Finanzreferenten keine finanziell erheblichen Vorhaben beschließen. Der FSR kann mit
+der Mehrheit der gewählten Mitglieder Ausgaben beschließen, sofern die oder der
+Vorsitzende des FSR oder die Finanzreferentin oder der Finanzreferent mit der Mehrheit
+stimmen.
 
-(7) Zur finanziellen Verpflichtung der Fachschaft sind die Unterschriften des FSR-
-Sprechers und des Finanzreferenten oder die Unterschrift des zuständigen Referenten 
-nach Zustimmung des FSR- Sprechers und des Finanzreferenten erforderlich. Der FSR 
-kann gegen die Stimmen von Fachschaftssprecher und Finanzreferent keine finanziell 
-erheblichen Vorhaben beschließen. Der FSR kann mit der Mehrheit der gewählten 
-Mitglieder Ausgaben beschließen, sofern der FSR-Sprecher oder der Finanzreferent mit 
-der Mehrheit stimmen.
+(7) Haushaltsplan
 
-(8) Haushaltsplan
-
-1. Der Finanzreferent hat vor Beginn des Haushaltsjahres einen
-ausgeglichenen Haushaltsplan aufzustellen und diesen der FSV in drei
-Lesungen auf mindestens zwei getrennten Sitzungen vor Beginn des
-Haushaltsjahres zur Abstimmung vorzulegen, wobei die zweite und dritte
-Lesung in der gleichen Sitzung stattfinden dürfen. Das Haushaltsjahr 
-beginnt am 1. Oktober eines jeden Jahres und endet am 30. September des
-darauffolgenden Jahres.
-2. Anschaffungen und Ausgaben, die von den im Haushaltsplan unter einem
-flexiblen Titel, etwa "Sonstiges", ausgewiesenen Geldern getätigt werden und
-die einen Höchstbetrag von 200 Euro überschreiten, sind vor der Anweisung
-von der FSV gesondert zu beschließen.
-3. Überplanmäßige oder außerplanmäßige Ausgaben sind vor Inkrafttreten
-eines Nachtrags zum Haushaltsplan, der sie vorsieht, nur dann zulässig, wenn
-sie unabweisbar sind. Sie sind der FSV unverzüglich anzuzeigen.
-4. Nachträge zum Haushaltsplan können nur für das laufende Haushaltsjahr
-eingebracht werden. Ein Nachtragshaushaltsplans muss dann beschlossen
-werden, wenn die im Haushaltsplan vorgesehenen Beträge teilweise
-überschritten werden sollen. Ein Nachtragshaushaltsplan muss im gleichen
-Verfahren wie der Haushaltsplan nach § 25. Abs. 8 S. 1 beschlossen werden.
-
+1. Die Finanzreferentin oder der Finanzreferent hat vor Beginn des Haushaltsjahres
+einen ausgeglichenen Haushaltsplan aufzustellen und diesen der FSV in drei Lesungen
+auf mindestens zwei getrennten Sitzungen vor Beginn des Haushaltsjahres zur
+Abstimmung vorzulegen, wobei die zweite und dritte Lesung in der gleichen Sitzung
+stattfinden dürfen. Das Haushaltsjahr beginnt am 1. Oktober eines jeden Jahres und
+endet am 30. September des darauffolgenden Jahres.
+2. Anschaffungen und Ausgaben, die von den im Haushaltsplan unter einem flexiblen
+Titel, etwa „Sonstiges“, ausgewiesenen Geldern getätigt werden und die einen
+Höchstbetrag von 200 Euro überschreiten, sind vor der Anweisung von der FSV
+gesondert zu beschließen.
+3. Überplanmäßige oder außerplanmäßige Ausgaben sind vor Inkrafttreten eines
+Nachtrags zum Haushaltsplan, der sie vorsieht, nur dann zulässig, wenn sie
+unabweisbar sind. Sie sind der FSV unverzüglich anzuzeigen.
+4. Nachträge zum Haushaltsplan können nur für das laufende Haushaltsjahr eingebracht
+werden. Ein Nachtragshaushaltsplans muss dann beschlossen werden, wenn die im
+Haushaltsplan vorgesehenen Beträge teilweise überschritten werden sollen. Ein
+Nachtragshaushaltsplan muss im gleichen Verfahren wie der Haushaltsplan
+nach § 25. Abs. 7 S. 1 beschlossen werden.
 
 ### § 26 Haftung 
 
