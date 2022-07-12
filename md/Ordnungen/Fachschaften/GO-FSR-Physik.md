@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung des Fachschaftsrats der Fachschaft Physik/Astronomie der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Geschäftsordnung des Fachschaftsrats der Fachschaft Physik/Astronomie
-date:  13. Juni 2022
+date:  12. Juli 2022
 type:  Ordnung
 id:    GO-FSR-Physik
 contains:
@@ -40,6 +40,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:   13. Juni 2022
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-42.pdf
+- title: Vierte Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrats der Fachschaft Physik/Astronomie
+  short: Vierte Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrats der Fachschaft Physik/Astronomie
+  actorgan: Fachschaftsrat Fachschaft Physik/Astronomie
+  actdate:  21. Juni 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  12. Juli 2022
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-54.pdf
 
 ---
 
@@ -55,8 +62,11 @@ ihres Geschlechts in gleicher Weise.
 
 ### § 1 Grundsätze
 
-1. Innerhalb der Vorlesungszeit findet die Sitzung jeden Dienstag um 18:30 Uhr statt. Für diese
-Sitzungen ist keine gesonderte Einladung erforderlich.
+(1) Innerhalb der Vorlesungszeit findet die Sitzung jeden Dienstag um 18:30 Uhr statt. Hiervon
+ausgenommen sind Termine während der vorlesungsfreien Zeit[^1]. Für diese Sitzungen ist
+keine gesonderte Einladung erforderlich.
+
+[^1]: Nach dem akademischen Kalender der Uni Bonn https://www.uni-bonn.de/de/studium/organisation-des-studiums/semestertermine
 
 2. Darüber hinaus tritt der FSR zusammen
     (1) auf eigenen Beschluss,
@@ -75,13 +85,12 @@ der Sitzung der Fachschaft durch öffentlichen Aushang bekanntzugeben.
 
 4. In begründeten Fällen kann der Sitzungsort zu Beginn der Sitzung geändert werden. In
 diesem Fall ist der neue Sitzungsort sowohl in den Örtlichkeiten der Fachschaft, als auch
-gegebenenfalls in dem zuvor bestimmten Sitzungsraum, durch öffentlichen Aushang be-
-kanntzugeben.
+gegebenenfalls in dem zuvor bestimmten Sitzungsraum, durch öffentlichen Aushang bekanntzugeben.
 
 5. Die Sitzungstermine in der vorlesungsfreien Zeit werden durch den FSR bestimmt und
 bekannt gegeben. Hierbei ist die Ladungsfrist von mindestens 7 Tagen zu wahren.
 
-6. Auf Beschluss des FSR können Sitzungstermine ausfallen.
+(6) Auf Beschluss des FSR können Sitzungtermine gemäß §1 Abs. 1 ausfallen.
 
 
 ### § 2 Aufstellung der Tagesordnung
@@ -92,16 +101,17 @@ antragsberechtigte Mitglied ist berechtigt Vorschläge zur Tagesordnung hinzuzuf
 
 2. Eigenständige Tagesordnungspunkte müssen spätestens einen Tag vor Sitzungsbeginn an
 den FSR-Vorstand kommuniziert werden. Eine Aufnahme auf die Tagesordnung ist danach
-nur noch nach Rücksprache mit dem FSR-Vorstand durch einen entsprechenden Ermessens-
-entscheid möglich.
+nur noch nach Rücksprache mit dem FSR-Vorstand durch einen entsprechenden Ermessensentscheid möglich.
 
 3. Weitere Punkte unter dem Tagesordnungspunkt Sonstige können bis zum Ende der Sitzung
 eingebracht werden.
 
-4. Anträge auf Änderung der Geschäftsordnung sind auf mindestens zwei getrennten Sitzungen
-zu behandeln. Auf der ersten Sitzung ist der Antragstext bekannt zu geben. In beiden
-Sitzungen muss der Änderungsantrag als eigener Tagesordnungspunkt behandelt werden.
+(4) Anträge zur Änderung der Geschäftsordnung sind als eigener Tagesordnungspunkt zu behandeln
+und müssen vor Sitzungsbeginn mit Antragstext vorliegen.
 
+(5) Anträge zu Finanzthemen (Finanzanträge) über einem Wert von 50,00 müssen dem FSR-Vorstand
+mindestens einen Tag vor Sitzungsbeginn kommuniziert werden und als eigener
+Tagesordnungspunkt auf die Tagesordnung gesetzt werden.
 
 # II Verlauf der Sitzung
 
@@ -149,20 +159,15 @@ Sitzungen muss der Änderungsantrag als eigener Tagesordnungspunkt behandelt wer
 
 ### § 6 Rede- und Antragsrecht
 
-1.  Rederecht haben alle Anwesenden.
+(1) Rederecht haben alle Anwesenden.
 
-2.  Antragsrecht haben alle Mitglieder der Fachschaft nach §1 Abs. 1 FSSzg sowie Studierende
-    der Lehramtsstudiengänge Physik (vgl. §23 Abs. 1 FSSzg).
+(2) Antragsrecht haben alle Mitglieder der Fachschaft nach §1 Abs. 1 FSSzg sowie Studierende
+der Lehramtsstudiengänge Physik (vgl. §23 Abs. 1 FSSzg).
 
-3.  Die Sitzungsleitung erteilt das Wort in der Reihenfolge
-    der Wortmeldung. Im Allgemeinen muss das Wort jedoch nicht erteilt
-    werden, solange die Sitzungsleitung den ordnungsgemäßen Ablauf der
-    Sitzung nicht beeinträchtigt sieht.
-    
-3.  Die Sitzungsleitung erteilt das Wort in der Reihenfolge der Wortmeldung oder nach eigenem
-    Ermessen bei direkten Gegenfragen oder Gegenreden. Im Allgemeinen muss das Wort jedoch
-    nicht erteilt werden, solange die Sitzungsleitung den ordnungsgemäßen Ablauf der Sitzung
-    nicht beeinträchtigt sieht.
+(3) Die Sitzungsleitung erteilt das Wort in der Reihenfolge der Wortmeldung oder nach eigenem
+Ermessen bei direkten Gegenfragen oder Gegenreden. Im Allgemeinen muss das Wort
+jedoch nicht erteilt werden, solange die Sitzungsleitung den ordnungsgemäßen Ablauf der
+Sitzung nicht beeinträchtigt sieht.
 
 
 ### § 7 Abstimmungen
@@ -296,8 +301,8 @@ Sitzungen muss der Änderungsantrag als eigener Tagesordnungspunkt behandelt wer
 5.  Anträge zur Geschäftsordnung werden mit einfacher Mehrheit
     beschlossen, sofern nicht anders bestimmt.
 
-6.  Die Anträge gemäß Abs. 4 (1), (10), (14) und (16) werden ohne
-    Gegenrede und Abstimmung behandelt.
+(6) Anträge gemäß Abs. 4 Punkte 1, 10, 14 und 16 werden ohne Gegenrede und Abstimmung
+automatisch angenommen.
 
 7.  Die Anträge gemäß Abs. 4 (6), (8), (9) und (11) - (13) bedürfen einer
     Zweidrittelmehrheit der stimmberechtigten Anwesenden.
@@ -383,10 +388,13 @@ Sitzungen muss der Änderungsantrag als eigener Tagesordnungspunkt behandelt wer
     Wortlautes, als auch eine Ergänzung oder Aufhebung ihrer
     Bestimmungen anzusehen.
 
-2.  Die Geschäftsordnung kann nur auf Beschluss des FSR mit 2/3-Mehrheit der anwesenden
+(2) Anträge auf Änderung der Geschäftsordnung sind auf mindestens zwei getrennten Sitzungen
+zu behandeln. Auf der ersten Sitzung ist der Antragstext bekannt zu geben.
+
+3.  Die Geschäftsordnung kann nur auf Beschluss des FSR mit 2/3-Mehrheit der anwesenden
     stimmberechtigten Mitgliedern geändert werden (vgl. §3 Abs. 4 FSSzg).
 
-3.  Die Geschäftsordnung in ihrer aktuellen Form ist im
+4.  Die Geschäftsordnung in ihrer aktuellen Form ist im
     Fachschaftsraum aufzubewahren.
 
 ### § 17 Inkrafttreten und Gültigkeit
