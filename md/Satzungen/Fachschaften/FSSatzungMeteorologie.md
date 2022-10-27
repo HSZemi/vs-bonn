@@ -1,6 +1,6 @@
 ---
-title: Satzung der Fachschaft Meteorologie
-short: Satzung der Fachschaft Meteorologie
+title: Satzung der Fachschaft Meteorologie und Geophysik
+short: Satzung der Fachschaft Meteorologie und Geophysik
 date:  19. April 2021
 type:  Satzung
 id:    FSSatzungMeteorologie

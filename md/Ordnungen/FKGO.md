@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms-Universität Bonn [FKGO]
 short: Geschäftsordnung der Fachschaftenkonferenz (FKGO)
-date:  26. Juni 2022
+date:  24. Oktober 2022
 type:  Ordnung
 id:    FKGO
 contains:
@@ -145,6 +145,15 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  26. Juni 2022
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-48.pdf
+- title:    Zehnte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  short:    Zehnte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  actorgan: Fachschaftenkonferenz
+  actdate:  17. Oktober 2022
+  confirmorgan: Studierendenparlament
+  confirmdate: 19. Oktober 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  24. Oktober 2022
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-65.pdf
 
 ---
 
@@ -1479,7 +1488,7 @@ Evangelische Theologie
   * Ecumenical Studies (Master of Arts)
   * Evangelische Theologie und Hermeneutik (Bachelor of Arts)
   * Evangelische Theologie (Kirchl.Ex.)
-  * Evangelische Theologie (Magister Theologiae)
+  * Evangelische Theologie (Magister Theologiae (ev.))
   * Evangelische Theologie (Master of Arts)
   * Evangelische Theologie (Promotion)
   * Extended Ecumenical Studies (Master of Arts)
@@ -1488,7 +1497,7 @@ GeKoSka
 -------
   * Deutsche Sprache u.ältere deutsche Literatur (Promotion)
   * German and Comparative Literature (Master of Arts)
-  * Germanistische Linguistik (Promotion)
+  * Germanische Linguistik (Promotion)
   * Germanistik (Bachelor of Arts)
   * Germanistik (Master of Arts)
   * Germanistik, Vergleichende Literatur- und Kulturwissenschaft (Bachelor of Arts)
@@ -1519,15 +1528,13 @@ Geographie
   * Geographie (Master of Science)
   * Geographie (Promotion)
   * Geography of Environmental Risks and Human Security (Master of Science)
-  * Historische Geographie (Promotion)
-  * Katastrophenvorsorge und Katastrophenmanagement (Master of Disaster Management and Risk Governance) (Master)
+  * Katastrophenvorsorge und Risikomanagement (Master of Disaster Preparedness and Risk Management) (Master)
 
 Geowissenschaften
 -----------------
   * Geochemie/Petrologie (Master of Science)
   * Geologie (Master of Science)
   * Geologie/Paläontologie (Promotion)
-  * Geophysik (Promotion)
   * Geowissenschaften (Bachelor of Science)
   * Geowissenschaften (Master of Science)
   * Geowissenschaften (Promotion)
@@ -1592,7 +1599,7 @@ Katholische Theologie
   * Katholische Theologie (Kirchl.Ex.)
   * Katholische Theologie (Promotion)
   * Katholische Theologie (Bachelor of Arts)
-  * Katholische Theologie (Magister Theologiae)
+  * Katholische Theologie (Magister Theologiae (kath.))
 
 Kulturanthropologie
 -------------------
@@ -1652,11 +1659,11 @@ Lehramt
   * Mathematik (LA MA Gym Ge)
   * Pflanzenwissenschaften (Pflanzenbau) (LA BA Berufskolleg)
   * Pflanzenwissenschaften (Pflanzenbau) (LA MA Berufskolleg)
-  * Philosophie (LA BA Gym Ge)
+  * Philosophie/Praktische Philosophie (LA BA Gym Ge)
   * Philosophie (LA MA Gym Ge)
   * Physik (LA BA Gym Ge)
   * Physik (LA MA Gym Ge)
-  * Sozialwissenschaften (LA BA Gym Ge)
+  * Wirtschaft-Politik/Sozialwissenschaften (LA BA Gym Ge)
   * Sozialwissenschaften (LA MA Gym Ge)
   * Spanisch (LA BA Gym Ge)
   * Spanisch (LA MA Gym Ge)
@@ -1684,28 +1691,29 @@ Medizin
   * Experimentelle Medizin (Doctor of Philosophy)
   * Experimentelle Medizin (Med.Doc/Doc.of Philosophy)
   * Global Health - Risk Management and Hygiene Policies (Master)
+  * Hebammenwissenschaft (Bachelor of Science)
   * Humangenetik (Med.Doc/Doc.of Philosophy)
   * Klinische Immunologie (Doctor of Philosophy)
   * Klinische Immunologie (Med.Doc/Doc.of Philosophy)
   * Klinische Infektiologie (Doctor of Philosophy)
+  * Klinische Medizin (Doctor of Philosophy)
   * Klinische Medizin (Med.Doc/Doc.of Philosophy)
   * Medical Immunosciences and Infection (Master of Science)
   * Medizin (Promotion)
   * Medizin (Staatsex.)
   * Medizinische Biometrie (Doctor of Philosophy)
-  * Medizinische Neurowissenschaften (Med.Doc/Doc.of Philosophy)
   * Medizinische Psychologie (Doctor of Philosophy)
   * Medizinische Psychologie (Med.Doc/Doc.of Philosophy)
   * Medizinische Soziologie (Doctor of Philosophy)
   * Medizinische Soziologie (Med.Doc/Doc.of Philosophy)
   * Public Health (Doctor of Philosophy)
-  * Public Health (Med.Doc/Doc.of Philosophy)
   * Translationale Medizin (Med.Doc/Doc.of Philosophy)
   * Versorgungsforschung (Doctor of Philosophy)
   * Versorgungsforschung (Med.Doc/Doc.of Philosophy)
 
-Meteorologie
-------------
+Meteorologie und Geophysik
+--------------------------
+  * Geophysik (Promotion)
   * Meteorologie (Bachelor of Science)
   * Meteorologie und Geophysik (Bachelor of Science)
   * Meteorologie (Promotion)
@@ -1775,6 +1783,7 @@ OrientAsia
 Pharmazie
 ---------
   * Arzneimittelforschung (Drug Research) (Master of Science)
+  * Arzneimitteltherapiesicherheit (Master of Science)
   * Arzneimittelwissenschaften (Promotion)
   * Drug Regulatory Affairs (Master)
   * Pharmazie (Promotion)
@@ -1789,7 +1798,6 @@ Philosophie
 
 Physik/Astronomie
 -----------------
-  * Astronomie/Astrophysik (Promotion o.Ab.Astronomie)
   * Astronomie/Astrophysik (Promotion)
   * Astrophysik (Master of Science)
   * Physik (Bachelor of Science)
