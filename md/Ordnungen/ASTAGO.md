@@ -30,9 +30,9 @@ contains:
   short: Geschäftsordnung des Allgemeinen Studierenden Ausschuss
   actdate:  28. Juni 2022
   actorgan: Gesamt-AStA-Sitzung
-  pubdate:  4. Juli 2022
+  pubdate:  12. Dezember 2022
   puborgan: Öffentlichkeitsbeauftragte
-  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-52.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-74.pdf
 - title: Änderung der Geschäftsordnung (GO) des AStA
   short: Änderung der Geschäftsordnung (GO) des AStA
   actdate:  4. Oktober 2022
@@ -121,7 +121,7 @@ ausspricht.
 ### § 7 Selbstverwaltete Referate
 
 1. Als selbstverwaltete Referate existieren das Fachschaftenreferat, das Sportreferat, das Referat fur
-Geschlechtergerechtigkeit und Frauen‚ das Referat fur Internationale Studierende, das QueerReferat und
+Frauen und Geschlechtergerechtigkeit‚ das Referat fur Internationale Studierende, das QueerReferat und
 das das BIPoC-Referat.
 2. Die selbstverwalteten Referate treten innerhalb ihrer Arbeitsbereiche eigenstandig nach außen
 auf. Abweichend von § 5 Abs. 2 findet eine inhaltliche Einflussnahme der Gesamt-AStA- Sitzung
@@ -413,9 +413,9 @@ Uni Bonn stimmberechtigt und haben den Status einer Angehorigen.
 
 1. Die verschiedenen Vollversammlungen sind beschlussfahig, wenn die folgenden Zahlen von
 anwesenden Angehorigen erreicht werden:  
-Fur das Referat fpr Internationale Studierende:  
+Fur das Referat fur Internationale Studierende:  
 Internationale Studierende: 40  
-Fur das Referat fur Geschlechtergerechtigkeit und Frauen:  
+Fur das Referat fur Frauen und Geschlechtergerechtigkeit:  
 Studierende: 100  
 Fur das Queer-Referat:  
 Queere Studierende: 25  
