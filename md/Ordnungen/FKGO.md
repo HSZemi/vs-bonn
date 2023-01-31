@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms-Universität Bonn [FKGO]
 short: Geschäftsordnung der Fachschaftenkonferenz (FKGO)
-date:  24. Oktober 2022
+date:  31. Januar 2023
 type:  Ordnung
 id:    FKGO
 contains:
@@ -154,6 +154,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  24. Oktober 2022
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-65.pdf
+- title:    Elfte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  short:    Elfte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  actorgan: Fachschaftenkonferenz
+  actdate:  30. Januar 2023
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  31. Januar 2023
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-05.pdf
 
 ---
 
@@ -1189,18 +1196,19 @@ der AFsG-Sockelsatz 500 €.
 - Allen Anträgen müssen die folgendem Dokumente beigefügt werden:
     - tabellarische Kostenkalkulation
     - **Kopien** aller Rechnungen
-    - Arbeitsberichte (außer bei "Sonstiges"). Der Arbeitsbericht muss
-      dokumentieren, welche Awareness-Maßnahmen getroffen wurden.
+    - Arbeitsberichte (außer bei „Sonstiges“). Der Arbeitsbericht muss dokumentieren, 
+    welche Awareness-Maßnahmen getroffen wurden. Bei der Teilnahme an einer BuFaTa
+    gemäß 3. e sollen die Awareness-Maßnahmen der BuFaTa geschildert werden.
 
 ### 2. Veranstaltungen
 
-Insgesamt können maximal **2500 € im Jahr** für Veranstaltungen
+Insgesamt können maximal **3000 € im Jahr** für Veranstaltungen
 beantragt werden.
 
 |   | Titel                       | Höchstsatz                       |
 |---|-----------------------------|----------------------------------|
-| a | Erstsemesterarbeit          | 800 € pro Semester               |
-|   |                             | davon für Verpflegung max. 400 € |
+| a | Erstsemesterarbeit          | 1000 € pro Semester              |
+|   |                             | davon für Verpflegung max. 500 € |
 | b | Inhaltliche Veranstaltungen | 700 € pro Veranstaltung          |
 
 
@@ -1248,19 +1256,19 @@ dienen, zum Beispiel:
 
 ### 3. Allgemeine Fahrten
 
-Insgesamt können maximal **4000 € im Jahr** für Allgemeine Fahrten
+Insgesamt können maximal **5000 € im Jahr** für Allgemeine Fahrten
 beantragt werden. Es können je Person und Tag **maximal 50 €** beantragt
 werden.
 
-|   | Titel               | Höchstsatz                  |
-|---|---------------------|-----------------------------|
-| c | Erstsemesterfahrten | bis zu 30 Teilnehmer: 800 € |
-|   |                     | bis zu 50 Teilnehmer: 900 € |
-|   |                     | über 50 Teilnehmer: 1000 €  |
-| d | Klausurfahrten      | bis zu 10 Teilnehmer: 500 € |
-|   |                     | bis zu 30 Teilnehmer: 800 € |
-|   |                     | über 30 Teilnehmer: 900 €   |
-| e | BuFaTa              | 800 €                       |
+|   | Titel               | Höchstsatz                   |
+|---|---------------------|------------------------------|
+| c | Erstsemesterfahrten | bis zu 30 Teilnehmer: 1000 € |
+|   |                     | bis zu 50 Teilnehmer: 1100 € |
+|   |                     | über 50 Teilnehmer: 1200 €   |
+| d | Klausurfahrten      | bis zu 10 Teilnehmer: 600 €  |
+|   |                     | bis zu 30 Teilnehmer: 800 €  |
+|   |                     | über 30 Teilnehmer: 1100 €   |
+| e | BuFaTa              | 1000 €                       |
 
 
 #### 3.1 Anmerkungen
@@ -1275,7 +1283,8 @@ werden.
 ##### 3.1.1 Erstsemesterfahrt
 
 - Eine Erstsemesterfahrt soll sich gezielt an Erstsemester richten.
-    Der Anteil an Nicht-Studienanfängern soll 30 % nicht überschreiten.
+  Der Anteil an Nicht-Studienanfängern soll 30 % nicht überschreiten,
+  sofern dies mehr als 5 Teilnehmende sind.
 
 - Erstsemester im Sinne dieser Ordnung sind alle Studierende, die in
     mindestens einem Studiengang noch nicht länger als ein Studienjahr
