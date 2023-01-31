@@ -44,9 +44,9 @@ contains:
   short: Geschäftsordnung des Allgemeinen Studierenden Ausschuss (GO AStA)
   actdate:  24. Januar 2023
   actorgan: Gesamt-AStA-Sitzung
-  pubdate:  25. Januar 2023
+  pubdate:  31. Januar 2023
   puborgan: Öffentlichkeitsbeauftragte
-  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-03.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-06.pdf
 
 ---
 
@@ -128,7 +128,7 @@ ausspricht.
 ### § 7 Selbstverwaltete Referate
 
 1. Als selbstverwaltete Referate existieren das Fachschaftenreferat, das Sportreferat, das Referat für
-Frauen und Geschlechtergerechtigkeit‚ das Referat für Internationale Studierende und das QueerReferat.
+Frauen und Geschlechtergerechtigkeit‚ das Referat für Internationale Studierende, das BiPoC-Referat und das QueerReferat.
 2. Die selbstverwalteten Referate treten innerhalb ihrer Arbeitsbereiche eigenständig nach außen
 auf. Abweichend von § 5 Abs. 2 findet eine inhaltliche Einflussnahme der Gesamt-AStA- Sitzung
 nicht statt.
@@ -424,7 +424,9 @@ Internationale Studierende: 40
 Für das Referat für Frauen und Geschlechtergerechtigkeit:  
 Frauen, Lesben, intergeschlechtliche, nichtbinäre, trans und agender (FLINTA) Studierende: 100  
 Für das Queer-Referat:  
-Queere Studierende: 25
+Queere Studierende: 25  
+Für das BiPoC-Referat:  
+BiPoC Studierende: 20
 2. Unabhängig von ihrer Beschlussfähigkeit können die Vollversammlungen der AStAVorsitzenden eine Referentin vorschlagen.
 3. Ist eine Vollversammlung nicht beschlussfähig, so kann sie der Gesamt-AStA-Sitzung
 Mitarbeiterinnen der entsprechenden Referate vorschlagen, die abweichend von § 7 Abs. 3 durch
