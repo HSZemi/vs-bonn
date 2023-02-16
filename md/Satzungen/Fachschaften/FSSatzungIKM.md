@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Interkulturelle Kommunikation und Mehrsprachigkeitsforschung (IKM)
 short: Satzung der Fachschaft Interkulturelle Kommunikation und Mehrsprachigkeitsforschung (IKM)
-date:  25. November 2020
+date:  31. August 2022
 type:  Satzung
 id:    FSSatzungIKM
 contains:
@@ -19,28 +19,37 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  25. November 2020
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2020/vsbonn_bekanntmachung_2020-34.pdf
+- title: Satzung der Fachschaft Interkulturelle Kommunikation und Mehrsprachigkeitsforschung
+  short: Satzung der Fachschaft Interkulturelle Kommunikation und Mehrsprachigkeitsforschung
+  actorgan: Fachschaftsvollversammlung der Interkulturelle Kommunikation und Mehrsprachigkeitsforschung (IKM)
+  actdate:  29. August 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  31. August 2022
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-57.pdf
 
 ---
 
 # Präambel
 
-Diese Satzung soll das Fachschaftswesen der Studiengänge Sprache und Kommunikation in der
-globalisierten Mediengesellschaft sowie Deutsch als Zweit- und Fremdsprache organisieren und ist
-bei der Ausübung jeglicher Tätigkeiten der Fachschaft verpflichtend zu berücksichtigen.
+Als Teil der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn und in Ausübung
+ihres Rechts auf Selbstverwaltung hat sich die Fachschaft Interkulturelle Kommunikation und
+Mehrsprachigkeitsforschung die folgende Satzung gegeben.
 
-# A. Fachschaft
+
+## I. Fachschaft
 
 ### § 1 Begriffsbestimmung und Rechtsstellung
 
-(1) Alle Studierenden, die im Studienfach Sprache und Kommunikation in der globalisierten
-Mediengesellschaft oder im Studienfach Deutsch als Zweit- und Fremdsprache im Zwei-Fach-
-Bachelor an der RFWU Bonn eingeschrieben und wahlberechtigt sind, bilden die Fachschaft IKM.
+(1) Die Fachschaft Interkulturelle Kommunikation und Mehrsprachigkeitsforschung, nachfolgend
+bezeichnet als „Fachschaft“, bilden alle Studierenden, die in den der Fachschaft Interkulturelle 
+Kommunikation und Mehrsprachigkeitsforschung zugeordneten Studienfächern im Hauptfach eingeschrieben 
+sind. Die Zuordnung erfolgt gemäß der Anlage „Fachschaftenliste“ zur Geschäftsordnung der
+Fachschaftenkonferenz (FKGO) (vgl. §22 SdS).
 
-(2) Die Fachschaft nimmt alle sie betreffenden Aufgaben innerhalb der
-Studierendenschaft wahr und vertritt im Rahmen ihrer Möglichkeiten die Belange
-der Studierenden, die im Studienfach Kommunikation in der globalisierten
-Mediengesellschaft oder im Studienfach Deutsch als Zweit- und Fremdsprache im Zwei-Fach Bachelor
-an der RFWU Bonn eingeschrieben sind.
+(2) Die Fachschaft vertritt die spezifischen Interessen ihrer Mitglieder. Sie vertritt darüber hinaus im
+Rahmen ihrer Möglichkeiten Belange von Studierenden, die an einem Studienangebot eines Faches
+teilnehmen, das der Fachschaft zugeordnet ist, auch wenn diese Studierende nicht Mitglieder der
+Fachschaft sind.
 
 
 ### § 2 Organe der Fachschaft
@@ -49,429 +58,486 @@ an der RFWU Bonn eingeschrieben sind.
 
 (2) Organe der Fachschaft sind:
 
-1. der Fachschaftsrat (FSR),
-2. die Fachschaftsvollversammlung (FSVV).
+1. die Fachschaftsvollversammlung (FSVV)
+2. die Fachschaftsvertretung (FSV)
+3. der Fachschaftsrat (FSR)
 
-(3) Die Amtszeit des unter § 2 Abs. 2 Nr. 1 aufgeführten Organs beträgt ein Jahr. Bis
-zur Neuwahl der Nachfolgemitglieder bleiben die Mitglieder des betreffenden
-Organs kommissarisch im Amt.
-
-(4) Sollte die Anzahl der Fachschaftsmitglieder 500 überschreiten, ist zusätzlich
-eine Fachschaftsvertretung (FSV) zu wählen. Folgende Paragraphen, die sich auf die
-FSV beziehen, treten erst nach deren Gründung in Kraft. Dies bedeutet auch, das
-alle Aufgaben und Verpflichtungen der FSV durch die FSVV wahrgenommen werden.
+(3) Die Amtszeit der Mitglieder der gewählten Organe beträgt ein Jahr. Bis zur Neuwahl der Nachfolgemitglieder
+bleiben die Mitglieder der betreffenden Organe kommissarisch im Amt.
 
 
-### § 3 Gemeinsame Aufgaben der Organe FS, FSR und der FA
+### § 3 Gemeinsame Aufgaben der Organe FSV und FSR
 
-(1) Die Organe FSV und FSR fördern auf der Grundlage der verfassungsmäßigen
-Ordnung die politische Bildung, das staatsbürgerliche Verantwortungsbewusstsein
-der Mitglieder der Fachschaft. Sie nehmen die hochschulpolitischen Belange der
-Fachschaft wahr und nehmen Stellung zu hochschulpolitischen Fragen. Eine über
-die Aufgaben der Organe FSV und FSR hinausgehende allgemeinpolitische
-Willensbildung vollzieht sich in den studentischen Vereinigungen der Hochschule.
+(1) Die Fachschaft fördert auf der Grundlage der verfassungsmäßigen Ordnung die politische Bildung
+und das staatsbürgerliche Verantwortungsbewusstsein der Mitglieder der Fachschaft.
 
-(2) Der FSR wirkt an der fachlichen und organisatorischen Gestaltung des Studiums
-mit.
+(2) Die Organe FSV und FSR wirken an der fachlichen und organisatorischen Gestaltung des Studiums
+mit und vertreten die Studierenden ihrer Fachbereiche gegenüber der Professorenschaft, den
+Gremien der Universität und den übrigen Gremien der Studierendenschaft.
+
+(3) Die Organe FSV und FSR vertreten die hochschulpolitischen Belange der Fachschaft und beziehen
+Stellung zu hochschulpolitischen Fragen. Eine über die Aufgaben der Organe FSV und FSR hinausgehende
+allgemeinpolitische Willensbildung vollzieht sich in den studentischen Vereinigungen der
+Hochschule.
 
 
-# B. Die Organe der Fachschaft
-
-## I. Die Fachschaftsvertretung (FSV)
+## II. Die Fachschaftsvertretung (FSV)
 
 ### § 4 Rechtsstellung der FSV
 
-Die FSV ist beschlussfassendes Organ der Fachschaft und an Weisungen und
-Beschlüsse der FSVV gebunden. (§ 77 S. 2 HG i.V.m. § 27 III SSt)
+Die FSV ist Beschlussorgan der Fachschaft. (vgl. § 27 Abs. 3 SdS)
 
 
 ### § 5 Zusammensetzung und Zusammentritt der FSV
 
-(1) Die Anzahl der Mitglieder der FSV richtet sich nach der Anzahl der Mitglieder der
-Fachschaft KGM. Sie besteht aus 11 Mitgliedern bei bis zu 1000 Mitgliedern der
-Fachschaft, aus 15 Mitgliedern bei 1001- 2000 Mitgliedern und aus 19 bei mehr als
-2000 Mitgliedern (Siehe § 27 I Satzung der Studierendenschaft).
+(1) Die Zahl der Mitglieder der FSV richtet sich nach den Regelungen der Satzung der
+Studierendenschaft (SdS) und der Fachschaftswahlordnung (FSWO).
 
-(2) Sie tritt mindestens dreimal im Semester zusammen. Für die Einladung zu einer
-FSV Sitzung gilt die Schriftform. Die Einladung durch unsignierte elektronische
-Form (email) ist gegen den ausgesprochenen Willen des Mitglieds der FSV nicht
-zulässig.
+(2) Die Einladung zu einer FSV-Sitzung erfolgt in Textform. Sie muss mindestens sieben Tage vor der
+geplanten Sitzung an alle FSR- und FSV-Mitglieder verschickt werden. Zu der Sitzung muss auch
+öffentlich eingeladen werden.
 
-(3) Die Mitglieder der FSV sind grundsätzlich verpflichtet, an den Sitzungen
-teilzunehmen, sofern sie nicht begründet entschuldigt sind. Über den Inhalt
-nichtöffentlicher Beratungen ist Stillschweigen zu wahren.
+(3) Die Mitglieder der FSV sind grundsätzlich verpflichtet, an den Sitzungen teilzunehmen, sofern sie
+nicht begründet entschuldigt sind.
 
 
-### § 6 Wahl der FSV
+### § 6 Aufgaben und Zuständigkeit der FSV
 
-(1) Die FSV wird jährlich von den Mitgliedern der Fachschaft in allgemeiner,
-direkter, freier, gleicher und geheimer Urnenwahl gewählt.
+(1) Die FSV trifft alle Entscheidungen von grundlegender oder gehobener Bedeutung für die Fachschaft,
+die über den regulären Geschäftsbetrieb des FSR hinausgehen.
 
-(2) Die Wahl wird vom Wahlausschuss vorbereitet und durchgeführt.
+(2) Die FSV wählt den FSR.
 
-(3) Der Wahlleiter beruft die konstituierende Sitzung der neu gewählten FSV ein
-und leitet sie, bis ein Vorsitzender gewählt ist.
+(3) Die FSV wählt den Kassenprüfungsausschuss.
 
-(4) Das Nähere bestimmt die Fachschaftswahlordnung.
+(4) Die FSV wählt den Wahlausschuss.
 
+(5) Die FSV beschließt über den Haushaltsplan.
 
-### § 7 Aufgaben und Zuständigkeit der FSV
-
-(1) Die FSV wählt den FSR.
-
-(2) Die FSV wählt den Kassenprüfungsausschuss
-
-(3) Die FSV wählt den Wahlausschuss.
-
-(4) Die FSV beschließt über den Haushaltsplan.
-
-(5) Die FSV beschließt mit der Mehrheit ihrer satzungsmäßigen Mitglieder die
-politische und finanzielle Entlastung des FSR. Die finanzielle Entlastung kann nicht
-verweigert werden, wenn die Kassenprüfung keine Ungenauigkeiten ergibt. Die
-Entlastung muss von einem Mitglied der FSV beantragt werden. Finanzielle
-Entlastung kann auch von den Kassenprüfern beantragt werden. Auf Antrag eines
-Mitglieds der FSV muss eine Einzelentlastung durchgeführt werden.
-
-(6) Für die FSV gilt die Geschäftsordnung des Studierendenparlaments
-entsprechend, soweit anwendbar, sofern sie sich keine eigene Geschäftsordnung
-gibt.
+(6) Die FSV beschließt mit der Mehrheit ihrer gewählten Mitglieder die politische und finanzielle 
+Entlastung des FSR. Die finanzielle Entlastung kann nicht verweigert werden, wenn die Kassenprüfung
+keine Ungenauigkeiten ergibt. Die Entlastung muss von einem Mitglied der FSV beantragt werden.
+Finanzielle Entlastung kann auch von den Kassenprüfern beantragt werden. Auf Antrag eines Mitglieds
+der FSV muss eine Einzelentlastung durchgeführt werden.
 
 
-### § 8 Das Präsidium der FSV und seine Aufgaben
+### § 7 Das Präsidium der FSV und seine Aufgaben
 
-(1) Das Präsidium besteht aus dem Vorsitzenden, seinem Stellvertreter und dem
-Schriftführer.
+(1) Das Präsidium der FSV besteht aus
 
-(2) Alle Mitglieder des Präsidiums müssen FSV Mitglieder sein und werden einzeln in
-geheimer Wahl in der konstituierenden Sitzung gewählt. (vgl.: § 6 Abs.4)
+1. dem Vorsitzenden,
+2. dem stellvertretenden Vorsitzenden,
+3. dem Schriftführer.
 
-(3) Die Ämter des Präsidiums der FSV sind unvereinbar mit der Mitgliedschaft im
-FSR.
+(2) Alle Mitglieder des Präsidiums müssen FSV-Mitglieder sein und werden einzeln in geheimer Wahl
+auf der konstituierenden Sitzung gewählt.
 
-(4) Ein Rücktritt vom Amt des FSR Sprechers während seiner Amtszeit beendet
-jedenfalls dann zugleich dessen kommissarischen Status und lässt eine in derselben
-FSV Sitzung erfolgende Wahl ins Präsidium der FSV zu, wenn in derselben Sitzung
-der Nachfolger in das Amt des FSR Sprechers gewählt wird.
+(3) Die Ämter des Präsidiums der FSV sind unvereinbar mit der Mitgliedschaft im FSR.
 
-(5) Zur Wahl des Präsidiums bedarf es der Mehrheit der satzungsgemäßen Mitglieder
-der FSV. Erhält im ersten Wahlgang kein Kandidat die notwendige Stimmenzahl, so
-findet unverzüglich ein zweiter
-Wahlgang statt. Erreicht auch in diesem Wahlgang kein Kandidat die notwendige
-Stimmenzahl, so gilt im dritten Wahlgang der Kandidat als gewählt, der die
-einfache Mehrheit der Stimmen auf sich
-vereint.Während einer Wahl mit mehreren Wahlgängen können neue Kandidaten
-nur für die Wahlliste vorgeschlagen werden, wenn die Mehrheit der anwesenden
-Mitglieder einem Antrag auf Öffnung der
-Wahlliste zustimmt. Mitglieder des Präsidiums können nur mit der Mehrheit der
-Stimmen der FSV Mitglieder durch die Wahl eines Nachfolgers abberufen werden.
+(4) Zur Wahl des Präsidiums bedarf es der Mehrheit der gewählten Mitglieder der FSV. Erhält im ersten
+Wahlgang kein Kandidat die notwendige Stimmenzahl, so findet unverzüglich ein zweiter Wahlgang
+statt. Erreicht auch in diesem Wahlgang kein Kandidat die notwendige Stimmenzahl, so gilt im dritten
+Wahlgang der Kandidat als gewählt, der die relative Mehrheit der Stimmen auf sich vereint. Während
+einer Wahl mit mehreren Wahlgängen können neue Kandidaten nur für die Wahlliste vorgeschlagen
+werden, wenn die Mehrheit der anwesenden Mitglieder einem Antrag auf Öffnung der Wahlliste
+zustimmt.
 
-(6) Der Schriftführer ist für die Erstellung des Sitzungsprotokolls verantwortlich. Er
-kann an seiner statt ein Mitglied der FSV zum Protokollanten bestimmen. Der
-Schriftführer ist dafür verantwortlich, dass das Protokoll der FSV Sitzung eine
-Woche nach der Sitzung sowohl in Schrift als auch in digitaler Form ausgefertigtan
-den FSV Vorsitzenden weitergeleitet und vom FSV Vorsitzendenjeweils zur nächsten
-FSV Sitzung allen Mitgliedern ausgehändigt wird. Dem Protokoll ist eine
-Anwesenheitsliste der jeweiligen FSV Sitzung hinzuzufügen.
+(5) Der kommissarische Status des FSR-Vorsitzenden lässt eine auf einer FSV-Sitzung erfolgende Wahl
+ins Präsidium der FSV zu, wenn in derselben Sitzung ein Nachfolger für das Amt des FSR-Vorsitzenden
+gewählt wird.
 
-(7) Jedes FSV-Mitglied hat das Recht, eine Stellungnahme zum Protokoll
-abzugeben. Gleiches gilt für andere Fachschaftsmitglieder, die zu einem
-bestimmten Punkt das Wort erhoben haben.
+(6) Tritt ein Mitglied des FSV-Präsidiums zurück, wählt die FSV unverzüglich einen Nachfolger. Kann
+die Wahl nicht auf derselben Sitzung erfolgen, so führt das ausgeschiedene Mitglied sein Amt
+kommissarisch bis zur Nachwahl weiter.
 
-(8) Der Vorsitzende der FSV führt ihre laufenden Geschäfte. Er beruft die FSV ein,
-wenn
+(7) Mitglieder des Präsidiums können nur mit der Mehrheit der Stimmen der gewählten FSV-Mitglieder
+durch die Wahl eines Nachfolgers abberufen werden.
 
-1. der FSR-Sprecher,
+(8) Der Schriftführer ist für die Erstellung des Sitzungsprotokolls verantwortlich. Er kann an seiner statt
+ein Mitglied der FSV zum Protokollanten ernennen. Der Schriftführer ist dafür verantwortlich, dass
+das Protokoll der FSV-Sitzung eine Woche nach der Sitzung sowohl in Schrift- als auch in digitaler
+Form ausgefertigt an den FSV-Vorsitzenden weitergeleitet und vom FSV-Vorsitzenden jeweils zur
+nächsten FSV-Sitzung allen Mitgliedern ausgehändigt wird. Dem Protokoll ist eine Anwesenheitsliste
+der jeweiligen FSV-Sitzung hinzuzufügen.
+
+(9) Über die Vollständigkeit und Richtigkeit des Protokolls wird in der jeweiligen FSV-Sitzung mit der
+Mehrheit der anwesenden Mitglieder abgestimmt. Danach hat jedes FSV-Mitglied das Recht, eine
+Stellungnahme zum Protokoll abzugeben. Gleiches gilt für andere Personen, die zu einem bestimmten
+Punkt das Wort erhoben haben.
+
+(10) Das beschlossene Protokoll ist der Fachschaft unverzüglich für mindestens sieben Tage durch
+Aushang und mindestens für 2 Jahre an geeigneter Stelle im Internet bekanntzugeben.
+
+(11) Der Vorsitzende der FSV führt ihre laufenden Geschäfte. Er beruft die FSV ein, wenn
+
+1. der FSR-Vorsitzende
 2. die Mehrheit des FSR,
 3. sechs Mitglieder der FSV,
 4. die FSVV,
-5. 5% der Mitglieder der Fachschaft dies unter Angabe von zu behandelnden
-Tagesordnungspunkten schriftlich verlangen.
+5. fünf Prozent der Mitglieder der Fachschaft
 
-(9) Die Einladung muss 7 Tage vor der geplanten Sitzung an alle FSR und FSV
-Mitglieder verschickt werden. Maßgeblich ist das Datum des Poststempels. Zu
-demselben Termin muss auch öffentlich eingeladen werden.
+dies unter Angabe von zu behandelnden Tagesordnungspunkten in Textform verlangen. Enthält das
+Verlangen keinen Sitzungstermin, so ist die FSV innerhalb von zwei Wochen einzuberufen. Die
+Ladungsfrist nach § 5 Abs. 3 muss eingehalten werden.
 
-(10) Tritt ein Mitglied des Präsidiums zurück, wählt die FSV unverzüglich den
-Nachfolger. Kann die Wahl nicht auf derselben Sitzung erfolgen, so führt das
-ausgeschiedene Mitglied sein Amt kommissarisch bis zur Nachwahl weiter.
+(12) Bei Abwesenheit oder sonstiger Verhinderung wird der FSV-Vorsitzende durch den stellvertretenden
+FSV-Vorsitzenden vertreten.
+
+(13) Bei Abwesenheit oder sonstiger Verhinderung wird der stellvertretende FSV-Vorsitzende durch den
+Schriftführer vertreten.
+
+(14) Bei Abwesenheit oder sonstiger Verhinderung wird der Schriftführer durch das älteste anwesende
+FSV-Mitglied vertreten.
 
 
-### § 9 Ausscheiden, Ausschluss und Nachrücken von Mitgliedern
+### § 8 Ausscheiden und Nachrücken von Mitgliedern
 
 (1) Ein Mitglied scheidet aus der FSV aus
 
-1. durch Niederlegung seines Mandats
-2. durch Exmatrikulation oder durch Umschreibung in ein anderes Hauptfach
-3. durch rechtskräftige Disziplinarstrafe,
-4. durch Tod.
+1. durch Niederlegung seines Amtes,
+2. durch Ausscheiden aus der Fachschaft, insbesondere durch Exmatrikulation, Umschreibung oder
+Tod.
 
-(2) Der Ausschluss eines Mitglieds von einer FSV Sitzung erfolgt gemäß den
-Bestimmungen zu Ordnungsmaßnahmen in der geltenden Geschäftsordnung.
-
-(3) Bei Wiederbesetzung eines freigewordenen Sitzes können solange Personen
-nachrücken, bis sich die Kandidatenliste der betreffenden Fraktion erschöpft hat.
+(2) Die Wiederbesetzung eines freigewordenen Sitzes regelt die Fachschaftswahlordnung (FSWO).
 
 
-### § 10 Beschlüsse der FSV
+### § 9 Beschlüsse der FSV
 
-(1) Rederecht haben alle Mitglieder der Fachschaft IKM.
+(1) Rede- und Antragsrecht haben alle Mitglieder der Fachschaft Interkulturelle Kommunikation und
+Mehrsprachigkeitsforschung.
 
-(2) Stimm-und Antragsrecht haben nur FSV-Mitglieder.
+(2) Stimmrecht haben nur FSV-Mitglieder.
 
-(3) Auf schriftlichen Antrag von mindestens drei Mitgliedern der FSV hat das
-betreffende FSR-Mitglied während der den Antrag betreffenden nach
-folgenden Sitzung anwesend zu sein (Zitierrecht).
+(3) Auf schriftlichen Antrag von mindestens drei Mitgliedern der FSV hat ein FSR-Mitglied während der
+den Antrag betreffenden nachfolgenden Sitzung anwesend zu sein (Zitierrecht).
 
-(4) Ein Beschluss ist rechtmäßig zustande gekommen, wenn
+(4) Die FSV gilt als ist beschlussfähig, wenn mindestens die Hälfte der FSV-Mitglieder anwesend ist.
 
-1. Die FSV beschlussfähig war und
-2. er die einfache Mehrheit gefunden hat, soweit die Satzung nichts anderes
-vorschreibt.
-3. Die FSV gilt solange als beschlussfähig, bis auf Antrag eines FSV Mitgliedes durch
-den Vorsitzenden das Gegenteil festgestellt wird.
+(5) Die FSV gilt solange als beschlussfähig, bis auf Antrag eines FSV-Mitgliedes durch die Sitzungsleitung
+das Gegenteil festgestellt wird.
 
-(5) Die Beschlussfähigkeit wird auf Antrag unverzüglich festgestellt. Sie ist
-gegeben, wenn mehr als die Hälfte der FSV-Mitglieder anwesend ist. Ein Einspruch
-gegen diesen Antrag ist nicht möglich. Der FSV-Vorsitzende überprüft
-die Beschlussfähigkeit durch namentlichen Aufruf.
+(6) Die Beschlussfähigkeit wird auf Antrag unverzüglich festgestellt. Sie ist gegeben, wenn mehr als die
+Hälfte der FSV-Mitglieder anwesend ist. Ein Einspruch gegen diesen Antrag ist nicht möglich. Der
+FSV- Vorsitzende überprüft die Beschlussfähigkeit durch namentlichen Aufruf.
 
-(6) Bei Beschlussunfähigkeit muss nach spätestens 10 Tagen eine zweite Sitzung mit
-der gleichen Tagesordnung einberufen werden. Die normalen Ladungsfristen sind zu
-wahren. Die Einladung hat ausdrücklich darauf hinzuweisen, dass diese Sitzung
-unabhängig von der Zahl der anwesenden Mitglieder beschlussfähig ist.
+(7) Bei Beschlussunfähigkeit muss innerhalb von 10 Tagen eine zweite Sitzung mit der gleichen
+Tagesordnung einberufen werden. Die normalen Ladungsfristen sind zu wahren. Diese Sitzung ist
+unabhängig von der Zahl der anwesenden Mitglieder beschlussfähig. Die Einladung hat ausdrücklich auf
+diesen Umstand hinzuweisen.
 
-(7) FSV-Beschlüsse der laufenden Sitzungsperiode können durch Beschluss mit einer
-2/3 Mehrheit der satzungsmäßigen Mitglieder der FSV aufgehoben werden.
+(8) Ein Beschluss ist rechtmäßig zustande gekommen, wenn
 
+1. Die Sitzung der FSV fristgerecht einberufen wurde,
+2. die FSV beschlussfähig war und
+3. er die einfache Mehrheit gefunden hat, soweit diese Satzung oder eine höhere Rechtsquelle
+nichts anderes vorschreibt.
 
-### § 11 Ausschüsse der FSV
-
-(1) Die FSV wählt die Mitglieder des Wahlausschuss, sowie den Vorsitzenden als
-Wahlleiter und die Stellvertreter mit der Mehrheit der satzungsmäßigen Mitglieder.
-Es ist die Aufgabe des Wahlausschusses, die Voraussetzungen für einen möglichst
-reibungslosen Ablauf der Wahl sowie eine hohe Wahlbeteiligung zu schaffen. Die
-Wahl kann auch per Briefwahl erfolgen. Näheres regelt die
-Fachschaftswahlordnung.
-
-(2) Die FSV wählt als Mitglieder des Kassenprüfungsausschusses drei Kassenprüfer
-mit der Mehrheit ihrer satzungsmäßigen Mitglieder. Die Kassenprüfer müssen
-Mitglieder der Fachschaft sein. Das Amt des Kassenprüfers ist unvereinbar mit
-einem Amt im Präsidium der FSV. Mitglieder des geschäftsführenden Vorstandes des
-FSR im zu prüfenden Haushaltsjahr können nicht zum Kassenprüfer gewählt
-werden. Die Kassenprüfer kontrollieren die ordnungsgemäße Kassenführung des
-Haushaltsjahres für dessen Kontrolle sie gewählt wurden und erstatten der FSV
-über das Ergebnis der Prüfung Bericht.
+(9) FSV-Beschlüsse der laufenden Sitzungsperiode können durch Beschluss mit einer Mehrheit von
+zwei Dritteln der gewählten FSV-Mitglieder aufgehoben werden.
 
 
-### § 12 Vorlesungsfreie Zeit
+### § 10 Ausschüsse der FSV
 
-Die Regelungen über die FSV gelten auch in der vorlesungsfreien Zeit.
+(1) Die FSV wählt die Mitglieder des Wahlausschusses sowie den Wahlleiter mit der Mehrheit ihrer
+gewählten Mitglieder. Näheres regelt die Fachschaftswahlordnung (FSWO).
+
+(2) Die FSV wählt als Mitglieder des Kassenprüfungsausschusses mindestens zwei Kassenprüfer mit
+der Mehrheit ihrer gewählten Mitglieder.
+
+(3) Kassenprüfer kann nur sein, wer weder im geprüften Zeitraum noch zum Prüfungszeitpunkt Mitglied
+des FSR oder Teil des Vorstands der FSV war beziehungsweise ist. Kassenprüfer müssen Teil der
+Studierendenschaft der RFWU Bonn sein.
+
+(4) Die Kassenprüfer kontrollieren die ordnungsgemäße Kassenführung des Haushaltsjahres für
+dessen Kontrolle sie gewählt wurden und erstatten der FSV über das Ergebnis der Prüfung Bericht.
 
 
-## II. Der Fachschaftsrat (FSR)
+## III. Der Fachschaftsrat (FSR)
 
-### § 13 Rechtsstellung des FSR
-Der FSR vertritt die Fachschaft und führt die Geschäfte der Fachschaft unter
-Leitung seines Sprechers.
+### § 11 Rechtsstellung des FSR
+
+(1) Der FSR repräsentiert und vertritt die Fachschaft und führt ihre Geschäfte. Der FSR ist im Rahmen
+der zu besorgenden Geschäfte sowie im Eilfall auch Beschlussorgan, im Übrigen führt er die
+Beschlüsse der FSV aus.
+
+(2) Der FSR-Vorsitzende hat Beschlüsse, Unterlassungen oder Maßnahmen der FSV, des FSR, sowie
+der FSVV sofern sie gegen geltendes Recht verstoßen, gegenüber dem Vorsitzenden der
+Fachschaftenkonferenz (FK) zu beanstanden.
 
 
-### § 14 Zusammensetzung des FSR
+### § 12 Zusammensetzung des FSR
 
-(1) Der FSR besteht aus bis zu 9 Mitgliedern. Sind in der Fachschaft mehrere
-Fachabschlusskombinationen (FAK) zusammengefasst, so kann die FSV für jede
-dieser FAK bis zu zwei zusätzliche Referenten in den FSR wählen, die einen
-Studiengang mit dieser FAK studieren.
+(1) Der FSR besteht aus neun regulären Mitgliedern. Sind in der Fachschaft mehrere
+Fachabschlusskombinationen (FAK) zusammengefasst, so kann die FSV für jede dieser FAK bis
+zu zwei zusätzliche Referenten in den FSR wählen, die einen Studiengang mit dieser FAK studieren.
 
-(2) Der FSR besteht aus
+(2) Der FSR-Vorstand besteht aus:
 
-1. dem Sprecher
-2. dem stellvertretenden Sprecher
-3. dem Finanzreferenten als geschäftsführendem Vorstand und
-4. einer nach §14 (1) festgelegten Zahl weiterer Mitglieder.
+1. dem Vorsitzenden,
+2. dem stellvertretenden Vorsitzenden,
+3. und dem Finanzreferenten
 
-(3) Der FSR tritt zusammen:
+(3) Die Vorstandsmitglieder können sich bei gegenseitigem Einvernehmen wechselseitig vertreten.
 
-1. während der Vorlesungszeit grundsätzlich einmal monatlich,
+
+### § 13 Sitzungen des FSR
+
+(1) Der FSR tritt in öffentlicher Sitzung zusammen:
+
+1. während der Vorlesungszeit grundsätzlich einmal alle zwei Wochen,
 2. auf eigenen Beschluss,
 3. auf Beschluss der FSV.
 
-Auf das Zusammentreten des FSR soll in Form einer schriftlichen öffentlichen
-Ankündigung (mindestens auf digitalem Wege) durch den Sprecher bzw. seinen
-Stellvertreter hingewiesen werden.
+(2) FSR-Sitzungen werden der Fachschaft durch öffentliche schriftliche Ankündigung, den FSR-Mitgliedern
+zusätzlich in Textform mindestens zwei Tage im voraus bekanntgegeben.
 
-(4) Zu einzelnen Tagesordnungspunkten kann der FSR die Öffentlichkeit
-ausschließen.
+(3) Die Mitglieder des FSR sind grundsätzlich verpflichtet, an den Sitzungen teilzunehmen, sofern sie
+nicht begründet entschuldigt sind.
 
-(5) Die Mitglieder des FSR sind grundsätzlich verpflichtet, an den Sitzungen
-teilzunehmen, sofern sie nicht begründet entschuldigt sind. Über den Inhalt
-nichtöffentlicher Beratung ist Stillschweigen zu bewahren.
+(4) Der FSR ist verpflichtet, während der Sitzungen Protokoll zu führen.
 
-(6) Der FSR ist verpflichtet, während der Sitzungen Protokoll zu führen.
-
-(7) Für den FSR gilt die Geschäftsordnung des Studierendenparlaments
-entsprechend, soweit anwendbar, sofern er sich keine eigene Geschäftsordnung
-gibt.
+(5) Sofern er sich keine eigene Geschäftsordnung gibt, gilt für den FSR die Geschäftsordnung der
+Fachschaftenkonferenz, soweit anwendbar, entsprechend.
 
 
-### § 15 Wahl des FSR
+### § 14 Wahl des FSR
 
-(1) Der zu wählende FSR-Sprecher muss der FSV zum Zeitpunkt seiner Wahl
-angehören. Der FSR-Sprecher hat das alleinige Vorschlagsrecht für alle übrigen zu
-wählenden Mitglieder des FSR. Der geschäftsführende Vorstand muss eines der
-Studienfächer, deren Studenten durch die Fachschaft vertreten werden im
-Hauptfach studieren. Sonstige Mitglieder des FSR können eines der Studienfächer
-im Hauptfach oder Nebenfach studieren.
+(1) Der FSR-Vorstand wird von der FSV mit der Mehrheit ihrer gewählten Mitglieder gewählt.
 
-(2) Die Mitgliedschaft im FSR ist unvereinbar mit Ämtern des Präsidiums der FSV.
-Ämter im amtierenden geschäftsführenden Vorstand sind mit Ämtern des
-Kassenprüfungsausschusses nicht vereinbar.
+(2) Die weiteren Mitglieder des FSR neben dem Vorstand werden durch den FSR-Vorsitzenden
+vorgeschlagen und, auf Verlangen einzeln, mit der Mehrheit der gewählten Mitglieder der FSV gewählt.
 
-(3) Der geschäftsführende Vorstand wird entsprechend § 8 Abs. 5 gewählt.
+(3) Der zu wählende FSR-Vorsitzende muss der FSV zum Zeitpunkt seiner Wahl angehören.
 
-(4) Die weiteren Mitglieder des FSR neben dem geschäftsführenden Vorstand
-werden, auf Verlangen einzeln, mit der Mehrheit der satzungsmäßigen Mitglieder
-der FSV gewählt (§ 8 Abs. 5).
+(4) Alle Mitglieder des FSR müssen Mitglieder der Fachschaft sein.
 
-(5) Die FSV kann den FSR-Sprecher nur im Wege eines konstruktiven
-Misstrauensvotums abwählen. Mit der Beendigung der Amtszeit des FSR-Sprechers
-endet die Amtszeit aller Referenten.
+(5) Die Mitgliedschaft im FSR ist unvereinbar mit Ämtern des Präsidiums der FSV und der Mitgliedschaft
+im Kassenprüfungsausschuss.
 
-(6) Nur der FSR-Sprecher hat das Recht, der FSV anzutragen, einen Referenten zu
-entlassen. Die Abwahl eines Referenten erfolgt mit der Mehrheit der
-satzungsmäßigen Mitglieder der FSV.
+(6) Mitglieder des FSR-Vorstandes können nur mit der Mehrheit der Stimmen der gewählten FSV-Mitglieder
+durch die Wahl eines Nachfolgers abberufen werden. Alle anderen Mitglieder des FSR
+können mit der Mehrheit der Stimmen der gewählten FSV-Mitglieder abberufen werden.
 
-(7) FSR-Mitglieder können jederzeit zurücktreten. Sie sind jedoch verpflichtet, die
-Geschäfte bis zur Wahl eines Nachfolgers weiterzuführen. Wenn es nach
-Entscheidung des FSR-Sprechers keinen Nachfolger in diesem Amt geben soll, hat
-der Referent das Amt in möglichst drei Wochen ordnungsgemäß zu Ende zu führen.
-Tritt ein Mitglied des geschäftsführenden Vorstandes zurück, wählt die FSV
-unverzüglich seinen Nachfolger. Dazu muss gemäß § 8 Abs. 7 eingeladen werden.
+(7) FSR-Mitglieder können jederzeit zurücktreten. Sie sind jedoch verpflichtet, die Geschäfte bis zur
+Wahl eines Nachfolgers weiterzuführen. Tritt ein Mitglied des FSR-Vorstandes zurück, wählt die FSV
+unverzüglich einen Nachfolger.
+
+(8) Ein Mitglied scheidet aus der FSR aus
+
+1. durch Abberufung,
+2. durch Niederlegung seines Amtes,
+3. durch Ausscheiden aus der Fachschaft, insbesondere durch Exmatrikulation, Umschreibung oder
+Tod.
+
+
+### § 15 Beschlüsse des FSR
+
+(1) Rede- und Antragsrecht haben alle Mitglieder der Fachschaft Interkulturelle Kommunikation und
+Mehrsprachigkeitsforschung.
+
+(2) Stimmrecht haben nur FSR-Mitglieder.
+
+(3) Ein Beschluss ist rechtmäßig zustande gekommen, wenn
+
+1. der FSR beschlussfähig war und
+2. er die relative Mehrheit gefunden hat, soweit die Satzung nichts anderes vorschreibt.
+
+(4) Der FSR gilt solange als beschlussfähig, bis auf Antrag eines FSR-Mitgliedes durch den Vorsitzenden
+das Gegenteil festgestellt wird.
+
+(5) Die Beschlussfähigkeit wird auf Antrag unverzüglich festgestellt. Sie ist gegeben, wenn mehr als die
+Hälfte der FSR-Mitglieder anwesend ist. Ein Einspruch gegen diesen Antrag ist nicht möglich. Der
+FSR-Vorsitzende überprüft die Beschlussfähigkeit durch namentlichen Aufruf.
+
+(6) Bei Beschlussunfähigkeit muss nach spätestens 14 Tagen eine zweite Sitzung mit der gleichen
+Tagesordnung einberufen werden. Die normalen Ladungsfristen sind zu wahren. Diese Sitzung ist
+unabhängig von der Zahl der anwesenden Mitglieder beschlussfähig. Die Einladung hat ausdrücklich
+auf diesen Umstand hinzuweisen.
+
+(7) FSR-Beschlüsse der laufenden Sitzungsperiode können durch Beschluss mit einer Zweidrittelmehrheit
+der gewählten Mitglieder des FSR oder einer einfachen Mehrheit der FSV aufgehoben werden.
 
 
 ### § 16 Aufgaben und Zuständigkeiten des FSR
 
-(1) Der Fachschaftssprecher bestimmt die Richtlinien der Arbeit des FSR und trägt
-dafür die Verantwortung. Innerhalb dieser Richtlinien ist jeder Referent dem
-Fachschaftssprecher sowie der FSV für sein Aufgabengebiet verantwortlich. Der
-FSR-Sprecher hat auf jeder FSV-Sitzung einen Bericht über den derzeitigen stand
-der Fachschaftsarbeit abzugeben.
+(1) Der FSR kann durch Mehrheitsbeschluss Aufgabengebiete an einzelne FSR-Mitglied vergeben.
 
-(2) Der Fachschaftssprecher hat Beschlüsse, Unterlassungen oder Maßnahmen der
-FSV, des FSR, sowie der FSVV, sofern sie gegen geltendes Recht verstoßen, zu
-beanstanden.
+(2) Der FSR-Vorsitzende bestimmt die Richtlinien der Arbeit des FSR und trägt dafür die Verantwortung.
+Innerhalb dieser Richtlinien ist jedes FSR-Mitglied gegenüber dem Vorsitzenden für sein Aufgabengebiet
+verantwortlich.
+
+(3) Der FSR-Vorsitzende ist insbesondere dafür verantwortlich, die Arbeit der Organe der Fachschaft
+an alle Mitglieder der Fachschaft zu kommunizieren.
+
+(4) Der FSR-Vorsitzende hat Beschlüsse, Unterlassungen oder Maßnahmen der FSV, des FSR und der
+FSVV zu beanstanden, sofern sie gegen geltendes Recht verstoßen.
 
 
-## III. Die Fachschaftsvollversammlung (FSVV)
+## IV. Die Fachschaftsvollversammlung (FSVV)
 
 ### § 17 Rechtsstellung der FSVV
 
-Die FSVV, die aus allen wahlberechtigten Mitgliedern der Fachschaft IKM besteht,
-ist oberstes beschlussfassendes Organ der Fachschaft. Sofern keine FSV besteht,
-übernimmt sie die Aufgaben der FSV.
+(1) Die FSVV ist die Versammlung der Mitglieder der Fachschaft Interkulturelle Kommunikation und
+Mehrsprachigkeitsforschung.
+
+(2) Die FSVV ist oberstes Beschlussorgan und dient der Information ihrer Mitglieder. Soweit keine FSV
+besteht, übernimmt sie die Aufgaben der FSV, sofern durch diese Satzung, die Fachschaftswahlordnung
+oder eine höherere Rechtsquelle keine andere Zuständigkeit geregelt ist.
+
 
 ### § 18 Einberufung und Durchführung der FSVV
 
-(1) Der Sprecher des FSR beruft die FSVV ein:
+(1) Der Vorsitzende des FSR beruft die FSVV ein:
 
-1. Auf Beschluss der FSV
-2. Auf schriftlichen Antrag von mindestens sechs Mitgliedern der FSV,
-3. Auf Beschluss des FSR
-4. Auf schriftlichen Antrag von mindestens 5% der Mitglieder der Fachschaft, sofern
-der Antrag eine Tagesordnung enthält.
+1. auf Beschluss der FSV
+2. auf Beschluss des FSR
+3. auf schriftlichen Antrag von mindestens 5% der Mitglieder der Fachschaft, sofern der Antrag eine
+Tagesordnung enthält.
 
-(2) Die Ankündigung der FSVV erfolgt mindestens zwei Wochen vor ihrer
-Durchführung. Die Ankündigung enthält mindestens
+(2) Die Ankündigung der FSVV erfolgt mindestens eine Woche vor ihrer Durchführung in Textform. Die
+Ankündigung enthält mindestens
 
 1. die genaue Zeit und Ortsangabe der FSVV sowie
-2. ihre Tagesordnung.
+2. ihre Tagesordnung
 
 (3) Die FSVV wählt zu Beginn jeder Versammlung einen Versammlungsleiter.
 
-(4) Für die FSVV gilt § 7 Abs. 6 entsprechend.
+(4) Für die FSVV gilt die Geschäftsordnung der Fachschaftenkonferenz (FKGO) soweit anwendbar, falls
+sie sich keine eigene Geschäftsordnung gibt.
 
 
-### § 19 Beschlüsse der FSVV
+### § 19 Aufgaben und Zuständigkeiten der FSVV
 
-(1) Die Entscheidungen der FSVV binden alle Organe der Fachschaft.
+(1) Die FSVV ist oberstes Beschlussorgan der Fachschaft und dient der Information ihrer Mitglieder.
 
-(2) Die FSVV ist nur beschlussfähig, wenn mindestens 5% aller satzungsmäßigen
-Mitglieder der FSVV anwesend sind.
-
-(3) Beschlüsse der FSVV können nur durch eine weitere FSVV mit der
-entsprechenden Mehrheit aufgehoben werden. Die Einberufung dieser
-folgenden FSVV erfolgt gemäß § 18.
+(2) Soweit keine FSV besteht, übernimmt die FSVV die Aufgaben der FSV, sofern durch Ordnung oder
+Satzung keine andere Zuständigkeit geregelt ist.
 
 
-## C. Haushalts- und Wirtschaftsführung
+### § 20 Beschlüsse der FSVV
 
-### § 20 Grundsätze und Kontrolle der Haushaltsführung
+(1) Rede-, Stimm- und Antragsrecht haben alle Mitglieder der Fachschaft.
 
-(1) Die Haushalts- und Wirtschaftsführung richtet sich nach den Vorgaben der
-Satzung der Studierendenschaft und der Fachschaftsrahmenordnung.
+(2) Die Entscheidungen der FSVV binden alle Organe der Fachschaft.
 
-(2) Dem Finanzreferenten obliegt die Finanzführung der Fachschaft. Er führt über
-alle Einnahmen und Ausgaben der Fachschaft ordnungsgemäß Buch.
+(3) Beschlüsse der FSVV können nur durch eine weitere FSVV mit der entsprechenden Mehrheit
+aufgehoben werden.
 
-(3) Der Finanzreferent hat vor Beginn des Haushaltsjahres einen ausgeglichenen
-Haushaltsplan aufzustellen und diesen der FSV auf einer Sitzung vor Beginn des
-Haushaltsjahres zur Abstimmung vorzulegen. Das Haushaltsjahr beginnt am 1.
-Oktober eines jeden Jahres.
+(4) Ein Beschluss ist rechtmäßig zustande gekommen, wenn
 
-(4) Anschaffungen und Ausgaben, die von den unter dem Titel „Sonstiges“ im
-Haushaltsplan ausgewiesenen Geldern getätigt werden und einen Höchstbetrag von
-125,- Euro überschreiten, sind von der FSV gesondert zu beschließen.
+1. die FSVV beschlussfähig war und
+2. er die einfache Mehrheit gefunden hat.
 
-(5) Überplanmäßige oder außerplanmäßige Ausgaben sind vor Inkrafttreten eines
-Nachtrags zum Haushaltsplan, der sie vorsieht, nur dann zulässig, wenn sie
-unabweisbar sind. Sie sind der FSV unverzüglich anzuzeigen. Nachträge zum
-Haushaltsplan können nur für das laufende Haushaltsjahr eingebracht werden.
-
-(6) Die Kassenprüfer der FSV führen eine Jahresabschlussprüfung durch. Unabhängig
-davon wird die Kasse von den Kassenprüfern mindestens einmal jährlich
-unangekündigt geprüft. Die Kassenprüfung dient dem Zweck festzustellen, ob
-insbesondere
-
-1. der Kassen-Ist-Bestand mit dem Kassen-Soll-Bestand übereinstimmt und
-2. die Buchungen nach der Zeitfolge mit den Buchungen nach der im Haushaltsplan
-vorgesehenen Ordnung übereinstimmen.
-
-Über die Kassenprüfung ist Protokoll zu führen, in das die Kassen- und
-Kontobestände aufzunehmen sind.
-
-(7) Zur finanziellen Verpflichtung der Fachschaft sind die Unterschriften des FSRSprechers und des
-Finanzreferenten oder die Unterschrift des zuständigen
-Referenten nach Zustimmung des FSR-Sprechers und des Finanzreferenten
-erforderlich. Der FSR kann gegen die Stimmen von Fachschaftssprecher und
-Finanzreferent keine finanziell erheblichen Vorhaben beschließen. Der FSR kann
-mit der Mehrheit der gewählten Mitglieder Ausgaben beschließen, sofern der FSRSprecher oder der
-Finanzreferent mit der Mehrheit stimmen.
+(5) Bei Beschlussunfähigkeit muss nach spätestens 14 Tagen eine zweite Sitzung mit der gleichen
+Tagesordnung einberufen werden. Die normalen Ladungsfristen sind zu wahren. Die Einladung hat
+ausdrücklich darauf hinzuweisen, dass diese Sitzung unabhängig von der Zahl der anwesenden
+Mitglieder beschlussfähig ist.
 
 
-# D. Schlussbestimmungen
+## V. Haushalts- und Wirtschaftsführung
 
-### § 21 Abweichende Reglungen für Fachschaften ohne FSV
+### § 21 Grundsätze der Haushaltsführung
 
-(1) Hat die Fachschaft nach § 27 Satzung der Studierendenschaft keine FSV, so
-finden die Regelungen über die FSV keine Anwendung.
+(1) Die Haushalts- und Wirtschaftsführung richtet sich nach den Vorgaben der Satzung der
+Studierendenschaft und der HWVO NRW.
 
-(2) Befugnisse und Aufgaben der FSV fallen dann der Vollversammlung zu. Die
-Regelungen über die FSV sind entsprechend anzuwenden, soweit sie nicht mit
-Regelungen über die Vollversammlung im Widerspruch stehen.
+(2) Das Haushaltsjahr der Fachschaft beginnt am 1. Oktober eines jeden Jahres und endet am 30.
+September des jeweiligen Folgejahres.
+
+(3) Bei der Aufstellung und Ausführung des Haushaltsplans sind die Grundsätze der Wirtschaftlichkeit
+und Sparsamkeit zu beachten.
+
+(4) Dem Abschluss von Verträgen über Lieferungen und Leistungen muss ein Preisvergleich vorausgehen.
+Bei Aufträgen mit einem Wert von mehr als 1.000 Euro sind mindestens 3 Angebote im
+Wettbewerb einzuholen, bei Aufträgen mit einem Wert von mehr als 10.000 Euro sind mindestens
+6 Bewerber/innen zur Angebotsabgabe aufzufordern. Der Preisvergleich ist aktenkundig zu machen
+und die Vergabeentscheidung zu dokumentieren.
+
+(5) Dem Finanzreferenten obliegt die Finanzführung der Fachschaft. Er führt über alle Einnahmen und
+Ausgaben der Fachschaft ordnungsgemäß Buch.
 
 
-### § 22 Satzungsänderung
+### § 22 Haushaltsplan
 
-(1) Diese Satzung kann auf Beschluss der FSV oder der FSVV geändert werden.
+(1) Der Finanzreferent hat vor Beginn des Haushaltsjahres einen ausgeglichenen Haushaltsplan
+aufzustellen und diesen der FSV in drei Lesungen auf mindestens zwei getrennten Sitzungen vor Beginn
+des Haushaltsjahres zur Abstimmung vorzulegen, wobei die zweite und dritte Lesung in der gleichen
+Sitzung stattfinden dürfen.
 
-(2) Dieser Beschluss muss jedes Mal von mindestens 2/3 der satzungsmäßigen FSVMitglieder bzw.
-von 2/3 der anwesenden FSVV-Mitglieder gefasst werden. Die
-Regelung zu außerordentlichen FSV-Sitzungen ist unanwendbar (§ 10 Abs. 6).
+(2) Anschaffungen und Ausgaben, die von den im Haushaltsplan unter einem flexiblen Titel, etwa
+„Sonstiges“, ausgewiesenen Geldern getätigt werden und die einen Höchstbetrag von 200 Euro
+überschreiten, sind vor der Anweisung von der FSV gesondert zu beschließen.
 
-(3) Der Tagesordnungspunkt „Satzungsänderung“ muss bereits in der Einladung zur
-betreffenden FSV-Sitzung oder FSVV-Sitzung angekündigt werden. In der Einladung
-müssen die zu ändernden Vorschriften ausdrücklich benannt werden. Dem
-Einladungsschreiben ist weiterhin der Wortlaut der beantragten Satzungsänderung
-beizufügen.
+(3) Überplanmäßige oder außerplanmäßige Ausgaben sind vor Inkrafttreten eines Nachtrags zum
+Haushaltsplan, der sie vorsieht, nur dann zulässig, wenn sie unabweisbar sind. Sie sind der FSV
+unverzüglich anzuzeigen. Nachträge zum Haushaltsplan können nur für das laufende Haushaltsjahr
+eingebracht werden.
 
-(4) Die Satzung tritt mit ihrer Veröffentlichung in der AKUT in Kraft. Diese ist
-unverzüglich der Fachschaft durch Aushang bekannt zugeben.
+
+### § 23 Ausgabevollmacht
+
+Zur finanziellen Verpflichtung der Fachschaft sind die Unterschriften des FSR-Vorsitzendes und des
+Finanzreferenten oder die Unterschrift des zuständigen Referenten nach Zustimmung des FSR-Vorsitzendes
+und des Finanzreferenten erforderlich. Der FSR kann gegen die Stimmen von Fachschaftssprecher und
+Finanzreferent keine finanziell erheblichen Vorhaben beschließen. Der FSR kann mit der Mehrheit der
+gewählten Mitglieder Ausgaben beschließen, sofern der FSR-Vorsitzende oder der Finanzreferent mit
+der Mehrheit stimmen.
+
+
+### § 24 Einnahmeverpflichtung
+
+Der Finanzreferent ist verpflichtet, im Rahmen der Finanzordnung der Studierendenschaft für
+Unterstützung durch allgemeine Fachschaftengelder (AFSG) sowie die üblichen Beihilfen im Rahmen besonderer
+Fachschaftengelder (BFSG) zu sorgen, soweit diese nach Maßgabe der Fachschaftenkonferenz unterstützt werden.
+
+
+### § 25 Kassenprüfung und -abschluss
+
+(1) Die Kassenprüfer der FSV führen folgende Prüfungen durch:
+
+1. eine Haushaltsjahresabschlussprüfung;
+2. eine Abschlussprüfung nach dem Ende der Amtszeit des FSR.
+Unabhängig davon wird die Kasse von den Kassenprüfern mindestens einmal jährlich unangekündigt
+geprüft.
+
+(2) Die Kassenprüfung dient dem Zweck festzustellen, ob insbesondere
+
+1. der Kassen-Ist-Bestand mit dem Kassen-Soll-Bestand übereinstimmt,
+2. die Buchungen nach der Zeitfolge mit den Buchungen nach der im Haushaltsplan vorgesehenen
+Ordnung übereinstimmen und
+3. die Belege den Buchungen des Kassenbuches entsprechen.
+
+(3) Über die Kassenprüfung ist Protokoll zu führen, in das die Kassen- und Kontobestände aufzunehmen
+sind.
+
+
+## VI. Schlussbestimmungen
+
+### § 26 Einrichtung einer FSV
+
+(1) Hat die Fachschaft weniger als 500 Mitglieder, wird anstelle einer FSV der FSR durch die Mitglieder
+der Fachschaft direkt gewählt.
+
+(2) In diesem Fall finden die Regelungen über die FSV keine Anwendung. Befugnisse und Aufgaben
+der FSV fallen der FSVV zu, sofern diese Satzung oder eine höhere Rechtsquelle keine andere
+Zuständigkeit festlegen.
+
+
+### § 27 Satzungsänderung
+
+(1) Diese Satzung kann durch Beschluss einer Änderungssatzung geändert werden. Für diesen Beschluss
+ist eine Mehrheit von zwei Dritteln der gewählten FSV-Mitglieder oder die Mehrheit der
+anwesenden Fachschaftsmitglieder auf einer beschlussfähigen FSVV nötig. Die Regelungen zu
+außerordentlichen FSV- und FSVV- Sitzungen sind unanwendbar.
+
+(2) Dieser Beschluss muss jedes Mal in drei Lesungen auf mindestens zwei getrennten Sitzungen
+gefasst werden, wobei die zweite und dritte Lesung in der gleichen Sitzung stattfinden dürfen.
+
+(3) Der Tagesordnungspunkt „Satzungsänderung“ muss bereits in der Einladung zur betreffenden
+FSV-Sitzung oder FSVV-Sitzung angekündigt werden. In der Einladung müssen die zu ändernden
+Vorschriften ausdrücklich benannt werden. Dem Einladungsschreiben ist weiterhin der Wortlaut der
+beantragten Satzungsänderung beizufügen.
+
+(4) Diese Satzung und etwaige Änderungssatzungen treten jeweils am Tag nach ihrer Veröffentlichung
+auf der Bekanntmachungsplattform der Studierendenschaft in Kraft. Sie sind unverzüglich der
+Fachschaft durch ortsüblichen Aushang und an geeigneter Stelle im Internet bekanntzugeben.

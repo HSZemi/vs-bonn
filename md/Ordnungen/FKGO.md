@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms-Universität Bonn [FKGO]
 short: Geschäftsordnung der Fachschaftenkonferenz (FKGO)
-date:  17. November 2021
+date:  31. Januar 2023
 type:  Ordnung
 id:    FKGO
 contains:
@@ -67,7 +67,7 @@ contains:
 - title:    Geschäftsordnung der Fachschaftenkonferenz (FKGO)
   short:    Geschäftsordnung der Fachschaftenkonferenz (FKGO)
   actorgan: Fachschaftenkonferenz
-  actdate:  5. Mai 2020
+  actdate:  4. Mai 2020
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  18. Juni 2020
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2020/vsbonn_bekanntmachung_2020-12.pdf
@@ -115,6 +115,52 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  17. November 2021
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-62.pdf
+- title:    Sechste Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  short:    Sechste Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  actorgan: Fachschaftenkonferenz
+  actdate:  17. Januar 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  21. Januar 2022
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-05.pdf
+- title:    Siebte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  short:    Siebte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  actorgan: Fachschaftenkonferenz
+  actdate:  7. März 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  15. März 2022
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-21.pdf
+- title:    Achte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  short:    Achte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  actorgan: Fachschaftenkonferenz
+  actdate:  11. April 2022
+  confirmorgan: Studierendenparlament
+  confirmdate: 20. April 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  21. April 2022
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-26.pdf
+- title:    Neunte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  short:    Neunte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  actorgan: Fachschaftenkonferenz
+  actdate:  20. Juni 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  26. Juni 2022
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-48.pdf
+- title:    Zehnte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  short:    Zehnte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  actorgan: Fachschaftenkonferenz
+  actdate:  17. Oktober 2022
+  confirmorgan: Studierendenparlament
+  confirmdate: 19. Oktober 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  24. Oktober 2022
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-65.pdf
+- title:    Elfte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  short:    Elfte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  actorgan: Fachschaftenkonferenz
+  actdate:  30. Januar 2023
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  31. Januar 2023
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-05.pdf
 
 ---
 
@@ -713,30 +759,41 @@ Voraussetzungen erfüllt sind:
 8. die Haushaltsrechnung, welche die tatsächlichen Einnahmen und Ausgaben zu den Haushaltstiteln im Haushaltsplan sowie die Kassenstände zu Beginn und Ende des Haushaltsjahres aufführt, und
 9. die Kassenprüfungsberichte, die Protokolle der Sitzung, auf der die Kassenprüfungsausschüsse gewählt wurden, sowie der Nachweis, dass für die Mitglieder der Kassenprüfungsausschüsse keine Ausschlussgründe vorlagen.
 
-(6) Kassenprüfer kann nur sein, wer weder im geprüften Zeitraum noch zum
+(6) Das FSK kann beschließen, Gelder an eine Fachschaft anzuweisen, die die
+Voraussetzungen nach Absatz 5 nicht erfüllt, wenn
+
+1. die Fachschaft die nicht erfüllten Voraussetzungen nicht innerhalb des aktuellen
+Haushaltsjahres selbst heilen kann und
+2. der Fachschaft durch die ausbleibende Anweisung eine besondere Härte droht.
+Davon ist insbesondere dann auszugehen, wenn der Kassenstand insgesamt
+weniger als 0 € beträgt.
+
+Die FK ist über die Entscheidung des FSK zu informieren.
+
+(7) Kassenprüfer kann nur sein, wer weder im geprüften Zeitraum noch zum
 Prüfungszeitpunkt Mitglied des FSR oder Teil des Vorstands der FSV
 war beziehungsweise ist. Kassenprüfer müssen Teil der
 Studierendenschaft der RFWU Bonn sein.
 
-(7) Wurde für eine Amtsperiode keine Fachschaftsvertretung gewählt,
+(8) Wurde für eine Amtsperiode keine Fachschaftsvertretung gewählt,
 tritt in diesen Bestimmungen an ihre Stelle die
 Fachschaftsvollversammlung.
 
-(8) Die Gelder der Fachschaften dürfen nicht dazu verwendet werden,
+(9) Die Gelder der Fachschaften dürfen nicht dazu verwendet werden,
 Aufgaben der Institute oder Seminare der Universität zu finanzieren.
 Sie dürfen außerdem nicht für Veranstaltungen verwendet werden, die
 für das bestehen einer Lehrveranstaltung notwendig sind oder eine
 solche Veranstaltung ersetzen.
 
-(9) Antragsberechtigt sind die Fachschaftsräte der Fachschaften der RFWU
+(10) Antragsberechtigt sind die Fachschaftsräte der Fachschaften der RFWU
 Bonn.
 
-(10) Zuweisungen an eine Fachschaft werden ausschließlich auf ein Bankkonto 
+(11) Zuweisungen an eine Fachschaft werden ausschließlich auf ein Bankkonto 
 ausgezahlt, welches auf die Fachschaft selbst eingetragen ist.
 
-(11) Die Finanzanträge einer Fachschaft dürfen im FSK nicht von einer
-Person mit gleicher Fachschaftszugehörigkeit geprüft oder angewiesen
-werden.
+(12) Die Finanzanträge und die Nachweise nach Absatz 5 einer Fachschaft dürfen im FSK nicht von einer
+Person mit gleicher Fachschaftszugehörigkeit geprüft oder angewiesen werden.
+
 
 ### § 26 AFsG
 
@@ -781,6 +838,12 @@ oder seinem Vertreter angewiesen.
 (8) Anträge, die vier Semester nach Ablauf des Semesters, auf das sich
 der Antrag bezieht, die Voraussetzungen des Abs. 5 nicht erfüllen,
 gelten als nicht gestellt.
+
+(9) Das FSK kann die Frist nach Absatz 8 einmalig verlängern, wenn für einen Antrag alle Dokumente
+nach Absatz 5 vorliegen und lediglich noch behebbare Mängel aufweisen. Das FSK teilt der betroffenen
+Fachschaft hierfür die zu behebenden Mängel sowie eine angemessene Frist zur Behebung dieser
+Mängel mit. Diese Fristverlängerung ist auch rückwirkend möglich.
+
 
 ### § 27 Sockelsatz der AFsG
 
@@ -1039,7 +1102,7 @@ des Studierendenparlaments der RFWU Bonn entsprechend anzuwenden.
 
 ### § 35 Übergangsbestimmungen
 
-Abweichend von § 26 Abs. 8 gelten Anträge auf AFSG, welche für die folgenden 
+(1) Abweichend von § 26 Abs. 8 gelten Anträge auf AFSG, welche für die folgenden 
 Semester gestellt wurden, ab dem 01. April 2022 als nicht gestellt:
 
 1. Sommersemester 2019
@@ -1049,6 +1112,17 @@ Semester gestellt wurden, ab dem 01. April 2022 als nicht gestellt:
 5. Sommersemester 2017
 6. Wintersemester 2016/17
 7. Sommersemester 2016
+
+(2) Für Semester vor dem Sommersemester 2022 kann das FSK bezüglich der
+notwendigen Dokumente gemäß § 25 Absatz 5 und § 26 Absatz 5 anstelle eines Haushaltsplans und der
+zugehörigen Haushaltsrechnung auch haushaltsplansähnliche Dokumente und
+zugehörige haushaltsrechnungsähnliche Dokumente akzeptieren, sofern die
+haushaltsplansähnlichen Dokumente formal wie Haushaltspläne beschlossen wurden.
+Insbesondere sollen Pläne akzeptiert werden, die für einzelne Semester aufgestellt
+wurden.
+
+(3) Abweichend von § 26 Abs. 8 gelten Anträge auf AFSG, welche für das
+Wintersemester 2019/20 gestellt wurden, ab dem 01. Juni 2022 als nicht gestellt.
 
 ----
 
@@ -1122,18 +1196,19 @@ der AFsG-Sockelsatz 500 €.
 - Allen Anträgen müssen die folgendem Dokumente beigefügt werden:
     - tabellarische Kostenkalkulation
     - **Kopien** aller Rechnungen
-    - Arbeitsberichte (außer bei "Sonstiges"). Der Arbeitsbericht muss
-      dokumentieren, welche Awareness-Maßnahmen getroffen wurden.
+    - Arbeitsberichte (außer bei „Sonstiges“). Der Arbeitsbericht muss dokumentieren, 
+    welche Awareness-Maßnahmen getroffen wurden. Bei der Teilnahme an einer BuFaTa
+    gemäß 3. e sollen die Awareness-Maßnahmen der BuFaTa geschildert werden.
 
 ### 2. Veranstaltungen
 
-Insgesamt können maximal **2500 € im Jahr** für Veranstaltungen
+Insgesamt können maximal **3000 € im Jahr** für Veranstaltungen
 beantragt werden.
 
 |   | Titel                       | Höchstsatz                       |
 |---|-----------------------------|----------------------------------|
-| a | Erstsemesterarbeit          | 800 € pro Semester               |
-|   |                             | davon für Verpflegung max. 400 € |
+| a | Erstsemesterarbeit          | 1000 € pro Semester              |
+|   |                             | davon für Verpflegung max. 500 € |
 | b | Inhaltliche Veranstaltungen | 700 € pro Veranstaltung          |
 
 
@@ -1181,19 +1256,19 @@ dienen, zum Beispiel:
 
 ### 3. Allgemeine Fahrten
 
-Insgesamt können maximal **4000 € im Jahr** für Allgemeine Fahrten
+Insgesamt können maximal **5000 € im Jahr** für Allgemeine Fahrten
 beantragt werden. Es können je Person und Tag **maximal 50 €** beantragt
 werden.
 
-|   | Titel               | Höchstsatz                  |
-|---|---------------------|-----------------------------|
-| c | Erstsemesterfahrten | bis zu 30 Teilnehmer: 800 € |
-|   |                     | bis zu 50 Teilnehmer: 900 € |
-|   |                     | über 50 Teilnehmer: 1000 €  |
-| d | Klausurfahrten      | bis zu 10 Teilnehmer: 500 € |
-|   |                     | bis zu 30 Teilnehmer: 800 € |
-|   |                     | über 30 Teilnehmer: 900 €   |
-| e | BuFaTa              | 800 €                       |
+|   | Titel               | Höchstsatz                   |
+|---|---------------------|------------------------------|
+| c | Erstsemesterfahrten | bis zu 30 Teilnehmer: 1000 € |
+|   |                     | bis zu 50 Teilnehmer: 1100 € |
+|   |                     | über 50 Teilnehmer: 1200 €   |
+| d | Klausurfahrten      | bis zu 10 Teilnehmer: 600 €  |
+|   |                     | bis zu 30 Teilnehmer: 800 €  |
+|   |                     | über 30 Teilnehmer: 1100 €   |
+| e | BuFaTa              | 1000 €                       |
 
 
 #### 3.1 Anmerkungen
@@ -1208,7 +1283,8 @@ werden.
 ##### 3.1.1 Erstsemesterfahrt
 
 - Eine Erstsemesterfahrt soll sich gezielt an Erstsemester richten.
-    Der Anteil an Nicht-Studienanfängern soll 30 % nicht überschreiten.
+  Der Anteil an Nicht-Studienanfängern soll 30 % nicht überschreiten,
+  sofern dies mehr als 5 Teilnehmende sind.
 
 - Erstsemester im Sinne dieser Ordnung sind alle Studierende, die in
     mindestens einem Studiengang noch nicht länger als ein Studienjahr
@@ -1273,6 +1349,7 @@ Dem Antrag muss zusätzlich beigefügt werden:
 | i | Ausrichtung BuFaTa     | 2000 € pro BuFaTa              |
 | j | Fachschaftskleidung    | 200 € pro Jahr                 |
 | k | Fachschaftsneugründung | AFsG-Sockelsatz, i.d.R. 1000 € |
+| l | Schulungen             | 400 € pro Jahr                 |
 
 #### 5.1 Anmerkungen
 
@@ -1291,6 +1368,10 @@ Dem Antrag muss zusätzlich beigefügt werden:
 - Maßgeblich ist die Aufnahme in die Fachschaftenliste (Anhang
     Fachschaftenliste FKGO).
 
+##### 5.1.4 Schulungen
+
+Fortbildende Maßnahmen, die im unmittelbaren Zusammenhang mit der Fachschaftsarbeit stehen, wie etwa
+Erste-Hilfe-Kurse oder Schulungen für Awarenessmaßnahmen.
 
 ----
 
@@ -1333,7 +1414,7 @@ Dem Antrag muss zusätzlich beigefügt werden:
 
 # Anlage Fachschaftenliste
 
-Liste der Fachschaften der RFWU Bonn mit zugeordneten Studiengängen
+Liste der Fachschaften der RFWU Bonn mit zugeordneten Fach-Abschluss-Kombinationen
 
 Agrarwissenschaften
 -------------------
@@ -1348,13 +1429,13 @@ Altkatholisches Seminar
 -----------------------
   * Alt-Katholische und Ökumenische Theologie (Master of Arts)
   * Altkatholische Theologie (Kirchl.Ex.)
+  * Religionstheorie und interreligiöser Dialog (Promotion)
 
 Anglistik, Amerikanistik und Keltologie
 ---------------------------------------
   * Allgemeine Sprachwissenschaft (Promotion)
   * Anglistik/Amerikanistik: Literatur- und Kulturwissenschaft (Promotion)
   * Anglistik/Amerikanistik: Sprachwissenschaft (Promotion)
-  * Anglistik II (Promotion)
   * Anglistik/Neuere Englische Literatur (Promotion)
   * Applied Linguistics (Master of Arts)
   * Englische Philologie (Promotion)
@@ -1365,13 +1446,10 @@ Anglistik, Amerikanistik und Keltologie
 
 Archäologie
 -----------
-  * Ägyptologie (Master of Arts)
   * Ägyptologie (Promotion)
   * Archäologien (Bachelor of Arts)
   * Archäologische Wissenschaften (Master of Arts)
   * Christliche Archäologie (Promotion)
-  * Frühgeschichtliche Archäologie und Archäologie der Römischen Provinzen (Master of Arts)
-  * Klassische Archäologie (Master of Arts)
   * Klassische Archäologie (Promotion)
   * Kunstgeschichte und Archäologie (Bachelor of Arts)
   * Vor- u. frühgeschichtliche Archäologie (Promotion)
@@ -1407,11 +1485,9 @@ ELW
 
 Ethnologie / Altamerikanistik
 -----------------------------
-  * Alt-Amerikanistik (Promotion)
   * Altamerikanistik und Ethnologie (Bachelor of Arts)
   * Altamerikanistik/Ethnologie (Master of Arts)
   * Anthropology of the Americas (Master of Arts)
-  * Ethnologie (Promotion)
   * Ethnologie unter besond.Berücks.d.Altamerikanistik (Promotion)
   * Kulturstudien zu Lateinamerika/Estudios culturales de America Latina (Master of Arts)
   * Lateinamerika- und Altamerikastudien (Bachelor of Arts)
@@ -1428,7 +1504,6 @@ Evangelische Theologie
 
 GeKoSka
 -------
-  * Ält.u.Neu.Germanistik (Promotion)
   * Deutsche Sprache u.ältere deutsche Literatur (Promotion)
   * German and Comparative Literature (Master of Arts)
   * Germanische Linguistik (Promotion)
@@ -1443,7 +1518,6 @@ GeKoSka
   * Skandinavistik (Bachelor of Arts)
   * Skandinavistik (Master of Arts)
   * Skandinavistik (Promotion)
-  * Slavistik (Promotion)
   * Vergleichende Literaturwissenschaft (Promotion)
   * Linguistik (Master of Arts)
 
@@ -1453,7 +1527,7 @@ Geodäsie
   * Geodäsie und Geoinformation (Bachelor of Science)
   * Geodäsie und Geoinformation (Master of Science)
   * Geodäsie und Geoinformation (Promotion)
-  * Geodetic Engineering (Master of Sience)
+  * Geodetic Engineering (Master of Science)
 
 Geographie
 ----------
@@ -1463,21 +1537,17 @@ Geographie
   * Geographie (Master of Science)
   * Geographie (Promotion)
   * Geography of Environmental Risks and Human Security (Master of Science)
-  * Historische Geographie (Promotion)
-  * Katastrophenvorsorge und Katastrophenmanagement (Master of Disaster Management and Risk Governance) (Master (Weiterbildung))
+  * Katastrophenvorsorge und Risikomanagement (Master of Disaster Preparedness and Risk Management) (Master)
 
 Geowissenschaften
 -----------------
   * Geochemie/Petrologie (Master of Science)
-  * Geochemie/Petrologie (Promotion)
   * Geologie (Master of Science)
-  * Geologie (Promotion)
-  * Geophysik (Promotion)
+  * Geologie/Paläontologie (Promotion)
   * Geowissenschaften (Bachelor of Science)
   * Geowissenschaften (Master of Science)
   * Geowissenschaften (Promotion)
   * Paläontologie (Master of Science)
-  * Paläontologie (Promotion)
 
 Geschichte
 ----------
@@ -1490,8 +1560,9 @@ Geschichte
   * Mittelalterliche und neuere Geschichte (Promotion)
   * Mittelalterstudien (Master of Arts)
   * Osteuropäische Geschichte (Promotion)
-  * Politisch-Historische Studien (Master (Weiterbildung))
+  * Politisch-Historische Studien (Master)
   * Rheinische Landesgeschichte (Promotion)
+  * Slavery Studies (Master of Arts)
   * Verfassungs-, Sozial- und Wirtschaftsgeschichte (Promotion)
 
 Griechische und Lateinische Philologie
@@ -1520,13 +1591,14 @@ Informatik
 Interkulturelle Kommunikation und Mehrsprachigkeitsforschung (IKM)
 ------------------------------------------------------------------
   * Sprache und Kommunikation in der globalisierten Mediengesellschaft (Bachelor of Arts)
+  * Sprachliche Kommunikation (Bachelor of Arts)
   * Deutsch als Zweit- und Fremdsprache (Bachelor of Arts)
+  * Übersetzungswissenschaft (Promotion)
 
 Jura
 ----
   * Begleitfach Rechtswissenschaft (Bachelor of Arts)
   * Deutsches Recht (Master of Laws)
-  * Deutsches Recht für im Ausland graduierte Juristen (Magister)
   * Law and Economics (Bachelor of Laws)
   * Rechtswissenschaft (Promotion)
   * Rechtswissenschaft (Staatsex.)
@@ -1540,7 +1612,7 @@ Katholische Theologie
 
 Kulturanthropologie
 -------------------
-  * Kulturanthropologie/Volkskunde (Master of Arts)
+  * Kulturanthropologie/ Empirische Kulturwissenschaft (Bachelor of Arts)
   * Transkulturelle Studien/Kulturanthropologie (Master of Arts)
   * Kulturanthropologie/Volkskunde (Promotion)
 
@@ -1550,7 +1622,7 @@ Kunstgeschichte
   * Kunstgeschichte (Bachelor of Arts)
   * Kunstgeschichte (Master of Arts)
   * Kunstgeschichte (Promotion)
-  * Provenienzforschung und Geschichte des Sammelns. (Master of Arts)
+  * Provenienzforschung und Geschichte des Sammelns (Master of Arts)
 
 Lehramt
 -------
@@ -1596,11 +1668,11 @@ Lehramt
   * Mathematik (LA MA Gym Ge)
   * Pflanzenwissenschaften (Pflanzenbau) (LA BA Berufskolleg)
   * Pflanzenwissenschaften (Pflanzenbau) (LA MA Berufskolleg)
-  * Philosophie (LA BA Gym Ge)
+  * Philosophie/Praktische Philosophie (LA BA Gym Ge)
   * Philosophie (LA MA Gym Ge)
   * Physik (LA BA Gym Ge)
   * Physik (LA MA Gym Ge)
-  * Sozialwissenschaften (LA BA Gym Ge)
+  * Wirtschaft-Politik/Sozialwissenschaften (LA BA Gym Ge)
   * Sozialwissenschaften (LA MA Gym Ge)
   * Spanisch (LA BA Gym Ge)
   * Spanisch (LA MA Gym Ge)
@@ -1623,37 +1695,35 @@ Medienwissenschaft
 
 Medizin
 -------
-  * Doctor medicinae (Dr. med.)
   * Epidemiologie (Doctor of Philosophy)
   * Epidemiologie (Med.Doc/Doc.of Philosophy)
   * Experimentelle Medizin (Doctor of Philosophy)
   * Experimentelle Medizin (Med.Doc/Doc.of Philosophy)
-  * Global Health Risk Management and Hygiene Policies(Master (Weiterbildung))
-  * Humangenetik (Doctor of Philosophy)
+  * Global Health - Risk Management and Hygiene Policies (Master)
+  * Hebammenwissenschaft (Bachelor of Science)
   * Humangenetik (Med.Doc/Doc.of Philosophy)
-  * Humanmedizin (Staatsex.)
   * Klinische Immunologie (Doctor of Philosophy)
   * Klinische Immunologie (Med.Doc/Doc.of Philosophy)
   * Klinische Infektiologie (Doctor of Philosophy)
-  * Klinische Infektologie (Med.Doc/Doc.of Philosophy)
   * Klinische Medizin (Doctor of Philosophy)
   * Klinische Medizin (Med.Doc/Doc.of Philosophy)
-  * Medical Immunosciences and Infection (Master)
+  * Medical Immunosciences and Infection (Master of Science)
+  * Medizin (Promotion)
+  * Medizin (Staatsex.)
   * Medizinische Biometrie (Doctor of Philosophy)
-  * Medizinische Biometrie (Med.Doc/Doc.of Philosophy)
   * Medizinische Psychologie (Doctor of Philosophy)
   * Medizinische Psychologie (Med.Doc/Doc.of Philosophy)
   * Medizinische Soziologie (Doctor of Philosophy)
   * Medizinische Soziologie (Med.Doc/Doc.of Philosophy)
   * Public Health (Doctor of Philosophy)
-  * Public Health (Med.Doc/Doc.of Philosophy)
-  * Translationale Medizin (Doctor of Philosophy)
-  * Translationale Medizin (Med.Doc/Doc.of Phiolosphy)
+  * Translationale Medizin (Med.Doc/Doc.of Philosophy)
   * Versorgungsforschung (Doctor of Philosophy)
   * Versorgungsforschung (Med.Doc/Doc.of Philosophy)
 
-Meteorologie
-------------
+Meteorologie und Geophysik
+--------------------------
+  * Geophysik (Promotion)
+  * Meteorologie (Bachelor of Science)
   * Meteorologie und Geophysik (Bachelor of Science)
   * Meteorologie (Promotion)
   * Physik der Erde und Atmosphäre (Master of Science)
@@ -1661,13 +1731,13 @@ Meteorologie
 Molekulare Biomedizin
 ---------------------
   * Biochemistry (Master of Science)
-  * Medical Immunosciences and Infection (Master of Science)
   * Molekulare Biomedizin (Bachelor of Science)
   * Molekulare Biomedizin (Promotion)
-  * Immunbiology: from molecules to integrative systems (Master of Science)
+  * Immunobiology: from molecules to integrative systems (Master of Science)
 
 Musikwissenschaften/Sound Studies
 ---------------------------------
+  * Musik- und Klangkulturen der Moderne (Master of Arts)
   * Musikwissenschaft/Sound Studies (Bachelor of Arts)
   * Musikwissenschaft (Bachelor of Arts)
   * Musikwissenschaft (Promotion)
@@ -1677,23 +1747,26 @@ Neuroscience
   * Neurosciences (Master of Science)
   * Neurowissenschaften (Doctor of Philosophy)
   * Neurowissenschaften (Med.Doc/Doc.of Philosophy)
+  * Neurowissenschaften (Promotion)
 
 OrientAsia
 ----------
   * Arabisch (Bachelor of Arts)
   * Arabistik (Promotion)
   * Asiatische und Orientalische Schwerpunktsprachen (Bachelor of Arts)
-  * Asienwissenschaften (Bachelor of Arts (als Kern-/ Ergänzungsfach))
-  * Asienwissenschaften (Bachelor of Arts (als Vollstudiengang))
+  * Asienwissenschaften (Bachelor of Arts)
   * Asienwissenschaften (Master of Arts)
   * Asiatische und Islamische Kunstgeschichte (Bachelor of Arts)
   * Bengalisch (Bachelor of Arts)
   * Chinesisch (Bachelor of Arts)
   * Hindi (Bachelor of Arts)
+  * Indologie (Bachelor of Arts)
+  * Indologie (Promotion)
   * Indonesisch (Bachelor of Arts)
-  * Iranistik (Promotion)
   * Islamwissenschaft (Promotion)
+  * Islamwissenschaft/Nahostsprachen (Bachelor of Arts)
   * Japanisch (Bachelor of Arts)
+  * Japanologie (Promotion)
   * Koreanisch (Bachelor of Arts)
   * Mongolisch (Bachelor of Arts)
   * Mongolistik (Bachelor of Arts)
@@ -1702,6 +1775,7 @@ OrientAsia
   * Ostasiatische Geschichte (Promotion)
   * Persisch (Bachelor of Arts)
   * Sinologie (Promotion)
+  * Regionalwissenschaft Südostasien (Promotion)
   * Südasienwissenschaft (Bachelor of Arts)
   * Südasienwissenschaft (Promotion)
   * Südostasienwissenschaft (Bachelor of Arts)
@@ -1709,7 +1783,7 @@ OrientAsia
   * Tibetisch (Bachelor of Arts)
   * Tibetologie (Bachelor of Arts)
   * Tibetologie (Promotion)
-  * Transnational European EastAsian Culture and History (TEACH) (Master of Arts)
+  * Transnational European and East Asian Culture and History (Master of Arts)
   * Türkisch (Bachelor of Arts)
   * Vergleichende Religionswissenschaft (Bachelor of Arts)
   * Vergleichende Religionswissenschaft (Promotion)
@@ -1718,8 +1792,9 @@ OrientAsia
 Pharmazie
 ---------
   * Arzneimittelforschung (Drug Research) (Master of Science)
+  * Arzneimitteltherapiesicherheit (Master of Science)
   * Arzneimittelwissenschaften (Promotion)
-  * Drug Regulatory Affairs (Master (Weiterbildung))
+  * Drug Regulatory Affairs (Master)
   * Pharmazie (Promotion)
   * Pharmazie (Staatsex.)
 
@@ -1732,7 +1807,6 @@ Philosophie
 
 Physik/Astronomie
 -----------------
-  * Astronomie/Astrophysik (Promotion o.Ab.Astronomie)
   * Astronomie/Astrophysik (Promotion)
   * Astrophysik (Master of Science)
   * Physik (Bachelor of Science)
@@ -1741,6 +1815,7 @@ Physik/Astronomie
 
 Politik &amp; Soziologie
 ------------------------
+  * European Studies - Governance and Regulation (Master)
   * Gesellschaften, Globalisierung und Entwicklung (Master of Arts)
   * Soziologie (Master of Arts)
   * Politik und Gesellschaft (Bachelor of Arts)
@@ -1755,8 +1830,9 @@ Psychologie
   * Psychologie (Bachelor of Science)
   * Psychologie (Master of Science)
   * Psychologie (Promotion)
-  * Rechtspsychologie: Schwerpunkt Psychologie im Straf- und Maßregelvollzug (Master (Weiterbildung))
-  * Rechtspsychologie: Schwerpunkt Psychologie im Straf- und Zivilverfahren (Master (Weiterbildung))
+  * Rechtspsychologie (Master)
+  * Rechtspsychologie: Schwerpunkt Psychologie im Straf- und Maßregelvollzug (Master)
+  * Rechtspsychologie: Schwerpunkt Psychologie im Straf- und Zivilverfahren (Master)
 
 Romanistik
 ----------
@@ -1788,7 +1864,6 @@ VWL
 Zahnmedizin
 -----------
   * Zahnmedizin (Doctor of Philosophy)
-  * Zahnmedizin (Dr. med. Dent)
-  * Zahnmedizin (Med.Doc/Doc.ofPhilosophy)
+  * Zahnmedizin (Med.Doc/Doc.of Philosophy)
+  * Zahnmedizin (Promotion)
   * Zahnmedizin (Staatsex.)
-

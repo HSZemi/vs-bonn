@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Geodäsie
 short: Satzung der Fachschaft Geodäsie
-date:  8. Juli 2021
+date:  20. Dezember 2022
 type:  Satzung
 id:    FSSatzungGeodaesie
 contains:
@@ -19,6 +19,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  8. Juli 2021
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-39.pdf
+- title: Satzung der Fachschaft Geodäsie
+  short: Satzung der Fachschaft Geodäsie
+  actorgan: Fachschaftsvollversammlung Fachschaft Geodäsie
+  actdate:  16. November 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  20. Dezember 2022
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-80.pdf
 
 ---
 
@@ -28,14 +35,12 @@ contains:
 Als Teil der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn und in
 Ausübung ihres Rechts auf Selbstverwaltung hat sich die Fachschaft Geodäsie die folgende
 Satzung gegeben.
-
 Im Interesse der deutschen Sprache verwendet diese Satzung bei allen Personenbezeichnungen
 die geschlechtsneutrale oder männliche Form.
 
-
 # A. Allgemeines
 
-### §1 Begriffsbestimmung und Rechtsstellung
+### § 1 Begriffsbestimmung und Rechtsstellung
 
 (1) Die Fachschaft wird von allen Studierenden, die an der Rheinischen Friedrich-
 Wilhelms-Universität Bonn in einem der folgenden Studienfächer eingeschrieben sind,
@@ -55,7 +60,7 @@ wahr und vertritt im Rahmen ihrer Möglichkeiten die Belange der Studierenden, d
 den oben genannten Fächern eingeschrieben sind oder Veranstaltungen besuchen.
 
 
-### §2 Organe der Fachschaft (siehe Abschnitt B)
+### § 2 Organe der Fachschaft (siehe Abschnitt B)
 
 (1) Die Fachschaft äußert ihren Willen durch ihre Organe und deren Wahl.
 
@@ -70,7 +75,7 @@ der Nachfolgemitglieder bleiben die Mitglieder der betreffenden Organe kommissar
 im Amt.
 
 
-### §3 Aufgaben der FSV und des FSR
+### § 3 Aufgaben der FSV und des FSR
 
 (1) Der FSV und FSR nehmen organisatorische Aufgaben im Rahmen der studentischen
 Selbstverwaltung der Fachschaft wahr und nehmen im Namen der Fachschaft Stellung
@@ -87,7 +92,7 @@ Universitätsverwaltung und den übrigen Gremien der Studierendenschaft.
 
 # B. Organe der Fachschaft
 
-### §4 Die Fachschaftsvollversammlung (FSVV)
+### § 4 Die Fachschaftsvollversammlung (FSVV)
 
 (1) Rechtsstellung der FSVV
 
@@ -125,7 +130,7 @@ Andernfalls können Beschlüsse der FSVV auch durch die FSV mit Zweidrittelmehrh
 aufgehoben werden.
 
 
-### §5 Die Fachschaftsvertretung (FSV)
+### § 5 Die Fachschaftsvertretung (FSV)
 
 (1) Rechtsstellung der FSV
 
@@ -146,12 +151,10 @@ b) Die FSV tritt mindestens einmal im Semester zusammen. Die Einladung zu einer 
 Sitzung erfolgt mindestens eine Woche vor der Sitzung durch öffentlichen Aushang oder
 auf digitalem Weg.
 c) Die FSV tritt darüber hinaus zusammen:
-
     1. Auf Antrag des FSR.
     2. Auf Antrag der FSVV.
     3. Auf Antrag von mindestens 30% der Mitglieder der FSV.
     4. Auf Antrag von mindestens 5% der Mitglieder der Fachschaft.
-
 Die Einberufung der FSV erfolgt durch den FSV-Vorsitzenden.
 
 (3) Wahl der FSV
@@ -162,7 +165,7 @@ freier, gleicher und geheimer Urnenwahl gewählt.
 c) Die Wahl wird vom Wahlausschuss vorbereitet und durchgeführt.
 d) Die FSV wählt den Wahlausschuss. Dieser besteht aus einem Wahlleiter und zwei
 Wahlhelfern.
-e) Der Wahlleiter beruft die konstituierende Sitzung der neu gewählten FSV ein und leitet
+e)Der Wahlleiter beruft die konstituierende Sitzung der neu gewählten FSV ein und leitet
 sie, bis ein Vorsitzender gewählt ist.
 f) Das Nähere bestimmt die Fachschaftswahlordnung.
 
@@ -221,18 +224,15 @@ j) Der Vorsitzende der FSV führt ihre laufenden Geschäfte.
 (6) Ausscheiden, Ausschluss und Nachrücken von Mitgliedern
 
 a) Ein Mitglied scheidet aus der FSV aus durch
-
     1. Niederlegung seines Mandats,
     2. Abwahl mit Zweidrittelmehrheit,
     3. Exmatrikulation oder durch Umschreibung in ein anderes Hauptfach,
     4. rechtskräftige Disziplinarstrafe,
     5. Tod.
-
 b) Der Ausschluss eines Mitglieds von einer FSV-Sitzung erfolgt gemäß den
 Bestimmungen zu Ordnungsmaßnahmen in der geltenden Geschäftsordnung des
 Studierendenparlaments.
-c) FSV-Sitzungen sind öffentlich. Die Öffentlichkeit darf zu bestimmten
-Tagesordnungspunkten ausgeschlossen werden.
+c) FSV-Sitzungen sind öffentlich. Die Öffentlichkeit darf zu bestimmten Tagesordnungspunkten ausgeschlossen werden.
 
 (7) Beschlüsse der FSV
 
@@ -257,7 +257,7 @@ g) FSV-Beschlüsse der laufenden Sitzungsperiode können durch Beschluss mit ein
 Zweidrittelmehrheit der satzungsmäßigen Mitglieder der FSV aufgehoben werden.
 
 
-### §6 Der Fachschaftsrat (FSR)
+### § 6 Der Fachschaftsrat (FSR)
 
 (1) Rechtsstellung des FSR
 
@@ -309,28 +309,35 @@ des FSR-Sprechers keinen Nachfolger in diesem Amt geben soll, hat der Referent d
 Amt in möglichst drei Wochen ordnungsgemäß zu Ende zu führen. Tritt ein Mitglied
 des geschäftsführenden Vorstandes zurück, wählt die FSV unverzüglich seinen
 Nachfolger.
+e) Die Wahl des FSR darf bei bis zu 500 Wahlberechtigten im Rahmen einer Wahlvoll-
+versammlung stattfinden.
 
 
 # C. Haushalts- und Wirtschaftsführung
 
-### §7 Grundsätze der Haushaltsführung
+### § 7 Grundsätze der Haushaltsführung
 
 (1) Die Haushalts- und Wirtschaftsführung richtet sich nach den Vorgaben der Satzung der
 Studierendenschaft.
 
 
-### §8 Aufgaben des Finanzreferenten
+### § 8 Aufgaben des Finanzreferenten
 
 (1) Dem Finanzreferenten (FSR-Vorstand) obliegt die Finanzführung der Fachschaft. Er
 führt über alle Einnahmen und Ausgaben der Fachschaft ordnungsgemäß Buch.
 
 (2) Der Finanzreferent hat vor Beginn des Haushaltsjahres einen ausgeglichenen
 Haushaltsplan aufzustellen und diesen der FSV auf einer Sitzung vor Beginn des
-Haushaltsjahres zur Abstimmung vorzulegen. Das Haushaltsjahr beginnt am 1. Januar
-eines jeden Jahres.
+Haushaltsjahres zur Abstimmung vorzulegen. Das Haushaltsjahr der Fachschaft
+beginnt am 1. Oktober eines jeden Jahres und endet am 30. September des jeweiligen
+Folgejahres.
+
+(3) Abweichend von § 8 Absatz 2 Satz 2 beginnt das Haushaltsjahr 2023 am 1. Januar
+2023 und endet am 30. September 2023. Das Haushaltsjahr 2023 wird einmalig
+verkürzt, um die folgenden Haushaltsjahre an das akademische Jahr anzupassen.
 
 
-### §9 Beschluss von Ausgaben
+### § 9 Beschluss von Ausgaben
 
 (1) Zur finanziellen Verpflichtung der Fachschaft sind die Unterschriften des FSR-
 Vorsitzenden und des Finanzreferenten oder die Unterschrift des zuständigen
@@ -352,7 +359,8 @@ der FSV unverzüglich anzuzeigen. Nachträge zum Haushaltsplan können nur für 
 laufende Haushaltsjahr eingebracht werden.
 
 
-### §10 Kassenprüfung
+
+### § 10 Kassenprüfung
 
 (1) Die Kassenprüfer führen eine Jahresabschlussprüfung durch. Unabhängig
 davon wird die Kasse von den Kassenprüfern mindestens einmal jährlich
@@ -373,7 +381,7 @@ Anfangs- und Endstand festzuhalten.
 
 # D. Schlussbestimmungen
 
-### §11 Satzungsänderung
+### § 11 Satzungsänderung
 
 (1) Diese Satzung kann auf Beschluss der FSV oder der FSVV geändert werden. Sie muss
 im Einklang mit den geltenden Bestimmungen der Fachschaftenkonferenz und des

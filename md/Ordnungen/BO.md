@@ -1,7 +1,7 @@
 ---
 title: Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Beitragsordnung der Studierendenschaft (BO)
-date:  9. August 2021
+date:  1. Juli 2022
 type:  Ordnung
 id:    BO
 contains:
@@ -95,6 +95,15 @@ contains:
   pubdate:  9. August 2021
   puborgan: Amtliche Bekanntmachungen
   puburl: https://hdl.handle.net/20.500.11811/9263
+- title: Vierunddreißigste Ordnung zur Änderung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - XXXIV. Beitragsordnungsänderungsordnung (BOÄO XXXIV) -
+  short: XXXIV\. Beitragsordnungsänderungsordnung (BOÄO XXXIV)
+  actdate:  1. Juni 2022
+  actorgan: Studierendenparlament
+  confirmorgan: Rektorat
+  confirmdate: 9. Juni 2022
+  pubdate:  14. Juni 2022
+  puborgan: Amtliche Bekanntmachungen
+  puburl: https://hdl.handle.net/20.500.11811/9871
 
 ---
 
@@ -107,20 +116,22 @@ Kosten der Selbstverwaltung, der Selbsthilfe und Mobilität der Studierendenscha
 
 ### § 2
 
-Der Beitrag in Höhe von 215,06 € (WS 2021/22) bzw. 217,06 € (SS 2022) ist für folgende Zwecke bestimmt:
+Der Beitrag in Höhe von 220,11 € (WS 2022/23) bzw. 223,01 € (SS 2023) ist für folgende Zwecke bestimmt:
 
 |   |                                                                           |         |
 |:--|:--------------------------------------------------------------------------|--------:|
-|1. |für die studentische Selbstverwaltung                                      | 11,50 €,|
+|1. |für die studentische Selbstverwaltung                                      | 12,00 €,|
 |2. |für die studentischen Sozialeinrichtungen                                  |  0,75 €,|
 |3. |für den Hilfsfonds zur Unterstützung in Not geratener Studierender         |  0,01 €,|
 |4. |für einen Mobilitätsbeitrag                                                |         |
-|   |a) Semesterticket                                                          |138,70 €,|
+|   |a) Semesterticket                                                          |142,90 €,|
 |   |b) NRW-Ticket                                                              |         |
-|   |   WS 2021/2022                                                            | 57,40 €,|
-|   |   SS 2022                                                                 | 59,40 €,|
+|   |   WS 2022/2023                                                            | 58,50 €,|
+|   |   SS 2023                                                                 | 59,40 €,|
 |5. |für ein Sonderkonto zur Erstattung des Mobilitätsbeitrages                 |  0,60 €,|
-|6. |für die Zuweisungen an die Fachschaften                                    |  2,25 €,|
+|6. |für die Zuweisungen an die Fachschaften                                    |         |
+|   |WS 2022/23                                                                 |  1,50 €,|
+|   |SS 2023                                                                    |  3,50 €,|
 |7. |für den Studierendensport                                                  |  0,85 €,|
 |8. |für das Kulturticket                                                       |  3,00 €,|
 

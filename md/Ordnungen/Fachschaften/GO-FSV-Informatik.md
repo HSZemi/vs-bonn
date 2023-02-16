@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftsvertretung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Geschäftsordnung der Fachschaftsvertretung der Fachschaft Informatik
-date:  22. Oktober 2019
+date:  18. Januar 2022
 type:  Ordnung
 id:    GO-FSV-Informatik
 contains:
@@ -12,6 +12,13 @@ contains:
   puborgan: AKUT
   pubdate:  22. Oktober 2019
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-18.pdf
+- title: Erste Ordnung zur Änderung der Geschäftsordnung der Fachschaftsvertretung der Fachschaft Informatik
+  short: Erste Ordnung zur Änderung der Geschäftsordnung der Fachschaftsvertretung der Fachschaft Informatik
+  actorgan: Fachschaftsvertretung Fachschaft Informatik
+  actdate:  18. Januar 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  18. Januar 2022
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-04.pdf
 
 ---
 
@@ -29,10 +36,12 @@ Sitzung erfolgt per E-Mail. Sie ist fachschaftsöffentlich bekannt zu machen.
 
 (2) Die Sitzungstermine sind auf der Fachschaftswebseite bekannt zu machen.
 
-(3) Zu den Sitzungen der FSV muss spätestens am 7. Tag vor der geplanten Sitzung eingeladen
-werden. Die Einladung muss an alle FSR- und FSV-Mitglieder verschickt werden. Mit der selben Frist
-muss auch öffentlich eingeladen werden. Die Einladung enthält den Vorschlag für eine
-Tagesordnung.
+(3) Zu den Sitzungen der FSV muss spätestens am 7. Tag vor der geplanten Sitzung eingeladen werden. Die Einladung muss an alle FSR- und FSV-Mitglieder
+verschickt werden. Mit der selben Frist muss auch öffentlich eingeladen werden. Die Einladung enthält den Vorschlag für eine Tagesordnung, den
+Sitzungsbeginn und den Ort der Sitzung.
+
+(4) Sitzungen können auf Beschluss der FSV oder sofern dem kein FSV-Beschluss entgegensteht nach Entscheidung des FSV-Vorsitzes in elektronischer
+Kommunikation (digitale Sitzung) oder teilweiser elektronischer Kommunikation (Hybrid-Sitzung) stattfinden. In der Einladung ist darauf hinzuweisen.
 
 
 ### § 2 Aufgabenverteilung
@@ -59,6 +68,12 @@ Abstimmung statt. Auf Verlangen eines FSV-Mitglieds findet eine namentliche Abst
 Sind zu demselben Antrag geheime und namentliche Abstimmung velangt worden, entscheidet der
 FSV mit einfacher Mehrheit über das Abstimmungsverfahren. Bei Stimmengleichheit geht die
 geheime Abstimmung der namentlichen Abstimmung vor.
+
+(4) Auf digitalen Sitzungen und Hybrid-Sitzungen kann mithilfe elektronischer Hilfsmittel abgestimmt werden. Eine geheime Abstimmung ist nicht möglich. Wird
+auf einer solchen Sitzung für einen Antrag eine geheime Abstimmung gefordert, so gilt die Sitzung für diesen Punkt als nicht beschlussfähig.
+
+(5) Auf digitalen Sitzungen und Hybrid-Sitzungen können FSV-Mitglieder die Vertagung eines Tagesordnungspunkts auf eine Präsenzsitzung verlangen, ein
+Einspruch ist nicht möglich.
 
 
 ### § 4 Protokoll

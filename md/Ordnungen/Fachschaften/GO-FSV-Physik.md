@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftsvertretung der Fachschaft Physik/Astronomie der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Geschäftsordnung der Fachschaftsvertretung der Fachschaft Physik/Astronomie
-date:  02. Februar 2016
+date:  1. November 2022
 type:  Ordnung
 id:    GO-FSR-Physik
 contains:
@@ -12,6 +12,13 @@ contains:
   puborgan: AKUT
   pubdate:  21. Dezember 2016
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut_extra_2016-19.pdf
+- title: Erste Ordnung zur Änderung der Geschäftsordnung der Fachschaftsvertretung der Fachschaft Physik/Astronomie
+  short: Erste Ordnung zur Änderung der Geschäftsordnung der Fachschaftsvertretung der Fachschaft Physik/Astronomie
+  actorgan: Fachschaftsvertretung Fachschaft Physik/Astronomie
+  actdate:  27. Oktober 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  1. November 2022
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-66.pdf
 
 ---
 
@@ -19,11 +26,10 @@ contains:
 
 # Präambel
 
-Aufgrund §11 Abs.1 der Satzung der Fachschaft Physik/Astronomie (FSSzg)
-in der Fassung vom 14. Mai 2013 gibt sich die Fachschaftsvertretung
-(FSV) folgende Geschäftsordnung[^1]:
-
-[^1]: In dieser Ordnung wird die männliche Anrede sowohl für die weibliche als auch die männliche Form verwendet.
+Diese Geschäftsordnung gilt für die Sitzungen der Fachschaftsvertretung der Fachschaft
+Physik/Astronomie der Rheinischen Friedrichs-Wilhelms-Universität Bonn.
+Die in dieser Satzung verwendeten Personenbezeichnungen gelten für alle Menschen unabhängig
+ihres Geschlechts in gleicher Weise.
 
 
 
@@ -38,23 +44,27 @@ in der Fassung vom 14. Mai 2013 gibt sich die Fachschaftsvertretung
     swoie der bis zu diesem Zeitpunkt vorliegenden Antragstexte unter
     Einhaltung der Ladungsfrist ein.
 
-2.  Der Vorsitzende ist verpflichtet, Antragstexte, die ihm nach
+2.  Die Fachschaft wird gemäß Fachschaftssatzung (FSSzg) §9 Abs. 3 durch öffentliche
+    Bekanntmachung auf der Website mindestens 7 Tage vor Beginn der Sitzung eingeladen.
+
+3.  Der Vorsitzende ist verpflichtet, Antragstexte, die ihm nach
     Versenden der Einladung zugekommen sind, schnellstmöglich an die
     Eingeladenen zu verschicken.
 
-3.  Die Einladung und zugehörigen Unterlagen sind an alle Mitglieder der
-    FSV und den FSR-Vorsitzenden zu versenden. Auf Beschluss der FSV
-    kann die Einladungspflicht auf den gesamten FSR-Vorsitz oder den FSR
-    ausgedehnt werden.
+4.  Bei einer Sitzung, welche nach §9 Abs. 2 Punkte 1 bis 6 einberufen wurde sind zusätzlich
+    einzuladen:
+    
+        1. bei einer Sitzung gemäß den Punkten 1 und 3 alle Mitglieder des FSR,
+        2. bei einer Sitzung gemäß Punkt 2 die Finanzreferentin.
 
-4.  Findet die Sitzung gemäß §9 Abs. 5 FSSzg statt, so sind zusätzlich
+5.  Findet die Sitzung gemäß §9 Abs. 5 FSSzg statt, so sind zusätzlich
     einzuladen:
 
     \(1) bei einer Sitzung gemäß (1) der FSR,
 
     \(2) bei einer Sitzung gemäß (2) und (4) die gesamte FS
 
-5.  Antragssteller und Personen die zur Wahl stehen haben bei der
+6.  Antragssteller und Personen die zur Wahl stehen haben bei der
     Sitzung, in der der Antrag behandelt bzw. die Wahl durchgeführt
     wird, anwesend zu sein. In begründeten Fällen kann hiervon
     abgewichen werden. Die Sitzungsleitung hat in diesem Fall das Recht,
@@ -90,7 +100,7 @@ Ladungsfrist von mindestens sieben Kalendertagen liegen.
     des FSR-Vorsitzes und des Kassenprüfungsausschusses (KPA). Er kann
     bei Bedarf untergliedert werden und einzelne Berichte dürfen
     ausgelassen werden sofern sich keine Notwendigkeit besteht. Anfragen
-    können von allen Mitgliedern der Fachschaft nach §2 Abs. 1 FSSzg
+    können von allen Mitgliedern der Fachschaft nach §1 Abs. 1 FSSzg
     gestellt werden.
 
 3.  Im Punkt Anträge sind zunächst alle Anträge zu behandeln, die von
@@ -120,11 +130,14 @@ Ladungsfrist von mindestens sieben Kalendertagen liegen.
 
 2.  Zu Beginn der Sitzung wird die Sitzungsleitung festgestellt gemäß
     §9 Abs. 2.
+    
+3.  Auf Antrag eines Mitglieds ist die Beschlussfähigkeit erneut festzustellen. Dies ist ein
+    Geschäftsordnungsantrag nach §13 Abs. 4 Punkt 2.
 
-3.  Die Sitzungsleitung erklärt die Sitzung für eröffnet und prüft
+4.  Die Sitzungsleitung erklärt die Sitzung für eröffnet und prüft
     die Beschlussfähigkeit.
 
-4.  Die FSV ist bei Einhaltung der Ladungsfrist beschlussfähig,
+5.  Die FSV ist bei Einhaltung der Ladungsfrist beschlussfähig,
 
     \(1) wenn mindestens die Hälfte der Mitglieder der FSV anwesend sind,
 
@@ -132,10 +145,10 @@ Ladungsfrist von mindestens sieben Kalendertagen liegen.
         Beschlussfähigkeit gilt hierbei nur für die
         vertagten Tagesordnungspunkte.
 
-5.  Bei Beschlussunfähigkeit ist die Sitzung sofort zu schließen. Noch
+6.  Bei Beschlussunfähigkeit ist die Sitzung sofort zu schließen. Noch
     nicht behandelte Anträge gelten als vertagt.
 
-6.  Ist die Beschlussunfähigkeit nach §4 Abs. 4 (1) verursacht und
+7.  Ist die Beschlussunfähigkeit nach §4 Abs. 4 (1) verursacht und
     festgestellt, kann der Vorsitzende unter Einhaltung der Ladungsfrist
     zu einer neuen außerplanmäßigen Sitzung einladen. Bezüglich der
     durch die Beschlussunfähigkeit vertagten Anträge ist die FSV an
@@ -170,8 +183,8 @@ Ladungsfrist von mindestens sieben Kalendertagen liegen.
 ### § 7 Rede- und Antragsrecht
 
 
-1.  Rederecht haben alle Mitglieder der Fachschaft. Antragsrecht haben
-    Mitglieder der FSV sowie des FSR nach §12 Abs.1 FSSzg.
+1.  Rederecht haben alle Mitglieder der Fachschaft und Studierende der Lehramtsfächer
+    Physik. Antragsrecht haben Mitglieder der FSV sowie des FSR nach §18 Abs. 1 FSSzg.
 
 2.  Anderen Personen kann auf Antrag Rederecht eingeräumt werden.
 
@@ -187,14 +200,28 @@ Ladungsfrist von mindestens sieben Kalendertagen liegen.
     nicht übertragbar. Die Absitmmung erfolgt offen durch Handzeichen
     oder per Akklamation, soweit nichts anderes bestimmt ist.
 
-2.  Personalwahlen sind grundsätzlich geheim durchzuführen.
+2.  Für Personenwahlen werden von FSV-Mitgliedern zunächst Kandidatinnen nominiert. Gibt
+    es in einem Wahlgang nur eine Kandidatin so wird über sie mittels Ja, Nein und Enthaltung
+    Stimmen abgestimmt.  
+    Hat die Kandidatin im ersten Wahlgang nicht die erforderliche Mehrheit erreicht, so wird
+    die Wahl auf die kommende Sitzung verschoben und muss dort als eigener Tagesordnungspunkt
+    behandelt werden.  
+    Gibt es mehrere Kandidatinnen, so ist die Kandidatin im ersten Wahlgang gewählt, die
+    die einfache Mehrheit der Stimmen auf sich vereint oder 2/3 der Stimmen, wenn es sich
+    um die Wahl einer Nachfolge im Rahmen der Abberufung eines FSR-Vorstands oder der
+    Finanzreferentin nach §19 Abs 4 FSSzg handelt. Hat bei der Wahl von FSR-Mitgliedern
+    auch nach drei Wahlgängen keine der Kandidatinnen die erforderliche Mehrheit erreicht,
+    so wird die Wahl auf die kommende Sitzung verschoben und muss dort als eigener
+    Tagesordnungspunkt behandelt werden.  
+    Die einfache Mehrheit ist erreicht, wenn eine Kandidatin mehr als die Hälfte aller
+    abgegebenen Stimmen auf sich vereint. Die 2/3 Mehrheit ist erreicht, wenn eine Kandidatin mehr
+    als doppelt so viele Stimmen wie alle anderen zusammen auf sich vereint.  
+    Zwischen Wahlgängen können Kandidaturen von den Kandidatinnen oder den Personen,
+    die die Kandidatin vorgeschlagen haben, zurückgezogen werden.  
+    Die Öffnung der Liste der Kandidatinnen zwischen einzelnen Wahlgängen ist nur durch
+    eine Abstimmung der FSV mit einfacher Mehrheit möglich.
 
-3.  Sofern nicht anders bestimmt, ist für Beschlüsse die einfache
-    Mehrheit erforderlich. Die einfache Mehrheit ist erreicht, wenn die
-    Zahl der Ja-Stimmen die Zahl der Nein-Stimmen übersteigt. Bei
-    Stimmengleichheit kann über den Antrag abgestimmt werden. Sollte
-    wieder Stimmengleichheit herrschen ist der Antrag auf die nächste
-    Sitzung vertagt.
+3.  Personalwahlen sind grundsätzlich geheim durchzuführen.
 
 4.  Für eine Zweidrittelmehrheit sind mindestens zwei Drittel der
     Stimmen der satzungsgemäßen Mitglieder der FSV notwendig.
@@ -423,10 +450,10 @@ Ladungsfrist von mindestens sieben Kalendertagen liegen.
 
 
 
-# VI Arbeitskreise
+# VI Arbeitskreise und Ausschüsse
 
 
-### § 16 Arbeitskreise
+### § 16 Arbeitskreise und Ausschüsse
 
 
 1.  Über die Einrichtung von Arbeitskreisen entscheidet der FSR. Der FSR
@@ -436,6 +463,9 @@ Ladungsfrist von mindestens sieben Kalendertagen liegen.
 
 2.  Arbeitskreise, die auf Weisung der FSV zu Stande gekommen sind, sind
     der FSV berichtspflichtig.
+
+3.  Die FSV kann zum Behandeln spezifischer Themen Ausschüsse einrichten. Diese
+    Ausschüsse sind der FSV berichtspflichtig.
 
 
 
@@ -464,21 +494,12 @@ Ladungsfrist von mindestens sieben Kalendertagen liegen.
 ### § 18 Inkrafttreten und Gültigkeit
 
 
-1.  Diese Geschäftsordnung tritt am Tage ihrer Veröffentlichung im
-    Nachrichtenblatt der Studierendenschaft, AKUT, in Kraft.
+1.  Diese Geschäftsordnung tritt am Tag nach ihrer Veröffentlichung in den
+    Bekanntmachungen der Studierendenschaft in Kraft.
 
-2.  Diese Geschäftsordnung verliert ihre Gültigkeit an dem Tage, an dem
+2.  Die in Kraft getretene Geschäftsordnung ist der Fachschaft unverzüglich durch
+    ortsüblichen Aushang und an geeigneter Stelle im Internet zugänglich zu machen.
+
+3.  Diese Geschäftsordnung verliert ihre Gültigkeit an dem Tage, an dem
     eine neue, von der FSV in freier Entscheidung beschlossene
     Geschäftsordnung in Kraft tritt.
-
-### § 19 Salvatorische Klausel
-
-
-Sollte ein Teil dieser Ordnung gegen geltendes Recht verstoßen, so
-verliert nur dieser Teil seine Gültigkeit. Der Rest dieser Ordnung
-bleibt davon unberührt in Kraft.
-
-*Angefertigt auf Beschluss der FSV Physik/Astronomie Bonn, den 26.02.2016*
-
-Sonja Gehring  
-Vorsitzende des FSV

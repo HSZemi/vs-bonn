@@ -2,7 +2,7 @@
 title: Satzung der Fachschaft Jura der Rheinischen Friedrich-Wilhelms-Universität Bonn
 
 short: Satzung der Fachschaft Jura
-date:  28. August 2020
+date:  29. April 2022
 type:  Satzung
 id:    FSSatzungJura
 contains:
@@ -41,6 +41,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  28. August 2020
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2020/vsbonn_bekanntmachung_2020-23.pdf
+- title: Satzung der Fachschaft Jura der Rheinischen Friedrich – Wilhelms – Universität Bonn
+  short: Satzung der Fachschaft Jura
+  actorgan: Fachschaftsvertretung Fachschaft Jura
+  actdate:  30. März 2021
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  29. April 2022
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-27.pdf
 
 ---
 
@@ -49,18 +56,21 @@ contains:
 Als Teil der Studierendenschaft der Rheinischen Friedrich – Wilhelms –
 Universität Bonn und in Ausübung ihres Rechts auf Selbstverwaltung hat
 sich die Fachschaft Jura an der Rechts- und Staatswissenschaftlichen
-Fakultät die folgende Satzung gegeben.  
+Fakultät die folgende Satzung gegeben.
 In ihr wurden möglichst geschlechtsneutrale Formulierungen gewählt. Wo
 es aus sprachlichen Gründen nicht möglich war, wurde weiterhin die
 allgemeine Form verwendet. Diese umfasst selbstverständlich beide
 Geschlechter gleichermaßen.
 
-
 # A. Fachschaft
+
 
 ### § 1 Begriffsbestimmung und Rechtsstellung
 
-(1) Die Fachschaft Jura, nachfolgend bezeichnet als „Fachschaft“, bilden alle Studierenden, die in den der Fachschaft Jura zugeordneten Studienfächern im Hauptfach eingeschrieben sind. Die Zuordnung erfolgt gemäß der Anlage „Fachschaftenliste“ zur Geschäftsordnung der Fachschaftenkonferenz (FKGO) (vgl. § 22 SdS).
+(1) Die Fachschaft Jura, nachfolgend bezeichnet als „Fachschaft“, bilden alle
+Studierenden, die in den der Fachschaft Jura zugeordneten Studienfächern
+im Hauptfach eingeschrieben sind. Die Zuordnung erfolgt gemäß der Anlage
+„Fachschaftenliste“ zur Geschäftsordnung der Fachschaftenkonferenz (FKGO) (vgl. § 22 SdS).
 
 (2) Die Fachschaft nimmt alle sie betreffenden Aufgaben innerhalb der
 Studierendenschaft wahr und vertritt im Rahmen ihrer Möglichkeiten
@@ -86,9 +96,12 @@ Mitglieder der betreffenden Organe kommissarisch im Amt.
 ### § 3 Gemeinsame Aufgaben der Organe FSV und FSR
 
 (1) Die Organe FSV und FSR wirken an der fachlichen und
-organisatorischen Gestaltung des Studiums mit und vertreten die Studierenden ihrer Fachbereiche gegenüber der Professorenschaft, den Gremien der Universität und den übrigen Gremien der Studierendenschaft.
+organisatorischen Gestaltung des Studiums mit und vertreten die
+Studierenden ihrer Fachbereiche gegenüber der Professorenschaft, den
+Gremien der Universität und den übrigen Gremien der Studierendenschaft.
 
-(2) Die Organe FSV und FSR setzen sich auf Landes- und Bundesebene für Belange der rechtswissenschaftlichen Studierendenschaft ein.
+(2) Die Organe FSV und FSR setzen sich auf Landes- und Bundesebene für
+Belange der rechtswissenschaftlichen Studierendenschaft ein.
 
 
 # B. Die Organe der Fachschaft
@@ -101,7 +114,8 @@ organisatorischen Gestaltung des Studiums mit und vertreten die Studierenden ihr
 
 (2) Sie tritt mindestens dreimal im Semester zusammen. Für die
 Einladung zu einer FSV-Sitzung gilt die in Anlage 1 formulierte Form.
-Die Einladung durch unsignierte elektronische Form ist zulässig, solange sich nicht 15 % der FSV-Mitglieder dagegen aussprechen.
+Die Einladung durch unsignierte elektronische Form ist zulässig, solange
+sich nicht 15 % der FSV-Mitglieder dagegen aussprechen.
 
 (3) Die Mitglieder der FSV sind grundsätzlich verpflichtet, an den
 Sitzungen teilzunehmen, sofern sie nicht begründet entschuldigt sind.
@@ -115,9 +129,12 @@ wahren.
 (1) Die FSV wird jährlich von den Mitgliedern der Fachschaft in
 allgemeiner, direkter, freier, gleicher und geheimer Urnenwahl gewählt.
 
-(2) Die Wahl wird vom Wahlausschuss vorbereitet und durchgeführt. Der/Die Vorsitzende als WahlleiterIn und der/die StellvertreterIn werden von der FSV mit der Mehrheit ihrer satzungsmäßigen Mitglieder gewählt.
+(2) Die Wahl wird vom Wahlausschuss vorbereitet und durchgeführt.
+Der/Die Vorsitzende als WahlleiterIn und der/die StellvertreterIn werden
+von der FSV mit der Mehrheit ihrer satzungsmäßigen Mitglieder gewählt.
 
-(3) Der/Die WahlleiterIn beruft die konstituierende Sitzung der neu gewählten
+(3) Der/Die WahlleiterIn beruft die konstituierende Sitzung der neu
+gewählten
 FSV ein und leitet sie, bis ein/eine PräsidentIn gewählt ist.
 
 (4) Das Nähere bestimmt die Fachschaftenwahlordnung.
@@ -125,19 +142,25 @@ FSV ein und leitet sie, bis ein/eine PräsidentIn gewählt ist.
 
 ### § 6 Aufgaben und Zuständigkeit der FSV
 
-(1) Die FSV trifft alle Entscheidungen von grundlegender und gehobener Bedeutung für die Fachschaft, die über den regulären Geschäftsbetrieb des FSR hinausgehen.
+(1) Die FSV trifft alle Entscheidungen von grundlegender und gehobener
+Bedeutung für die Fachschaft, die über den regulären Geschäftsbetrieb des
+FSR hinausgehen.
 
 (2) Die FSV wählt den FSR.
 
 (3) Die FSV wählt mit der Mehrheit ihrer satzungsmäßigen Mitglieder
-drei KassenprüferInnen, die Mitglieder der Fachschaft sein müssen. § 7 Abs. 5 gilt entsprechend. Das Amt des Kassenprüfers ist unvereinbar mit der Mitgliedschaft im Präsidium der FSV und der Mitgliedschaft im FSR.
+drei KassenprüferInnen, die Mitglieder der Fachschaft sein müssen. § 7
+Abs. 5 gilt entsprechend. Das Amt des Kassenprüfers ist unvereinbar mit der
+Mitgliedschaft im Präsidium der FSV und der Mitgliedschaft im FSR.
 
 (4) Die FSV beschließt mit der Mehrheit ihrer satzungsmäßigen
 Mitglieder die politische und finanzielle Entlastung des FSR. Die
 finanzielle Entlastung kann nicht verweigert werden, wenn die
 Kassenprüfung keine Ungenauigkeiten ergibt.
 
-(5) Die Entlastung kann von einem Mitglied der FSV oder den KassenprüferInnen beantragt werden. Auf Antrag eines Mitglieds der FSV muss Einzelentlastung durchgeführt werden.
+(5) Die Entlastung kann von einem Mitglied der FSV oder den
+KassenprüferInnen beantragt werden. Auf Antrag eines Mitglieds der FSV
+muss Einzelentlastung durchgeführt werden.
 
 (6) Für die FSV gilt die Geschäftsordnung des Studierendenparlaments
 entsprechend, sofern sie sich keine eigene Geschäftsordnung gibt.
@@ -145,7 +168,8 @@ entsprechend, sofern sie sich keine eigene Geschäftsordnung gibt.
 
 ### § 7 Das Präsidium der FSV und seine Aufgaben
 
-(1) Das Präsidium besteht aus dem/der PräsidentIn, seinem/seiner StellvertreterIn und dem/der SchriftführerIn.
+(1) Das Präsidium besteht aus dem/der PräsidentIn, seinem/seiner
+StellvertreterIn und dem/der SchriftführerIn.
 
 (2) Alle Mitglieder des Präsidiums müssen FSV-Mitglieder sein und
 werden einzeln in geheimer Wahl in der konstituierenden Sitzung
@@ -154,26 +178,46 @@ gewählt.
 (3) Die Ämter des Präsidiums der FSV sind unvereinbar mit der
 Mitgliedschaft im FSR.
 
-(4) Ein Rücktritt vom Amt des/der FSR-Vorsitzenden während seiner/ihrer Amtszeit beendet jedenfalls dann zugleich seinen/ihren kommissarischen Status und lässt eine in derselben FSV-Sitzung erfolgende Wahl ins Präsidium der FSV zu, wenn in derselben Sitzung der/die NachfolgerIn in das Amt des/der FSR-Vorsitzenden gewählt wird.
+(4) Ein Rücktritt vom Amt des/der FSR-Vorsitzenden während seiner/ihrer
+Amtszeit beendet jedenfalls dann zugleich seinen/ihren kommissarischen
+Status und lässt eine in derselben FSV-Sitzung erfolgende Wahl ins
+Präsidium der FSV zu, wenn in derselben Sitzung der/die NachfolgerIn in
+das Amt des/der FSR-Vorsitzenden gewählt wird.
 
 (5) Zur Wahl des Präsidiums bedarf es der Mehrheit der satzungsgemäßen
-Mitglieder der FSV. Erhält im ersten Wahlgang kein Kandidat die notwendige Stimmenzahl, so findet unverzüglich ein zweiter Wahlgang, mit den KandidatInnen statt, die mindestens 5 Stimmen auf sich vereinen.
+Mitglieder der FSV. Erhält im ersten Wahlgang kein Kandidat die
+notwendige Stimmenzahl, so findet unverzüglich ein zweiter Wahlgang, mit
+den KandidatInnen statt, die mindestens 5 Stimmen auf sich vereinen.
 Erreicht auch in diesem Wahlgang kein/keine KandidatIn die notwendige
-Stimmenzahl, so gilt im dritten Wahlgang der/die KandidatIn als gewählt, der/die die einfache Mehrheit der Stimmen auf sich vereint. Sollte kein/keine KandidatIn im dritten Wahlgang die einfache Mehrheit auf sich vereinen, so ist binnen zwei Wochen durch den/die WahlleiterIn eine neue FSV-Sitzung einzuberufen.
+Stimmenzahl, so gilt im dritten Wahlgang der/die KandidatIn als gewählt,
+der/die die einfache Mehrheit der Stimmen auf sich vereint. Sollte kein/keine
+KandidatIn im dritten Wahlgang die einfache Mehrheit auf sich vereinen, so
+ist binnen zwei Wochen durch den/die WahlleiterIn eine neue FSV-Sitzung
+einzuberufen.
 Während einer Wahl mit mehreren Wahlgängen können neue KandidatInnen
 nur für die Wahlliste vorgeschlagen werden, wenn die Mehrheit der
 anwesenden Mitglieder einem Antrag auf Öffnung der Wahlliste
 zustimmt. Mitglieder des Präsidiums können nur mit der Mehrheit der
-Stimmen der FSV-Mitglieder durch die Wahl eines/einer NachfolgerIn abberufen werden.
+Stimmen der FSV-Mitglieder durch die Wahl eines/einer NachfolgerIn
+abberufen werden.
 
 (6) Der/Die SchriftführerIn ist für die Erstellung des Sitzungsprotokolls
-verantwortlich. Bei dessen/deren Abwesenheit kann der/die PräsidentIn einen/eine SchriftführerIn aus den anwesenden FSV-Mitgliedern bestimmen. Der/Die SchriftführerIn ist dafür verantwortlich, dass das Protokoll der FSV-Sitzung eine Woche nach der Sitzung ausgefertigt an den/die FSV-PräsidentIn weitergeleitet und von dem/der FSV-PräsidentIn jeweils zur nächsten FSV-Sitzung allen Mitgliedern ausgehändigt wird. Dem Protokoll ist eine Anwesenheitsliste der jeweiligen FSV-Sitzung beizufügen.
+verantwortlich. Bei dessen/deren Abwesenheit kann der/die PräsidentIn
+einen/eine SchriftführerIn aus den anwesenden FSV-Mitgliedern bestimmen.
+Der/Die SchriftführerIn ist dafür verantwortlich, dass das Protokoll der 
+FSV-Sitzung eine Woche nach der Sitzung ausgefertigt an den/die FSV-PräsidentIn
+weitergeleitet und von dem/der FSV-PräsidentIn jeweils zur
+nächsten FSV-Sitzung allen Mitgliedern ausgehändigt wird. Dem Protokoll
+ist eine Anwesenheitsliste der jeweiligen FSV-Sitzung beizufügen.
 
 (7) Über die Vollständigkeit und Richtigkeit des Protokolls wird in der
 darauffolgenden FSV-Sitzung mit der Mehrheit der anwesenden Mitglieder
-abgestimmt. Danach hat jedes FSV-Mitglied das Recht, eine Stellungnahme zum Protokoll abzugeben. Gleiches gilt für Fachschaftsmitglieder, die zu einem bestimmten Punkt das Wort erhoben haben.
+abgestimmt. Danach hat jedes FSV-Mitglied das Recht, eine Stellungnahme
+zum Protokoll abzugeben. Gleiches gilt für Fachschaftsmitglieder, die zu
+einem bestimmten Punkt das Wort erhoben haben.
 
-(8) Der/Die PräsidentIn der FSV führt ihre laufenden Geschäfte. Er/Sie beruft die FSV ein, wenn
+(8) Der/Die PräsidentIn der FSV führt ihre laufenden Geschäfte. Er/Sie
+beruft die FSV ein, wenn
 
 1. der/die FSR-Vorsitzende,
 2. die Mehrheit des FSR,
@@ -184,12 +228,19 @@ abgestimmt. Danach hat jedes FSV-Mitglied das Recht, eine Stellungnahme zum Prot
 dies unter Angabe von zu behandelnden Tagesordnungspunkten schriftlich
 verlangen.
 
-(9) Die Einladung muss 7 Tage vor der geplanten Sitzung an alle FSR und
-FSV-Mitglieder verschickt werden. Maßgeblich ist das Absendedatum der elektronischen Nachricht oder der Poststempel. Zu demselben Termin muss auch öffentlich eingeladen
+(9) In Fällen des § 15 IV wird das FSV-Präsidium als unabhängiges
+Gremium eingesetzt, um zu entscheiden, ob eine Pflichtverletzung im Sinne
+dessen vorliegt. §14 VI S. 2 ist anzuwenden.
+
+(10) Die Einladung muss 7 Tage vor der geplanten Sitzung an alle FSR und
+FSV-Mitglieder verschickt werden. Maßgeblich ist das Absendedatum der
+elektronischen Nachricht oder der Poststempel. Zu demselben Termin muss
+auch öffentlich eingeladen
 werden.
 
-(10) Tritt ein Mitglied des Präsidiums zurück, wählt die FSV unverzüglich
-den/die NachfolgerIn. Kann die Wahl nicht auf derselben Sitzung erfolgen, so führt das ausgeschiedene Mitglied sein Amt kommissarisch bis zur
+(11) Tritt ein Mitglied des Präsidiums zurück, wählt die FSV unverzüglich
+den/die NachfolgerIn. Kann die Wahl nicht auf derselben Sitzung erfolgen,
+so führt das ausgeschiedene Mitglied sein Amt kommissarisch bis zur
 Nachwahl weiter.
 
 
@@ -228,7 +279,7 @@ nachfolgenden Sitzung anwesend zu sein (Zitierrecht).
 2. er die einfache Mehrheit gefunden hat, soweit die Satzung
 nichts anderes vorschreibt.
 
-Die FSV gilt solange als beschlussfähig, bis auf Antrag eines FSV-Mitgliedes durch den/die PräsidentIn das Gegenteil festgestellt wird.
+Die FSV gilt solange als beschlussfähig, bis auf Antrag eines FSVMitgliedes durch den/die PräsidentIn das Gegenteil festgestellt wird.
 
 (5) Die Beschlussfähigkeit wird auf Antrag unverzüglich festgestellt. Sie
 ist gegeben, wenn mehr als die Hälfte der FSV-Mitglieder anwesend ist.
@@ -257,7 +308,8 @@ Die Regelungen über die FSV gelten auch in der vorlesungsfreien Zeit.
 
 ### § 11 Rechtsstellung des FSR
 
-Der FSR vertritt die Fachschaft und führt die laufenden Geschäfte der Fachschaft unter Leitung seines/seiner Vorsitzenden.
+Der FSR vertritt die Fachschaft und führt die laufenden Geschäfte der
+Fachschaft unter Leitung seines/seiner Vorsitzenden.
 
 
 ### § 12 Zusammensetzung des FSR
@@ -283,29 +335,39 @@ Stimme an den Sitzungen des FSR teil.
 3. auf Beschluss der FSV (§ 9 Abs. 4).
 
 Auf Zusammentritt des FSR soll in Form einer schriftlichen öffentlichen
-Ankündigung durch den/die Vorsitzende bzw. seine/n StellvertreterIn hingewiesenwerden.
+Ankündigung durch den/die Vorsitzende bzw. seine/n StellvertreterIn
+hingewiesenwerden.
 
 (4) Zu einzelnen Tagesordnungspunkten kann der FSR die Öffentlichkeit
-ausschließen. Über den Inhalt nichtöffentlicher Beratung ist Stillschweigen zu bewahren.
+ausschließen. Über den Inhalt nichtöffentlicher Beratung ist Stillschweigen
+zu bewahren.
 
 (5) Die Mitglieder des FSR sind grundsätzlich verpflichtet, an den
 Sitzungen teilzunehmen, sofern sie nicht begründet entschuldigt sind.
 
-(6) Über die Sitzungen des FSR ist Protokoll zu führen. Der FSR einigt sich einmal zu Beginn eines jeden Semesters auf einen/eine ProtokollantIn und einen/eine StellvertreterIn. Bei dessen/deren Abwesenheit gilt § 7 Abs. 6 entsprechend. Das Protokoll der letzten Sitzung wird zu Beginn der Sitzung vom FSR bestätigt.
+(6) Über die Sitzungen des FSR ist Protokoll zu führen. Der FSR einigt sich
+einmal zu Beginn eines jeden Semesters auf einen/eine ProtokollantIn und
+einen/eine StellvertreterIn. Bei dessen/deren Abwesenheit gilt § 7 Abs. 6
+entsprechend. Das Protokoll der letzten Sitzung wird zu Beginn der Sitzung
+vom FSR bestätigt.
 
 (7) Für den FSR gilt § 7 Abs. 7 entsprechend.
 
 
 ### § 13 FAK-Mitglieder
 
-Die FSV kann gemäß §27 Abs. 5 SdS bis zu 2 weitere FAK-Mitglieder pro zugeordneten Studiengang zusätzlich in den FSR wählen.
+Die FSV kann gemäß §27 Abs. 5 SdS bis zu 2 weitere FAK-Mitglieder pro
+zugeordneten Studiengang zusätzlich in den FSR wählen.
 
 
 ### § 14 Wahl des FSR
 
 (1) Der zu wählende FSR-Vorstand muss der FSV zum Zeitpunkt seiner
-Wahl angehören. Der/die Vorsitzende oder jeweils 15% der FSV-Mitglieder haben das Vorschlagsrecht für alle übrigen Mitglieder des FSR. Der/die Vorsitzende muss Rechtswissenschaften im Hauptfach studieren. Sonstige
-Mitglieder des FSR können allen, gemäß der Fachschaftenliste der Fachschaft zugeordneten, Studiengängen angehören.
+Wahl angehören. Der/die Vorsitzende oder jeweils 15% der FSV-Mitglieder
+haben das Vorschlagsrecht für alle übrigen Mitglieder des FSR. Der/die
+Vorsitzende muss Rechtswissenschaften im Hauptfach studieren. Sonstige
+Mitglieder des FSR können allen, gemäß der Fachschaftenliste der
+Fachschaft zugeordneten, Studiengängen angehören.
 
 (2) Die Mitgliedschaft im FSR ist unvereinbar mit Ämtern des
 Präsidiums der FSV. Ämter im geschäftsführenden Vorstand sind mit
@@ -318,22 +380,27 @@ gewählt.
 Vorstand werden, auf Verlangen einzeln, mit der Mehrheit der
 satzungsmäßigen Mitglieder der FSV gewählt (§ 7Abs. 5).
 
-(5) Die FSV kann den/die FSR-Vorsitzenden nur im Wege eines konstruktiven Misstrauensvotums abwählen. Mit der Beendigung der Amtszeit des/der FSR-Vorsitzenden endet die Amtszeit aller ReferentInnen.
+(5) Die FSV kann den/die FSR-Vorsitzenden nur im Wege eines
+konstruktiven Misstrauensvotums abwählen. Mit der Beendigung der
+Amtszeit des/der FSR-Vorsitzenden endet die Amtszeit aller ReferentInnen.
 
-(6) Nur der/die FSR-Vorsitzende hat das Recht, der FSV anzutragen, ReferentInnen zu entlassen. Die Abwahl von ReferentInnen erfolgt mit der
+(6) Nur der/die FSR-Vorsitzende hat das Recht, der FSV anzutragen,
+ReferentInnen zu entlassen. Die Abwahl von ReferentInnen erfolgt mit der
 Mehrheit der satzungsmäßigen Mitglieder der FSV.
 
 (7) FSR-Mitglieder können jederzeit zurücktreten. Sie sind jedoch
 verpflichtet, die Geschäfte bis zur Neubesetzung weiterzuführen. Tritt ein
 Mitglied des geschäftsführenden Vorstandes zurück, wählt die FSV
-unverzüglich einen/eine NachfolgerIn. Dazu muss gemäß § 7 Abs. 9 eingeladen werden.
+unverzüglich einen/eine NachfolgerIn. Dazu muss gemäß § 7 Abs. 9
+eingeladen werden.
 
 
 ### § 15 Aufgaben und Zuständigkeiten des FSR
 
 (1) Der/Die FSR-Vorsitzende bestimmt die Richtlinien der Arbeit des FSR
 und trägt dafür die Verantwortung. Innerhalb dieser Richtlinien ist jeder der
-ReferentInnen dem/der FSR-Vorsitzenden sowie der FSV für sein Aufgabengebiet Rechenschaft schuldig.
+ReferentInnen dem/der FSR-Vorsitzenden sowie der FSV für sein
+Aufgabengebiet Rechenschaft schuldig.
 
 (2) Der/Die FSR-Vorsitzende hat auf jeder FSV-Sitzung einen
 Bericht über den derzeitigen Stand der Fachschaftsarbeit zu halten.
@@ -342,14 +409,25 @@ Bericht über den derzeitigen Stand der Fachschaftsarbeit zu halten.
 Maßnahmen der FSV, des FSR oder der FSVV, sofern sie gegen geltendes
 Recht verstoßen, zu beanstanden.
 
+(4) Versäumt ein FSR-Mitglied eine ihm/ ihr gemäß § 3 Anlage 3 und 4 der
+Geschäftsordnung des FSR zugeordnete Pflicht mindestens drei Mal, so
+kann zusätzlich zu der Regelung aus § 14 VI S. 1 eine Fraktion aus drei
+FSR- oder FSV-Mitgliedern einen Antrag auf Entlassung eines FSRMitglieds einbringen.
+
 
 ### § 16 Arbeitskreise des FSR
 
-(1) Der/Die Vorsitzende oder die Mehrheit des FSR kann beschließen weitere Arbeitskreise (AKs) einzusetzen, die vorbereitend für die Arbeit der Referate tätig werden.
+(1) Der/Die Vorsitzende oder die Mehrheit des FSR kann beschließen
+weitere Arbeitskreise (AKs) einzusetzen, die vorbereitend für die Arbeit der
+Referate tätig werden.
 
-(2) Die Arbeitskreise müssen stets einem Referat zugeordnet sein. Das dem Arbeitskreis zugeordnete Referat stellt aus seinem Kreis (ReferentInnen und Beauftragte) ein Mitglied. Im Arbeitskreis können alle Mitglieder der Fachschaft mitarbeiten.
+(2) Die Arbeitskreise müssen stets einem Referat zugeordnet sein. Das dem
+Arbeitskreis zugeordnete Referat stellt aus seinem Kreis (ReferentInnen und
+Beauftragte) ein Mitglied. Im Arbeitskreis können alle Mitglieder der
+Fachschaft mitarbeiten.
 
-(3) Der Arbeitskreis wählt aus seiner Mitte einen/eine AK-LeiterIn. Der/Die AK-LeiterIn des Arbeitskreises hat dem/der ReferentIn zu berichten.
+(3) Der Arbeitskreis wählt aus seiner Mitte einen/eine AK-LeiterIn. Der/Die
+AK-LeiterIn des Arbeitskreises hat dem/der ReferentIn zu berichten.
 
 
 ## III. Die Fachschaftsvollversammlung (FSVV)
@@ -359,10 +437,10 @@ Recht verstoßen, zu beanstanden.
 Die FSVV, die aus allen wahlberechtigten Mitgliedern der Fachschaft Jura
 besteht, ist beschlussfassendes Organ der Fachschaft.
 
-
 ### § 18 Einberufung und Durchführung der FSVV
 
-(1) Der/Die Vorsitzende des FSR beruft durch öffentlichen Aushang die FSVV ein:
+(1) Der/Die Vorsitzende des FSR beruft durch öffentlichen Aushang die
+FSVV ein:
 
 1. Auf Beschluss der FSV
 2. Auf schriftlichen Antrag von mindestens sechs Mitgliedern der
@@ -387,9 +465,11 @@ VersammlungsleiterIn.
 
 (1) Die Entscheidungen der FSVV binden alle Organe der Fachschaft.
 
-(2) Die FSVV ist nur beschlussfähig, wenn mindestens 5% aller satzungsmäßigen Mitglieder der FSVV anwesend sind.
+(2) Die FSVV ist nur beschlussfähig, wenn mindestens 5% aller
+satzungsmäßigen Mitglieder der FSVV anwesend sind.
 
-(3) Beschlüsse der FSVV können nur durch eine weitere FSVV mit der entsprechenden Mehrheit aufgehoben werden.
+(3) Beschlüsse der FSVV können nur durch eine weitere FSVV mit der
+entsprechenden Mehrheit aufgehoben werden.
 
 
 # C. Haushalts- und Wirtschaftsführung
@@ -399,7 +479,9 @@ VersammlungsleiterIn.
 (1) Die Haushalts- und Wirtschaftsführung richtet sich nach den Vorgaben
 der Satzung der Studierendenschaft.
 
-(2) Dem/Der FinanzreferentIn obliegt die Finanzführung der Fachschaft. Er/Sie führt über alle Einnahmen und Ausgaben der Fachschaft ordnungsgemäß Buch.
+(2) Dem/Der FinanzreferentIn obliegt die Finanzführung der Fachschaft.
+Er/Sie führt über alle Einnahmen und Ausgaben der Fachschaft
+ordnungsgemäß Buch.
 
 (3) Der/Die FinanzreferentIn hat vor Beginn des Haushaltsjahres einen
 ausgeglichenen Haushaltsplan aufzustellen und diesen der FSV auf einer
@@ -417,21 +499,35 @@ dann zulässig, wenn sie unabweisbar sind. Sie sind der FSV unverzüglich
 anzuzeigen. Nachträge zum Haushaltsplan können nur für das laufende
 Haushaltsjahr eingebracht werden.
 
-(6) Die KassenprüferInnen der FSV führen eine Jahresabschlussprüfung durch. Unabhängig davon wird die Kasse von den KassenprüfernInnen mindestens einmal jährlich unangekündigt geprüft. Die Kassenprüfung dient dem Zweck festzustellen, ob insbesondere
+(6) Die KassenprüferInnen der FSV führen eine Jahresabschlussprüfung
+durch. Unabhängig davon wird die Kasse von den KassenprüfernInnen
+mindestens einmal jährlich unangekündigt geprüft. Die Kassenprüfung dient
+dem Zweck festzustellen, ob insbesondere
 
 1. der Kassen-Ist-Bestand mit dem Kassen-Soll-Bestand
 übereinstimmt und
 2. die Buchungen nach der Zeitfolge mit den Buchungen nach
 der im Haushaltsplan vorgesehenen Ordnung
 übereinstimmen.
+
 Über die Kassenprüfung ist Protokoll zu führen, in das die Kassen- und
 Kontobestände aufzunehmen sind.
 
-(7) Die KassenprüferInnen sind zur Verschwiegenheit verpflichtet und haben eine entsprechende Erklärung zu unterzeichnen.
-Die Ergebnisse ihrer Prüfungstätigkeit dürfen sie nur der FSV mitteilen. Außerhalb der FSV-Sitzung dürfen keine Auskünfte über die Kontoführung der Fachschaft Jura gegeben werden.
+(7) Die KassenprüferInnen sind zur Verschwiegenheit verpflichtet und
+haben eine entsprechende Erklärung zu unterzeichnen.
+Die Ergebnisse ihrer Prüfungstätigkeit dürfen sie nur der FSV mitteilen.
+Außerhalb der FSV-Sitzung dürfen keine Auskünfte über die Kontoführung
+der Fachschaft Jura gegeben werden.
 
 (8) Zur finanziellen Verpflichtung der Fachschaft sind die Unterschriften
-des/der FSR-Vorsitzenden und des/der FinanzreferentIn oder die Unterschrift des/der zuständigen ReferentIn nach Zustimmung des/der FSR-Vorsitzenden und des/der FinanzreferentIn erforderlich. Der FSR kann gegen die Stimmen des/der Fachschaftsvorsitzenden und des/der FinanzreferentIn keine finanziell erheblichen Vorhaben beschließen. Der FSR kann mit der Mehrheit der gewählten Mitglieder Ausgaben beschließen, sofern der/die FSR-Vorsitzende oder der/die FinanzreferentIn mit der Mehrheit stimmen.
+des/der FSR-Vorsitzenden und des/der FinanzreferentIn oder die
+Unterschrift des/der zuständigen ReferentIn nach Zustimmung des/der
+FSR-Vorsitzenden und des/der FinanzreferentIn erforderlich. Der FSR kann
+gegen die Stimmen des/der Fachschaftsvorsitzenden und des/der
+FinanzreferentIn keine finanziell erheblichen Vorhaben beschließen. Der
+FSR kann mit der Mehrheit der gewählten Mitglieder Ausgaben beschließen,
+sofern der/die FSR-Vorsitzende oder der/die FinanzreferentIn mit der
+Mehrheit stimmen.
 
 
 # D. Schlussbestimmungen
@@ -452,4 +548,7 @@ werden. In der Einladung müssen die zu ändernden Vorschriften
 ausdrücklich benannt werden. Dem Einladungsschreiben ist weiterhin der
 Wortlaut der beantragten Satzungsänderung beizufügen.
 
-(4) Die Satzung tritt mit ihrer Veröffentlichung durch den/die ÖffentlichkeitsbeauftragteN des Studierendenparlaments der Rheinischen Friedrichs-Wilhelms-Universität in Kraft. Diese ist unverzüglich der Fachschaft durch Aushang im Juridicum bekannt zu geben.
+(4) Die Satzung tritt mit ihrer Veröffentlichung durch den/die
+ÖffentlichkeitsbeauftragteN des Studierendenparlaments der Rheinischen
+Friedrichs-Wilhelms-Universität in Kraft. Diese ist unverzüglich der
+Fachschaft durch Aushang im Juridicum bekannt zu geben.

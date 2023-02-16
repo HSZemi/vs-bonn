@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Romanistik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Romanistik
-date:  7. November 2021
+date:  14. Januar 2022
 type:  Satzung
 id:    FSSatzungRomanistik
 contains:
@@ -26,6 +26,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  7. November 2021
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-54.pdf
+- title: Erste Satzungsänderung der Satzung der Fachschaft Romanistik
+  short: Erste Satzungsänderung der Satzung der Fachschaft Romanistik
+  actorgan: Fachschaftsvollversammlung Fachschaft Romanistik
+  actdate:  13. Januar 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  14. Januar 2022
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-02.pdf
 
 ---
 
@@ -68,6 +75,15 @@ Gehören der Fachschaft Romanistik weniger als 500 Mitglieder an, entfällt das 
 (4) Die Amtszeit der Mitglieder der gewählten Organe beträgt ein Jahr. Eine Wiederwahl der Mitglieder
 ist möglich. Bis zur Neuwahl der Nachfolgemitglieder bleiben die Mitglieder der betreffenden Organe
 kommissarisch im Amt.
+
+(5) Die Sitzungen aller Fachschaftsorgane dürfen auf begründeten
+Beschluss des jeweiligen Vorsitzes in elektronischer Kommunikation
+(Online-Sitzung) oder teilweise elektronischer Kommunikation
+(Hybrid-Sitzung) stattfinden. Auf digitalen Sitzungen und Hybrid-
+Sitzungen kann mithilfe elektronischer Hilfsmittel abgestimmt werden.
+Eine geheime Abstimmung ist nicht möglich. Wird auf einer solchen
+Sitzung eine geheime Abstimmung gefordert, so wird die Abstimmung
+auf eine folgende Präsenzsitzung verschoben.
 
 
 ### § 3 Gemeinsame Aufgaben der Organe FSV und FSR
@@ -459,8 +475,11 @@ und Ausgaben der Fachschaft ordnungsgemäß Buch.
 
 ### § 23 Haushaltsplan
 
-(1) Der:die Finanzreferent:in hat vor Beginn des Haushaltsjahres einen ausgeglichenen Haushaltsplan
-aufzustellen und diesen zur Abstimmung vorzulegen.
+(1) Der:die Finanzreferent:in hat vor Beginn des Haushaltsjahres einen
+ausgeglichenen Haushaltsplan aufzustellen und diesen zur
+Abstimmung vorzulegen. Das Haushaltsjahr der Fachschaft beginnt
+am 1. Oktober eines jeden Jahres und endet am 30. September des
+jeweiligen Folgejahres.
 
 (2) Anschaffungen und Ausgaben, die von den im Haushaltsplan unter einem flexiblen Titel, etwa „Sonstiges“,
 ausgewiesenen Geldern getätigt werden und die einen Höchstbetrag von 200 Euro überschreiten,
