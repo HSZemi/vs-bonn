@@ -703,7 +703,7 @@ nicht bereits durch die Wahlordnung erfolgt ist.
 
 (2) Bei der Ermittlung der auf jede Liste entfallenden Zahl der Sitze ist zunächst die Gesamtzahl der für jede Liste abgegebenen gültigen Stimmen festzustellen.
 
-(3) Die Sitzverteilung erfolgt nach dem in der Satzung festgelegten Verfahren. Entfallen dabei mehr Sitze auf eine Liste, als diese Kandidatinnen enthält, gilt § 27 Abs. 1 Satz 2 entsprechend.
+(3) Die Sitzverteilung erfolgt nach dem in der Satzung festgelegten Verfahren. Entfallen dabei mehr Sitze auf eine Liste, als diese Kandidatinnen enthält, gilt § 26 Abs. 1 Satz 2 entsprechend.
 
 (4) Innerhalb einer Listenverbindung werden die Sitze entsprechend der Zahl der auf jede Kandidatin abgegebenen Stimmen verteilt.
 
