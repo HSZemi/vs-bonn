@@ -28,6 +28,24 @@ contains:
   puborgan: AKUT
   pubdate:  1. Juli 2015
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2015/AK_Ex_%C3%84o-FKGO.pdf
+- title: Liste der Fachschaften der RFWU Bonn mit zugeordneten Studiengängen
+  short: Liste der Fachschaften der RFWU Bonn mit zugeordneten Studiengängen
+  actorgan: Fachschaftenkonferenz
+  actdate:
+  confirmorgan: Studierendenparlament
+  confirmdate:
+  puborgan: AKUT
+  pubdate: 2. Dezember 2015
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2015/AK_Ex_Fachschaftenliste.pdf
+- title: Liste der Fachschaften der RFWU Bonn mit zugeordneten Studiengängen
+  short: Liste der Fachschaften der RFWU Bonn mit zugeordneten Studiengängen
+  actorgan: Fachschaftenkonferenz
+  actdate: 26. Oktober 2015
+  confirmorgan: Studierendenparlament
+  confirmdate: 18. November 2015
+  puborgan: AKUT
+  pubdate: 14. Dezember 2015
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2015/AK_Ex_Fachschaftenliste_2.pdf
 - title:    Zweite Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich- Wilhelms- Universität Bonn [FKGO]
   short:    2\. Änderungsordnung der FKGO
   actorgan: Fachschaftenkonferenz
