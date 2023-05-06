@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms-Universität Bonn [FKGO]
 short: Geschäftsordnung der Fachschaftenkonferenz (FKGO)
-date:  31. Januar 2023
+date:  4. Mai 2023
 type:  Ordnung
 id:    FKGO
 contains:
@@ -179,6 +179,15 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  31. Januar 2023
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-05.pdf
+- title:    Zwölfte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz (FKGO)
+  short:    Zwölfte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz (FKGO)
+  actorgan: Fachschaftenkonferenz
+  actdate:  24. April 2023
+  confirmorgan: Studierendenparlament
+  confirmdate: 3. Mai 2023
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  4. Mai 2023
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-26.pdf
 
 ---
 
@@ -1142,6 +1151,24 @@ wurden.
 (3) Abweichend von § 26 Abs. 8 gelten Anträge auf AFSG, welche für das
 Wintersemester 2019/20 gestellt wurden, ab dem 01. Juni 2022 als nicht gestellt.
 
+(4) Nach Vereinbarung der Fachschaften „Griechische und Lateinische Philologie“ und
+„Romanistik“ wird zum Inkrafttreten der zwölften Ordnung zur Änderung der
+Geschäftsordnung der Fachschaftenkonferenz folgendes festgelegt:
+
+1. Die Fachschaft „Griechische und Lateinische Philologie“ wird aufgelöst.
+2. Die Fachschaft „Romanistik“ wird in Fachschaft „Klassische und Romanische
+Philologie“ umbenannt.
+3. Die Fachschaft „Klassische und Romanische Philologie“ (ehemals „Romanistik“)
+tritt die Rechtsnachfolge der ehemaligen Fachschaft „Griechische und
+Lateinische Philologie“ an. Das Eigentum und jegliche Verpflichtungen der
+ehemaligen Fachschaft „Griechische und Lateinische Philologie“ gehen auf die
+Fachschaft „Klassische und Romanische Philologie“ (ehemals „Romanistik“)
+über.
+4. Alle nicht vollständigen Anträge auf AFSG der ehemaligen Fachschaft
+„Griechische und Lateinische Philologie“ und alle nicht bewilligten Anträge auf
+BFSG der ehemaligen Fachschaft „Griechische und Lateinische Philologie“ gelten
+als nicht gestellt.
+
 ----
 
 
@@ -1515,7 +1542,7 @@ Evangelische Theologie
   * Ecumenical Studies (Master of Arts)
   * Evangelische Theologie und Hermeneutik (Bachelor of Arts)
   * Evangelische Theologie (Kirchl.Ex.)
-  * Evangelische Theologie (Magister Theologiae (ev.))
+  * Evangelische Theologie (Magister Theologiae)
   * Evangelische Theologie (Master of Arts)
   * Evangelische Theologie (Promotion)
   * Extended Ecumenical Studies (Master of Arts)
@@ -1583,20 +1610,6 @@ Geschichte
   * Slavery Studies (Master of Arts)
   * Verfassungs-, Sozial- und Wirtschaftsgeschichte (Promotion)
 
-Griechische und Lateinische Philologie
---------------------------------------
-  * Griechische Literatur der Antike und ihr Fortleben (Bachelor of Arts)
-  * Griechisch (LA BA Gym Ge)
-  * Griechisch (LA MA Gym Ge)
-  * Griechische und Lateinische Literatur der Antike und ihr Fortleben (Bachelor of Arts)
-  * Klassische Philologie/Griechisch (Promotion)
-  * Klassische Philologie/Latein (Promotion)
-  * Latein (LA BA Gym Ge)
-  * Latein (LA MA Gym Ge)
-  * Latein (Promotion)
-  * Lateinische Literatur der Antike und ihr Fortleben (Bachelor of Arts)
-  * Mittel- und Neulateinische Philologie (Promotion)
-
 Informatik
 ----------
   * Computational Life Sciences (Promotion)
@@ -1611,7 +1624,6 @@ Interkulturelle Kommunikation und Mehrsprachigkeitsforschung (IKM)
   * Sprache und Kommunikation in der globalisierten Mediengesellschaft (Bachelor of Arts)
   * Sprachliche Kommunikation (Bachelor of Arts)
   * Deutsch als Zweit- und Fremdsprache (Bachelor of Arts)
-  * Übersetzungswissenschaft (Promotion)
 
 Jura
 ----
@@ -1626,7 +1638,38 @@ Katholische Theologie
   * Katholische Theologie (Kirchl.Ex.)
   * Katholische Theologie (Promotion)
   * Katholische Theologie (Bachelor of Arts)
-  * Katholische Theologie (Magister Theologiae (kath.))
+  * Katholische Theologie (Magister Theologiae)
+
+Klassische und Romanische Philologie
+------------------------------------
+  * Deutsch-Italienische Studien (Bachelor of Arts)
+  * Deutsch-Italienische Studien (Master of Arts)
+  * Deutsch-Französische Studien (Bachelor of Arts)
+  * Deutsch-Französische Studien (Master of Arts)
+  * Französistik (Bachelor of Arts)
+  * Griechisch (LA BA Gym Ge)
+  * Griechisch (LA MA Gym Ge)
+  * Griechische Literatur der Antike und ihr Fortleben (Bachelor of Arts)
+  * Griechische und Lateinische Literatur der Antike und ihr Fortleben (Bachelor of Arts)
+  * Hispanistik (Bachelor of Arts)
+  * Italianistik (Bachelor of Arts)
+  * Klassische Philologie/Griechisch (Promotion)
+  * Klassische Philologie/Latein (Promotion)
+  * Latein (LA BA Gym Ge)
+  * Latein (LA MA Gym Ge)
+  * Latein (Promotion)
+  * Lateinische Literatur der Antike und ihr Fortleben (Bachelor of Arts)
+  * Mittel- und Neulateinische Philologie (Promotion)
+  * Renaissance-Studien (Master of Arts)
+  * Romanische Mediävistik (Promotion)
+  * Romanische Philologie, 2 Teilgebiete (Promotion)
+  * Romanische Philologie (Promotion)
+  * Romanistik (Bachelor of Arts)
+  * Romanistik (Master of Arts)
+  * Romanistik/Französische Philologie (Promotion)
+  * Romanistik/Iberoromanische Philologie (Promotion)
+  * Romanistik/Italienische Philologie (Promotion)
+  * Spanische Kultur und europäische Identität (Master of Arts)
 
 Kulturanthropologie
 -------------------
@@ -1646,24 +1689,29 @@ Lehramt
 -------
   * Agrarwissenschaft (LA BA Berufskolleg)
   * Agrarwissenschaft (LA MA Berufskolleg)
+  * Agrarwissenschaft (Lehramt Bachelor Berufskolleg ZF)
   * Bildungswissenschaften (LA BA Berufskolleg)
   * Bildungswissenschaften (LA BA Gym Ge)
   * Bildungswissenschaften (LA MA Berufskolleg)
   * Bildungswissenschaften (LA MA Gym Ge)
+  * Bildungswissenschaften (Lehramt Bachelor Berufskolleg ZF)
   * Biologie (LA BA Gym Ge)
   * Biologie (LA MA Gym Ge)
   * Chemie (LA BA Gym Ge)
   * Chemie (LA MA Gym Ge)
   * Deutsch (LA BA Gym Ge)
   * Deutsch (LA MA Gym Ge)
+  * Deutsch (Lehramt Bachelor Berufskolleg ZF)
   * Didaktik der deutschen Sprache und Literatur (Promotion)
   * Didaktik des Englischen (Promotion)
   * Didaktik der Geschichte (Promotion)
   * Didaktik der Naturwissenschaften (Promotion)
   * Englisch (LA BA Gym Ge)
   * Englisch (LA MA Gym Ge)
+  * Englisch (Lehramt Bachelor Berufskolleg ZF)
   * Ernährungs- und Hauswirtschaftswissenschaft (LA BA Berufskolleg)
   * Ernährungs- und Hauswirtschaftswissenschaft (LA MA Berufskolleg)
+  * Ernährungs- und Hauswirtschaftswissenschaft (Lehramt Bachelor Berufskolleg ZF)
   * Evangelische Religionslehre (LA MA Gym Ge)
   * Evangelische Religionslehre (LA BA Gym Ge)
   * Französisch (LA BA Gym Ge)
@@ -1684,20 +1732,25 @@ Lehramt
   * Markt und Konsum (LA MA Berufskolleg)
   * Mathematik (LA BA Gym Ge)
   * Mathematik (LA MA Gym Ge)
+  * Mathematik (Lehramt Bachelor Berufskolleg ZF)
   * Pflanzenwissenschaften (Pflanzenbau) (LA BA Berufskolleg)
   * Pflanzenwissenschaften (Pflanzenbau) (LA MA Berufskolleg)
   * Philosophie/Praktische Philosophie (LA BA Gym Ge)
   * Philosophie (LA MA Gym Ge)
   * Physik (LA BA Gym Ge)
   * Physik (LA MA Gym Ge)
+  * Physik (Lehramt Bachelor Berufskolleg ZF)
+  * Praktische Philosophie (Lehramt Bachelor Berufskolleg ZF)
   * Wirtschaft-Politik/Sozialwissenschaften (LA BA Gym Ge)
   * Sozialwissenschaften (LA MA Gym Ge)
   * Spanisch (LA BA Gym Ge)
   * Spanisch (LA MA Gym Ge)
+  * Spanisch (Lehramt Bachelor Berufskolleg ZF)
   * Tierwissenschaften (Tierhaltung) (LA BA Berufskolleg)
   * Tierwissenschaften (Tierhaltung) (LA MA Berufskolleg)
   * Wirtschafts- und Sozialwissenschaften des Landbaus (LA BA Berufskolleg)
   * Wirtschafts- und Sozialwissenschaften des Landbaus (LA MA Berufskolleg)
+  * Wirtschaftslehre/ Politik (Lehramt Bachelor Berufskolleg ZF)
 
 Mathematik
 ----------
@@ -1803,6 +1856,7 @@ OrientAsia
   * Tibetologie (Promotion)
   * Transnational European and East Asian Culture and History (Master of Arts)
   * Türkisch (Bachelor of Arts)
+  * Übersetzungswissenschaft (Promotion)
   * Vergleichende Religionswissenschaft (Bachelor of Arts)
   * Vergleichende Religionswissenschaft (Promotion)
   * Vietnamesisch (Bachelor of Arts)
@@ -1810,7 +1864,7 @@ OrientAsia
 Pharmazie
 ---------
   * Arzneimittelforschung (Drug Research) (Master of Science)
-  * Arzneimitteltherapiesicherheit (Master of Science)
+  * Arzneimitteltherapiesicherheit (Master)
   * Arzneimittelwissenschaften (Promotion)
   * Drug Regulatory Affairs (Master)
   * Pharmazie (Promotion)
@@ -1849,28 +1903,8 @@ Psychologie
   * Psychologie (Master of Science)
   * Psychologie (Promotion)
   * Rechtspsychologie (Master)
+  * Rechtspsychologie: Schwerpunkt Begutachtung im Straf- und Zivilverfahren (Master)
   * Rechtspsychologie: Schwerpunkt Psychologie im Straf- und Maßregelvollzug (Master)
-  * Rechtspsychologie: Schwerpunkt Psychologie im Straf- und Zivilverfahren (Master)
-
-Romanistik
-----------
-  * Deutsch-Italienische Studien (Bachelor of Arts)
-  * Deutsch-Italienische Studien (Master of Arts)
-  * Deutsch-Französische Studien (Bachelor of Arts)
-  * Deutsch-Französische Studien (Master of Arts)
-  * Französistik (Bachelor of Arts)
-  * Hispanistik (Bachelor of Arts)
-  * Italianistik (Bachelor of Arts)
-  * Renaissance-Studien (Master of Arts)
-  * Romanische Mediävistik (Promotion)
-  * Romanische Philologie, 2 Teilgebiete (Promotion)
-  * Romanische Philologie (Promotion)
-  * Romanistik (Bachelor of Arts)
-  * Romanistik (Master of Arts)
-  * Romanistik/Französische Philologie (Promotion)
-  * Romanistik/Iberoromanische Philologie (Promotion)
-  * Romanistik/Italienische Philologie (Promotion)
-  * Spanische Kultur und europäische Identität (Master of Arts)
 
 VWL
 ---
