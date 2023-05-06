@@ -109,7 +109,7 @@ enthalten soll.
 
 (2) Das Protokoll besteht aus einem öffentlichen und eventuell einem fachschaftsöffentlichen Teil.
 Nach Abhandlung eines Tagesordnungspunkts wird festgestellt, ob ein Teil des Tagesordnungspunkt
-dem öffentlichen öder dem fachschaftsöffentlichen Teil zuzuordnen ist. Wenn ein Teil eines Tagesordnungspunkt
+dem öffentlichen oder dem fachschaftsöffentlichen Teil zuzuordnen ist. Wenn ein Teil eines Tagesordnungspunkt
 fachschaftsöffentlich behandelt werden soll, soll dies vorher angekündigt werden.
 
 (3) Angenommene Anträge werden im öffentlichen Teil protokolliert.
