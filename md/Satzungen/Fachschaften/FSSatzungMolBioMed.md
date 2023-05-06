@@ -1,7 +1,7 @@
 ---
-title: Satzung der Fachschaft Molekulare Biomedizin der Rheinischen Friedrich-Wilhelms-Universität Bonn
+title: Satzung der Fachschaft Molekulare Biomedizin
 short: Satzung der Fachschaft Molekulare Biomedizin
-date:  29. März 2022
+date:  24. April 2023
 type:  Satzung
 id:    FSSatzungMolBioMed
 contains:
@@ -33,30 +33,33 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  29. März 2022
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-23.pdf
+- title: Satzung der Fachschaft Molekulare Biomedizin
+  short: Satzung der Fachschaft Molekulare Biomedizin
+  actorgan: Fachschaftsvollversammlung Fachschaft Molekulare Biomedizin
+  actdate:  18. April 2023
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  24. April 2023
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-25.pdf
 
 ---
 
-# Präambel
 
-Diese Satzung, 
-beschlossen durch die Fachschaftsvollversammlung der Fachschaft Molekulare Biomedizin vom 14. Mai 2018, 
-zuletzt geändert durch die Erste Änderungssatzung vom 05.04.2019 
-und die Zweite Änderungssatzung vom 08.02.2022 der Satzung der Fachschaft Molekulare Biomedizin, 
-beschlossen durch die Fachschaftsvollversammlung, 
-regelt die Rechte und Pflichten der selbstverwalteten Organe der Fachschaft Molekulare Biomedizin der Rheinischen Friedrich-Wilhelms-Universität Bonn.
+# Präambel
+Diese Satzung, beschlossen durch die Fachschaftsvollversammlung der Fachschaft Molekulare Biomedizin vom 14. Mai 2018, 
+zuletzt geändert durch die Dritte Änderungssatzung vom 18.04.2023 der Fachschaft Molekulare
+Biomedizin, beschlossen durch die Fachschaftsvollversammlung, regelt die Rechte und Pflichten der selbstverwalteten
+Organe der Fachschaft Molekulare Biomedizin der Rheinischen Friedrich-Wilhelms-Universität Bonn.
+
 
 ## I. Fachschaft
-
 
 ### § 1 Begriffsbestimmung und Rechtsstellung
 
 (1) Alle Studierenden, die in den folgenden Studienfächern im Hauptfach an der Rheinischen Friedrich- Wilhelms
 Universität (RFWU) Bonn eingeschrieben sind, werden nachfolgend als Fachschaft bezeichnet:
-
 * Biochemistry (Master of Science)
 * Immunobiology: from molecules to integrative systems (Master of Science)
 * Life and Medical Sciences (Master of Science)
-* Medical Immunosciences and Infection (Master of Science)
 * Molekulare Biomedizin (Bachelor of Science)
 * Molekulare Biomedizin (Promotion)
 
@@ -105,7 +108,8 @@ Geschäftsbetrieb des FSR hinausgehen.
 ### § 5 Zusammensetzung und Zusammentritt der FSV
 
 (1) Die Mitgliederanzahl richtet sich nach § 27 I SdS. Bei Fachschaften mit bis zu 1000 Mitgliedern sind dies
-11 , bei 1001-2000 sind dies 15, bei über 2000 Mitgliedern sind dies 19.
+11, bei 1001-2000 sind dies 15, bei über 2000 Mitgliedern sind dies 19. Bei Unterschreitung der Pflichtgrenze
+von 500 Mitgliedern, soll eine FSV mit 7 Mitgliedern gewählt werden (konform mit §23 I der SdS).
 
 (2) Sie tritt mindestens dreimal im Semester zusammen. Für die Einladung zu einer FSV-Sitzung gilt die
 Schriftform. Die Einladung durch unsignierte elektronische Form (E-Mail) ist gegen den ausgesprochenen
@@ -302,6 +306,7 @@ sofern der Vorsitzende und der Finanzreferent des FSR mit der Mehrheit stimmen.
 
 Die Regelungen über die FSV gelten auch in der vorlesungsfreien Zeit.
 
+
 ## III. Der Fachschaftsrat (FSR)
 
 ### § 14 Rechtsstellung des FSR
@@ -319,7 +324,6 @@ Personen durch die FSV in den FSR gewählt werden, die durch den FA dieses Fachs
 1. dem Vorsitzenden,
 2. dem stellvertretenden Vorsitzenden,
 3. und dem Finanzreferenten
-
 als geschäftsführendem Vorstand, sowie sechs weiteren regulären Mitgliedern, die Studienfachvertreter nicht
 eingeschlossen.
 
@@ -460,6 +464,7 @@ Referenten für die folgenden Aufgabengebiete zu wählen:
 ### § 20 Vorlesungsfreie Zeit
 
 Die Regelungen über den FSR gelten auch in der vorlesungsfreien Zeit.
+
 
 ## IV. Die Fachschaftsvollversammlung (FSVV)
 
@@ -604,7 +609,8 @@ Falle des Stimmengleichstandes wird durch den Versammlungsleiter öffentlich gel
 dient die FSV als schlichtendes Organ.
 
 (2) Die von der SfVV gewählten Mitglieder für den FA werden von dem Versammlungsleiter umgehend dem
-FSR-Vorsitzenden mitgeteilt. Der FA ist spätestens einen Monat nach seiner Wahl auf Einladung des SfVVLeiters zu konstituieren.
+FSR-Vorsitzenden mitgeteilt. Der FA ist spätestens einen Monat nach seiner Wahl auf Einladung des SfVV-Leiters zu
+konstituieren.
 
 (3) Die Mitgliedschaft im FA ist unvereinbar mit Ämtern des Präsidiums der FSV und dem Amt des Finanzreferenten
 des geschäftsführenden Vorstandes des FSR. Ämter im amtierenden FA sind mit Ämtern des
