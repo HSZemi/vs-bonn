@@ -28,6 +28,7 @@ contains:
   puborgan: AKUT
   pubdate:  1. Juli 2015
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2015/AK_Ex_%C3%84o-FKGO.pdf
+  ref: 577cfba8d2fc73e01b98f0d818078785ce80cc76/md/Ordnungen/FKGO.md
 - title: Liste der Fachschaften der RFWU Bonn mit zugeordneten Studiengängen
   short: Liste der Fachschaften der RFWU Bonn mit zugeordneten Studiengängen
   actorgan: Fachschaftenkonferenz
@@ -55,6 +56,7 @@ contains:
   puborgan: AKUT
   pubdate:  16. November 2016
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut_extra_2016-15.pdf
+  ref: 3a46d4bcc9e86e64e55136a9a956f58d773e56df/md/Ordnungen/FKGO.md
 - title:    Liste der Fachschaften der RFWU Bonn mit zugeordneten Studiengängen
   short:    Anlage "Fachschaftenliste" zur FKGO
   actorgan: Fachschaftenkonferenz
@@ -64,6 +66,7 @@ contains:
   puborgan: AKUT
   pubdate:  14. Februar 2017
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2017/akut_extra_2017-4.pdf
+  ref: 64151d6e98ae27b043bd87bc2d9c254bd1fe097f/md/Ordnungen/FKGO.md
 - title:    Liste der Fachschaften der RFWU Bonn mit zugeordneten Studiengängen
   short:    Anlage "Fachschaftenliste" zur FKGO
   actorgan: Fachschaftenkonferenz
@@ -73,6 +76,7 @@ contains:
   puborgan: AKUT
   pubdate:  13. November 2018
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2018/akut_extra_2018-11.pdf
+  ref: a610542b85943dcd9c25d0ccec3d0dcc2e93711a/md/Ordnungen/FKGO.md
 - title:    Liste der Fachschaften der RFWU Bonn mit zugeordneten Studiengängen
   short:    Anlage "Fachschaftenliste" zur FKGO
   actorgan: Fachschaftenkonferenz
@@ -82,6 +86,7 @@ contains:
   puborgan: AKUT
   pubdate:  29. April 2020
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2020/akut_extra_2020-5.pdf
+  ref: 59f55a12f9350c03ff151a3c52dd71522ba96030/md/Ordnungen/FKGO.md
 - title:    Geschäftsordnung der Fachschaftenkonferenz (FKGO)
   short:    Geschäftsordnung der Fachschaftenkonferenz (FKGO)
   actorgan: Fachschaftenkonferenz
@@ -89,6 +94,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  18. Juni 2020
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2020/vsbonn_bekanntmachung_2020-12.pdf
+  ref: 0d6391a51fbd8543d1058e53c3431185815e2e53/md/Ordnungen/FKGO.md
 - title:    Erste Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   short:    Erste Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   actorgan: Fachschaftenkonferenz
@@ -96,6 +102,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  17. November 2020
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2020/vsbonn_bekanntmachung_2020-33.pdf
+  ref: 3a99f9059483e1904fca58aa1c85eaf47f9b3bac/md/Ordnungen/FKGO.md
 - title:    Zweite Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   short:    Zweite Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   actorgan: Fachschaftenkonferenz
@@ -103,6 +110,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  4. März 2021
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-15.pdf
+  ref: 65a18334d3346c281b6e97514d1e0f9a57a98574/md/Ordnungen/FKGO.md
 - title:    Liste der Fachschaften der RFWU Bonn mit zugeordneten Studiengängen
   short:    Liste der Fachschaften der RFWU Bonn mit zugeordneten Studiengängen
   actorgan: Fachschaftenkonferenz
@@ -112,6 +120,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  9. Mai 2021
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-21.pdf
+  ref: 1bc278f1ba87b1deb11fdf2a55ea12e6ee98dbf0/md/Ordnungen/FKGO.md
 - title:    Dritte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   short:    Dritte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   actorgan: Fachschaftenkonferenz
@@ -119,6 +128,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  19. Juli 2021
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-42.pdf
+  ref: d6806c200f7ef71484a3dc27bc8131039f9fdfe5/md/Ordnungen/FKGO.md
 - title:    Vierte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   short:    Vierte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   actorgan: Fachschaftenkonferenz
@@ -126,6 +136,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  2. Oktober 2021
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-52.pdf
+  ref: 773dbf8b3b347131ef9f63e8f859c78417eb25da/md/Ordnungen/FKGO.md
 - title:    Fünfte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   short:    Fünfte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   actorgan: Fachschaftenkonferenz
@@ -133,6 +144,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  17. November 2021
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-62.pdf
+  ref: 164283b33a9b0a273b4618854d6c00d9e3e20ce2/md/Ordnungen/FKGO.md
 - title:    Sechste Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   short:    Sechste Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   actorgan: Fachschaftenkonferenz
@@ -140,6 +152,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  21. Januar 2022
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-05.pdf
+  ref: 05cd136f15b899d65a936ef35eb7cf9ec784ce58/md/Ordnungen/FKGO.md
 - title:    Siebte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   short:    Siebte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   actorgan: Fachschaftenkonferenz
@@ -147,6 +160,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  15. März 2022
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-21.pdf
+  ref: a6826cd0677caacf1740c94eeb24c6d789d27a8a/md/Ordnungen/FKGO.md
 - title:    Achte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   short:    Achte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   actorgan: Fachschaftenkonferenz
@@ -156,6 +170,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  21. April 2022
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-26.pdf
+  ref: fb0f61ef061400b74b084992151aa2e8196434a9/md/Ordnungen/FKGO.md
 - title:    Neunte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   short:    Neunte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   actorgan: Fachschaftenkonferenz
@@ -163,6 +178,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  26. Juni 2022
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-48.pdf
+  ref: b6f657e06c296385d4dbeed57da4848258fd1977/md/Ordnungen/FKGO.md
 - title:    Zehnte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   short:    Zehnte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   actorgan: Fachschaftenkonferenz
@@ -172,6 +188,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  24. Oktober 2022
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-65.pdf
+  ref: cb067cf87806f124f1fc5ca05cd8bba4d929430e/md/Ordnungen/FKGO.md
 - title:    Elfte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   short:    Elfte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
   actorgan: Fachschaftenkonferenz
@@ -179,6 +196,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  31. Januar 2023
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-05.pdf
+  ref: 0a4aa446761ea9d632b850ce83042f35f1bd24df/md/Ordnungen/FKGO.md
 - title:    Zwölfte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz (FKGO)
   short:    Zwölfte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz (FKGO)
   actorgan: Fachschaftenkonferenz
@@ -188,6 +206,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  4. Mai 2023
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-26.pdf
+  ref: 0d3b3b01058103786d8b01f43799e49de8923715/md/Ordnungen/FKGO.md
 
 ---
 

@@ -158,7 +158,12 @@ function containsBox(contains)
     table.insert(buffer, "<tr><td>Publikationsdatum</td>")
     table.insert(buffer, "<td>"..source.pubdate.."</td></tr>")
     table.insert(buffer, "<tr><td>URL</td>")
-    table.insert(buffer, "<td><a href='"..source.puburl.."'>"..source.puburl.."</a></td></tr>")
+    local urlLine = "<td><a href='"..source.puburl.."'>"..source.puburl.."</a>"
+    if source.ref then
+      urlLine = urlLine.." (<a href='https://github.com/HSZemi/vs-bonn/blob/"..source.ref.."'>Lesefassung</a>)"
+    end
+    urlLine = urlLine.."</td></tr>"
+    table.insert(buffer, urlLine)
     table.insert(buffer, "</table>")
   end
   table.insert(buffer, "</div>")
