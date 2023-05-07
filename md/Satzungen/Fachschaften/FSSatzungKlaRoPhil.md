@@ -1,9 +1,9 @@
 ---
-title: Satzung der Fachschaft Romanistik der Rheinischen Friedrich-Wilhelms-Universität Bonn
-short: Satzung der Fachschaft Romanistik
+title: Satzung der Fachschaft Klassische und Romanische Philologie der Rheinischen Friedrich-Wilhelms-Universität Bonn
+short: Satzung der Fachschaft Klassische und Romanische Philologie
 date:  14. Januar 2022
 type:  Satzung
-id:    FSSatzungRomanistik
+id:    FSSatzungKlaRoPhil
 contains:
 - title: Satzung der Fachschaft Romanistik der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Satzung der Fachschaft Romanistik
@@ -12,6 +12,7 @@ contains:
   puborgan: AKUT
   pubdate:  17. Januar 2014
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2014/akut-EXTRA-_Fachschaftssatzung-Romanistik.pdf
+  ref: 577cfba8d2fc73e01b98f0d818078785ce80cc76/md/Satzungen/Fachschaften/FSSatzungRomanistik.md
 - title: Erste Änderungssatzung der Satzung der Fachschaft Romanistik der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Erste Änderungssatzung der Satzung der Fachschaft Romanistik
   actorgan: Fachschaftsvertretung Fachschaft Romanistik
@@ -19,6 +20,7 @@ contains:
   puborgan: AKUT
   pubdate:  12. Mai 2016
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut-extra__Erste-%C3%84nderungssatzung-der-Satzung-der-Fachschaft-Romanistik-der-Rheinischen-Friedrich-Wilhelms-Universit%C3%A4t-Bonn.pdf
+  ref: e6aab02848de59a485722d58bc986a8ab7f69411/md/Satzungen/Fachschaften/FSSatzungRomanistik.md
 - title: Satzung der Fachschaft Romanistik
   short: Satzung der Fachschaft Romanistik
   actorgan: Fachschaftsvollversammlung Fachschaft Romanistik
@@ -26,6 +28,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  7. November 2021
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-54.pdf
+  ref: c16eae4b72bdc63f19d09356113d215d0e324e66/md/Satzungen/Fachschaften/FSSatzungRomanistik.md
 - title: Erste Satzungsänderung der Satzung der Fachschaft Romanistik
   short: Erste Satzungsänderung der Satzung der Fachschaft Romanistik
   actorgan: Fachschaftsvollversammlung Fachschaft Romanistik
@@ -33,6 +36,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  14. Januar 2022
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-02.pdf
+  ref: 2d56c0a315c8375c2e1b125c7da2737ca8411388/md/Satzungen/Fachschaften/FSSatzungRomanistik.md
 
 ---
 
