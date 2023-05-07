@@ -12,6 +12,7 @@ contains:
   pubdate:  13. Mai 2015
   puborgan: AKUT
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2015/AKUT-Extra_GO-SPa__13-05-15.pdf
+  ref: 577cfba8d2fc73e01b98f0d818078785ce80cc76/md/Ordnungen/GOSP.md
 - title: Geschäftsordnung des Bonner Studierendenparlaments (GO-SP)
   short: Geschäftsordnung des Bonner Studierendenparlaments (GO-SP)
   actdate:  27. September 2017
@@ -19,6 +20,7 @@ contains:
   pubdate:  18. Februar 2018
   puborgan: AKUT
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2018/akut_extra_2018-3.pdf
+  ref: 08a715a412cbef04d983ef44d2ff0627456f031f/md/Ordnungen/GOSP.md
 - title: Geschäftsordnung des Bonner Studierendenparlaments
   short: Geschäftsordnung des Bonner Studierendenparlaments
   actdate:  12. Dezember 2018
@@ -26,6 +28,7 @@ contains:
   pubdate:  16. Dezember 2018
   puborgan: AKUT
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2018/akut_extra_2018-17.pdf
+  ref: 5f4f4db75a0a3d34a5dfecf49be129c81dfeeeae/md/Ordnungen/GOSP.md
 - title: Geschäftsordnung des Bonner Studierendenparlaments
   short: Geschäftsordnung des Bonner Studierendenparlaments
   actdate:  20. November 2019
@@ -33,6 +36,7 @@ contains:
   pubdate:  29. April 2020
   puborgan: AKUT
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2020/akut_extra_2020-4.pdf
+  ref: 52a12bedf98516f351420c39a25b91e978739f94/md/Ordnungen/GOSP.md
 - title: Änderungsordnung zur Änderung der Geschäftsordnung des Studierendenparlaments
   short: Änderungsordnung zur Änderung der Geschäftsordnung des Studierendenparlaments
   actdate:  5. Oktober 2020
@@ -40,6 +44,7 @@ contains:
   pubdate:  25. Oktober 2020
   puborgan: Öffentlichkeitsbeauftragte
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2020/vsbonn_bekanntmachung_2020-30.pdf
+  ref: 9eb3490deb4dd05f699ceb6b99d823abf30367b9/md/Ordnungen/GOSP.md
 - title: Änderungsordnung zur Änderung der Geschäftsordnung des Studierendenparlaments
   short: Änderungsordnung zur Änderung der Geschäftsordnung des Studierendenparlaments
   actdate:  17. Dezember 2020
@@ -47,6 +52,7 @@ contains:
   pubdate:  25. Januar 2021
   puborgan: Öffentlichkeitsbeauftragte
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-05.pdf
+  ref: d107d3aa38534075b462fb24dba4cebdcaf4b2f1/md/Ordnungen/GOSP.md
 - title: Erste Ordnung zur Änderung der Geschäftsordnung des Bonner Studierendenparlaments durch das 43. Bonner Studierendenparlament
   short: Erste Ordnung zur Änderung der Geschäftsordnung des Bonner Studierendenparlaments durch das 43. Bonner Studierendenparlament
   actdate:  24. November 2021
@@ -54,6 +60,7 @@ contains:
   pubdate:  21. Juni 2022
   puborgan: Öffentlichkeitsbeauftragte
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-45.pdf
+  ref: c6913e82ddb96376969e91eb48ac42affbbf4f08/md/Ordnungen/GOSP.md
 - title: Zweite Ordnung zur Änderung der Geschäftsordnung des Bonner Studierendenparlaments durch das 43. Bonner Studierendenparlament
   short: Zweite Ordnung zur Änderung der Geschäftsordnung des Bonner Studierendenparlaments durch das 43. Bonner Studierendenparlament
   actdate:  10. Januar 2022
@@ -61,6 +68,7 @@ contains:
   pubdate:  21. Juni 2022
   puborgan: Öffentlichkeitsbeauftragte
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-46.pdf
+  ref: 3713a3945305eb2587fee7263972a749353afa13/md/Ordnungen/GOSP.md
 
 ---
 

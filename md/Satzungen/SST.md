@@ -12,6 +12,7 @@ contains:
   puborgan: AKUT
   pubdate:  30. Mai 2016
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut-extra__RLST.pdf
+  ref: b43767fbf9fb06bbcdc37a365e7923fe0d322fe5/md/Sonstige/Semesterticketrichtlinie.md
 - title: Richtlinie für die Arbeit des Ausschusses für das Semesterticket des Studierendenparlamentes an der RFWU Bonn – Semesterticket - Richtlinie (RLST)
   short: Semesterticket-Richtlinie (RLST)
   actorgan: Studierendenparlament
@@ -19,6 +20,7 @@ contains:
   puborgan: AKUT
   pubdate:  4. Oktober 2016
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut-extra__RLST.pdf
+  ref: b0b4a7199984c777616a2af5f1fcab06ad385d27/md/Sonstige/Semesterticketrichtlinie.md
 - title: Richtlinie für die Arbeit des Ausschusses für das Semesterticket des Studierendenparlamentes an der RFWU Bonn – Semesterticket - Richtlinie (RLST)
   short: Semesterticket-Richtlinie (RLST)
   actorgan: Studierendenparlament
@@ -26,6 +28,7 @@ contains:
   puborgan: AKUT
   pubdate:  8. September 2017 
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2017/akut_extra_2017-14.pdf
+  ref: 6ee452a3c299373c26a43bd1293c4dcd78b38615/md/Sonstige/Semesterticketrichtlinie.md
 - title: Richtlinie für die Arbeit des Ausschusses für das Semesterticket des Studierendenparlamentes an der RFWU Bonn – Semesterticket - Richtlinie (RLST)
   short: Semesterticket-Richtlinie (RLST)
   actorgan: Studierendenparlament
@@ -33,6 +36,7 @@ contains:
   puborgan: AKUT
   pubdate:  30. Oktober 2017 
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2017/akut_extra_2017-15.pdf
+  ref: 6801d70b178ca9781f209c2e1dfab83aca0cb70a/md/Sonstige/Semesterticketrichtlinie.md
 - title: Richtlinie des Semesterticketausschusses
   short: Semesterticket-Richtlinie (RLST)
   actorgan: Studierendenparlament
@@ -40,6 +44,7 @@ contains:
   puborgan: AKUT
   pubdate:  20. November 2019
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-21.pdf
+  ref: 0dd8dbb3a444f08bf724f87a3d9e3efeb25e298c/md/Sonstige/Semesterticketrichtlinie.md
 - title: Richtlinie des Semesterticketausschusses
   short: Semesterticket-Richtlinie (RLST)
   actorgan: Studierendenparlament
@@ -47,6 +52,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  19. Mai 2020
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2020/vsbonn_bekanntmachung_2020-07.pdf
+  ref: 398b0ab624d82a0a4fcf3ecc4d317c59be7e2f51/md/Sonstige/Semesterticketrichtlinie.md
 - title: Satzung zur Erstattung des Mobilitätsbeitrags zum Semesterticket (Semesterticket-Satzung - SST)
   short: Satzung zur Erstattung des Mobilitätsbeitrags zum Semesterticket (Semesterticket-Satzung - SST)
   actorgan: Studierendenparlament
@@ -54,6 +60,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  27. Januar 2021
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-08.pdf
+  ref: c0bc958c6cb1ed5488faaa158d97c9754b456591/md/Satzungen/SST.md
 - title: Änderungssatzung zur Änderung der Satzung zur Erstattung des Mobilitätsbeitrags zum Semesterticket (SST) 
   short: Änderungssatzung zur Änderung der Satzung zur Erstattung des Mobilitätsbeitrags zum Semesterticket (SST)
   actorgan: Studierendenparlament
@@ -61,6 +68,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  19. August 2021
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-45.pdf
+  ref: b4aeaab14b95b8bab31b1d36228455a5a559c70b/md/Satzungen/SST.md
 
 ---
 

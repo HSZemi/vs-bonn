@@ -14,6 +14,7 @@ contains:
   puborgan:  Amtliche Bekanntmachungen
   pubdate:  24. November 2014
   puburl: https://epflicht.ulb.uni-bonn.de/periodical/titleinfo/183517
+  ref: 577cfba8d2fc73e01b98f0d818078785ce80cc76/md/Ordnungen/WOSP.md
 - title: Ordnung zur Änderung der Wahlordnung für die Wahlen zum Studierendenparlament
   short: 1\. Wahlordnungsänderungsordnung
   actorgan: Studierendenparlament
@@ -23,6 +24,7 @@ contains:
   puborgan:  Amtliche Bekanntmachungen
   pubdate:   8. September 2015
   puburl: https://epflicht.ulb.uni-bonn.de/periodical/titleinfo/263359
+  ref: 159e968f39e32cb08708862d7cbcad3eeef3a9aa/md/Ordnungen/WOSP.md
 - title: Zweite Ordnung zur Änderung der Wahlordnung für die Wahlen zum Studierendenparlament
   short: 2\. Wahlordnungsänderungsordnung
   actorgan: Studierendenparlament
@@ -32,6 +34,7 @@ contains:
   puborgan:  Amtliche Bekanntmachungen
   pubdate: 24. November 2016
   puburl: https://epflicht.ulb.uni-bonn.de/periodical/titleinfo/299983
+  ref: 421884b811885e3455306572ff0eecd0c14c5fba/md/Ordnungen/WOSP.md
 - title: Dritte Ordnung zur Änderung der Wahlordnung für die Wahlen zum Studierendenparlament
   short: 3\. Wahlordnungsänderungsordnung
   actorgan: Studierendenparlament
@@ -41,6 +44,7 @@ contains:
   puborgan:  Amtliche Bekanntmachungen
   pubdate: 07. Dezember 2017
   puburl: https://epflicht.ulb.uni-bonn.de/periodical/titleinfo/363235
+  ref: 54151b706a0d130463756b244d6d1d517ac6aa9a/md/Ordnungen/WOSP.md
 - title: Vierte Ordnung zur Änderung der Wahlordnung für die Wahlen zum Studierendenparlament
   short: 4\. Wahlordnungsänderungsordnung
   actorgan: Studierendenparlament
@@ -50,6 +54,7 @@ contains:
   puborgan:  Amtliche Bekanntmachungen
   pubdate: 24. Januar 2019
   puburl: https://epflicht.ulb.uni-bonn.de/periodical/titleinfo/460860
+  ref: c25437e198ec69544b90b3bbfe901a89378a0a5d/md/Ordnungen/WOSP.md
 - title: Fünfte Ordnung zur Änderung der Wahlordnung für die Wahlen zum Studierendenparlament
   short: 5\. Wahlordnungsänderungsordnung
   actorgan: Studierendenparlament
@@ -59,6 +64,7 @@ contains:
   puborgan:  Amtliche Bekanntmachungen
   pubdate: 19. November 2020
   puburl: https://hdl.handle.net/20.500.11811/8786
+  ref: 9610f131ed656fd39aa7b8550fdc0e82b836c821/md/Ordnungen/WOSP.md
 - title: Sechste Ordnung zur Änderung der Wahlordnung für die Wahlen zum Studierendenparlament der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: 6\. Wahlordnungsänderungsordnung
   actorgan: Studierendenparlament
@@ -68,6 +74,7 @@ contains:
   puborgan:  Amtliche Bekanntmachungen
   pubdate: 29. November 2021
   puburl: https://hdl.handle.net/20.500.11811/9431
+  ref: 7c94469b5fd96389ec1a803c0a57c06ebd744061/md/Ordnungen/WOSP.md
 
 ---
 

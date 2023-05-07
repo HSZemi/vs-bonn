@@ -12,6 +12,7 @@ contains:
   puborgan: AKUT
   pubdate:  16. Mai 2017
   puburl:  https://sp.uni-bonn.de/bekanntmachungen/files/2017/akut_extra_2017-8.pdf
+  ref: 0c8d963af81f021a5192166ef5e84b612a6a977b/md/Ordnungen/FSWO.md
 - title: Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte (Fachschaftswahlordnung – FSWO)
   short: Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte (Fachschaftswahlordnung – FSWO)
   actorgan: Studierendenparlament
@@ -19,6 +20,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  21. Januar 2021
   puburl:  https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-04.pdf
+  ref: 1c7d4d810ade65c0b11bd581c06ba5cbfe11c60a/md/Ordnungen/FSWO.md
 
 ---
 
