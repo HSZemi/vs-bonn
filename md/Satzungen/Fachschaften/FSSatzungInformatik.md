@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Informatik
-date:  18. Januar 2022
+date:  9. Mai 2023
 type:  Satzung
 id:    FSSatzungInformatik
 contains:
@@ -19,6 +19,7 @@ contains:
   puborgan: AKUT
   pubdate:  12. Mai 2015
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2015/AK_ex_12-05-2015-FSInfoAendSatzung.pdf
+  ref: 577cfba8d2fc73e01b98f0d818078785ce80cc76/md/Satzungen/Fachschaften/FSSatzungInformatik.md
 - title: Zweite Änderungssatzung der Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Zweite Änderungssatzung der Satzung der Fachschaft Informatik
   actorgan: Fachschaftsvertretung Fachschaft Informatik
@@ -26,6 +27,7 @@ contains:
   puborgan: AKUT
   pubdate:  2. Februar 2016
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut-extra__Zweite-%c3%84nderungssatzung-der-Satzung-der-Fachschaft-Informatik-der-Rheinischen-Friedrich-Wilhelms-Universit%c3%a4t-Bonn.pdf
+  ref: 125f7d668c589c045dc877b0c0b3b344588721b3/md/Satzungen/Fachschaften/FSSatzungInformatik.md
 - title: Dritte Änderungssatzung der Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Dritte Änderungssatzung der Satzung der Fachschaft Informatik
   actorgan: Fachschaftsvertretung Fachschaft Informatik
@@ -33,6 +35,7 @@ contains:
   puborgan: AKUT
   pubdate:  18. Februar 2018
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2018/akut_extra_2018-4.pdf
+  ref: c691fef459505829b8f5988ef16413451e932b84/md/Satzungen/Fachschaften/FSSatzungInformatik.md
 - title: Vierte Änderungssatzung der Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Vierte Änderungssatzung der Satzung der Fachschaft Informatik
   actorgan: Fachschaftsvertretung Fachschaft Informatik
@@ -40,6 +43,7 @@ contains:
   puborgan: AKUT
   pubdate:  29. Januar 2019
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-2.pdf
+  ref: 8e0d0e9fa1a24921d70ca6e96e1cd879bb86546d/md/Satzungen/Fachschaften/FSSatzungInformatik.md
 - title: Fünfte Änderungssatzung der Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Fünfte Änderungssatzung der Satzung der Fachschaft Informatik
   actorgan: Fachschaftsvertretung Fachschaft Informatik
@@ -47,6 +51,7 @@ contains:
   puborgan: AKUT
   pubdate:  20. November 2019
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-22.pdf
+  ref: 601fbb6d6bed38875db389e374fd13726831804c/md/Satzungen/Fachschaften/FSSatzungInformatik.md
 - title: Sechste Satzung zur Änderung der Satzung der Fachschaft Informatik
   short: Sechste Satzung zur Änderung der Satzung der Fachschaft Informatik
   actorgan: Fachschaftsvertretung Fachschaft Informatik
@@ -54,6 +59,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  9. Mai 2021
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-22.pdf
+  ref: a6385047aa11bb68d45a3c9a5a1877b9125c9524/md/Satzungen/Fachschaften/FSSatzungInformatik.md
 - title: Siebte Satzung zur Änderung der Satzung der Fachschaft Informatik
   short: Siebte Satzung zur Änderung der Satzung der Fachschaft Informatik
   actorgan: Fachschaftsvertretung Fachschaft Informatik
@@ -61,6 +67,15 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  18. Januar 2022
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-03.pdf
+  ref: a805eccf211821283af8614ddf343d598547b930/md/Satzungen/Fachschaften/FSSatzungInformatik.md
+- title: Achte Satzung zur Änderung der Satzung der Fachschaft Informatik
+  short: Achte Satzung zur Änderung der Satzung der Fachschaft Informatik
+  actorgan: Fachschaftsvertretung Fachschaft Informatik
+  actdate:  9. Mai 2023
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  9. Mai 2023
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-27.pdf
+  ref: HEAD/md/Satzungen/Fachschaften/FSSatzungInformatik.md
 
 ---
 
@@ -238,6 +253,12 @@ die ordnungsgemäße Kassenführung des Haushaltsjahres für dessen Kontrolle si
 der FSV über das Ergebnis der Prüfung Bericht.
 
 (3) Der FSV steht es frei, weitere Ausschüsse zu wählen.
+
+(3) ”Die FSV wählt ein Response-Team. Es soll aus mindestens 2 Personen
+bestehen und möglichst divers besetzt sein. Das Response-Team
+soll unter anderem auf Veranstaltungen der Fachschaft bei der
+Einhaltung des Code of Conduct unterstützen. Näheres regelt die von der
+FSV beschlossene Verfahrensordnung.“
 
 
 ### § 11 Vorlesungsfreie Zeit 
