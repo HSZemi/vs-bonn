@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftsvertretung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Geschäftsordnung der Fachschaftsvertretung der Fachschaft Informatik
-date:  18. Januar 2022
+date:  9. Mai 2023
 type:  Ordnung
 id:    GO-FSV-Informatik
 contains:
@@ -12,6 +12,7 @@ contains:
   puborgan: AKUT
   pubdate:  22. Oktober 2019
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-18.pdf
+  ref: 44afaeaf644ac9bb858457aa66aacf3ca7898ff1/md/Ordnungen/Fachschaften/GO-FSV-Informatik.md
 - title: Erste Ordnung zur Änderung der Geschäftsordnung der Fachschaftsvertretung der Fachschaft Informatik
   short: Erste Ordnung zur Änderung der Geschäftsordnung der Fachschaftsvertretung der Fachschaft Informatik
   actorgan: Fachschaftsvertretung Fachschaft Informatik
@@ -19,6 +20,15 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  18. Januar 2022
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-04.pdf
+  ref: 3f7af3af0ceef0c4d93a1ec7dbe452104cf05a2d/md/Ordnungen/Fachschaften/GO-FSV-Informatik.md
+- title: Zweite Ordnung zur Änderung der Geschäftsordnung der Fachschaftsvertretung der Fachschaft Informatik
+  short: Zweite Ordnung zur Änderung der Geschäftsordnung der Fachschaftsvertretung der Fachschaft Informatik
+  actorgan: Fachschaftsvertretung Fachschaft Informatik
+  actdate:  9. Mai 2023
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  9. Mai 2023
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-28.pdf
+  ref: HEAD/md/Ordnungen/Fachschaften/GO-FSV-Informatik.md
 
 ---
 
@@ -88,7 +98,8 @@ Ergebnisse ersichtlich sein sollen.
 (4) Während der Sitzung ist eine Anwesenheitsliste zu führen. Wenn jemand die Sitzung verlässt
 oder verspätet erscheint, ist dies mit Uhrzeit festzuhalten.
 
-(5) Nach Abhandlung eines Tagesordnungspunkts ist dessen Niederschrift zu verlesen.
+(5) Im Laufe der Sitzung ist die Niederschrift zu verlesen. Korrekturwünsche sind zu berücksichtigen. Dabei ist festzustellen, ob der
+Tagesordnungspunkt dem öffentlichen oder dem fachschaftsöffentlichen Teil zuzuordnen ist.
 Korrekturwünsche sind zu berücksichtigen. Dann wird festgestellt, ob der Tagesordnungspunkt dem
 öffentlichen oder dem fachschaftsöffentlichen Teil zuzuordnen ist.
 
