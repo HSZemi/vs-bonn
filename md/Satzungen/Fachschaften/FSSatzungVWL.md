@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft VWL der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft VWL
-date:  16. Mai 2021
+date:  12. Mai 2023
 type:  Satzung
 id:    FSSatzungVWL
 contains:
@@ -12,6 +12,7 @@ contains:
   puborgan: AKUT
   pubdate:  13. Juni 2018
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2018/akut_extra_2018-8.pdf
+  ref: 931f5ea276eeb0acc9804f5f3c4edcc4c6ac15c2/md/Satzungen/Fachschaften/FSSatzungVWL.md
 - title: Satzung der Fachschaft Volkswirtschaftslehre der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Satzung der Fachschaft Volkswirtschaftslehre
   actorgan: Fachschaftsvertretung Fachschaft Volkswirtschaftslehre
@@ -19,6 +20,7 @@ contains:
   puborgan: AKUT
   pubdate:  29. April 2020
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2020/akut_extra_2020-6.pdf
+  ref: be7ee167594b25433dd5a9cc80d2191ffabe3f11/md/Satzungen/Fachschaften/FSSatzungVWL.md
 - title: Satzung der Fachschaft Volkswirtschaftslehre der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Satzung der Fachschaft Volkswirtschaftslehre
   actorgan: Fachschaftsvertretung Fachschaft Volkswirtschaftslehre
@@ -26,20 +28,29 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  16. Mai 2021
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-25.pdf
+  ref: 4ba8d81ff4cb68777e285e6b2f82531618b4abec/md/Satzungen/Fachschaften/FSSatzungVWL.md
+- title: Satzung der Fachschaft Volkswirtschaftslehre der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: Satzung der Fachschaft Volkswirtschaftslehre
+  actorgan: Fachschaftsvertretung Fachschaft Volkswirtschaftslehre
+  actdate:  23. Februar 2023
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  12. Mai 2023
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-30.pdf
+  ref: HEAD/md/Satzungen/Fachschaften/FSSatzungVWL.md
 
 ---
 
 # Präambel
-
 Als Teil der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn (Universität
-Bonn) und in Ausübung ihres Rechts auf Selbstverwaltung hat sich die Fachschaft
-Volkswirtschaftslehre (FS VWL) die folgende Satzung gegeben.  
+Bonn) und in Ausübung ihres Rechts auf Selbstverwaltung hat sich die Fachschaft Volkswirtschaftslehre (FS VWL)
+die folgende Satzung gegeben.
+
 In ihr ist die weibliche Form der männlichen gleichgestellt. Lediglich aus Gründen der besseren
 Lesbarkeit wird die männliche Form gewählt, wenn es aus sprachlichen Gründen nicht möglich
 gewesen ist, die geschlechtsneutrale Form zu verwenden.
 
-# A. Fachschaft Volkswirtschaftslehre
 
+# A. Fachschaft Volkswirtschaftslehre
 
 ### § 1 Begriffsbestimmung und Rechtsstellung
 
@@ -86,14 +97,15 @@ Die FSV ist Beschlussorgan der Studierendenschaft am Fachbereich.
 
 ### § 5 Zusammensetzung und Zusammentritt der FSV
 
-(1) Die Anzahl der Mitglieder der FSV ist abhängig von der Anzahl der Mitglieder der FS VWL.  
-Hat die FS VWL
+(1)Die Anzahl der Mitglieder der FSV ist abhängig von der Anzahl der Mitglieder der FS VWL.
+
+(2) Hat die FS VWL
 
 1. bis zu 1000 Mitglieder, setzt sich die FSV aus 11 Mitgliedern zusammen,
 2. 1001 bis zu 2000 Mitglieder, setzt sich die FSV aus 15 Mitgliedern zusammen,
 3. über 2000 Mitglieder, setzt sich die FSV aus 19 Mitgliedern zusammen.
 
-(2) Sie tritt mindestens dreimal in ihrer Amtszeit zusammen. Für die Einladung zu einer FSV-
+Sie tritt mindestens dreimal in ihrer Amtszeit zusammen. Für die Einladung zu einer FSV-
 Sitzung gilt die Schriftform. Die Einladung erfolgt digital. Bei Widerspruch von einem FSV-
 Mitglied wird postalisch eingeladen.
 
@@ -151,7 +163,7 @@ Wahl in der konstituierenden Sitzung gewählt.
 Sitzung ins Präsidium der FSV gewählt werden, wenn in derselben Sitzung ein Nachfolger in
 das Amt des FSR-Mitglieds gewählt wird. Ausschließlich in diesem Fall wird der
 kommissarische Status des rücktretenden FSR-Mitglieds aufgehoben. Falls es sich in diesem
-Fall um den FSR-Sprecher handelt wird der FSR nicht aufgelöst.
+Fall um den FSR-Vorsitzenden handelt wird der FSR nicht aufgelöst.
 
 (5) Zur Wahl des Präsidiums bedarf es der absoluten Mehrheit der satzungsgemäßen Mitglieder
 der FSV. Erhält im ersten Wahlgang kein Kandidat die notwendige Stimmenanzahl, so findet
@@ -178,12 +190,11 @@ werden.
 
 (8) Der Vorsitzende der FSV führt ihre laufenden Geschäfte. Er beruft die FSV ein, wenn
 
-1. der FSR-Sprecher,
+1. der FSR-Vorsitzende,
 2. die absolute Mehrheit der FSR-Mitglieder,
 3. mindestens ein Fünftel der FSV-Mitglieder,
 4. eine FSVV,
 5. fünf Prozent der Mitglieder der Fachschaft
-
 dies unter Angabe von den zu behandelnden Tagesordnungspunkten schriftlich verlangen.
 Der Vorsitzende kann auch Sitzungen nach eigenem Ermessen einberufen.
 
@@ -211,7 +222,7 @@ kommissarisch bis zur Nachwahl weiter.
 (2) Der Ausschluss eines Mitglieds von einer FSV-Sitzung erfolgt gemäß den Bestimmungen zu
 Ordnungsmaßnahmen in der geltenden Geschäftsordnung des Studierendenparlaments.
 
-(3) Bei Wiederbesetzung eines freigewordenen Sitzes können solange Personen nachrücken, bis
+(3) Bei Wiederbesetzung eines freigewordenen Sitzes können so lange Personen nachrücken, bis
 die Kandidatenliste der entsprechenden Liste erschöpft ist.
 
 
@@ -230,7 +241,7 @@ Mitglied während einer FSV-Sitzung anwesend sein (Zitierrecht).
 2. eine Zweidrittelmehrheit der ordentlichen FSV-Mitglieder für den Antrag gestimmt
 hat, soweit die Satzung nichts anderes vorschreibt.
 
-Die FSV gilt solange als beschlussfähig, bis auf Antrag eines FSV-Mitglieds durch den
+Die FSV gilt so lange als beschlussfähig, bis auf Antrag eines FSV-Mitglieds durch den
 Vorsitzenden das Gegenteil festgestellt wird.
 
 (5) Die Beschlussfähigkeit ist gegeben, wenn mindestens zwei Drittel der FSV-Mitglieder
@@ -252,7 +263,7 @@ Stellvertreter mit Zweidrittelmehrheit der ordentlichen Mitglieder.
 
 (2) Die FSV wählt mindestens zwei Kassenprüfer als Mitglieder des Kassenprüfungsausschusses
 mit Zweidrittelmehrheit ihrer satzungsmäßigen Mitglieder. Die Kassenprüfer dürfen weder
-dem aktuellen FSR angehören, noch Mitglieder des vorherigen FSR gewesen sein. Die
+dem aktuellen FSR angehören noch Mitglieder des vorherigen FSR gewesen sein. Die
 Kassenprüfer kontrollieren die ordnungsgemäße Kassenprüfung des Haushaltsjahres, für
 dessen Kontrolle sie gewählt wurden und erstatten der FSV über das Ergebnis der Prüfung
 Bericht.
@@ -277,15 +288,15 @@ Sprechers.
 
 (2) Der FSR besteht aus
 
-1. dem Sprecher,
-2. dem stellvertretenden Sprecher,
+1. dem FSR-Vorsitzenden,
+2. dem stellvertretenden FSR-Vorsitzenden,
 3. dem Finanzreferenten
-
 als geschäftsführendem Vorstand und höchstens sechs weiteren Mitgliedern.
 
-(3) Der FSR-Sprecher kann auf Vorschlag des Referenten einen entsprechenden Beauftragten für
-dieses Referat benennen. Dieser nimmt mit beratender Stimme an den Sitzungen des FSR
-teil.
+(3) Der FSR-Vorsitzende kann auf Vorschlag des Referenten entsprechende Beauftragte für ein
+Referat benennen. Diese nehmen mit beratender Stimme an den Sitzungen des FSR teil.
+Jeder Referent benennt einen dieser Beauftragten als seinen Stellvertreter, sofern
+vorhanden o.ä.
 
 (4) Die Größe der einzelnen Referate ist wie folgt beschränkt:
 
@@ -296,11 +307,23 @@ Soziale Medien, einer mit Schwerpunkt Datenschutz, einer mit Schwerpunkt
 Fachschafts-Wiki, einer mit Schwerpunkt Design
 3. Referat Master & Internationales: max. 2 Beauftrage, davon einer mit Schwerpunkt
 Master, einer mit Schwerpunkt Internationales
-4. Ersti-Referat: max. 4 Beauftragte
-5. Event-Referat: max. 4 Beauftragte
-6. Party-Referat: max. 5 Beauftragte
+4. Ersti-Referat: max. 4 Beauftragte, davon einer mit Schwerpunkt Awareness
+5. Event-Referat: max. 5 Beauftragte, davon einer mit Schwerpunkt Alumniarbeit und
+Förderverein, einer mit Schwerpunkt Corporate Events, einer mit Schwerpunkt
+Bildungsveranstaltungen, einer mit Schwerpunkt fachschaftsübergreifender Arbeit,
+einer mit Schwerpunkt Awareness
+6. Party-Referat: max. 5 Beauftragte, davon einer mit Schwerpunkt Awareness
 
-(5) Der FSR tritt zusammen:
+(5) Der FSR-Vorsitzende kann jeweils einen Sonderbeauftragten mit folgenden
+Aufgabenbereichen benennen:
+
+1. Awareness
+2. Sponsoring
+
+Diese nehmen mit beratender Stimme an den Sitzungen des FSR teil. Sie gehören keinem
+Referat an.
+
+(6) Der FSR tritt zusammen:
 
 1. während der Vorlesungszeit grundsätzlich einmal wöchentlich in einer öffentlichen
 Sitzung,
@@ -310,25 +333,25 @@ Sitzung,
 Auf das Zusammentreten des FSR soll in Form einer schriftlichen öffentlichen Ankündigung
 durch den Sprecher bzw. seinen Stellvertreter hingewiesen werden.
 
-(6) Zu einzelnen Tagesordnungspunkten kann der FSR die Öffentlichkeit ausschließen.
+(7) Zu einzelnen Tagesordnungspunkten kann der FSR die Öffentlichkeit ausschließen.
 
-(7) Die Mitglieder des FSR sind grundsätzlich verpflichtet, an den Sitzungen teilzunehmen, sofern
+(8) Die Mitglieder des FSR sind grundsätzlich verpflichtet, an den Sitzungen teilzunehmen, sofern
 sie nicht begründet entschuldigt sind. Über den Inhalt nicht öffentlicher Beratung ist
 Stillschweigen zu bewahren.
 
-(8) Der FSR ist verpflichtet, während der Sitzung Protokoll zu führen. Die Protokolle der FSR-
+(9) Der FSR ist verpflichtet, während der Sitzung Protokoll zu führen. Die Protokolle der FSR-
 Sitzungen müssen den FSR-Mitgliedern zugänglich gemacht werden. Ferner können alle
 Mitglieder der FS VWL diese auf Wunsch einsehen.
 
-(9) Sofern er sich keine Geschäftsordnung gibt, gilt für den FSR die Geschäftsordnung des
+(10) Sofern er sich keine Geschäftsordnung gibt, gilt für den FSR die Geschäftsordnung des
 Studierendenparlaments, soweit anwendbar, entsprechend.
 
 
 ### § 15 Wahl des FSR
 
-(1) Der zu wählende FSR-Sprecher muss der FSV zum Zeitpunkt seiner Wahl angehören. Der FSR-
-Sprecher hat das alleinige Vorschlagsrecht für alle übrigen zu wählenden Mitglieder des FSR.
-Der geschäftsführende Vorstand muss wahlberechtigt für den Fachbereich
+(1) Der zu wählende FSR-Vorsitzende muss der FSV zum Zeitpunkt seiner Wahl angehören. Der
+FSR-Sprecher hat das alleinige Vorschlagsrecht für alle übrigen zu wählenden Mitglieder des
+FSR. Der geschäftsführende Vorstand muss wahlberechtigt für den Fachbereich
 Wirtschaftswissenschaften der Universität Bonn sein. Sonstige Mitglieder des FSR müssen am
 Fachbereich Wirtschaftswissenschaften der Universität Bonn eingeschrieben sein.
 
@@ -336,7 +359,7 @@ Fachbereich Wirtschaftswissenschaften der Universität Bonn eingeschrieben sein.
 im amtierenden geschäftsführenden Vorstand sind mit Ämtern im Kassenprüfungsausschuss
 nicht vereinbar.
 
-(3) Der geschäftsführende Vorstand wird entsprechend § 8 IV gewählt.
+(3) Die FSV kann Mitglieder des FSR nur durch Wahl eines neuen Amtsträgers abwählen.
 
 (4) Die weiteren Mitglieder des FSR neben dem geschäftsführenden Vorstand werden einzeln
 und geheim mit Zweidrittelmehrheit der ordentlichen Mitglieder gewählt. Jedes FSR-Mitglied
@@ -354,32 +377,31 @@ Woche während des zweiten und dritten Wahlvorgangs beurlaubt wird. In diesem Fa
 übernimmt das FSV-Präsidium die notwendigen Aufgaben des geschäftsführenden
 Vorstands.
 
-(6) Die FSV kann Referenten mit Zweidrittelmehrheit der Mitglieder abberufen.
-
-(7) FSR-Mitglieder, die nicht der Sprecher sind, können jederzeit zurücktreten. Sie sind jedoch
+(6) FSR-Mitglieder, die nicht der Sprecher sind, können jederzeit zurücktreten. Sie sind jedoch
 verpflichtet, die Geschäfte bis zur Wahl eines Nachfolgers weiterzuführen. Wenn es nach
-Entscheidung des FSR-Sprechers keinen Nachfolger in diesem Amt geben soll, hat das FSR-
+Entscheidung des FSR-Vorsitzenden keinen Nachfolger in diesem Amt geben soll, hat das FSR-
 Mitglied das Amt in möglichst drei Wochen ordnungsgemäß zu Ende zu führen. Tritt der
-stellvertretende Sprecher oder der Finanzreferent zurück, wählt die FSV unverzüglich seinen
-Nachfolger. Dazu muss gemäß § 8 IX eingeladen werden.
+stellvertretende FSR-Vorsitzende oder der Finanzreferent zurück, wählt die FSV unverzüglich
+seinen Nachfolger. Dazu muss gemäß § 8 IX eingeladen werden.
 
-(8) Mit der Beendigung der Amtszeit des FSR-Sprechers durch Rücktritt oder Misstrauensvotum
-endet die Amtszeit aller FSR-Mitglieder. Die Referenten bleiben kommissarisch im Amt bis
-ein neuer FSR gewählt worden ist. Das FSV-Präsidium übernimmt die Leitung der
-notwendigen Geschäfte des geschäftsführenden Vorstands bis ein neuer FSR gewählt worden
-ist. In diesem Zeitraum tagt die FSV wöchentlich in einer öffentlichen Sitzung.
+(7) Mit der Beendigung der Amtszeit des FSR-Vorsitzenden durch Rücktritt oder
+Misstrauensvotum endet die Amtszeit aller FSR-Mitglieder. Die Referenten bleiben
+kommissarisch im Amt, bis ein neuer FSR gewählt worden ist. Das FSV-Präsidium übernimmt
+die Leitung der notwendigen Geschäfte des geschäftsführenden Vorstands, bis ein neuer FSR
+gewählt worden ist. In diesem Zeitraum tagt die FSV wöchentlich in einer öffentlichen
+Sitzung.
 
 
 ### § 16 Aufgaben und Zuständigkeiten des FSR
 
-(1) Der Fachschaftssprecher bestimmt die Richtlinien der Arbeit des FSR und trägt dafür
-Verantwortung. Innerhalb dieser Richtlinien ist jeder Referent gegenüber dem
-Fachschaftssprecher sowie der FSV für sein Aufgabengebiet verantwortlich. Der FSR-Sprecher
-hat auf jeder FSV-Sitzung einen Bericht über den derzeitigen Stand der Fachschaftsarbeit zu
+(1) Der FSR-Vorsitzende bestimmt die Richtlinien der Arbeit des FSR und trägt dafür
+Verantwortung. Innerhalb dieser Richtlinien ist jeder Referent gegenüber dem FSR-
+Vorsitzenden sowie der FSV für sein Aufgabengebiet verantwortlich. Der FSR-Vorsitzende hat
+auf jeder FSV-Sitzung einen Bericht über den derzeitigen Stand der Fachschaftsarbeit zu
 halten.
 
-(2) Der Fachschaftssprecher hat Beschlüsse, Unterlassungen oder Maßnahmen der FSV, des FSR
-oder der FSVV, sofern sie gegen geltendes Recht verstoßen, zu beanstanden.
+(2) Der FSR-Vorsitzende hat Beschlüsse, Unterlassungen oder Maßnahmen der FSV, des FSR oder
+der FSVV, sofern sie gegen geltendes Recht verstoßen, zu beanstanden.
 
 (3) FSR-Beschlüsse können innerhalb eines Jahres mit einer Zweidrittelmehrheit revidiert
 werden. Danach können sie mit einer einfachen Mehrheit revidiert werden.
@@ -391,15 +413,16 @@ hierbei wahlberechtigt.
 
 ### § 17 Fachschaftsschlüssel
 
-Der Sprecher, der stellvertretende Sprecher und der Finanzreferent des FSR haben ein Anrecht auf
-einen Schlüssel zum Fachschaftsbüro. Alle weiteren Schlüssel werden vom FSR-Sprecher vergeben.
-Der FSR-Sprecher hat über die Ausgabe der Schlüssel Liste zu führen und jedes Fachschaftsmitglied
-muss ausgegebene Schlüssel nach Aufforderung des FSR-Sprechers unverzüglich zurückgeben.
+Der FSR-Vorsitzende, der stellvertretende FSR-Vorsitzende und der Finanzreferent des FSR haben ein
+Anrecht auf einen Schlüssel zum Fachschaftsbüro. Alle weiteren Schlüssel werden vom FSR-
+Vorsitzenden vergeben. Der FSR-Vorsitzende hat über die Ausgabe der Schlüssel Liste zu führen und
+jedes Fachschaftsmitglied muss ausgegebene Schlüssel nach Aufforderung des FSR-Vorsitzenden
+unverzüglich zurückgeben.
 
-Der FSR-Sprecher ist verpflichtet Übergabe- und Rücknahme-Protokolle über ausgegebene und
+Der FSR-Vorsitzende ist verpflichtet Übergabe- und Rücknahme-Protokolle über ausgegebene und
 zurückgenommene Schlüssel zu führen.
 
-Der FSR-Sprecher ist verantwortlich für alle Schlüssel, die ohne Protokoll herausgegeben werden.
+Der FSR-Vorsitzende ist verantwortlich für alle Schlüssel, die ohne Protokoll herausgegeben werden.
 
 
 ## III. Die Fachschaftsvollversammlung (FSVV)
@@ -412,7 +435,7 @@ Beschlussorgan der Fachschaft.
 
 ### § 19 Einberufung und Durchführung der FSVV
 
-(1) Der Sprecher des FSR beruft die FSVV ein:
+(1) Der FSR-Vorsitzende beruft die FSVV ein:
 
 1. auf Beschluss der FSV,
 2. auf schriftlichen Antrag von mindestens einem Drittel der FSV-Mitglieder,
@@ -426,7 +449,7 @@ Ankündigung enthält
 1. die genaue Zeit- und Ortsangabe der FSVV sowie
 2. ihre Tagesordnung.
 
-(3) Der Versammlungsleiter der FSVV ist immer der FSR-Sprecher oder ein von ihm benanntes
+(3) Der Versammlungsleiter der FSVV ist immer der FSR-Vorsitzende oder ein von ihm benanntes
 Fachschaftsmitglied.
 
 
@@ -439,8 +462,9 @@ aufgehoben werden. Die Einberufung dieser folgenden FSVV erfolgt gemäß § 19.
 
 
 ### § 21 Verstöße
+
 Bei wiederholtem Verstoß gegen die Satzung hat die FSV das Recht, FSR-Mitglieder auf Anraten des
-FSR-Sprechers abzumahnen bzw. mit einer Zweidrittelmehrheit ihres Amtes zu entheben.
+FSR-Vorsitzenden abzumahnen bzw. mit einer Zweidrittelmehrheit ihres Amtes zu entheben.
 
 
 # C. Haushalts- und Wirtschaftsführung
@@ -476,14 +500,15 @@ Kassenprüfung dient dem Zweck festzustellen, ob insbesondere:
 2. die Buchungen nach der Zeitfolge mit den Buchungen nach der im Haushaltsplan
 vorgesehenen Ordnung übereinstimmen.
 
-(7) Zur finanziellen Verpflichtung der Fachschaft sind die Unterschriften des FSR-Sprechers und
-des Finanzreferenten oder die Unterschrift des zuständigen Referenten nach Zustimmung
-des FSR-Sprechers und des Finanzreferenten erforderlich. Der FSR kann gegen die Stimmen
-von Fachschaftssprecher und Finanzreferent keine finanziellen erheblichen Vorhaben (über
-500 €) beschließen. Der FSR kann mit der Mehrheit der gewählten Mitglieder Ausgaben
-beschließen, sofern der FSR-Sprecher und der Finanzreferent mit der Mehrheit stimmen.
+(7) Zur finanziellen Verpflichtung der Fachschaft sind die Unterschriften des FSR-Vorsitzenden
+und des Finanzreferenten oder die Unterschrift des zuständigen Referenten nach
+Zustimmung des FSR-Vorsitzenden und des Finanzreferenten erforderlich. Der FSR kann
+gegen die Stimmen des FSR-Vorsitzenden und Finanzreferenten keine finanziellen
+erheblichen Vorhaben (über 500 €) beschließen. Der FSR kann mit der Mehrheit der
+gewählten Mitglieder Ausgaben beschließen, sofern der FSR-Vorsitzende und der
+Finanzreferent mit der Mehrheit stimmen.
 
-(8) Nach außen sind nur FSR-Sprecher, stellvertretender FSR-Sprecher und Finanzreferent
+(8) Nach außen sind nur FSR-Vorsitzende, stellvertretender FSR-Vorsitzender und Finanzreferent
 finanziell bevollmächtigt. Sie erlangen durch die Wahl in ihr Amt das Recht gegenüber der
 Bank als Bevollmächtigte aufzutreten. Dies muss nur anhand eines Protokolls der FSV und
 des FSV-Vorstandes bestätigt werden.
@@ -495,9 +520,9 @@ des FSV-Vorstandes bestätigt werden.
 
 (1) Diese Satzung kann auf Beschluss der FSV oder der FSVV geändert werden.
 
-(2) Dieser Beschluss muss jedes Mal von mindestens zwei Drittel der satzungsmäßigen
-Mitglieder bzw. von zwei Drittel der anwesenden FSVV-Mitglieder gefasst werden. Die
-Regelung zu außerordentlichen FSV-Sitzungen ist unanwendbar (§ 10 VI).
+(2) Dieser Beschluss muss von zwei Drittel der satzungsmäßigen Mitglieder der FSV oder durch
+einfache Mehrheit der anwesenden FSVV-Mitglieder gefasst werden. Die Regelung zu
+außerordentlichen FSV-Sitzungen ist unanwendbar (§ 10 VI).
 
 (3) Der Tagesordnungspunkt „Satzungsänderungen" muss bereits in der Einladung zur
 betreffenden FSV-Sitzung oder der FSVV-Sitzung angekündigt werden. In der Einladung
@@ -507,6 +532,3 @@ beizufügen.
 
 (4) Das Inkrafttreten der Satzung regelt die Satzung der Studierendenschaft. Ein öffentlicher
 Ausgang ist hierbei unumgänglich.
-
-Die Satzung der FS VWL in der Fassung vom 16.01.2020 tritt mit Inkrafttreten dieser Satzung vom
-06.05.2021 außer Kraft.
