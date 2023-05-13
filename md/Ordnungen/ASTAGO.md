@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung des Allgemeinen Studierenden Ausschuss (GO AStA)
 short: Geschäftsordnung des AStA (GO AStA)
-date:  25. Januar 2023
+date:  12. Mai 2023
 type:  Ordnung
 id:    ASTAGO
 contains:
@@ -12,6 +12,7 @@ contains:
   pubdate:  
   puborgan: 
   puburl: https://www.asta-bonn.de/w/images/c/c3/GO-AStA.pdf
+  ref: 577cfba8d2fc73e01b98f0d818078785ce80cc76/md/Ordnungen/ASTAGO.md
 - title: Geschäftsordnung des Allgemeinen Studierenden Ausschuss (GO AStA)
   short: Geschäftsordnung des Allgemeinen Studierenden Ausschuss
   actdate:  17. Oktober 2017
@@ -19,6 +20,7 @@ contains:
   pubdate:  29. März 2018
   puborgan: AKUT
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2018/akut_extra_2018-6.pdf
+  ref: 60f11b12d1cad6d6964f75c5bcb160d733fd9470/md/Ordnungen/ASTAGO.md
 - title: Geschäftsordnung des Allgemeinen Studierenden Ausschuss (GO AStA)
   short: Geschäftsordnung des Allgemeinen Studierenden Ausschuss
   actdate:  11. Januar 2021
@@ -26,6 +28,7 @@ contains:
   pubdate:  20. Januar 2021
   puborgan: Öffentlichkeitsbeauftragte
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-03.pdf
+  ref: 0035f7a34f2fd1583f34949e4c8e4cb82bf7020f/md/Ordnungen/ASTAGO.md
 - title: Geschäftsordnung des Allgemeinen Studierenden Ausschuss (GO AStA)
   short: Geschäftsordnung des Allgemeinen Studierenden Ausschuss
   actdate:  28. Juni 2022
@@ -33,6 +36,7 @@ contains:
   pubdate:  12. Dezember 2022
   puborgan: Öffentlichkeitsbeauftragte
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-74.pdf
+  ref: 3d096accd0aad042af291dfb67c23befd18c50a4/md/Ordnungen/ASTAGO.md
 - title: Änderung der Geschäftsordnung (GO) des AStA
   short: Änderung der Geschäftsordnung (GO) des AStA
   actdate:  4. Oktober 2022
@@ -40,6 +44,7 @@ contains:
   pubdate:  9. Oktober 2022
   puborgan: Öffentlichkeitsbeauftragte
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-63.pdf
+  ref: ba36246feb9b8c7934bc94d2c683473423d89427/md/Ordnungen/ASTAGO.md
 - title: Geschäftsordnung des Allgemeinen Studierenden Ausschuss (GO AStA)
   short: Geschäftsordnung des Allgemeinen Studierenden Ausschuss (GO AStA)
   actdate:  24. Januar 2023
@@ -47,6 +52,15 @@ contains:
   pubdate:  31. Januar 2023
   puborgan: Öffentlichkeitsbeauftragte
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-06.pdf
+  ref: HEAD/md/Ordnungen/ASTAGO.md
+- title: Änderungsordnung zur Geschäftsordnung des AStA
+  short: Änderungsordnung zur Geschäftsordnung des AStA
+  actdate:  9. Mai 2023
+  actorgan: Gesamt-AStA-Sitzung
+  pubdate:  12. Mai 2023
+  puborgan: Öffentlichkeitsbeauftragte
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-29.pdf
+  ref: HEAD/md/Ordnungen/ASTAGO.md
 
 ---
 
@@ -127,8 +141,8 @@ ausspricht.
 
 ### § 7 Selbstverwaltete Referate
 
-1. Als selbstverwaltete Referate existieren das Fachschaftenreferat, das Sportreferat, das Referat für
-Frauen und Geschlechtergerechtigkeit‚ das Referat für Internationale Studierende, das BiPoC-Referat und das QueerReferat.
+1. Als selbstverwaltete Referate existieren das Fachschaftenreferat, das Sportreferat, das Referat für FLINTA* und 
+Geschlechtergerechtigkeit‚ das Referat für Internationale Studierende, das BiPoC-Referat und das QueerReferat.
 2. Die selbstverwalteten Referate treten innerhalb ihrer Arbeitsbereiche eigenständig nach außen
 auf. Abweichend von § 5 Abs. 2 findet eine inhaltliche Einflussnahme der Gesamt-AStA- Sitzung
 nicht statt.
@@ -421,8 +435,8 @@ entsprechend anwendbar.“
 anwesenden Angehörigen erreicht werden:  
 Für das Referat für Internationale Studierende:  
 Internationale Studierende: 40  
-Für das Referat für Frauen und Geschlechtergerechtigkeit:  
-Frauen, Lesben, intergeschlechtliche, nichtbinäre, trans und agender (FLINTA) Studierende: 100  
+Für das Referat für FLINTA* und Geschlechtergerechtigkeit:  
+Frauen, Lesben, intergeschlechtliche, nichtbinäre, trans und agender (FLINTA*) Studierende: 100  
 Für das Queer-Referat:  
 Queere Studierende: 25  
 Für das BiPoC-Referat:  
