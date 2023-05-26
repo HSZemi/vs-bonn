@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Informatik
-date:  9. Mai 2023
+date:  16. Mai 2023
 type:  Satzung
 id:    FSSatzungInformatik
 contains:
@@ -73,8 +73,8 @@ contains:
   actorgan: Fachschaftsvertretung Fachschaft Informatik
   actdate:  9. Mai 2023
   puborgan: Öffentlichkeitsbeauftragte
-  pubdate:  9. Mai 2023
-  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-27.pdf
+  pubdate:  16. Mai 2023
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-32.pdf
   ref: HEAD/md/Satzungen/Fachschaften/FSSatzungInformatik.md
 
 ---
@@ -254,11 +254,11 @@ der FSV über das Ergebnis der Prüfung Bericht.
 
 (3) Der FSV steht es frei, weitere Ausschüsse zu wählen.
 
-(3) ”Die FSV wählt ein Response-Team. Es soll aus mindestens 2 Personen
+(4) Die FSV wählt ein Response-Team. Es soll aus mindestens 2 Personen
 bestehen und möglichst divers besetzt sein. Das Response-Team
-soll unter anderem auf Veranstaltungen der Fachschaft bei der
-Einhaltung des Code of Conduct unterstützen. Näheres regelt die von der
-FSV beschlossene Verfahrensordnung.“
+soll unter anderem auf Veranstaltungen der Fachschaft bei der Einhaltung
+des Code of Conduct unterst ützen. Näheres regelt die von der
+FSV beschlossene Verfahrensordnung.
 
 
 ### § 11 Vorlesungsfreie Zeit 
