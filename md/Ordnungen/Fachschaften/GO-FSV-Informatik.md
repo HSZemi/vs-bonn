@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftsvertretung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Geschäftsordnung der Fachschaftsvertretung der Fachschaft Informatik
-date:  9. Mai 2023
+date:  16. Mai 2023
 type:  Ordnung
 id:    GO-FSV-Informatik
 contains:
@@ -26,8 +26,8 @@ contains:
   actorgan: Fachschaftsvertretung Fachschaft Informatik
   actdate:  9. Mai 2023
   puborgan: Öffentlichkeitsbeauftragte
-  pubdate:  9. Mai 2023
-  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-28.pdf
+  pubdate:  16. Mai 2023
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-31.pdf
   ref: HEAD/md/Ordnungen/Fachschaften/GO-FSV-Informatik.md
 
 ---
@@ -98,10 +98,9 @@ Ergebnisse ersichtlich sein sollen.
 (4) Während der Sitzung ist eine Anwesenheitsliste zu führen. Wenn jemand die Sitzung verlässt
 oder verspätet erscheint, ist dies mit Uhrzeit festzuhalten.
 
-(5) Im Laufe der Sitzung ist die Niederschrift zu verlesen. Korrekturwünsche sind zu berücksichtigen. Dabei ist festzustellen, ob der
-Tagesordnungspunkt dem öffentlichen oder dem fachschaftsöffentlichen Teil zuzuordnen ist.
-Korrekturwünsche sind zu berücksichtigen. Dann wird festgestellt, ob der Tagesordnungspunkt dem
-öffentlichen oder dem fachschaftsöffentlichen Teil zuzuordnen ist.
+(5) Im Laufe der Sitzung ist die Niederschrift zu verlesen.
+Korrekturwünsche sind zu berücksichtigen. Dabei ist festzustellen, ob der
+Tagesordnungspunkt dem  öffentlichen oder dem fachschaftsöffentlichen Teil zuzuordnen ist.
 
 (6) Nach der Sitzung wird das Protokoll korrekt urgelesen und versandt. Der öffentliche Teil wird an
 eine öffentliche Mailingliste und an die interne Mailingliste versandt, der fachschaftsöffentliche Teil
