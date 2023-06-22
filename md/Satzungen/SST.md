@@ -1,7 +1,7 @@
 ---
 title: Satzung zur Erstattung des Mobilitätsbeitrags zum Semesterticket (Semesterticket-Satzung - SST)
 short: Satzung zur Erstattung des Mobilitätsbeitrags zum Semesterticket (Semesterticket-Satzung - SST)
-date:  19. August 2021
+date:  1. Oktober 2023
 type:  Satzung
 id:    SST
 contains:
@@ -69,6 +69,14 @@ contains:
   pubdate:  19. August 2021
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-45.pdf
   ref: b4aeaab14b95b8bab31b1d36228455a5a559c70b/md/Satzungen/SST.md
+- title: Zweite Änderungssatzung zur Änderung der Semesterticket-Satzung
+  short: Zweite Änderungssatzung zur Änderung der Semesterticket-Satzung
+  actorgan: Studierendenparlament
+  actdate:  22. März 2023
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  12. April 2023
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-22.pdf
+  ref: HEAD/md/Satzungen/SST.md
 
 ---
 
@@ -201,7 +209,7 @@ Formular.
 Reisepass jeweils in Kopie,
 2. bei Erwachsenen den Personalausweis oder den Reisepass jeweils in Kopie.
 
-(6) Ein sozialer Härtefall liegt vor, wenn das Netto-Einkommen zuzüglich des anzurechnenden
+(6) Bedürftigkeit liegt vor, wenn das Netto-Einkommen zuzüglich des anzurechnenden
 Vermögens unter Abzug der anrechenbaren Aufwendungen der antragstellenden Person im
 betreffenden Zeitraum nicht mehr als 90 von Hundert des Grundbedarfs eines BAföG-Berechtigten (§ 13 Abs.1 Nr. 2 BAföGG)
 beträgt. Wenn dem Antragstellerin mehr zur Verfügung steht, wird der
@@ -328,11 +336,15 @@ sonstige Fälle sollen bei Neufassung in die Satzung übernommen werden.
 
 ### § 12 Anteilige Erstattung
 
-Die Erstattung erfolgt anteilig der Tage, die der 
+(1) Die Erstattung erfolgt anteilig der Tage, die der 
 Antragsteller sich nicht im Verkehrsgebiet aufhalten beziehungsweise das 
 Semesterticket nicht in Anspruch nehmen konnte oder brauchte; kleinste zu 
 erstattende Zeiteinheit sind drei Monate je Semester. Dies gilt nicht für § 4. 
 
+(2) Erstreckt sich in den Fällen nach § 6 und § 9 die Abwesenheit über den Semesterwechsel
+hinweg, so kann die Erstattung anteilig nach Tagen je Semester in dem Semester beantragt
+werden, in dem der Aufenthalt endet, wenn die Abwesenheit insgesamt mindestens drei
+Monate dauerte
 
 ### § 13 Verstoß gegen die Wahrheitspflicht
 
