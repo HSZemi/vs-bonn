@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung des Bonner Studierendenparlaments
 short: Geschäftsordnung des Bonner Studierendenparlaments
-date:  21. Juni 2022
+date:  12. April 2023
 type:  Ordnung
 id:    GOSP
 contains:
@@ -69,6 +69,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-46.pdf
   ref: 3713a3945305eb2587fee7263972a749353afa13/md/Ordnungen/GOSP.md
+- title: Dritte Ordnung zur Änderung der Geschäftsordnung des Bonner Studierendenparlaments
+  short: Dritte Ordnung zur Änderung der Geschäftsordnung des Bonner Studierendenparlaments
+  actorgan: Studierendenparlament
+  actdate:  22. März 2023
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  12. April 2023
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-23.pdf
+  ref: HEAD/md/Ordnungen/GOSP.md
 
 ---
 
@@ -650,6 +658,22 @@ Wenn der Antrag dem SP schriftlich vorliegt, reicht es bei Zustimmung des SP aus
 darzustellen. Wenn zu dem Antrag als Ganzem keine Wortmeldung mehr vorliegt, erhält die
 Antragstellerin das Schlusswort. Danach ist über den Antrag zu beschließen. Wird über einen Antrag
 zweimal ergebnislos abgestimmt, so wird er nicht weiter behandelt.
+
+### § 28a Anträge zur Finanzierung studentischer Großveranstaltungen
+
+(1) Beim Stellen eines Antrages auf die Finanzierung einer studentischen Großveranstaltung in
+Höhe von mehr als 3000 € obliegt es der antragstellenden Gruppe, eine vorläufige kommen-
+tierte Auflistung aller erwarteten Ausgaben und Einnahmen sowie aller anderen zugesagten
+oder ausstehenden Sponsoren an das Präsidium des Studierendenparlaments einzureichen.
+Das Präsidium leitet diese an den Haushaltsausschuss weiter. Der Haushaltsausschuss prüft
+die Unterlagen und fasst eine Beschlussempfehlung für das SP. Die Gruppe ist außerdem
+verpflichtet, auf Verlangen von mindestens einem Mitglied des Haushaltsausschusses ei-
+ne Vertreterin zur Sitzung des Haushaltsausschusses, die sich mit dem Antrag befasst, zu
+entsenden.
+
+(2) Ein Antrag gemäß Absatz 1 kann im SP nur dann in einer zweiten Lesung gemäß § 27
+beraten werden, wenn eine Empfehlung des Haushaltsauschusses vorliegt oder seit der
+ersten Einreichung von Finanzunterlagen mindestens vier Wochen vergangen sind.
 
 
 # VI. Wahlen
