@@ -84,6 +84,16 @@ contains:
   puborgan: Amtliche Bekanntmachungen
   pubdate:  1. August 2023
   puburl: https://hdl.handle.net/20.500.11811/10961
+  ref: 0154900d225be8612f2dcc56d228fa0d6e1f18de/md/Satzungen/SdS.md
+- title: Achte Satzung zur Änderung der Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - SÄS 8 –
+  short: 8\. Satzungsänderungssatzung
+  actorgan: Studierendenparlament
+  actdate:  10. Januar 2022
+  confirmorgan: Rektorat
+  confirmdate:
+  puborgan: Amtliche Bekanntmachungen
+  pubdate:  1. August 2023
+  puburl: https://hdl.handle.net/20.500.11811/10962
   ref: HEAD/md/Satzungen/SdS.md
 
 ---
@@ -163,6 +173,12 @@ Studierendenschaft sein, soweit nicht anders geregelt.
 
 (5) Die Gremien der Studierendenschaft tagen hochschulöffentlich, sofern diese Satzung oder
 ihre Geschäftsordnungen nicht davon abweichen.
+Die Gremien mit Ausnahme des Studierendenparlaments können in ihren Geschäftsordnungen
+festlegen, dass ihre Sitzungen in elektronischer Kommunikation oder einem Hybridformat stattfinden
+dürfen und Beschlüsse in elektronischer Kommunikation oder im Umlaufverfahren gefasst werden
+können. Die Fachschaften können für ihre Gremien derartige Festlegungen außerdem auch in ihren
+Fachschaftssatzungen treffen.
+
 
 ### § 4a Pflichten der Gremien der Studierendenschaft
 
