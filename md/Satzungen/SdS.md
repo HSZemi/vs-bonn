@@ -1,7 +1,7 @@
 ---
 title: Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Studierendenschaft
-date:  4. Mai 2020
+date:  1. August 2023
 type:  Satzung
 id:    SdS
 contains:
@@ -75,6 +75,16 @@ contains:
   pubdate:  4. Mai 2020
   puburl: https://hdl.handle.net/20.500.11811/8341
   ref: f6dbadcb963df3c9afa7410d86d8469939aa7cf4/md/Satzungen/SdS.md
+- title: Siebte Satzung zur Änderung der Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - SÄS 7 –
+  short: 7\. Satzungsänderungssatzung
+  actorgan: Studierendenparlament
+  actdate:  24. November 2021
+  confirmorgan: Rektorat
+  confirmdate: 
+  puborgan: Amtliche Bekanntmachungen
+  pubdate:  1. August 2023
+  puburl: https://hdl.handle.net/20.500.11811/10961
+  ref: HEAD/md/Satzungen/SdS.md
 
 ---
 
@@ -130,21 +140,46 @@ Satzung und den rechtmäßigen Beschlüssen der Organe der Studierendenschaft.
 (3) Jedes Mitglied der Studierendenschaft hat im Studierendenparlament bei
 öffentlichen Sitzungen Rederecht.
 
+(4) Jedes Mitglied der Studierendenschaft hat das Recht, auf Deutsch und Englisch über die
+Arbeit der Organe, Gliederungen und Gremien der Studierendenschaft informiert zu werden.
 
-### § 4 Organe der Studierendenschaft
+
+### § 4 Gremien der Studierendenschaft
 
 (1) Die Studierendenschaft äußert ihren Willen durch die von ihr gewählten Organe.
 
-(2) Organe der Studierendenschaft im Sinne dieser Satzung sind:
+(2) Gremien der Studierendenschaft im Sinne dieser Satzung sind:
 
-1. das Studierendenparlament (SP);
-2. der Allgemeine Studierendenausschuss (AStA);
+1. das Studierendenparlament (SP) sowie seine Ausschüsse;
+2. der Allgemeine Studierendenausschuss (AStA) sowie seine Gremien, Ausschüsse und
+   Unterorgane;
+3. die Gremien, Ausschüsse und Unterorgane der Fachschaften (FS);
+4. die Fachschaftenkonferenz (FK) sowie ihre Gremien, Ausschüsse und Unterorgane.
 
-(3) Die Organe der Studierendenschaft tagen hochschulöffentlich, sofern diese Satzung oder ihre
-Geschäftsordnungen nicht davon abweichen.
+(3) Organe der Studierendenschaft im Sinne dieser Satzung sind das SP und der AStA.
+
+(4) Mitglieder der Gremien der Studierendenschaft können nur Mitglieder der
+Studierendenschaft sein, soweit nicht anders geregelt.
+
+(5) Die Gremien der Studierendenschaft tagen hochschulöffentlich, sofern diese Satzung oder
+ihre Geschäftsordnungen nicht davon abweichen.
+
+### § 4a Pflichten der Gremien der Studierendenschaft
+
+(1) Zu hochschulöffentlichen Sitzungen der Gremien der Studierendenschaft muss fristwahrend
+hochschulöffentlich geladen werden.
+
+(2) Hochschulöffentliche Sitzungen der Gremien der Studierendenschaft sollen protokolliert
+werden. Das Protokoll ist zeitnah zu erstellen. Das Protokoll hochschulöffentlicher Sitzungen ist
+unverzüglich nach Beschluss hochschulöffentlich im Internet zugänglich zu machen.
+
+(3) Die Studierenden sind über die Arbeit der Gremien der Studierendenschaft zu informieren.
+Dies soll gleichberechtigt in deutscher und englischer Sprache erfolgen. Vertritt eine FS nur FAKs
+mit alleinig deutscher Prüfungssprache, so kann die Information der Gremien der FS auch nur in
+deutscher Sprache erfolgen.
 
 
-# B. DIE ORGANE DER STUDIERENDENSCHAFT
+# B. Organe und Gremien der Studierendenschaft
 
 ## I. Das Studierendenparlament (SP)
 
@@ -163,7 +198,7 @@ Stellvertretung;
 3. Wahl der Mitglieder des Schlichtungsgremiums;
 4. Wahl der Öffentlichkeitsbeauftragten;
 5. Wahl der studentischen Mitglieder aus der Universität Bonn des
-Verwaltungsrates des Studentenwerks Bonn AöR;
+Verwaltungsrates des Studierendenwerks Bonn AöR;
 6. Verabschiedung des Haushaltsplanes;
 7. Erlass, Änderung und Aufhebung von Satzungen, Ordnungen und Statuten,
 soweit sich aus dem Gesetz oder dieser Satzung keine andere Zuständigkeit
@@ -234,45 +269,60 @@ Aufträge und Weisungen nicht gebunden und nur ihrem Gewissen verantwortlich.
 
 ### § 9 Das Präsidium
 
-(1) Das Präsidium besteht aus dem Sprecherteam als stimmberechtigte Mitglieder sowie zwei
-Schriftführerinnen.
+(1) Das Präsidium besteht aus der 1., 2. und 3. Sprecherin.
 
-(2) Das Sprecherteam besteht aus der 1., 2. und 3. Sprecherin. Die Mitglieder des Sprecherteams
-müssen ordentliche SP-Mitglieder sein und dürfen dem AStA nicht angehören; die Schriftführerinnen
-müssen der Studierendenschaft angehören. Die Mitglieder des Präsidiums werden einzeln in der
-konstituierenden Sitzung gewählt. Diese Sitzung beruft die Wahlleiterin der Wahl zum SP ein und leitet
-sie, bis die 1. Sprecherin gewählt ist.
+(2) Alle Mitglieder des Präsidiums müssen ordentliche SP-Mitglieder sein, dürfen dem AStA nicht
+angehören und werden einzeln in der konstituierenden Sitzung gewählt. Diese Sitzung beruft die
+Wahlleiterin der Wahl zum SP ein und leitet sie, bis die 1. Sprecherin gewählt ist.
 
-(3) Bei der Wahl des Präsidiums ist in den ersten beiden Wahlgängen die Mehrheit
-der Stimmen der SP-Mitglieder erforderlich. Im dritten Wahlgang ist gewählt, wer die
-meisten Stimmen erhält.
+(3) Bei der Wahl des Präsidiums ist in den ersten beiden Wahlgängen die Mehrheit der Stimmen
+der SP-Mitglieder erforderlich. Im dritten Wahlgang ist gewählt, wer die meisten Stimmen erhält.
 
-(4) Mitglieder des Präsidiums können nur mit der Mehrheit der Stimmen der SP-
-Mitglieder durch die Wahl einer Nachfolgerin abberufen werden.
+(4) Mitglieder des Präsidiums können nur mit der Mehrheit der Stimmen der SP-Mitglieder durch
+dieWahl einer Nachfolgerin abberufen werden.“
+
+
+### § 9a Die Schriftführung
+
+(1) Die Schriftführung besteht aus mindestens zwei Schriftführerinnen.
+
+(2) Die Schriftführerinnen müssen der Studierendenschaft angehören und dürfen dem AStA nicht
+angehören.
+
+(3) Die Schriftführerinnen werden werden einzeln auf der konstituierenden Sitzung gewählt. § 9
+Absatz 3 gilt entsprechend. Die Schriftführerinnen können mit der Mehrheit der Stimmen der
+SP-Mitglieder abgewählt werden.
+
 
 ### § 10 Aufgaben des Präsidiums
 
-(1) Das Präsidium ist für die Durchführung der Arbeiten des SP verantwortlich.
+(1) Das Präsidium ist für die Durchführung der Arbeiten des SP verantwortlich. Näheres regelt
+die GO des SP.
 
-(2) Die 1. Sprecherin beruft das SP schriftlich unter Angabe der Tagesordnung ein,
-leitet die Verhandlungen, fertigt die Beschlüsse aus und gibt diese an den AStA und
-die Betroffenen weiter. Sie wird im Verhinderungsfall oder auf ihren Wunsch durch
-die 2. oder 3. Sprecherin vertreten.
+(2) Die 1. Sprecherin beruft das SP schriftlich unter Angabe der Tagesordnung ein, leitet die
+Verhandlungen, fertigt die Beschlüsse aus und gibt diese an den AStA und die Betroffenen weiter.
 
-(3) Die Sprecherin muss das SP einberufen, wenn es der AStA, das Schlichtungsgremium oder 1/5 der
-SP-Mitglieder schriftlich unter Angabe eines oder mehrerer auf dieser Sitzung zu
-behandelnder Tagesordnungspunkte verlangt. Die Einberufung des SP muss
-unverzüglich, spätestens jedoch auf den 14. Tag nach Eingang des Antrags bei der
-Sprecherin, schriftlich erfolgen.
+(3) Die Sprecherin muss das SP einberufen, wenn es der AStA, das Schlichtungsgremium, die FK
+oder 1/5 der SP-Mitglieder schriftlich unter Angabe eines oder mehrerer auf dieser Sitzung zu
+behandelnder Tagesordnungspunkte verlangt. Die Einberufung des SP muss unverzüglich,
+spätestens jedoch auf den 16. Tag nach Eingang des Antrags bei der Sprecherin, schriftlich
+erfolgen.
 
-(4) Die Schriftführerin fertigt vor allem das Protokoll der Sitzung an. Näheres regelt
-die Geschäftsordnung des SP.
+(4) Die 2. Sprecherin übernimmt den Vorsitz im Schlichtungsgremium des Sps.
 
-(5) Auf Verlangen muss das SP-Präsidium gewählten Mitgliedern des SP eine
-Bescheinigung über die Mitgliedschaft und/oder Anwesenheit im SP ausstellen.
+(5) Die 2. oder 3.~Sprecherin nimmt alle vier Wochen an der FK teil.
 
-(6) Die 2. Sprecherin übernimmt den Vorsitz im Schlichtungsgremium des
-SPs.
+(6) Sofern nicht anders bestimmt, sind die Mitglieder des Präsidums gleichberechtigt und können
+sich bei gegenseitigem Einvernehmen wechselseitig vertreten.
+
+(7) Auf Verlangen muss das SP-Präsidium gewählten Mitgliedern des SP eine Bescheinigung über
+die Mitgliedschaft und/oder Anwesenheit im SP ausstellen.
+
+
+### § 10a Aufgaben der Schriftführung
+
+Die Schriftführung fertigt vor allem das Protokoll der Sitzung an. Näheres regelt die
+Geschäftsordnung des SP.
 
 
 ### § 11 Beschlüsse
@@ -318,6 +368,7 @@ Vorlesungszeit.
 (1) Das SP kann zur Vorbereitung und Unterstützung seiner Arbeit und für
 Untersuchungen ständige oder nichtständige Ausschüsse einsetzen. Die Zahl der
 Mitglieder eines Ausschusses beträgt drei, fünf, sieben oder neun.
+Für jedes ordentliche Mitglied gibt es ein stellvertretendes Mitglied.
 
 (2) Das SP muss folgende Ausschüsse bestellen:
 
@@ -339,9 +390,9 @@ Mitgliedern besteht;
 8. einen Ausschuss für das Semesterticket, der aus 5 Mitgliedern besteht;
 9. einen Öffentlichkeitsausschuss gemäß § 36a, der aus sieben Mitgliedern besteht.
 
-(3) Die Ausschüsse gemäß Abs. 2 Nr. 1, 2, 4 bis 9 werden auf der konstituierenden
-Sitzung des SP gewählt. Der Wahlausschuss gemäß Abs. 2 Nr. 3 wird spätestens 50
-Tage vor der SP-Wahl gewählt.
+(3) Die Ausschüsse gemäß Absatz 2 Nummer 1, 2, 5 bis 8 werden auf der konstituierenden Sitzung
+des SP gewählt. Der Wahlausschuss gemäß Absatz~2 Nummer~3 soll mindestens 90 Tage vor der
+SP-Wahl gewählt werden und wird spätestens 65 Tage vor der SP-Wahl gewählt.
 
 (4) Das SP kann mit der Mehrheit seiner Mitglieder die Einrichtung weiterer
 Ausschüsse und ihre Aufgaben beschließen. Die Festsetzung der Anzahl der Mitglieder
@@ -384,8 +435,8 @@ Näheres regelt die Wahlordnung.
 
 ### § 14 Geschäftsordnung
 
-Das SP gibt sich mit der Mehrheit von 2/3 seiner Mitglieder eine Geschäftsordnung
-(GO). In der GO sind insbesondere zu regeln
+(1) Das SP gibt sich mit der Mehrheit von 2/3 seiner Mitglieder eine Geschäftsordnung (GO).
+In der GO sind insbesondere zu regeln
 
 1. Art, Form und Frist der Einberufung;
 2. Art und Form der Beschlussfassung;
@@ -393,13 +444,16 @@ Das SP gibt sich mit der Mehrheit von 2/3 seiner Mitglieder eine Geschäftsordnu
 4. Grundzüge der Sitzungsleitung;
 5. Verfahrensregelungen für die Ausschüsse des SP.
 
+(2) Abweichend von Absatz 1 Nummer 5 werden die Verfahrensregelungen für den WA in der
+Wahlordnung geregelt. Die GO gilt nachrangig.
 
 ### § 15 Dauer und Verfahren der Urabstimmung
 
 (1) Dem ordnungsgemäßen Verlangen nach einer Urabstimmung gemäß § 5 Abs. 3
 müssen beigefügt sein:
 
-1. der abzustimmende Antrag im Wortlaut,
+1. der abzustimmende Antrag im Wortlaut einschließlich einer englischsprachigen Übersetzung
+    des Antrags,
 2. Name, Vorname, Matrikelnummer und Unterschrift von mindestens fünf Prozent
     der Mitglieder der Studierendenschaft, die den Antrag unterstützen,
 3. Name, Anschrift, Matrikelnummer, Unterschrift und gegebenenfalls Telefonnummer 
@@ -417,8 +471,9 @@ angemessene Nachbesserungsfrist von bis zu vier Wochen ab Zugang des Bescheides.
 
 (4) Der UA ist für die Durchführung der Urabstimmung bei ordnungsgemäßem
 Verlangen oder bei entsprechendem SP-Beschluss zuständig. Er veranlasst, dass alle
-Studierenden eine Urabstimmungsbenachrichtigung erhalten, die den Termin der
-Urabstimmung und den Wortlaut des abzustimmenden Antrags enthält.
+Studierenden eine Urabstimmungsbenachrichtigung erhalten, die den
+Termin der Urabstimmung und den Wortlaut des abzustimmenden Antrags sowie eine
+englischsprachigen Übersetzung des Antrags enthält.
 
 (5) Die Fristen für die SP-Wahl gelten entsprechend. Liegen zwischen dem
 ordnungsgemäßen Verlangen und der nächsten planmäßigen SP-Wahl weniger als sechs
@@ -434,7 +489,8 @@ vorlesungsfreie Tage.
 
 (7) Abgestimmt wird mit Ja, Nein und Enthaltung.
 
-(8) Der Antrag wird auf dem Abstimmungszettel abgedruckt. Bei längeren Anträgen
+(8) Der Antrag sowie eine englischsprachigen Übersetzung des Antrags wird auf dem
+Abstimmungszettel abgedruckt. Bei längeren Anträgen
 genügt es, wenn der Antrag an der Abstimmungskabine zur Einsicht ausliegt und die
 Fragestellung auf dem Abstimmungszettel eindeutig ist.
 
@@ -458,6 +514,12 @@ Referatsmitarbeiterinnen). Die Amtszeit der Mitglieder endet mit der Amtszeit de
 Vorsitzenden. Nach Ende der Amtszeit ist von allen Referentinnen des AStA ein detailliertes
 Übernahmeprotokoll für die etwaigen Nachfolgerinnen anzufertigen und mindestens digital
 zugänglich zu machen.
+
+(2a) Der AStA gliedert sich in Referate und Vorsitz. Als selbstverwaltete Referate existieren
+mindestens das Fachschaftenreferat und das Sportreferat.
+
+(2b) Die Referentin eines selbstverwalteten Referats wird von der Vollversammlung der
+jeweiligen Interessengruppe gewählt. Näheres bestimmt die Geschäftsordnung des AStA.
 
 (3) Die Wahl des AStA erfolgt in einer SP-Sitzung durch die Wahl der Vorsitzenden,
 mindestens einer stellvertretenden Vorsitzenden und der Finanzreferentin. Weitere
@@ -737,11 +799,13 @@ veröffentlichen.
 Fachschaft und deren Verfahrensweisen gemäß den Bestimmungen dieser Satzung
 und der FSWO. Existiert keine Fachschaftssatzung, so gelten für die Organe die
 Bestimmungen dieser Satzung unmittelbar, die GO des SP ist entsprechen
-anzuwenden.
+anzuwenden. Die Fachschaftssatzung regelt die Grundsätze der Haushaltsführung und Kassenprüfung der
+Fachschaft. Sie legt einen festen jährlichen Beginn des Haushaltsjahres der Fachschaft fest.
 
-(3) Beschlüsse über Errichtung, Änderung oder Aufhebung der Fachschaftssatzung
-sind dem FSK und dem SP-Präsidium vorab anzuzeigen. Die Fachschaftssatzung tritt
-mit der Veröffentlichung durch die Öffentlichkeitsbeauftragte in Kraft.
+(3) Beschlüsse über Errichtung, Änderung oder Aufhebung der Fachschaftssatzung sollen dem
+FSK zur formellen Prüfung vorab angezeigt werden. Die Fachschaftssatzung tritt am Tag nach ihrer
+Veröffentlichung auf der Bekanntmachungsplattform der Gremien der Studierendenschaft in
+Kraft.
 
 
 ### § 30 Rahmenregelungen
@@ -780,7 +844,7 @@ Regelungen über
 
 1. Art, Form und Frist der Einberufung und Beschlussfassung,
 2. Wahl des FSK,
-3. Kriterien für die Verteilung der Fachschaftsgelder gemäß § 43 Abs. 2 und
+3. Kriterien für die Verteilung der Fachschaftsgelder gemäß § 43 und
 4. als Anlage die Liste der Fachschaften der RFWU ("Fachschaftenliste").
 
 Die FKGO wird mit der Mehrheit von zwei Drittel der anwesenden stimmberechtigten
@@ -803,9 +867,10 @@ Studierendenschaft oder studentischer Vereinigungen angerufen werden.
 
 (1) Jede Liste im SP, mit Ausnahme der zugehörigen Liste der zweiten Sprecherin, schlägt ein
 studentisches Mitglied für das Gremium vor, das ein SP-Mitglied sein sollte.
+Jede Liste im SP schlägt zusätzlich ein stellvertretendes Mitglied vor.
 
-(2) Die FK schlägt ebenfalls eine Person für das Schlichtungsgremium vor. Diese muss vom SP bestätigt
-werden.
+(2) Die FK schlägt ebenfalls ein Mitglied und ein stellvertretendes Mitglied für das
+Schlichtungsgremium vor.
 
 (3) Sie werden mit der Mehrheit der SP-Mitglieder für die Dauer einer Legislaturperiode des SPs
 gewählt und können nur durch konstruktive Neuwahl abberufen werden.
@@ -870,15 +935,77 @@ des Schlichtungsgremiums darf sich an der Abstimmung über die Entscheidung bez�
 Befangenheitsantrages nicht beteiligen.
 
 
-# C. Bekanntmachung der Studierendenschaft
+## V. Studierendensport
 
-### § 36 Öffentlichkeitsbeauftragte
+### § 35a Organe und Aufgaben des Studierendensports
 
-(1) Die öffentlich einsehbare Internetpräsenz des SPs ist die Bekanntmachungsplattform der
-Studierendenschaft (SP, AStA, FS, FSK).
+(1) Organe der studentischen Vertretung im Hochschulsport sind
 
-(2) Die verantwortliche Öffentlichkeitsbeauftragte wird nach öffentlicher Ausschreibung von der
-Mehrheit des SPs für ein Jahr gewählt.
+1. die Obleuteversammlung (OV) als Repräsentationsgremium aller studentischen
+   Sporttreibenden und
+2. das autonome Sportreferat des AStA.
+
+(2) Der Studierendensport erfüllt die Aufgaben des allgemeinen Hochschulsports im Ausgleichs-,
+Breiten- und Wettkampfsport in seinem Bereich; dabei ist dem Ausgleichs- und Breitensport der
+Vorrang einzuräumen. Die Zusammenarbeit mit den anderen Bereichen des allgemeinen
+Hochschulsports, insbesondere den Hochschulsportbeauftragten, soll durch die Organe
+gewährleistet werden.
+
+(3) Der Studierendensport wirkt darauf hin, dass ein vielfältiges und ausgeglichenes Angebot an
+Sportkursen, -wettkämpfen und sonstigen sportlichen Veranstaltungen einem möglichst großen
+Teil der Studierenden offen steht.
+
+(4) Weitere Aufgaben und insbesondere die Aufgaben der einzelnen Organe regelt das
+Sportstatut.
+
+
+### § 35b Zusammensetzung und Wahl der Obleuteversammlung (OV)
+
+(1) Die OV setzt sich zusammen aus den von den einzelnen Sportarten gewählten Obleuten und
+der Leitung des Sportreferats als stimmberechtigte Mitglieder.
+
+(2) Wahlberechtigt und wählbar sind diejenigen an der Universität Bonn ordentlich
+eingeschriebenen Studierenden, die an den regelmäßig vom Studierendensport oder allgemeinen
+Hochschulsport veranstalteten Sportarten teilnehmen. Jede Person hat dabei eine Stimme je
+Sportart, nach „Richtlinie zur Zuordnung der Sportarten“, an der sie teilnimmt.
+
+(3) Weiteres regelt das Sportstatut.
+
+
+### § 35c Sportstatut, Finanzordnung, Geschäftsordnung und Richtlinie zur Zuordnung der Sportarten
+
+(1) Auf Vorschlag der Obleuteversammlung erlässt das SP das Statut des Studierendensports (Sportstatut).
+Dieses regelt insbesondere folgende Punkte:
+
+1. ggf. weitere Aufgaben der Gremien des Studierendensports;
+2. Wahl und Zusammensetzung der Gremien des Studierendensports;
+3. Grundsätze der Finanzen des Studierendensports.
+
+(2) Auf Vorschlag der Obleuteversammlung erlässt das SP die Finanzordnung des
+Studierendensports (SpoFinO). Diese regelt die Verwendung der Mittel des Studierendensports.
+
+(3) Die OV gibt sich eine Geschäftsordnung (GO). In der GO sind insbesondere zu regeln:
+
+1. Art, Form und Frist der Einberufung;
+2. Art und Form der Beschlussfassung;
+3. Rede-, Antrags- und Anfragerecht;
+4. Grundzüge der Sitzungsleitung;
+5. Verfahrensregelungen für die Ausschüsse der OV.
+
+(4) Die OV erlässt eine Richtline zur Zuordnung der Sportarten, wie Sportkurse zu einer Sportart
+zusammenzufassen sind. Außerdem regelt sie die Vertretung, sollte eine Sportart keine Obleute
+gewählt haben.
+
+
+# C. Bekanntmachungen und Veröffentlichungen der Studierendenschaft
+
+### § 36 Öffentlichkeitsbeauftragte der Studierendenschaft
+
+(1) (entfallen)
+
+(2) Das SP beschließt auf Vorschlag des Präsidiums spätestens auf der zweiten ordentlichen
+Sitzung die Ausschreibung der Stelle der Öffentlichkeitsbeauftragten. Diese ist bis zu ihrer
+Abwahl/Neuwahl im Amt.
 
 (3) Das SP kann der verantwortlichen Öffentlichkeitsbeauftragten das Misstrauen nur dadurch
 aussprechen, dass es mit der Mehrheit seiner Mitglieder eine Nachfolgerin wählt.
@@ -894,7 +1021,7 @@ angemessenem Umfang zeitnah berichtet wird.
 (6) Die Öffentlichkeitsbeauftragte unterstützt das SP-Präsidium bei der Öffentlichkeitsarbeit.
 
 (7) Dazu kann die Öffentlichkeitsbeauftragte Medien und Strategien nutzen, die nicht auf die
-Bekanntmachungsplattform gemäß Abs. 1 beschränkt sind.
+Bekanntmachungsplattform gemäß § 37 Absatz 1 beschränkt sind.
 
 (8) Die Öffentlichkeitsbeauftragte ist an Weisungen des SPs gebunden.
 
@@ -924,11 +1051,14 @@ oder, nachrangig, des Ausschusses handeln.
 
 ### § 37 Bekanntmachungen
 
-(1) Satzungen, Ordnungen, Richtlinien und Statute aller Gremien treten frühestens mit ihrer
-Veröffentlichung auf der Bekanntmachungsplattform in Kraft, sofern ein Gesetz oder diese Satzung
+(1) Die öffentlich einsehbare Internetpräsenz des SPs ist die Bekanntmachungsplattform der
+Gremien der Studierendenschaft.
+
+(2) Satzungen, Ordnungen, Richtlinien und Statute aller Gremien der Studierendenschaft treten frühestens 
+am Tag nach ihrer Veröffentlichung auf der Bekanntmachungsplattform in Kraft, sofern ein Gesetz oder diese Satzung
 nichts Abweichendes bestimmt.
 
-(2) Die Vorsitzende des Beschlussgremiums leitet zu veröffentlichende Satzungen, Ordnungen,
+(3) Die Vorsitzende des Beschlussgremiums leitet zu veröffentlichende Satzungen, Ordnungen,
 Richtlinien oder Statuten unverzüglich der Öffentlichkeitsbeauftragten zu.
 
 
@@ -1001,7 +1131,6 @@ in sachlichem Zusammenhang mit bestimmten Ausgaben stehen, die betreffenden
 Ausgabenansätze erhöhen oder vermindern (Koppelungsvermerk).
 
 (9) Selbstbewirtschaftungsmittel sind durch Haushaltsvermerk zu kennzeichnen.
-Zuweisungen an die Fachschaften sind Selbstbewirtschaftungsmittel.
 
 (10) Die Titel sind mit einem Ansatz (Betrag) auszubringen. Die Ansätze sind in ihrer
 voraussichtlichen Höhe zu errechnen, ist dies nicht möglich, sind sie sorgfältig zu
@@ -1164,24 +1293,24 @@ des Haushaltsplanes in Anspruch genommen werden.
 
 ### § 43 Zuweisung der Fachschaftsgelder
 
-(1) Die Fachschaften erhalten finanzielle Zuweisungen aus den Mitteln der Studierendenschaft 
-nach Maßgabe der Beitragsordnung und des Haushaltsplanes als
-Selbstbewirtschaftungsmittel. Die Zuweisungen gelten für die Studierendenschaft
-rechnungsmäßig als abgewickelt, sobald sie als Ausgabe vom entsprechenden
-Titel an die Fachschaft überwiesen worden sind.
+(1) Die Fachschaften erhalten finanzielle Zuweisungen aus den Mitteln der Studierendenschaft
+nach Maßgabe der Beitragsordnung und des Haushaltsplanes als Selbstbewirtschaftungsmittel
+(Allgemeine Fachschaftengelder – AFSG). Die Zuweisungen für jede Fachschaft bestehen aus
+einem Sockelbetrag und einem weiteren Betrag, der sich nach der Zahl der Studierenden richtet,
+die der betreffenden Fachschaft gemäß \S~22 zugeordnet sind. Die Zuweisungen sind getrennt
+von den anderen Ausgaben zu veranschlagen und durch Haushaltsvermerk ausdrücklich als zur
+Selbstbewirtschaftung bestimmt zu bezeichnen. Sie gelten für die Studierendenschaft
+rechnungsmäßig als abgewickelt, sobald sie als Ausgabe vom entsprechenden Titel an die
+Fachschaft überwiesen worden sind. Die FKGO kann Voraussetzungen für die Auszahlung der
+Fachschaftengelder festsetzen.
 
-(2) Die Zuweisungen für jede Fachschaft bestehen aus einem Sockelbetrag und einem
-weiteren Betrag, der sich nach der Zahl der Studierenden richtet, die der betreffenden
-Fachschaft gemäß § 22 zugeordnet sind. Darüber hinausgehende Zahlungen richten sich
-nach der Beitragsordnung, dem Haushaltsplan der Studierendenschaft und den Kriterien für
-die Verteilung der Fachschaftsgelder gemäß § 31 Abs. 3 Nr. 3.
+(2) Darüber hinausgehende Zahlungen (Besondere Fachschaftengelder -- BFSG) richten sich nach
+der Beitragsordnung, dem Haushaltsplan der Studierendenschaft und den Kriterien für die
+Verteilung der Fachschaftsgelder in der FKGO gemäß \S~31 Absatz~3 Nummer~3.
 
-(3) Für die Bewirtschaftung der Mittel durch die Fachschaften sind die Bestimmungen
-des § 42 Abs. 1, 3, 4 und 13 entsprechend anzuwenden. Bei der Bewirtschaftung ist
-ein Nachweis zu führen, aus dem sich die Einzahlungen und Auszahlungen ergeben.
-Die Buchungen sind zu belegen. Am Ende des Haushaltsjahres kassenmäßig nicht
-verausgabte Mittel sind im Nachweis des neuen Haushaltsjahres als Einnahmen zu
-buchen.
+(3) Für die Bewirtschaftung der Mittel durch die Fachschaften sind die Bestimmungen des § 42
+Absatz 1, 3, 4 und 13 entsprechend anzuwenden. Am Ende des Haushaltsjahres kassenmäßig nicht
+verausgabte Mittel sind im Nachweis des neuen Haushaltsjahres als Einnahmen zu buchen.
 
 
 ### § 44 Kassenwesen
@@ -1218,11 +1347,8 @@ die kurzfristige Anlage von Festgeldern unterhalten werden.
 als Unterschriftsberechtigte für die Konten
 (Kontoverfügungsberechtigte). Die Konten sind so zu sichern, dass von den in
 S. 1 genannten Personen über sie nur je zwei gemeinschaftlich verfügen
-können. Für die Konten des Hilfsfonds nach Abs. 4 i.V.m. § 12 Abs. 2 wird
-abweichend von S. 1 Nr. 3 eine andere weitere Person, in der Regel die
-Ausschussvorsitzende, bestellt. Kontoverfügungsberechtigte dürfen nicht mit
-der Unterzeichnung von Kassenanordnungen betraut (anordnungsbefugt) sein. § 42 
-Abs. 6 ist entsprechend anzuwenden. Die Finanzreferentin kontrolliert die
+können. Kontoverfügungsberechtigte dürfen nicht mit der Unterzeichnung von Kassenanordnungen
+betraut (anordnungsbefugt) sein. Die Finanzreferentin kontrolliert die
 Personen nach S. 1.
 
 (6) Kasseneinzahlungen sind zu quittieren, eine Durchschrift der Quittung verbleibt
@@ -1248,12 +1374,15 @@ erlassenen Verwaltungsvorschriften des Landes Nordrhein-Westfalen entsprechend.
 
 
 ### § 45 Nachtragshaushalt
+
 Für die Nachträge zum Haushaltsjahr gelten die §§ 39 bis 43 entsprechend. Die
 Beratungsdauer des Nachtragshaushaltes im Haushaltsausschuss und im SP darf
 jeweils 20 Tage nicht überschreiten; Haushaltsausschuss und SP haben
 sicherzustellen, dass zwischen Einladung zur ersten Beratung im Haushaltsausschuss
-und dritter Lesung im SP längstens 40 Tage liegen. Nachträge zum Haushaltsplan
-können nur für das laufende Haushaltsjahr eingebracht werden.
+und dritter Lesung im SP längstens 40 Tage liegen.
+In die zweite Lesung im SP kann erst nach der Abgabe einer Stellungnahme der FK oder nach
+30 Tagen nach der Vorlage des Entwurfs gegenüber FK eingetreten werden.
+Nachträge zum Haushaltsplan können nur für das laufende Haushaltsjahr eingebracht werden.
 
 
 ### § 46 Buchführung
