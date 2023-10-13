@@ -1,7 +1,7 @@
 ---
-title: Geschäftsordnung der OV
-short: Geschäftsordnung der OV
-date:  4. Oktober 2016
+title: Geschäftsordnung der Obleuteversammlung (GOOV)
+short: Geschäftsordnung der Obleuteversammlung (GOOV)
+date:  6. Oktober 2023
 type:  Ordnung
 id:    GOOV
 contains:
@@ -14,6 +14,7 @@ contains:
   puborgan: AKUT
   pubdate:  18. Juli 2015
   puburl:  https://sp.uni-bonn.de/bekanntmachungen/files/2015/AK_Ex_GO-Obleuteversammlung-10stk.pdf
+  ref: 0076642a741a5535c77246b2639096b7702b028f/md/Ordnungen/GOOV.md
 - title: Geschäftsordnung der Obleuteversammlung
   short: Geschäftsordnung der OV
   actorgan: Obleuteversammlung
@@ -23,402 +24,428 @@ contains:
   puborgan: AKUT
   pubdate:  4. Oktober 2016
   puburl:  https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut_extra_2016-111.pdf
+  ref: b0b4a7199984c777616a2af5f1fcab06ad385d27/md/Ordnungen/GOOV.md
+- title: Geschäftsordnung der Obleuteversammlung (GOOV)
+  short: Geschäftsordnung der Obleuteversammlung (GOOV)
+  actorgan: Obleuteversammlung
+  actdate:  2. November 2022
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  6. Oktober 2023
+  puburl:  https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-70.pdf
+  ref: HEAD/md/Ordnungen/GOOV.md
 
 ---
 
-Die Obleuteversammlung (OV) des Hochschulsports der RFWU Bonn gibt sich gemäß §4 (1) Ziffer
-6 des Statuts für den Studentinnensport (SpS) die folgende Geschäftsordnung. Allgemein werden
-alle Personen- und Amtsbezeichnungen in weiblicher Form gebraucht, wobei die männliche Form
-stets eingeschlossen ist.
+Die Obleuteversammlung (OV) des Hochschulsports der RFWU Bonn gibt sich
+gemäß § 35c Satzung der Studierendenschaft (SdS) die folgende Geschäftsordnung.
+
 
 # Allgemeiner Teil
 
 ### § 1 Einberufung
 
-(1) Während der Vorlesungszeit wird die OV mindestens zweimal pro Semester zu ordentlichen
-Sitzungen von der OV-Sprecherin bzw. im Falle der konstituierenden Sitzung von einer
-Sportreferentin einberufen.
+(1) Die OV wird vom OV-Vorsitz bzw. dem Sportreferat einberufen. Pro Semester finden
+mindestens zwei ordentliche Sitzungen während der Vorlesungszeit statt.
 
-(2) Die Einberufung regelt §5 (1), (2) des SpS.
+(2) Die Einberufung der OV erfolgt in Textform unter Angabe einer vorläufigen
+Tagesordnung spätestens am siebten Tag vor dem Datum der Sitzung (vgl. § 5 (2) SpS).
 
-(3) Schriftlich einzuladen sind persönlich
+(3) In Textform einzuladen sind persönlich
 
-- stimmberechtigte OV-Mitglieder
-- Vertreterinnen des allgemeinen Hochschulsports
-- Mitglieder der OV-Ausschüsse
-- AStA-Vorsitzende
-- AStA-Finanzreferentin.
-- ggf. Vorsitzende des SP-Sportausschusses.
+1. stimmberechtigte OV-Mitglieder und deren Stellvertretung
+2. Vertretung des allgemeinen Hochschulsports
+3. Mitglieder der OV-Ausschüsse
+4. AStA-Vorsitz
+5. AStA-Finanzreferat
+6. das SP-Präsidium
 
-Die Einladung ergeht ebenso an die Organe der Studentinnenschaft. Der Einladung ist das Protokoll
-der letzten OV-Sitzung beizufügen.
+(4) Sitzungen können in Präsenz, in elektronischer Kommunikation (digitale Sitzung) oder
+teilweiser elektronischer Kommunikation (Hybrid-Sitzung) stattfinden. In der Einladung ist
+darauf hinzuweisen, in welcher Form die Sitzung stattfindet.
 
-(4) Die OV-Sitzungen sind hochschulöffentlich bekanntzumachen.
+(5) Der OV-Vorsitz entscheidet im Einvernehmen mit dem Sportreferat, ob eine Sitzung
+digital oder als Hybrid-Sitzung stattfinden kann. Gibt es strittige oder besonders
+weitreichende Anträge so soll die Sitzung in Präsenz stattfinden.
+
+(5) Die Sitzungstermine der OV sind hochschulöffentlich bekanntzugeben.
 
 
-### § 2 Tagesordnung / Anträge
+### § 2 Tagesordnung und Anträge
 
-(1) Die Tagesordnung ordentlicher Sitzungen muss folgende Punkte enthalten :
-
-a) Eröffnung / Protokollführerin
+(1) Die Tagesordnung(TO) ordentlicher Sitzungen muss mindestens folgende Punkte
+enthalten:
+a) Eröffnung / Protokollführung
 b) endgültige Festlegung der Tagesordnung
 c) Genehmigung des Protokolls der vorangegangenen Sitzung
 d) Bericht der Sportreferentinnen
 e) Bericht der Leitung des allgemeinen Hochschulsports
-f) Anträge
-g) Verschiedenes
+f) Finanzanträge
+g) sonstige Anträge
+h) Verschiedenes
 
-(2) Auf Antrag eines OV-Mitgliedes oder OV-Ausschussmitgliedes sind mit einfacher Mehrheit
-weitere Tagesordnungspunkte aufzunehmen. Die OV kann unter (a) - (f) nicht aufgeführte Punkte
-gemäß § 9 dieser GO von der TO absetzen.
+(2) Auf Antrag eines OV-Mitgliedes oder OV-Ausschussmitgliedes sind mit einfacher
+Mehrheit weitere Tagesordnungspunkte aufzunehmen. Die OV kann unter (a) - (f) nicht
+aufgeführte Punkte gemäß § 9 dieser GO von der TO absetzen.
 
-(3) Finanzanträge müssen der Einladung beigefügt werden. Sie sind zu Beginn des TOP "Anträge"
-insgesamt mit ihrem Finanzvolumen zu verlesen. Zu anderen TOPen können Anträge jederzeit von
-OV-Mitgliedern und OV-Ausschussmitgliedern gestellt werden, wenn sie sich mit der verhandelten
-Sache befassen.
+(3) Anträge auf Verwendung von Geldern können von der OV nur behandelt werden, wenn
+sie vor Ende der Einladungsfrist allen OV-Mitgliedern zugegangen sind(vgl §11 (2)).
 
-(4) Jedes Mitglied der Studentinnenschaft der Uni Bonn hat Antragsrecht bei der OV zu TOP (f) /
-(g).
+(4) Anträge sind zu Beginn des TOP “Anträge” insgesamt mit ihrem Finanzvolumen zu
+verlesen. Zu anderen TOPen können Anträge jederzeit von OV-Mitgliedern und OV-
+Ausschussmitgliedern gestellt werden, wenn sie sich mit der verhandelten Sache
+befassen.
 
-(5) Eine OV-Sitzung endet nach Abschluss der TO, spätestens jedoch um 24.00Uhr; ein begonnener
-TOP kann zu Ende geführt werden.
+(5) Jedes Mitglied der Studierendenschaft der Uni Bonn hat Antragsrecht bei der OV zu
+TOP (g)/(h).
+
+(6) Eine Sitzung endet nach Abschluss der TO.
 
 
 ### § 3 Versammlungsleitung
 
-(1) Die Versammlungsleitung obliegt der OV-Sprecherin.
+(1) Die Versammlungsleitung obliegt dem OV-Vorsitz.
 
-(2) Die OV-Sprecherin und ihre Stellvertreterin werden gemäß § 4 (4) des SpS auf der
-konstituierenden Sitzung der OV aus dem Kreis der OV-Mitglieder für zwei Semester gewählt.
+(2) Bei Vehinderung des Vorsitzes sowie dessen Stellvertretung wählt die OV aus ihrer
+Mitte eine Redeleitung für die jeweilige Sitzung.
 
-(3) Sie wird im Verhinderungsfall durch ihre Vertreterin und bei deren Verhinderung durch ein für
-die jeweilige Sitzung von der OV gewähltes OV-Mitglied vertreten.
+(3) Die Versammlungsleitung eröffnet, leitet und schließt die Sitzung. Sie führt das Amt
+unparteiisch und sachgemäß und wahrt die Ordnung im Sitzungsraum; sie übt dort
+Hausrecht aus.
 
-(4) Die OV-Sprecherin eröffnet, leitet und schließt die Sitzung. Sie führt das Amt unparteiisch und
-sachgemäß und wahrt die Ordnung im Sitzungsraum; sie übt dort Hausrecht aus.
-
-(5) Wünscht die OV-Sprecherin sich zur verhandelten Sache zu äußern, so hat sie die
-Sitzungsleitung bis zum Ende des Redebeitrags an die Stellvertreterin oder bei deren Abwesenheit
-an ein anderes anwesendes OV-Mitglied abzugeben.
-
-(6) Die Leitung der Sitzung durch eine von der Debatte oder Abstimmung betroffene Person ist bis
-zum Abschluss des betreffenden Punktes nicht gestattet - ausgenommen sind Debatten zur GO.
-
-(7) Die OV-Sprecherin führt bei jeder Sitzung eine Anwesenheitsliste, die im Sportreferat
-aufbewahrt wird.
+(4) Die Versammlungsleitung führt bei jeder Sitzung eine Anwesenheitsliste, die im
+Sportreferat aufbewahrt wird.
 
 
 ### § 4 Öffentlichkeit
 
-(1) Die Sitzungen der OV sind bis auf Personaldebatten hochschulöffentlich; § 15 (2) der GO bleibt
-unberührt. Zur Öffentlichkeit zählen nicht : OV-Mitglieder und deren Stellvertreterinnen sowie OV-
-Ausschußmitglieder, AStA-Vorsitzende sowie AStA-Finanzreferentin.
+(1) Die Sitzungen der OV sind sofern diese GO nichts anderes vorsieht
+hochschulöffentlich. Zur Öffentlichkeit zählen nicht: OV-Mitglieder und deren
+Stellvertretung, sowie OV-Ausschussmitglieder, AStA-Vorsitz und AStA-Finanzreferat.
 
-(2) Alle Einladungen, Anschreiben, Anreden sind unabhängig von der einzelnen Anrede als
-gendergerecht zu verstehen.
+(2) Alle Einladungen, Anschreiben, Anreden sind nach Möglichkeit genderneutral zu
+formulieren.
 
 
 ### § 5 Rederecht
 
-(1) Rederecht haben die OV-Mitglieder und deren Stellvertreterinnen, die OV-Ausschußmitglieder,
-die Vertreterinnen des allgemeinen Hochschulsports, AStA Vorsitzende sowie AStA-
-Finanzreferentin. Weiteren Personen kann auf Antrag Rederecht erteilt werden.
+(1) Rederecht haben Mitglieder der Studierendenschaft, sowie die Vertretung des
+allgemeinen Hochschulsports. Weiteren Personen kann auf Antrag Rederecht erteilt
+werden.
 
-(2) Die OV-Sprecherin führt eine Rednerinnenliste und erteilt das Wort in der Reihenfolge der
-Wortmeldungen. Sie unterbricht die Liste bei einem Ruf zur GO. Sie kann von der Liste abweichen,
-wenn ihr dies dem Fortgang der Verhandlung dienlich erscheint und zeigt dies der OV an.
-
-(3) Die Redezeit beträgt grundsätzlich höchstens 5 Minuten. Welche länger zu sprechen wünscht,
-hat dies vor Beginn ihrer Rede der OV mit einer kurzen Begründung mitzuteilen; die OV
-entscheidet über die Verlängerung ohne Aussprache.
-
-(4) Die Redezeit bei Wortmeldungen zur GO beträgt maximal 2 Minuten, in Personaldebatten
-maximal 5 Minuten.
+(2) Die Redeleitung führt eine Redeliste und erteilt das Wort in der Reihenfolge der
+Wortmeldungen. Sie unterbricht die Liste bei einem Ruf zur GO. Sie kann von der Liste
+abweichen, wenn ihr dies dem Fortgang der Verhandlung dienlich erscheint und zeigt dies
+der OV an.
 
 
-### § 6 Beschlußfähigkeit
+### § 6 Beschlussfähigkeit
 
-(1) Die OV gilt als beschlußfähig, solange nicht auf Antrag eines OV-Mitglieds das Gegenteil durch
-die Sprecherin festgestellt wird.
+(1) Die OV ist beschlussfähig, wenn mehr als ein Drittel ihrer Mitglieder anwesend ist.
 
-(2) Wird auf Antrag die Beschlußunfähigkeit - weniger als die Hälfte der stimmberechtigten OV-
-Mitglieder - festgestellt, so ist eine Wahl oder Abstimmung ungültig. Die Versammlung kann
-fortgeführt werden, lediglich Abstimmungen sind dann nicht mehr möglich.
+(2) Auf Verlangen eines Mitglieds der OV ist die Beschlussfähigkeit der OV unverzüglich
+festzustellen. Die Redeleitung stellt die Beschlussfähigkeit durch namentlichen Aufruf der
+Mitglieder der OV, bzw. deren Stellvertretung, fest.
 
-(3) Bei Beschlußunfähigkeit muß innerhalb von 4 Wochen eine zweite Sitzung mit mindestens der
-gleichen Tagesordnung stattfinden. Die Einladung hat unter ausdrücklichem Hinweis darauf zu
-erfolgen, daß diese Sitzung unabhängig von der Zahl der dann anwesenden Mitglieder in Bezug auf
-die TOPs der Sitzung, auf der die Beschlußunfähigkeit festgestellt wurde, beschlußfähig ist.
+(3) Zweifelt die Redeleitung an der Beschlussfähigkeit der OV, so hat sie die
+Beschlussfähigkeit nach dem Verfahren des Abs. 2 Satz 2 festzustellen.
+
+(4) Stellt die Redeleitung bei der Auszählung eines Abstimmungsergebnisses fest, dass
+die OV nicht beschlussfähig ist, so treten die Folgen der Beschlussunfähigkeit gemäß
+Abs. 5 sofort ein. Die Abstimmung ist ungültig.
+
+(5) Bei Beschlussunfähigkeit kann die Versammlung fortgeführt werden, lediglich
+Abstimmungen sind dann nicht mehr möglich.
+Nicht behandelte TOPe werden auf die nächste Sitzung verschoben.
+Sie muss innerhalb von 4 Wochen stattfinden und ist für die verschobenen TOPe
+unabhängig von der Zahl der dann anwesenden Mitglieder beschlussfähig.
+Die mit der Einladung verschickte Tagesordnung muss mindestens die verschobenen
+TOPe beinhalten.
+Die Einladung hat unter ausdrücklichem Hinweis darauf zu erfolgen, dass diese Sitzung
+unabhängig von der Zahl der dann anwesenden Mitglieder in Bezug auf die
+verschobnenen TOPe beschlußfähig ist.
 
 
 ### § 7 Abstimmungen
 
-(1) Stimmberechtigt sind alle gewählten Obleute bzw. bei Abwesenheit deren Stellvertreterinnen
-sowie die Sportreferentinnen, die sich im Verhandlungsraum befinden.
+(1) Stimmberechtigt sind alle anwesenden, gewählten Obleute bzw. bei Abwesenheit
+deren Stellvertretung sowie die Mitglieder des Sportreferats.
 
-(2) Vor Eröffnung der Abstimmung werden die zur Abstimmung stehenden Anträge verlesen, bei
-Finanzanträgen auch mit ihrem Finanzvolumen. Auf Verlangen eines OV-Mitglieds, einer
-Sportreferentin oder der Antragstellerin ist ein Antrag zu teilen. Bestehen zum gleichen
-Verhandlungsgegenstand mehrere Anträge, so ist über den weitestgehenden zuerst abzustimmen.
-Nach Eröffnung der Abstimmung können weitere Anträge nicht mehr gestellt werden und ist
-Rederecht dazu nicht mehr möglich.
-Die Abstimmung beginnt durch Erklärung der OV-Sprecherin.
+(2) Vor Eröffnung der Abstimmung werden die zur Abstimmung stehenden Anträge
+verlesen, bei Finanzanträgen auch mit ihrem Finanzvolumen. Auf Verlangen eines OV-
+Mitglieds oder der antragsstellenden Person ist ein Antrag zu teilen.
 
-(3) Im Fall einer Wahl oder Abstimmung erfragt die OV-Sprecherin zunächst die Ja-Stimmen, dann
-die Nein-Stimmen, dann die Enthaltungen.
+(3) Bestehen zum gleichen Verhandlungsgegenstand mehrere Anträge, so ist über den
+weitestgehenden zuerst abzustimmen.
 
-(4) Soweit SpS oder GO nichts anderes bestimmen, gilt ein Antrag als angenommen bzw. ist eine
-Wahl erfolgt, wenn die Zahl der Ja-Stimmen die der Nein-Stimmen übersteigt (einfache Mehrheit).
+(4) Nach Eröffnung der Abstimmung können weitere Anträge nicht mehr gestellt werden
+und ist Rederecht dazu nicht mehr möglich.
+Die Abstimmung beginnt durch Erklärung der Redeleitung.
 
-(5) Eine Abstimmung ist ergebnislos, wenn mehr als die Hälfte der abgegebenen Stimmen
-Enthaltungen sind. Wiederholt sich bei einer Abstimmung zur selben Sache dieses Ergebnis, so
-wird zum nächsten Punkt der Verhandlung in der Sitzung übergegangen.
+(5) Im Fall einer Wahl oder Abstimmung erfragt die Redeleitung zunächst die Ja-Stimmen,
+dann die Nein-Stimmen, dann die Enthaltungen.
 
-(6) Die Abstimmung erfolgt grundsätzlich durch Handzeichen. Einem Antrag auf geheime
-Abstimmung ist zu entsprechen; bei GO-Anträgen ist geheime Abstimmung nicht zulässig.
+(6) Soweit SpS oder GO nichts anderes bestimmen, gilt ein Antrag als angenommen bzw.
+ist eine Wahl erfolgt, wenn die Zahl der Ja-Stimmen die der Nein-Stimmen übersteigt
 
-(7) Die Anfechtung einer Abstimmung kann nur während der Sitzung erfolgen; es entscheidet die
-OV-Sprecherin über die Anfechtung. Wird der Anfechtung stattgegeben, so kann die Abstimmung
-auf derselben Sitzung wiederholt werden.
-Eine Anfechtung vor dem Ältestenrat der Studentinnenschaft ist zusätzlich innerhalb von 10 Tagen
-möglich.
+(einfache Mehrheit).
 
-(8) OV-Beschlüsse der laufenden Sitzungsperiode können nur durch 2/3-Mehrheit der anwesenden
-Mitglieder, mindestens aber mit der zu ihrer Fassung erforderlichen Mehrheit, aufgehoben werden.
+(7) Die Abstimmung erfolgt grundsätzlich durch Handzeichen. Einem Antrag auf geheime
+Abstimmung, durch ein OV-Mitglied, ist zu entsprechen; bei GO-Anträgen ist geheime
+Abstimmung nicht zulässig.
+
+(8) Auf digitalen Sitzungen und Hybrid-Sitzungen kann mithilfe elektronischer Hilfsmittel
+abgestimmt werden. Eine geheime Abstimmung ist nicht möglich. Wird auf einer solchen
+Sitzung für einen Antrag eine geheime Abstimmung gefordert, so gilt die Sitzung für
+diesen Punkt als nicht beschlussfähig.
+
+(9) Die Anfechtung einer Abstimmung kann nur während der Sitzung erfolgen; es
+entscheidet die Redeleitung über die Anfechtung. Wird der Anfechtung stattgegeben, so
+kann die Abstimmung auf derselben Sitzung wiederholt werden.
+
+(10) OV-Beschlüsse der laufenden Sitzungsperiode können nur durch 2/3-Mehrheit der
+anwesenden Mitglieder, mindestens aber mit der zu ihrer Fassung erforderlichen
+Mehrheit, aufgehoben werden.
 
 
 ### § 8 Protokoll
 
-(1) Über den Verlauf jeder OV-Sitzung ist gemäß § 5 (3) SpS ein Protokoll zu erstellen. Die
-Protokollführerin wird durch die OV zu Beginn einer Sitzung bestimmt.
+(1) Über die Sitzungen der OV ist ein Protokoll anzufertigen, das die wesentlichen
+Argumente der Sachdebatte, die Anträge und Beschlüsse sowie die Ergebnisse von
+Abstimmungen und Wahlen enthält. Die Protokollführung wird durch die OV zu Beginn
+einer Sitzung bestimmt.
 
-(2) In das Protokoll sind die wichtigsten Beiträge und Argumente der Sachdebatte aufzunehmen,
-alle Anträge und Beschlüsse sind im Wortlaut wiederzugeben. Es ist von der Protokollführerin und
-der OV-Sprecherin im Original zu unterzeichnen.
+(2) Die protokollierende Person kann eine Aufwandsentschädigung erhalten. Darüber und
+über deren Höhe entscheidet die OV. Der Beschluss gilt bis zum ende der
+Sitzungsperiode und kann abweichend von §7 (8) mit einer einfachen Mehrheit
+aufgehoben oder geändert werden.
 
 (3) Alle schriftlich eingereichten Anträge sind dem Originalprotokoll beizufügen.
 
-(4) Es wird das Abstimmungsergebnis und ggf. Einstimmigkeit vermerkt. Auf Antrag eines OV-
-Mitglieds ist die Stimmenanzahl zu vermerken.
+(4) Das Protokoll ist zu veröffentlichen und der nächsten OV zur Genehmigung
+vorzulegen.
 
-(5) Jedes OV Mitglied hat das Recht, seine vom Beschluß abweichende Auffassung schriftlich und
-begründet dem Protokoll als Anlage beizufügen (Sondervotum); ausgenommen hiervon sind
-Abstimmungen zur GO. Darüber hinaus hat jedes OV-Mitglied das Recht, sein
-Abstimmungsverhalten, ausgenommen bei Abstimmungen zur GO, im Protokoll vermerken zu
-lassen.
+(5) Jedes OV Mitglied hat das Recht, seine vom Beschluss abweichende Auffassung
+schriftlich und begründet dem Protokoll als Anlage beizufügen (Sondervotum);
+ausgenommen hiervon sind Abstimmungen zur GO.
+Darüber hinaus hat jedes OV-Mitglied das Recht, sein Abstimmungsverhalten,
+ausgenommen bei Abstimmungen zur GO und bei geheimen Abstimmungen, im Protokoll
+vermerken zu lassen.
 
 
 # Besondere Maßnahmen / Verfahren
 
 ### § 9 Geschäftsordnungsdebatten
 
-(1) Äußerungen und Anträge zur GO dürfen sich nur mit dem Gang der Verhandlungen befassen.
+(1) Äußerungen und Anträge zur GO dürfen sich nur mit dem Gang der Verhandlungen
+befassen.
 
 (2) Äußerungen zur GO sind insbesondere
 
-- Hinweis zur GO
-- Anfrage zur GO
-- Zurückziehung eines Antrags oder einer Anfrage
-- Aufnahme eines zurückgezogenen Antrages oder einer Anfrage.
+1. Hinweis zur GO
+2. Anfrage zur GO
+3. Zurückziehung eines Antrags oder einer Anfrage
+4. Aufnahme eines zurückgezogenen Antrages oder einer Anfrage.
 
 (3) Anträge zur GO sind insbesondere
 
-- Antrag auf Aussetzung : der Punkt kann auf der nächsten Sitzung erneut beraten werden
-- Antrag auf Vertagung : der Punkt wird auf die Tagesordnung der nächsten Sitzung gesetzt
-- Antrag auf Nichtbefassung : der Punkt wird nicht erörtert, dies kann nur vor der Debatte des
-    betreffenden Punktes beantragt werden.
-- Antrag auf Schluß der Debatte und sofortige Abstimmung
-- Antrag auf Schluß der Rednerinnenliste : vor der Abstimmung darüber ist diese zu
-    verlesen und gegebenenfalls um weitere Wortmeldungen zu ergänzen.
-- Antrag auf Fortsetzung der Rednerinnenliste
-- Antrag auf Dringlichkeit
-- Antrag auf Beschränkung der Redezeit
-- Antrag auf Übergang zur Tagesordnung : sofortiger Beginn des nächsten TOPs
-- Antrag auf Teilung eines Antrages in zwei oder mehrere Anträge.
+1. Antrag auf Aussetzung: der Punkt kann auf der nächsten Sitzung erneut beraten
+werden
+2. Antrag auf Vertagung: der Punkt wird auf die Tagesordnung der nächsten Sitzung
+gesetzt
+3. Verlangen auf Vertagung: auf digitalen und Hyprid-Sitzungen kann ein Mitglied die
+Vertagung auf eine Präsenzsitzung verlangen, ein Einspruch ist nicht möglich
+4. Antrag auf Nichtbefassung: der Punkt wird nicht erörtert, dies kann nur vor der
+Debatte des betreffenden Punktes beantragt werden.
+5. Antrag auf Schluss der Debatte und sofortige Abstimmung
+6. Antrag auf Schluss der Redner*innenliste: vor der Abstimmung darüber ist diese zu
+verlesen und gegebenenfalls um weitere Wortmeldungen zu ergänzen.
+7. Antrag auf Fortsetzung der Redeliste
+8. Antrag auf Dringlichkeit
+9. Antrag auf Beschränkung der Redezeit
+10. Antrag auf Übergang zur Tagesordnung: sofortiger Beginn des nächsten TOPs
+11. Antrag auf Sprung in der Tagesordnung: sofortige Behandlung eines anderen TOPs
+12. Antrag auf Teilung eines Antrages in zwei oder mehrere Anträge.
 
-(4) Wortmeldungen zur GO erfolgen durch Zuruf und Handzeichen; sie sind jederzeit möglich und
-sofort zu behandeln.
+(4) Wortmeldungen zur GO erfolgen durch Zuruf und Handzeichen; sie sind jederzeit
+möglich und sofort zu behandeln.
 
-(5) Erhebt sich zu einem Antrag zur GO nach Befragen durch die OV-Sprecherin keine Gegenrede,
-so ist der Antrag angenommen. Anderenfalls ist nach Anhörung der Gegenrede mit einfacher
-Mehrheit abzustimmen.
+(5) Erhebt sich zu einem Antrag zur GO nach Befragen durch die Redeleitung keine
+Gegenrede, so ist der Antrag angenommen.
+Anderenfalls ist nach Anhörung der Gegenrede mit einfacher Mehrheit abzustimmen.
 
 
 ### § 10 Ordnungsmaßnahmen
 
-(1) Die OV-Sprecherin kann von der Sache abschweifende Rednerinnen zur Sache rufen; im
-Wiederholungsfall kann sie das Wort entziehen.
+(1) Die Redeleitung kann von der Sache abschweifende Redende zur Sache rufen.
+Im Wiederholungsfall kann sie das Wort entziehen.
 
-(2) Die OV-Sprecherin kann Anwesende, die die Ordnung verletzen, zur Ordnung rufen; mit dem
-dritten Ordnungsruf während einer Sitzung erfolgt der Ausschluß von der Sitzung.
+(2) Die Redeleitung kann Anwesende, die die Ordnung verletzen, zur Ordnung rufen.
+Mit dem dritten Ordnungsruf während einer Sitzung erfolgt der Ausschluss von der
+Sitzung.
 
-(3) Bei Unruhe, die den Fortgang der sachgerechten Verhandlung unmöglich macht, kann die OV-
-Sprecherin die Verhandlung aussetzen, wenn die Unruhe nicht auf andere Weise behebbar ist.
+(3) Bei Unruhe, die den Fortgang der sachgerechten Verhandlung unmöglich macht, kann
+die Redeleitung die Verhandlung aussetzen, wenn die Unruhe nicht auf andere Weise
+behebbar ist.
 
-(4) Gegen Entscheidungen der OV-Sprecherin ist Einspruch nur unverzüglich möglich, nicht jedoch
-durch die von der Entscheidung betroffene Person. Über den Einspruch entscheidet die OV ohne
-Debatte mit einfacher Mehrheit.
+(4) Gegen Entscheidungen der Redeleitung ist Einspruch nur unverzüglich möglich, nicht
+jedoch durch die von der Entscheidung betroffenen Person. Über den Einspruch
+entscheidet die OV ohne Debatte mit einfacher Mehrheit.
 
-(5) Die Betroffene ist zu einer schriftlichen persönlichen Erklärung berechtigt, die dem Protokoll
-beizufügen ist.
+(5) Die betroffene Person ist zu einer schriftlichen persönlichen Erklärung berechtigt, die
+dem Protokoll beizufügen ist.
 
 
 ### § 11 Vertrauensabstimmungen
 
-(1) Jedes OV-Mitglied und OV-Ausschußmitglied hat in Verbindung mit der Abstimmung eines
-Antrags jederzeit das Recht auf Stellen der Vertrauensfrage.
+(1) Jedes Sportreferatsmitglied und OV-Ausschussmitglied hat in Verbindung mit der
+Abstimmung eines Antrags jederzeit das Recht auf Stellen der Vertrauensfrage.
 
-(2) Ein Tadels- oder Mißtrauensantrag gegen eine Sportreferentin oder ein OV-Ausschußmitglied
-oder ein Tadelsantrag gegen eine Obfrau kann durch mindestens drei stimmberechtigte OV-
-Mitglieder schriftlich bei der OV-Sprecherin eingebracht werden und wird ungeachtet einer Frist
+(2) Ein Tadels- oder Misstrauensantrag gegen ein Mitglied des Sportreferats oder ein OV-
+Ausschussmitglied oder ein Tadelsantrag gegen einen Obmensch kann durch mindestens
+drei stimmberechtigte OV-Mitglieder schriftlich beim OV-Vorsitz eingebracht werden und
+wird ungeachtet einer Frist
 auf der nächsten OV-Sitzung behandelt.
 
-(3) Tadelsanträge bedürfen der einfachen Mehrheit der anwesenden stimmberechtigeten OV-
-Mitglieder. Mißtrauensanträge bedürfen der absoluten Mehrheit der anwesenden OV-Mitglieder
-und können nur konstruktiv sein.
+(3) Tadelsanträge bedürfen der einfachen Mehrheit der anwesenden stimmberechtigeten
+OV-Mitglieder. Misstrauensanträge bedürfen der absoluten Mehrheit der anwesenden OV-
+Mitglieder und können nur konstruktiv sein.
 
-(4) Wird einer der Sportreferentinnen von der OV das Mißtrauen ausgesprochen, so stellt damit die
-OV einen Antrag des konstruktiven Mißtrauens an das SP gemäß § 6 (8) des SpS und schlägt dem
-SP eine Nachfolgerin vor.
+(4) Wird eins der Mitgieder des Sportreferats von der OV das Misstrauen ausgesprochen,
+so stellt damit die OV einen Antrag des konstruktiven Misstrauens an das SP gemäß § 6
+
+(8) des SpS und schlägt dem
+SP eine Nachfolge vor.
 
 
 ### § 12 Auslegung und Handhabung der GO
 
-(1) Auslegung und Handhabung der GO und des SpS obliegt der OV-Sprecherin. Die üblichen
-parlamentarischen Regeln sind zu beachten.
+(1) Auslegung und Handhabung der GO und des SpS obliegt der Redeleitung bzw. dem
+OV-Vorsitz. Mitglieder des Statuts- und Geschäftsordnungsauschuss der OV sollen gehört
+werden. Die üblichen parlamentarischen Regeln sind zu beachten.
 
-(2) Bei Auslegungszweifeln bzgl. der GO entscheidet die OV mit einfacher Mehrheit.
-
-(3) In Einzelfällen kann mit Billigung von 2/3 der anwesenden stimmberechtigten OV-Mitglieder
-von dieser GO abgewichen werden.
+(2) Bei Auslegungszweifeln bezüglich der GO entscheidet die OV mit einfacher Mehrheit.
 
 
 ### § 13 Lesungen
 
-(1) Satzungen, Ordnungen und der Haushaltsplan werden in drei Lesungen behandelt. Die erste und
-die zweite Lesung müssen auf getrennten Sitzungen erfolgen. Die zweite und dritte Lesung können
-auf einer Sitzung erfolgen.
+(1) Satzungen und Ordnungen werden in drei Lesungen behandelt. Die erste und die
+zweite Lesung müssen auf getrennten Sitzungen erfolgen. Die zweite und dritte Lesung
+können auf einer Sitzung erfolgen.
 
-(2) In der ersten Lesung findet die Grundsatzdebatte statt. Die OV kann mit einfacher Mehrheit den
-zur Beratung stehenden Gegenstand an einen Ausschuß überweisen.
+(2) In der ersten Lesung findet die Grundsatzdebatte statt. Die OV kann mit einfacher
+Mehrheit den zur Beratung stehenden Gegenstand an einen Ausschuss überweisen.
 
-(3) In der zweiten Lesung findet die Einzelberatung statt, indem die OV-Sprecherin den
-Hauptantrag abschnittweise zur Beratung stellt. Liegen keine Anträge mehr vor oder sind die
-erforderlichen Abstimmungen durchgeführt, so kann die OV-Sprecherin die dritte Lesung eröffnen.
+(3) In der zweiten Lesung findet die Einzelberatung statt, indem die Redeleitung den
+Hauptantrag abschnittweise zur Beratung stellt. Liegen keine Anträge mehr vor oder sind
+die erforderlichen Abstimmungen durchgeführt, so kann die Redeleitung die dritte Lesung
+eröffnen.
 
-(4) In der dritten Lesung, der Schlußberatung, wird der abstimmungsreife Antrag verlesen. Zu dem
-Antrag als Ganzem können die OV-Mitglieder einmalig kurze Stellungnahmen abgeben. Danach
-erhält die Antragstellerin das Schlußwort. Danach ist über den Antrag zu beschließen.
+(4) In der dritten Lesung, der Schlussberatung, wird der abstimmungsreife Antrag
+verlesen. Zu dem Antrag als Ganzem können die OV-Mitglieder einmalig kurze
+Stellungnahmen abgeben. Danach erhält die antragsstellende Person das Schlusswort.
+Danach ist über den Antrag zu beschließen.
 
 
 ### § 14 Anordnung des Erscheinens
 
-(1) Auf begründetes Verlangen eines Drittels der OV-Mitglieder hat jede Sportreferentin bzw. jede
-OV-Ausschuß-Vorsitzende auf der OV-Sitzung zu erscheinen und Auskunft zu erteilen. Wenn dies
-nicht möglich ist, kann die Anwesenheit auf der nächsten OV-Sitzung verlangt werden.
-
+(1) Auf begründetes Verlangen eines Drittels der OV-Mitglieder hat jedes Mitglied des
+Sportreferats bzw. jeder OV-Ausschuss-Vorsitz auf der OV-Sitzung zu erscheinen und
+Auskunft zu erteilen. Wenn dies nicht möglich ist, kann die Anwesenheit auf der nächsten
+OV-Sitzung verlangt werden.
 
 # Wahlen und Ausschüsse
 
 ### § 15 Wahlen
 
-(1) Die Wahlen zu den Sportreferentinnen regelt das SpS § 6, die Wahl der OV-Sprecherin das SpS
-§ 4 (4), die Wahlen der Obleute das SpS § 3.
+(1) Die Wahlen zu den Mitgliedern des Sportreferats, des OV-Vorsitzes, sowie der Obleute
+regelt das Sportstatut.
 
-(2) Wahlen innerhalb der OV werden grundsätzlich mit einfacher Mehrheit der anwesenden,
-stimmberechtigten OV-Mitglieder entschieden, wenn die GO, das SpS oder übergeordnete
-Bestimmungen nichts anderes festsetzen.
+(2) Wahlen innerhalb der OV werden grundsätzlich mit einfacher Mehrheit der
+anwesenden, stimmberechtigten OV-Mitglieder entschieden, wenn diese GO, das SpS
+oder übergeordnete Bestimmungen nichts anderes festsetzen.
 
-(3) Die OV-Sprecherin eröffnet die Kandidatinnenliste, nimmt Vorschläge entgegen und schließt
-die Liste, wenn keine Vorschläge mehr eingehen oder vorliegen. Die Kandidatinnenliste ist mit
-Zustimmung der einfachen Mehrheit der anwesenden OV-Mitglieder neu zu eröffnen. Sie ist vor
-Beginn der Abstimmung zu verlesen.
+(3) Die Redeleitung eröffnet die Kandidierendenliste, nimmt Vorschläge entgegen und
+schließt die Liste, wenn keine Vorschläge mehr eingehen oder vorliegen.
+Die Kandidierendenliste ist mit Zustimmung der einfachen Mehrheit der anwesenden OV-
+Mitglieder neu zu eröffnen.
+Sie ist vor Beginn der Abstimmung zu verlesen.
 
-(4) § 7 dieser GO findet Anwendung.
+(4) Wahlen sind auf digitalen und auf Hybrid-Sitzungen nicht möglich
+
+(5) Näheres regelt §7 dieser GO.
 
 
 ### § 16 Personaldebatten
 
-(1) Auf Antrag eines OV-Mitgliedes sind Personaldebatten durchzuführen. Vor den Wahlen zu den
-dem SP vorzuschlagenden Sportreferentinnen sind Personaldebatten in jedem Fall durchzuführen.
+(1) Auf Antrag eines OV-Mitgliedes sind Personaldebatten durchzuführen. Vor den Wahlen
+zu den dem SP vorzuschlagenden Kandidierenden fürs Sportreferat sind
+Personaldebatten in jedem Fall durchzuführen.
 
-(2) Personaldebatten sind im Regelfall nicht öffentlich und müssen auf Verlangen von einem OV-
-Mitglied oder OV-Ausschußmitglied in jedem Fall nicht öffentlich durchgeführt werden. Die von
-der Debatte betroffenen Personen verlassen den Sitzungsraum, können aber zu Befragungen
-hereingerufen werden. Über Personaldebatten wird kein Protokoll geführt.
+(2) Personaldebatten sind im Regelfall nicht öffentlich und müssen auf Verlangen von
+einem OV-Mitglied oder OV-Ausschussmitglied in jedem Fall nicht öffentlich durchgeführt
+werden.
+Die von der Debatte betroffenen Personen verlassen den Sitzungsraum, können aber zu
+Befragungen hereingerufen werden.
+Über Personaldebatten wird kein Protokoll geführt.
 
-(3) Während einer Personaldebatte sind Wortmeldungen zur GO nicht zulässig. Die Debatte ist
-grundsätzlich auf 30 Minuten begrenzt, kann aber mit absoluter Mehrheit der anwesenden OV-
-Mitglieder um jeweils 30 Minuten verlängert werden.
+(3) Während einer Personaldebatte sind Wortmeldungen zur GO nicht zulässig. Die
+Debatte ist grundsätzlich auf 30 Minuten begrenzt, kann aber mit absoluter Mehrheit der
+anwesenden OV-Mitglieder um jeweils 30 Minuten verlängert werden.
 
 
 ### § 17 Ausschüsse
 
-(1) Zur Vorbereitung und Unterstützung ihrer Arbeit kann die OV zur Bearbeitung bestimmter
-Aufgaben ständige oder nicht-ständige Ausschüsse einsetzen. Die überwiesenen Aufgaben sind
-unverzüglich und gewissenhaft zu erledigen. Der OV ist regelmäßig und auf Antrag Bericht zu
-erstatten. Insbesondere ist nach Erledigung der Aufgaben ein Abschlußbericht zu erstellen.
+(1) Zur Vorbereitung und Unterstützung ihrer Arbeit kann die OV zur Bearbeitung
+bestimmter Aufgaben ständige oder nicht-ständige Ausschüsse einsetzen.
+Die überwiesenen Aufgaben sind unverzüglich und gewissenhaft zu erledigen. Der OV ist
+regelmäßig und auf Antrag Bericht zu erstatten.
+Insbesondere ist nach Erledigung der Aufgaben ein Abschlussbericht zu erstellen.
 
-(2) Darüber hinaus können die Ausschüsse jeden in ihren Arbeitsbereich fallenden Gegenstand
-verhandeln oder Vorlagen in die OV einbringen.
+(2) Darüber hinaus können die Ausschüsse jeden in ihren Arbeitsbereich fallenden
+Gegenstand verhandeln oder Vorlagen in die OV einbringen.
 
-(3) Ständige Ausschüsse sind der Planungsausschuß ( PA-OV ), der Prüfungsausschuß ( PrA-OV )
-gemäß § 9 des SpS, und der Statut/GO-Ausschuß ( S&GO-OV ).
+(3) Ständiger Ausschuss ist der Statuts- und Geschschäftsordnungssausschuss(SGOOV).
 
-(4) Jedem Ausschuß gehören mindestens drei Mitglieder an; Ausschußmitglieder müssen Mitglieder
-der Studierendenschaft sein. Dem PrA-OV darf kein Mitglied des PA-OV und keine Sportreferentin
-angehören.
+(4) Jedem Ausschuß gehören mindestens drei Mitglieder an; Ausschussmitglieder müssen
+Mitglieder der Studierendenschaft sein.
 
-(5) Ausschußmitglieder werden von OV-Mitgliedern vorgeschlagen und durch Abstimmung nach §
-14 dieser GO gewählt.
+(5) Ausschussmitglieder werden von OV-Mitgliedern vorgeschlagen und durch
+Abstimmung nach §15 dieser GO gewählt.
 
-(6) In den Ausschüssen haben alle Ausschußmitglieder Stimmrecht. Aus seiner Mitte wählt jeder
-Ausschuß eine Vorsitzende, die die Funktion der Berichterstatterin wahrnehmen kann. Für den
-Verlauf der Sitzungen findet diese GO entsprechende Anwendung.
+(6) In den Ausschüssen haben alle Ausschussmitglieder Stimmrecht. Aus seiner Mitte
+wählt jeder Ausschuß einen Vorsitz, dieser berichtet auf der OV. Für den Verlauf der
+Sitzungen findet diese GO entsprechende Anwendung.
 
-(7) Über die Arbeit im Ausschuß ist entweder ein Protokoll zu führen oder ein schriftlicher Bericht
-zu verfassen. Wird im Ausschuß über eine Sache keine Einigung aller Mitglieder erzielt, so steht
-der Minderheit ein gesonderter Bericht vor der OV zu.
+(7) Über die Arbeit im Ausschuss ist entweder ein Protokoll zu führen oder ein schriftlicher
+Bericht zu verfassen. Wird im Ausschuss über eine Sache keine Einigung aller Mitglieder
+erzielt, so steht der Minderheit ein gesonderter Bericht vor der OV zu.
 
-(8) Die Ausschüsse können durch ihre Vorsitzende jederzeit einberufen werden. Darüber hinaus
-muß ein Ausschuß auf Verlangen zweier Ausschußmitglieder, der OV-Sprecherin oder einer
-Sportreferentin einberufen werden. Die jeweilige konstituierende Sitzung hat innerhalb von vier
-Wochen nach der Wahl zu erfolgen. Die OV Sprecherin lädt zu den konstituierenden Sitzungen der
-Ausschüsse ein und leitet diese bis zur Wahl einer Ausschußvorsitzenden.
+(8) Die Ausschüsse können durch den Ausschussvorsitz jederzeit einberufen werden.
+Darüber hinaus muss ein Ausschuss auf Verlangen zweier Ausschussmitglieder, des OV-
+Vorsitzes oder des Sportreferats einberufen werden. Die jeweilige konstituierende Sitzung
+hat innerhalb von vier
+Wochen nach der Wahl zu erfolgen. Der OV-Vorsitz lädt zu den konstituierenden
+Sitzungen der Ausschüsse ein und leitet diese bis zur Wahl einer Ausschussvorsitzes.
 
 (9) Die Ausschüsse können jederzeit andere Personen zur Beratung hinzuziehen.
 
 
-# Schlußbestimmungen
+# Schlussbestimmungen
 
 ### § 18 Änderungen der GO
 
-(1) Änderungen der GO bedürfen der Zustimmung der absoluten Mehrheit der anwesenden OV-
-Mitglieder in drei Lesungen.
+(1) Änderungen der GO bedürfen der Zustimmung der absoluten Mehrheit der
+anwesenden OV-Mitglieder in drei Lesungen.
 
-(2) Die beschlossenen Änderungen sind dem SP von der OV-Sprecherin zur Genehmigung
-vorzulegen.
-
-(3) Die Änderungen treten am Tag nach ihrer Annahme durch das SP in Kraft; sie sind in der
-AKUT zu veröffentlichen.
+(2) Die Änderungen treten mit der Veröffentlichung im Veröffentlichunsorgan der
+Studierendenschaft in Kraft.
 
 
-### § 19 Zuordnung der Sportarten
+### § 19 Inkrafttreten
 
-(1) Das Zuordnungsverzeichnis der Obleute zu den Sportarten, das kein Teil dieser GO ist, wird
-erstmals durch die Anlage zum SpS geregelt.
+(1) Diese GO wurde auf der 219. OV mit absoluter Mehrheit beschlossen.
 
-(2) Änderungen dieses Verzeichnisses bedürfen einer 2/3-Mehrheit der anwesenden OV-Mitglieder.
+(2) Die GO tritt mit der Veröffentlichung im Veröffentlichunsorgan der Studierendenschaft
+in Kraft, jedoch frühestens mit Inkrafttreten der 7. Satzungsänderungssatzung der
+Satzung der Studierendenschaft.
 
-
-### § 20 Inkrafttreten
-
-(1) Diese GO tritt nach Annahme durch die OV mit der absoluten Mehrheit aller anwesenden
-Mitglieder am 15.12.1994, nach sachlicher Angleichung an das SpS vom 30.11.1995 und nach
-Annahme durch das SP am 11.01.1996 in Kraft.
-
-(2) Diese GO wurde nach einstimmiger Annahme durch die OV am 18.06.2015 geändert und ist
-nach Annahme durch das 37. Bonner Studierenden Parlament am 15.07.2015 in Kraft getreten.
-
-(3) Diese GO wurde nach einstimmiger Annahme durch die OV am 13.06.2016 geändert und ist
-nach Annahme durch das 38. Bonner Studierendenparlament am 08.07.2016 in Kraft getreten.
