@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms-Universität Bonn [FKGO]
 short: Geschäftsordnung der Fachschaftenkonferenz (FKGO)
-date:  4. Mai 2023
+date:  23. Oktober 2023
 type:  Ordnung
 id:    FKGO
 contains:
@@ -207,7 +207,14 @@ contains:
   pubdate:  4. Mai 2023
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-26.pdf
   ref: 0d3b3b01058103786d8b01f43799e49de8923715/md/Ordnungen/FKGO.md
-
+- title:    Dreizehnte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  short:    Dreizehnte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  actorgan: Fachschaftenkonferenz
+  actdate:  16. Oktober 2023
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  23. Oktober 2023
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-72.pdf
+  ref: fe881adf766493a7786abfdc3ede7a8f9b9684c4/md/Ordnungen/FKGO.md
 ---
 
 # Präambel
@@ -873,19 +880,16 @@ Dokumente vorliegen:
 6. Nachweise, dass für die Mitglieder der Kassenprüfungsausschüsse keine Ausschlussgründe vorlagen, und
 7. das aktuellste Ergebnis einer Fachschaftswahl in diesem oder dem vorhergehenden Semester.
 
-(6) Zudem hat die beantragende Fachschaft ihre aktuellen Kontaktdaten
-vollständig beizulegen.
-
-(7) Sind die Voraussetzungen nach Abs. 5 erfüllt, der Antrag
+(6) Sind die Voraussetzungen nach Abs. 5 erfüllt, der Antrag
 ordnungsgemäß ausgefüllt und bestehen sonst keine Bedenken gegen die
 Auszahlung der Gelder, so werden die Gelder vom Vorsitzenden des FSK
 oder seinem Vertreter angewiesen.
 
-(8) Anträge, die vier Semester nach Ablauf des Semesters, auf das sich
+(7) Anträge, die vier Semester nach Ablauf des Semesters, auf das sich
 der Antrag bezieht, die Voraussetzungen des Abs. 5 nicht erfüllen,
 gelten als nicht gestellt.
 
-(9) Das FSK kann die Frist nach Absatz 8 einmalig verlängern, wenn für einen Antrag alle Dokumente
+(8) Das FSK kann die Frist nach Absatz 7 einmalig verlängern, wenn für einen Antrag alle Dokumente
 nach Absatz 5 vorliegen und lediglich noch behebbare Mängel aufweisen. Das FSK teilt der betroffenen
 Fachschaft hierfür die zu behebenden Mängel sowie eine angemessene Frist zur Behebung dieser
 Mängel mit. Diese Fristverlängerung ist auch rückwirkend möglich.
@@ -1051,7 +1055,7 @@ der Überschreitung des § 30 bzw. der Notwendigkeit, ins Ausland zu
 reisen, ebenso wie eine Vorkalkulation der Maßnahme, sind
 beizufügen.
 
-(3) Vorankündigungen für Veranstaltungen müssen schriftlich mindestens
+(3) Vorankündigungen für Veranstaltungen müssen mindestens
 vier Wochen vor der Veranstaltung bzw. Fahrt dem FSK vorliegen und
 mindestens zwei Wochen vor der Veranstaltung auf der FK vorgestellt
 werden.
@@ -1107,12 +1111,61 @@ AStA zurückzuleisten.
 (3) Die geleisteten Vorschüsse können der betreffenden Fachschaft
 gegenüber mit noch auszuzahlenden AFsG und BFsG aufgerechnet werden.
 
-### § 33 Finanzleitfaden
+### § 33 Stammdatenverwaltung und Antragstellung
 
-Das FSK stellt den Fachschaften einen aktuellen Auszug der
-Geschäftsordnung und der Anlage II als Leitfaden über die Regelungen zur
-Verteilung und Beantragung der für die Fachschaften eingezogenen Beträge
-zur Verfügung.
+(1) Das FSK stellt den Fachschaften eine Online-Plattform zur Verwaltung ihrer
+Stammdaten und zur Antragstellung für Finanzanträge zur Verfügung.
+
+(2) Zu den Stammdaten einer Fachschaft gehören:
+
+1. Anschriften
+2. Kontakt-E-Mail-Adressen
+3. Telefonnummern
+4. Webseiten
+5. Anwesenheitszeiten
+6. Regelmäßige Sitzungstermine
+7. Kontodaten
+8. Funktionsbezogene E-Mail-Adressen
+
+(3) Die Fachschaften sind dafür verantwortlich, ihre Stammdaten aktuell zu halten.
+
+(4) Das FSK erinnert die Fachschaften regelmäßig daran, ihre Stammdaten aktuell zu
+halten. Die Erinnerung soll wenige Wochen nach Beginn jedes Semesters erfolgen.
+
+(5) Anträge auf AFSG sind über die Plattform zu stellen.
+
+(6) Dokumente und Nachweise gemäß §§ 25 und 26 sind per E-Mail an das FSK
+einzureichen, solange die Plattform keine Möglichkeit zur Einreichung im
+Produktivbetrieb anbietet und sofern sie nicht im Rahmen eines Evaluationsbetriebs
+über die Plattform eingereicht werden.
+
+(7) Anträge auf BFSG und zugehörige Dokumente sowie Vorankündigungen und
+zugehörige Dokumente sind bis auf Weiteres per E-Mail einzureichen.
+
+(8) Der Zugriff auf die Plattform erfolgt über personengebundene Accounts.
+
+(9) Es existieren verschiedene Berechtigungen, die auf der Plattform dargestellt sind.
+Die Fachschaften verwalten die Berechtigungen für ihre Fachschaft in der Regel
+selbst. Auf Anfrage der Fachschaft oder bei sonstigem Bedarf modifiziert das FSK die
+Berechtigungen für eine Fachschaft und setzt die betroffene Fachschaft falls nötig
+davon in Kenntnis.
+
+(10) Die Stammdaten nach Absatz 2 Nummer 1 bis 6 sind öffentlich. Die Stammdaten
+nach Absatz 2 Nummer 7 und 8 sind nur für das FSK einsehbar sowie für Accounts,
+welche die entsprechende Berechtigung besitzen. Sie werden nur zur Erfüllung
+originärer Aufgaben verarbeitet.
+
+(11) Das FSK erinnert die Fachschaften regelmäßig daran, die Berechtigungen für ihre
+Fachschaft zu überprüfen und gegebenenfalls anzupassen. Die Erinnerung soll
+wenige Wochen nach Beginn jedes Semesters erfolgen.
+
+(12) Das FSK kann die Nutzung der Plattform aus technischen oder organisatorischen
+Gründen für einzelne Fachschaften oder generell aussetzen. Falls hierdurch Fristen
+nicht eingehalten werden können, sollen angemessene Nachfristen gesetzt werden.
+
+(13) Technische Probleme der Plattform gehen nicht zulasten der Fachschaften. Die
+betroffene Fachschaft hat das Bestehen technischer Probleme der Plattform
+nachzuweisen.
 
 ### § 33a Maßnahmen zur Berücksichtigung der Auswirkungen der Covid-19-Pandemie
 
@@ -1188,6 +1241,10 @@ Fachschaft „Klassische und Romanische Philologie“ (ehemals „Romanistik“)
 BFSG der ehemaligen Fachschaft „Griechische und Lateinische Philologie“ gelten
 als nicht gestellt.
 
+(5) Für BFSG-Anträge, die sich auf Semester vor dem Sommersemester 2024
+beziehen, ist der Nachhaltigkeitsbericht gemäß Anlage II, 1. Allgemeine Regelungen,
+Punkt 4, Unterpunkt 4 optional.
+
 ----
 
 
@@ -1260,9 +1317,15 @@ der AFsG-Sockelsatz 500 €.
 - Allen Anträgen müssen die folgendem Dokumente beigefügt werden:
     - tabellarische Kostenkalkulation
     - **Kopien** aller Rechnungen
-    - Arbeitsberichte (außer bei „Sonstiges“). Der Arbeitsbericht muss dokumentieren, 
-    welche Awareness-Maßnahmen getroffen wurden. Bei der Teilnahme an einer BuFaTa
-    gemäß 3. e sollen die Awareness-Maßnahmen der BuFaTa geschildert werden.
+    - Ein Arbeitsbericht. Der Arbeitsbericht muss dokumentieren, welche Awareness-
+      Maßnahmen getroffen wurden. Bei der Teilnahme an einer BuFaTa gemäß 3. e sollen
+      die Awareness-Maßnahmen der BuFaTa geschildert werden.
+    - Ein Nachhaltigkeitsbericht. Der Nachhaltigkeitsberich muss dokumentieren, welche
+      Nachhaltigkeits-Maßnahmen getroffen wurden. Bei der Teilnahme an einer BuFaTa
+      gemäß 3. e sollen die Nachhaltigkeits-Maßnahmen der BuFaTa geschildert werden.
+      Der Nachhaltigkeitsbericht sollte die Handreichung für nachhaltige studentische
+      Veranstaltungen und Fachschaften an der Universität Bonn und den Leitfaden zur
+      Kompensation nicht vermeidbarer Treibhausgasemissionen des AStA berücksichtigen.
 
 ### 2. Veranstaltungen
 
