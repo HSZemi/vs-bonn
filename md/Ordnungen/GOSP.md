@@ -747,26 +747,9 @@ Referentinnen richten sich nach den entsprechenden Satzungsvorschriften[^4].
 (2) Die Mitglieder eines jeden Ausschusses sollen in einem Wahlgang gewählt werden.
 
 
-### § 34 Wahlen zum Schlichtungsgremium (ÄR)
+### § 34 Wahl des Schlichtungsgremiums
 
-(1) Kandidatinnenvorschläge für die Wahlen zum Schlichtungsgremium erfolgen schriftlich. Sie müssen von
-mindestens 10 SP-Mitgliedern unterschrieben sein.
-
-(2) Die Wahl erfolgt gemäß § 33 der Satzung[^6].
-
-[^6]: Vg. § 33 SdS.
-
-(3) SP- und AStA-Mitglieder können in den Schlichtungsgremium gewählt werden. Ihre Mitgliedschaft im
-Schlichtungsgremium beginnt mit dem Ausscheiden aus dem SP oder AStA.
-
-(4) Wenn die Mitgliedschaft im Schlichtungsgremium nicht spätestens eine Woche nach der Wahl beginnt, so gilt
-die Wahl als nicht erfolgt.
-
-(5) Mitglieder der Verfassten Studierendenschaft, die zum Zeitpunkt einer Wahl zum Schlichtungsgremium ihre
-erneute Kandidatur zum SP gegenüber dem Wahlausschuss gemäß § 10 Abs. 3 der Wahlordnung
-unwiderruflich erklärt haben, sind in den Schlichtungsgremium wählbar. Die Wahl in den Schlichtungsgremium kann erst nach
-Ende der Auszählung der SP-Wahl angenommen werden. Die Frist zur Annahme der Wahl nach Abs.
-4 beginnt dann erst mit dem Ende der Auszählung der SP-Wahl.
+Die Wahl des Schlichtungsgremiums erfolgt gemäß § 33 der Satzung der Studierendenschaft (SdS).
 
 
 # VII. Ordnungsmaßnahmen
@@ -785,9 +768,11 @@ und der Anlass hierzu dürfen von den nachfolgenden Rednerinnen nicht behandelt 
 solcher Widerspruch hat keine aufschiebende Wirkung.
 
 
-### § 36 Wahl des Schlichtungsgremiums
+### § 36 Wortentziehung
 
-Die Wahl des Schlichtungsgremiums erfolgt gemäß § 33 der Satzung der Studierendenschaft (SdS).
+Ist eine Rednerin während einer Rede dreimal zur Sache gerufen worden und beim zweiten Mal auf die
+Folgen eines dritten Rufes zur Sache hingewiesen worden, so entzieht ihr die SP-Sprecherin das Wort
+und erteilt es ihr in derselben Aussprache nicht wieder.
 
 
 ### § 37 Ausschluss von der Sitzung
