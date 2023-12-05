@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms-Universität Bonn [FKGO]
 short: Geschäftsordnung der Fachschaftenkonferenz (FKGO)
-date:  23. Oktober 2023
+date:  4. Dezember 2023
 type:  Ordnung
 id:    FKGO
 contains:
@@ -215,6 +215,16 @@ contains:
   pubdate:  23. Oktober 2023
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-72.pdf
   ref: fe881adf766493a7786abfdc3ede7a8f9b9684c4/md/Ordnungen/FKGO.md
+- title:    Vierzehnte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  short:    Vierzehnte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  actorgan: Fachschaftenkonferenz
+  actdate:  30. Oktober 2023
+  confirmorgan: Studierendenparlament
+  confirmdate: 22. November 2023
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  4. Dezember 2023
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-78.pdf
+  ref: HEAD/md/Ordnungen/FKGO.md
 ---
 
 # Präambel
@@ -1569,6 +1579,7 @@ Anglistik, Amerikanistik und Keltologie
   * English Literatures and Cultures (Master of Arts)
   * English Studies (Bachelor of Arts)
   * Keltologie (Bachelor of Arts)
+  * Keltologie (Promotion)
   * North American Studies (Master of Arts)
 
 Archäologie
@@ -1624,7 +1635,7 @@ Evangelische Theologie
   * Ecumenical Studies (Master of Arts)
   * Evangelische Theologie und Hermeneutik (Bachelor of Arts)
   * Evangelische Theologie (Kirchl.Ex.)
-  * Evangelische Theologie (Magister Theologiae)
+  * Evangelische Theologie (Magister Theologiae (ev.))
   * Evangelische Theologie (Master of Arts)
   * Evangelische Theologie (Promotion)
   * Extended Ecumenical Studies (Master of Arts)
@@ -1664,6 +1675,7 @@ Geographie
   * Geographie (Master of Science)
   * Geographie (Promotion)
   * Geography of Environmental Risks and Human Security (Master of Science)
+  * Historische Geographie (Promotion)
   * Katastrophenvorsorge und Risikomanagement (Master of Disaster Preparedness and Risk Management) (Master)
 
 Geowissenschaften
@@ -1697,6 +1709,7 @@ Informatik
   * Computational Life Sciences (Promotion)
   * Computer Science (Master of Science)
   * Cyber Security (Bachelor of Science)
+  * Cyber Security (Master of Science)
   * Informatik (Bachelor of Science)
   * Informatik (Promotion)
   * Life Science Informatics (Master of Science)
@@ -1720,7 +1733,7 @@ Katholische Theologie
   * Katholische Theologie (Kirchl.Ex.)
   * Katholische Theologie (Promotion)
   * Katholische Theologie (Bachelor of Arts)
-  * Katholische Theologie (Magister Theologiae)
+  * Katholische Theologie (Magister Theologiae (kath.))
 
 Klassische und Romanische Philologie
 ------------------------------------
@@ -1771,68 +1784,70 @@ Lehramt
 -------
   * Agrarwissenschaft (LA BA Berufskolleg)
   * Agrarwissenschaft (LA MA Berufskolleg)
-  * Agrarwissenschaft (Lehramt Bachelor Berufskolleg ZF)
   * Bildungswissenschaften (LA BA Berufskolleg)
   * Bildungswissenschaften (LA BA Gym Ge)
   * Bildungswissenschaften (LA MA Berufskolleg)
   * Bildungswissenschaften (LA MA Gym Ge)
-  * Bildungswissenschaften (Lehramt Bachelor Berufskolleg ZF)
   * Biologie (LA BA Gym Ge)
   * Biologie (LA MA Gym Ge)
+  * Chemie (LA BA Berufskolleg)
   * Chemie (LA BA Gym Ge)
   * Chemie (LA MA Gym Ge)
+  * Deutsch (LA BA Berufskolleg)
   * Deutsch (LA BA Gym Ge)
   * Deutsch (LA MA Gym Ge)
-  * Deutsch (Lehramt Bachelor Berufskolleg ZF)
   * Didaktik der deutschen Sprache und Literatur (Promotion)
   * Didaktik des Englischen (Promotion)
   * Didaktik der Geschichte (Promotion)
   * Didaktik der Naturwissenschaften (Promotion)
+  * Englisch (LA BA Berufskolleg)
   * Englisch (LA BA Gym Ge)
   * Englisch (LA MA Gym Ge)
-  * Englisch (Lehramt Bachelor Berufskolleg ZF)
   * Ernährungs- und Hauswirtschaftswissenschaft (LA BA Berufskolleg)
   * Ernährungs- und Hauswirtschaftswissenschaft (LA MA Berufskolleg)
-  * Ernährungs- und Hauswirtschaftswissenschaft (Lehramt Bachelor Berufskolleg ZF)
-  * Evangelische Religionslehre (LA MA Gym Ge)
+  * Evangelische Religionslehre (LA BA Berufskolleg)
   * Evangelische Religionslehre (LA BA Gym Ge)
+  * Evangelische Religionslehre (LA MA Gym Ge)
+  * Französisch (LA BA Berufskolleg)
   * Französisch (LA BA Gym Ge)
   * Französisch (LA MA Gym Ge)
   * Geographie (LA BA Gym Ge)
   * Geographie (LA MA Gym Ge)
   * Geschichte (LA BA Gym Ge)
   * Geschichte (LA MA Gym Ge)
+  * Informatik (LA BA Berufskolleg)
   * Informatik (LA BA Gym Ge)
   * Informatik (LA MA Gym Ge)
   * Italienisch (LA BA Gym Ge)
   * Italienisch (LA MA Gym Ge)
+  * Katholische Religionslehre (LA BA Berufskolleg)
   * Katholische Religionslehre (LA BA Gym Ge)
   * Katholische Religionslehre (LA MA Gym Ge)
   * Lebensmitteltechnologie (Lebensmitteltechnik) (LA BA Berufskolleg)
   * Lebensmitteltechnologie (Lebensmitteltechnik) (LA MA Berufskolleg)
   * Markt und Konsum (LA BA Berufskolleg)
   * Markt und Konsum (LA MA Berufskolleg)
+  * Mathematik (LA BA Berufskolleg)
   * Mathematik (LA BA Gym Ge)
   * Mathematik (LA MA Gym Ge)
-  * Mathematik (Lehramt Bachelor Berufskolleg ZF)
   * Pflanzenwissenschaften (Pflanzenbau) (LA BA Berufskolleg)
   * Pflanzenwissenschaften (Pflanzenbau) (LA MA Berufskolleg)
   * Philosophie/Praktische Philosophie (LA BA Gym Ge)
   * Philosophie (LA MA Gym Ge)
+  * Physik (LA BA Berufskolleg)
   * Physik (LA BA Gym Ge)
   * Physik (LA MA Gym Ge)
-  * Physik (Lehramt Bachelor Berufskolleg ZF)
-  * Praktische Philosophie (Lehramt Bachelor Berufskolleg ZF)
+  * Praktische Philosophie (LA BA Berufskolleg)
   * Wirtschaft-Politik/Sozialwissenschaften (LA BA Gym Ge)
   * Sozialwissenschaften (LA MA Gym Ge)
+  * Spanisch (LA BA Berufskolleg)
   * Spanisch (LA BA Gym Ge)
   * Spanisch (LA MA Gym Ge)
-  * Spanisch (Lehramt Bachelor Berufskolleg ZF)
   * Tierwissenschaften (Tierhaltung) (LA BA Berufskolleg)
   * Tierwissenschaften (Tierhaltung) (LA MA Berufskolleg)
   * Wirtschafts- und Sozialwissenschaften des Landbaus (LA BA Berufskolleg)
   * Wirtschafts- und Sozialwissenschaften des Landbaus (LA MA Berufskolleg)
-  * Wirtschaftslehre/ Politik (Lehramt Bachelor Berufskolleg ZF)
+  * Wirtschaftslehre/ Politik (LA BA Berufskolleg)
 
 Mathematik
 ----------
@@ -1884,9 +1899,10 @@ Meteorologie und Geophysik
 Molekulare Biomedizin
 ---------------------
   * Biochemistry (Master of Science)
+  * Immunobiology: from molecules to integrative systems (Master of Science)
+  * Life and Medical Sciences (Master of Science)
   * Molekulare Biomedizin (Bachelor of Science)
   * Molekulare Biomedizin (Promotion)
-  * Immunobiology: from molecules to integrative systems (Master of Science)
 
 Musikwissenschaften/Sound Studies
 ---------------------------------
@@ -1971,10 +1987,11 @@ Politik &amp; Soziologie
 ------------------------
   * European Studies - Governance and Regulation (Master)
   * Gesellschaften, Globalisierung und Entwicklung (Master of Arts)
-  * Soziologie (Master of Arts)
   * Politik und Gesellschaft (Bachelor of Arts)
   * Politikwissenschaft (Master of Arts)
   * Politische Wissenschaft (Promotion)
+  * Strategy and International Security (Master of Arts)
+  * Soziologie (Master of Arts)
   * Soziologie (Promotion)
 
 Psychologie
