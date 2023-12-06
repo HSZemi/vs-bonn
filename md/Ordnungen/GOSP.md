@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung des Bonner Studierendenparlaments
 short: Geschäftsordnung des Bonner Studierendenparlaments
-date:  12. April 2023
+date:  6. Dezember 2023
 type:  Ordnung
 id:    GOSP
 contains:
@@ -76,6 +76,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  12. April 2023
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-23.pdf
+  ref: 4f811a89/md/Ordnungen/GOSP.md
+- title: Vierte Ordnung zur Änderung der Geschäftsordnung des Bonner Studierendenparlaments
+  short: Vierte Ordnung zur Änderung der Geschäftsordnung des Bonner Studierendenparlaments
+  actorgan: Studierendenparlament
+  actdate:  6. Dezember 2023
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  6. Dezember 2023
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-83.pdf
   ref: HEAD/md/Ordnungen/GOSP.md
 
 ---
@@ -825,6 +833,11 @@ soweit die höherrangige Rechtsquelle nichts anderes bestimmt[^7].
 (3) Ausschusssitzungen sind grundsätzlich öffentlich. Sie sind nicht öffentlich, wenn der Ausschuss dies
 beschließt oder wenn auf den betreffenden Sitzungen personengebundene Daten gemäß BDSG
 behandelt werden.
+
+(IV) Die Ausschüsse können auf Vorschlag ihrer Vorsitzenden ihre Sitzungen in elektronischer
+Kommunikation abhalten und Beschlüsse im Umlaufverfahren fassen. Wünscht mindestens ein
+Ausschussmitglied eine Präsenzsitzung oder -abstimmung, so ist dem nachzukommen. Für geheime
+Abstimmungen gilt der Ausschuss in hybrider oder digitaler Tagungsform als nicht beschlussfähig.
 
 
 ### § 40 Ausschussmitglieder
