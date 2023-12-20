@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms-Universität Bonn [FKGO]
 short: Geschäftsordnung der Fachschaftenkonferenz (FKGO)
-date:  4. Dezember 2023
+date:  19. Dezember 2023
 type:  Ordnung
 id:    FKGO
 contains:
@@ -224,6 +224,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  4. Dezember 2023
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-78.pdf
+  ref: 774ffab216517687bb2ee42b9885c32d6c2a2bba/md/Ordnungen/FKGO.md
+- title:    Fünfzehnte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  short:    Fünfzehnte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  actorgan: Fachschaftenkonferenz
+  actdate:  18. Dezember 2023
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  19. Dezember 2023
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-90.pdf
   ref: HEAD/md/Ordnungen/FKGO.md
 ---
 
@@ -249,6 +257,15 @@ beschließt über die Zuweisung der Besonderen Fachschaftengelder
 
 (3) Jede Fachschaft ist angehalten, einen Vertreter auf die
 Fachschaftenkonferenz zu entsenden und deren Protokolle zu lesen.
+
+(4) Die Fachschaftenkonferenz gibt sich einen Code of Conduct. Beschluss und Änderung
+des Code of Conduct bedürfen einer Zweidrittelmehrheit einer FK, auf der mindestens 20%
+der Fachschaften vertreten sind. § 15 gilt entsprechend. Der Code of Conduct trifft
+Regelungen bezüglich des Umgangs mit sexualisierter, rassistischer und weiterer Formen von
+Diskriminierung und Gewalt. Er kann Sanktionen bei Nichteinhaltung vorsehen die mit einer
+Zweidrittelmehrheit der Fachschaftenkonferenz beschlossen werden müssen. Sanktionen
+können insbesondere Einschränkungen im Hinblick auf Finanzanträge sowie bezüglich der
+Auszahlungsfähigkeit von Fachschaften sein.
 
 ### § 2 Das Fachschaftenkollektiv
 
@@ -808,6 +825,8 @@ festlegen.
 
 Die Punkte 7, 8 und 9 entfallen für Fachschaften, die neu gegründet wurden und 
 deshalb kein letztes Haushaltsjahr hatten.
+
+Die Erfüllung dieser Voraussetzungen wird als „Auszahlungsfähigkeit“ bezeichnet.
 
 Die folgenden Nachweise werden jeweils benötigt, um nachzuweisen, dass die 
 Voraussetzungen erfüllt sind:
