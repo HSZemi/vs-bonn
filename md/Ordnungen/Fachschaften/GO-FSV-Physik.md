@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftsvertretung der Fachschaft Physik/Astronomie der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Geschäftsordnung der Fachschaftsvertretung der Fachschaft Physik/Astronomie
-date:  26. März 2023
+date:  13. März 2024
 type:  Ordnung
 id:    GO-FSV-Physik
 contains:
@@ -12,6 +12,7 @@ contains:
   puborgan: AKUT
   pubdate:  21. Dezember 2016
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut_extra_2016-19.pdf
+  ref: 55bc17d5bbbe621720871fc0e821e1cbbea53460/md/Ordnungen/Fachschaften/GO-FSV-Physik.md
 - title: Erste Ordnung zur Änderung der Geschäftsordnung der Fachschaftsvertretung der Fachschaft Physik/Astronomie
   short: Erste Ordnung zur Änderung der Geschäftsordnung der Fachschaftsvertretung der Fachschaft Physik/Astronomie
   actorgan: Fachschaftsvertretung Fachschaft Physik/Astronomie
@@ -19,6 +20,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  1. November 2022
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-66.pdf
+  ref: 376f0b5dcacbda177e479c66c5ec4b154ef353f7/md/Ordnungen/Fachschaften/GO-FSV-Physik.md
 - title: Zweite Ordnung zur Änderung der Geschäftsordnung der Fachschaftsvertretung der Fachschaft Physik/Astronomie
   short: Zweite Ordnung zur Änderung der Geschäftsordnung der Fachschaftsvertretung der Fachschaft Physik/Astronomie
   actorgan: Fachschaftsvertretung Fachschaft Physik/Astronomie
@@ -26,6 +28,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  26. März 2023
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-18.pdf
+  ref: 13f052e854a66464b6d4833b0115e4edcec777d2/md/Ordnungen/Fachschaften/GO-FSV-Physik.md
 - title: Geschäftsordnung der Fachschaftsvertretung der Fachschaft Physik/Astronomie der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Geschäftsordnung der Fachschaftsvertretung der Fachschaft Physik/Astronomie
   actorgan: Fachschaftsvertretung Fachschaft Physik/Astronomie
@@ -33,11 +36,17 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  26. März 2023
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-15.pdf
+  ref: 13f052e854a66464b6d4833b0115e4edcec777d2/md/Ordnungen/Fachschaften/GO-FSV-Physik.md
+- title: Ordnung zur Änderung der Geschäftsordnung der Fachschaftsvertretung Physik/Astronomie
+  short: Ordnung zur Änderung der Geschäftsordnung der Fachschaftsvertretung Physik/Astronomie
+  actorgan: Fachschaftsvertretung Fachschaft Physik/Astronomie
+  actdate:  23. Januar 2024
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  13. März 2024
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-12.pdf
+  ref: HEAD/md/Ordnungen/Fachschaften/GO-FSV-Physik.md
 
 ---
-
-
-
 
 # Präambel
 
@@ -101,11 +110,16 @@ dann alle Anträge, die 6 Stunden vor Sitzungsbeginn dem Vorsitzenden vorgelegen
 kann jeder Anwesende mit Antragsrecht Anträge stellen. Über die Reihung der Anträge innerhalb der hier
 vorgegebenen Reihung entscheidet die Sitzungsleitung.
 
-(4) Anträge auf Änderung der Satzung oder ihrer Ergänzungsordnungen, oder der Geschäftsordnung der FSV
+(4) Der Tagesordnungspunkt Begrüßung und Feststellung der Beschlussfähigkeit
+wird als Geschäftsordnungsantrag nach § 13 (4) 2 und somit nach § 13 (6) zu behandeln,
+unbd inbesondere nicht nach § 13 (4) 13, § 13 (4) 14, oder § 13 (4) 15 zu vertagen oder zu
+verhindern.
+
+(5) Anträge auf Änderung der Satzung oder ihrer Ergänzungsordnungen, oder der Geschäftsordnung der FSV
 und FSVV müssen jeweils als eigene Tagesordnungspunkte aufgenommen werden. Diese Anträge können
 nicht als Initiativantrag gestellt werden.
 
-(5) Der Haushaltsplan muss als eigener Tagesordnungspunkt aufgenommen werden.
+(6) Der Haushaltsplan muss als eigener Tagesordnungspunkt aufgenommen werden.
 
 
 ## II Verlauf der Sitzung
@@ -126,8 +140,9 @@ wenn mindestens die Hälfte der Mitglieder der FSV anwesend sind,
 oder wenn die Sitzung gemäß §4 Abs. 6 stattfindet. Diese Beschlussfähigkeit gilt hierbei nur für die
 vertagten Tagesordnungspunkte.
 
-(6) Bei Beschlussunfähigkeit ist die Sitzung sofort zu schließen. Noch nicht behandelte Anträge gelten als
-vertagt.
+(6) Bei Beschlussfähigkeit werden nur noch die Tagesordnungspunkte behandelt,
+die eine veränderte Beschlussfähigkeit aufgrund § 4 (5) 2 und § 4 (7) benötigen.
+Alle anderen Anträge gelten als vertagt.
 
 (7) Ist die Beschlussunfähigkeit nach §4 Abs. 4 (1) verursacht und festgestellt, kann der Vorsitzende unter
 Einhaltung der Ladungsfrist zu einer neuen außerplanmäßigen Sitzung einladen. Bezüglich der durch die
