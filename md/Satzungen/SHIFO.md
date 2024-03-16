@@ -1,7 +1,7 @@
 ---
 title: Satzung zur Vergabe von Darlehen des Hilfsfonds zur Unterstützung in Not geratener Studierender (Hilfsfonds-Satzung – SHIFO)
 short: Satzung zur Vergabe von Darlehen des Hilfsfonds zur Unterstützung in Not geratener Studierender (Hilfsfonds-Satzung – SHIFO)
-date:  16. Juni 2021
+date:  26. Januar 2024
 type:  Satzung
 id:    SHIFO
 contains:
@@ -12,7 +12,15 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  16. Juni 2021
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-33.pdf
-
+  ref: 07828626c5d608beee56b170a5734fbd038bf4f3/md/Satzungen/SHIFO.md
+- title: Erste Änderungssatzung zur Satzung zur Vergabe von Darlehen des Hilfsfonds zur Unterstützung in Not geratener Studierender
+  short: Erste Änderungssatzung zur Satzung zur Vergabe von Darlehen des Hilfsfonds zur Unterstützung in Not geratener Studierender
+  actorgan: Studierendenparlament
+  actdate:  20. Dezember 2023
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  26. Januar 2024
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-05.pdf
+  ref: HEAD/md/Satzungen/SHIFO.md
 ---
 
 
@@ -116,8 +124,8 @@ Bürgschaft.
 Der Ausschuss kann im Einzelfall durch Beschluss hiervon abweichend Bürginnen
 zulassen.
 
-(3) Die Unterschrift der Bürgschaftserklärung bedarf der öffentlichen oder notariellen
-Beglaubigung.
+(3) Die Unterschrift der Bürgschaftserklärung bedarf der öffentlichen, notariellen
+oder amtlichen Beglaubigung.
 
 
 ### § 5 Unvollständigkeit, Fehlerhaftigkeit
@@ -138,16 +146,13 @@ Bemühen der Antragstellerin um eine Berichtigung ist anzuerkennen.
 Rückzahlung (Tilgungsfälligkeit) auf den 15. des 6. folgenden Monats festgesetzt.
 Frühestens beginnt sie 6 Monate nach Auszahlung des Darlehensbetrages.
 
-(2) Eine Verschiebung oder eine rückwirkende Verschiebung der Tilgungsfälligkeit ist
-nicht möglich.
-
-(3) Das Darlehen ist bei Tilgungsfälligkeit ohne vorherige Aufforderung an den
+(2) Das Darlehen ist bei Tilgungsfälligkeit ohne vorherige Aufforderung an den
 Hilfsfonds zur Unterstützung in Not geratener Studierender zurückzuzahlen. Die
 monatliche Rückzahlungsrate beträgt regulär 50,00 €. Vorzeitige Tilgungen sind
 jederzeit und in beliebiger Höhe möglich.
 
-(4) Ist der Darlehensnehmerin aus wirtschaftlichen Gründen eine Rückzahlung gemäß § 6
-Abs. (3) dieser Satzung nicht möglich, so kann der Hilfsfonds-Ausschuss auf Antrag
+(3) Ist der Darlehensnehmerin aus wirtschaftlichen Gründen eine Rückzahlung gemäß § 6
+Absatz (2) dieser Satzung nicht möglich, so kann der Hilfsfonds-Ausschuss auf Antrag
 der Darlehensnehmerin beschließen die monatlichen Raten für einen vom Ausschuss
 festzulegenden Zeitraum zu senken, bis zu einem Betrag von minimal 5 €. Dazu hat
 die Darlehensnehmerin die Pflicht, ihre Hinderungsgründe im Detail darzulegen (Erklärungsprinzip).
