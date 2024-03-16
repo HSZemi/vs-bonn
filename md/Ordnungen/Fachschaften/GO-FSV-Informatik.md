@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftsvertretung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Geschäftsordnung der Fachschaftsvertretung der Fachschaft Informatik
-date:  16. Mai 2023
+date:  13. März 2024
 type:  Ordnung
 id:    GO-FSV-Informatik
 contains:
@@ -28,6 +28,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  16. Mai 2023
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-31.pdf
+  ref: fb6273d7a88af242495b0d26c8c1e9520f8cbf52/md/Ordnungen/Fachschaften/GO-FSV-Informatik.md
+- title: Dritte Ordnung zur Änderung der Geschäftsordnung der Fachschaftsvertretung der Fachschaft Informatik
+  short: Dritte Ordnung zur Änderung der Geschäftsordnung der Fachschaftsvertretung der Fachschaft Informatik
+  actorgan: Fachschaftsvertretung Fachschaft Informatik
+  actdate:  27. Februar 2024
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  13. März 2024
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-10.pdf
   ref: HEAD/md/Ordnungen/Fachschaften/GO-FSV-Informatik.md
 
 ---
@@ -98,19 +106,21 @@ Ergebnisse ersichtlich sein sollen.
 (4) Während der Sitzung ist eine Anwesenheitsliste zu führen. Wenn jemand die Sitzung verlässt
 oder verspätet erscheint, ist dies mit Uhrzeit festzuhalten.
 
-(5) Im Laufe der Sitzung ist die Niederschrift zu verlesen.
-Korrekturwünsche sind zu berücksichtigen. Dabei ist festzustellen, ob der
-Tagesordnungspunkt dem  öffentlichen oder dem fachschaftsöffentlichen Teil zuzuordnen ist.
+(5) Für jeden Tagesordnungspunkt wird festgelegt, ob er dem öffentlichen oder dem fachschaftsöffentlichen
+Teil zuzuordnen ist. Die endgültige Entscheidung erfolgt bei der Genehmigung
+des Protokolls.
 
-(6) Nach der Sitzung wird das Protokoll korrekt urgelesen und versandt. Der öffentliche Teil wird an
-eine öffentliche Mailingliste und an die interne Mailingliste versandt, der fachschaftsöffentliche Teil
-nur an die interne Mailingliste. Das fachschaftsöffentliche Protokoll wird außerdem im
-Fachschaftsbüro zur Einsicht aufbewahrt.
+(6) (aufgehoben)
 
-(7) Korrekturen zu einem versandten Protokoll werden im Protokoll der folgenden Sitzung
-festgehalten.
+(7) Korrekturen sollen bis zur nächsten Sitzung ins Protokoll eingearbeitet werden.
 
-(8) Das Protokoll wird auf der folgenden Sitzung genehmigt.
+(8) Das Protokoll soll auf der folgenden Sitzung genehmigt und im Anschluss versandt werden.
+Der öffentliche Teil wird an eine öffentliche Mailingliste und an die interne Mailingliste
+versandt, der fachschaftsöffentliche Teil nur an die interne Mailingliste. Das fachschaftsöffentliche
+Protokoll wird außerdem im Fachschaftsbüro zur Einsicht aufbewahrt.
+
+(9) Das fachschaftsöffentliche Protokoll kann vor der Genehmigung über die interne Mailingliste
+versandt werden.
 
 
 ### § 5 Sprache
