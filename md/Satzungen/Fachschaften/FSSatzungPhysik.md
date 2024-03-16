@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Physik/Astronomie der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Physik/Astronomie
-date:  26. März 2023
+date:  19. Februar 2024
 type:  Satzung
 id:    FSSatzungPhysik
 contains:
@@ -12,6 +12,7 @@ contains:
   puborgan: AKUT
   pubdate:  01. Juli 2013
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2013/Satzung-Physik-Astronomie.pdf
+  ref: 55bc17d5bbbe621720871fc0e821e1cbbea53460/md/Satzungen/Fachschaften/FSSatzungPhysik.md
 - title: Satzung der Fachschaft Physik/Astronomie
   short: Satzung der Fachschaft Physik/Astronomie
   actorgan: Fachschaftsvertretung Fachschaft Physik/Astronomie
@@ -19,6 +20,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  15. Mai 2022
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-32.pdf
+  ref: 104260d9c862b925e3fccde1e5f9e7b223d82563/md/Satzungen/Fachschaften/FSSatzungPhysik.md
 - title: Erste Ordnung zur Änderung der Satzung der Fachschaft Physik/Astronomie
   short: Erste Ordnung zur Änderung der Satzung der Fachschaft Physik/Astronomie
   actorgan: Fachschaftsvertretung Fachschaft Physik/Astronomie
@@ -26,6 +28,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  26. März 2023
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-17.pdf
+  ref: 87e99d41add84f0178a3726098c7cbf9b1b709a2/md/Satzungen/Fachschaften/FSSatzungPhysik.md
 - title: Satzung der Fachschaft Physik/Astronomie
   short: Satzung der Fachschaft Physik/Astronomie
   actorgan: Fachschaftsvertretung Fachschaft Physik/Astronomie
@@ -33,6 +36,15 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  26. März 2023
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-16.pdf
+  ref: 87e99d41add84f0178a3726098c7cbf9b1b709a2/md/Satzungen/Fachschaften/FSSatzungPhysik.md
+- title: Zweite Änderungssatzung zur Satzung der Fachsaft Physik/Astronomie
+  short: Zweite Änderungssatzung zur Satzung der Fachsaft Physik/Astronomie
+  actorgan: Fachschaftsvertretung Fachschaft Physik/Astronomie
+  actdate:  23. Januar 2024
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  19. Februar 2024
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-07.pdf
+  ref: HEAD/md/Satzungen/Fachschaften/FSSatzungPhysik.md
 
 ---
 
@@ -181,10 +193,12 @@ sieben Tage vor der geplanten Sitzung an alle FSV-Mitglieder und den FSR verschi
 sowie durch öffentlichen Aushang den Mitgliedern der Fachschaft mitzuteilen. Näheres regelt
 die Geschäftsordnung.
 
-(4) Die Mitglieder der FSV sind grundsätzlich verpflichtet, an den Sitzungen teilzunehmen, sofern
+(4) Hybrid und Online Sitzungen sind zulässig, näheres regelt die Geschäftsordnung.
+
+(5) Die Mitglieder der FSV sind grundsätzlich verpflichtet, an den Sitzungen teilzunehmen, sofern
 sie nicht begründet entschuldigt sind.
 
-(5) Über den Inhalt nichtöffentlicher Beratungen ist Stillschweigen zu bewahren.
+(6) Über den Inhalt nichtöffentlicher Beratungen ist Stillschweigen zu bewahren.
 
 
 ### § 10 Wahl der FSV
@@ -459,7 +473,9 @@ FSR diesem auf einer Sitzung Bericht zu erstatten. Näheres regelt die Geschäft
 
 (4) Der FSR ist verpflichtet, während der Sitzungen Protokoll zu führen.
 
-(5) Näheres regelt die Geschäftsordnung.
+(5) Hybrid und Online Sitzungen sind zulässig, näheres regelt die Geschäftsordnung.
+
+(6) Näheres regelt die Geschäftsordnung.
 
 
 ### § 23 Beschlüsse des FSR
