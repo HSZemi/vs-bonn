@@ -2,7 +2,7 @@
 title: Verfahrensrichtlinie zur Handhabung der Semesterticket-Satzung
 short: Verfahrensrichtlinie zur Handhabung der Semesterticket-Satzung
 date:  27. Januar 2021
-type:  Ordnung
+type:  Richtlinie
 id:    VerfRLSST
 contains:
 - title: Verfahrensordnung Semesterticket-Ausschuss
