@@ -1,7 +1,7 @@
 ---
 title: Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Beitragsordnung der Studierendenschaft (BO)
-date:  6. Juni 2023
+date:  6. März 2024
 type:  Ordnung
 id:    BO
 contains:
@@ -133,6 +133,16 @@ contains:
   pubdate:  6. Juni 2023
   puborgan: Amtliche Bekanntmachungen
   puburl: https://hdl.handle.net/20.500.11811/10879
+  ref: 3f56580f02bb4d09cf6b699a3d8bc0d16bcd67c9/md/Ordnungen/BO.md
+- title: Siebenunddreißigste Ordnung zur Änderung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - XXXVII. Beitragsordnungsänderungsordnung (BOÄO XXXVII) -
+  short: XXXVI\. Beitragsordnungsänderungsordnung (BOÄO XXXVI)
+  actdate:  10. Januar 2024
+  actorgan: Studierendenparlament
+  confirmorgan: Rektorat
+  confirmdate: 23. Januar 2024
+  pubdate:  6. März 2024
+  puborgan: Amtliche Bekanntmachungen
+  puburl: https://hdl.handle.net/20.500.11811/11396
   ref: HEAD/md/Ordnungen/BO.md
 
 ---
@@ -146,20 +156,18 @@ Kosten der Selbstverwaltung, der Selbsthilfe und Mobilität der Studierendenscha
 
 ### § 2
 
-Der Beitrag in Höhe von 223,96 € (WS 2023/24) bzw. 223,96 € (SS 2024) ist für folgende Zwecke bestimmt:
+Der Beitrag in Höhe von 223,96 € (SS 2024) ist für folgende Zwecke bestimmt:
 
-|   |                                                                           |         |
-|:--|:--------------------------------------------------------------------------|--------:|
-|1. |für die studentische Selbstverwaltung                                      | 14,00 €,|
-|2. |für die studentischen Sozialeinrichtungen                                  |  0,50 €,|
-|3. |für den Hilfsfonds zur Unterstützung in Not geratener Studierender         |  0,01 €,|
-|4. |für einen Mobilitätsbeitrag                                                |         |
-|   |a) Semesterticket                                                          |142,90 €,|
-|   |b) NRW-Ticket                                                              | 59,40 €,|
-|5. |für ein Sonderkonto zur Erstattung des Mobilitätsbeitrages                 |  0,60 €,|
-|6. |für die Zuweisungen an die Fachschaften                                    |  2,75 €,|
-|7. |für den Studierendensport                                                  |  0,80 €,|
-|8. |für das Kulturticket                                                       |  3,00 €,|
+|   |                                                                    |           |
+|:--|:-------------------------------------------------------------------|----------:|
+|1. | für die studentische Selbstverwaltung                              |  14,00 €, |
+|2. | für die studentischen Sozialeinrichtungen                          |   0,50 €, |
+|3. | für den Hilfsfonds zur Unterstützung in Not geratener Studierender |   0,01 €, |
+|4. | für das Semesterticket                                             | 202,30 €, |
+|5. | für ein Sonderkonto zur Erstattung des Mobilitätsbeitrages         |   0,60 €, |
+|6. | für die Zuweisungen an die Fachschaften                            |   2,75 €, |
+|7. | für den Studierendensport                                          |   0,80 €, |
+|8. | für das Kulturticket                                               |   3,00 €, |
 
 
 ### § 3
