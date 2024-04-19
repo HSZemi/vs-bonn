@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Mathematik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Mathematik
-date:  6. Dezember 2020
+date:  5. April 2024
 type:  Satzung
 id:    FSSatzungMathematik
 contains:
@@ -12,6 +12,7 @@ contains:
   puborgan: AKUT
   pubdate:  13. August 2017
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2017/akut_extra_2017-13.pdf
+  ref: f8f471bc55c44ef7714aa890adf714885ebf957d/md/Satzungen/Fachschaften/FSSatzungMathematik.md
 - title: Dritte Satzungsänderung der Satzung der Fachschaft Mathematik der Universität Bonn
   short: Dritte Satzungsänderung der Satzung der Fachschaft Mathematik
   actorgan: Fachschaftsvertretung Fachschaft Mathematik
@@ -19,6 +20,7 @@ contains:
   puborgan: AKUT
   pubdate:  6. November 2019
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-20.pdf
+  ref: 31b367b34185788e518137c30bddec0603bd5b87/md/Satzungen/Fachschaften/FSSatzungMathematik.md
 - title: Satzung der Fachschaft Mathematik der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Satzung der Fachschaft Mathematik
   actorgan: Fachschaftsvertretung Fachschaft Mathematik
@@ -26,6 +28,15 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  6. Dezember 2020
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2020/vsbonn_bekanntmachung_2020-38.pdf
+  ref: 2a02a73a255f33f384fb69c01ce89021808ca11a/md/Satzungen/Fachschaften/FSSatzungMathematik.md
+- title: Erste Satzung zur Änderung der Satzung der Fachschaft Mathematik der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: Erste Satzung zur Änderung der Satzung der Fachschaft Mathematik
+  actorgan: Fachschaftsvertretung Fachschaft Mathematik
+  actdate:  9. April 2024
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  5. April 2024
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-13.pdf
+  ref: HEAD/md/Satzungen/Fachschaften/FSSatzungMathematik.md
 ---
 
 # Präambel
@@ -376,7 +387,8 @@ hohe Wahlbeteiligung zu schaffen.
 
 
 (5) Der Kassenprüfungsausschuss besteht aus drei Mitgliedern als Kassenprüfende.
-Diese müssen Angehörige der Fachschaft sein. Dem Kassenprüfungsausschuss kann nur
+Diese müssen Angehörige der Studierendenschaft der Rheinischen
+Friedrich-Wilhelms-Universität Bonn sein. Dem Kassenprüfungsausschuss kann nur
 angehören, wer weder im geprüften Zeitraum noch zum Prüfungszeitpunkt Mitglied
 des FSRs oder Teil des FSV-Präsidiums war beziehungsweise ist. Die FSV weist dem
 Kassenprüfungsausschuss einen zu prüfenden Zeitraum zu. Der Kassenprüfungsausschuss kontrolliert die ordnungsgemäße Kassenführung des ihm zugewisenen Zeitraums
