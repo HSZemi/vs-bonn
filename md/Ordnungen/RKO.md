@@ -1,7 +1,7 @@
 ---
 title: Reisekostenordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Reisekostenordnung der Studierendenschaft
-date:  10. Mai 2024
+date:  16. Mai 2024
 type:  Ordnung
 id:    RKO
 contains:
@@ -25,9 +25,9 @@ contains:
   short: Neufassung der Reisekostenordnung der Studierendenschaft
   actdate:  8. Mai 2024
   actorgan: Studierendenparlament
-  pubdate:  10. Mai 2024
+  pubdate:  16. Mai 2024
   puborgan: Öffentlichkeitsbeauftragte
-  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-19.pdf
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-26.pdf
   ref: HEAD/md/Ordnungen/RKO.md
 ---
 
@@ -134,6 +134,10 @@ Aus dem Haushalt der Studierendenschaft werden insbesondere getragen:
    Gremium. vor Reiseantritt Zuschläge gewähren.
 4. Tagungsgebühren.
 
+### § 7a Wirtschaftlichkeit und Sparsamkeit
+
+Bei der Planung einer Reise sind die Prinzipien der Wirtschaftlichkeit und Sparsamkeit zu beachten.
+Dies kann insbesondere durch eine frühestmögliche Buchung erreicht werden.
 
 ### § 8 Verwendung der Tage- und Übernachtungspauschale
 
