@@ -55,6 +55,12 @@ local function paragraph_id(s, attr)
   return '§' .. id
 end
 
+-- Helper function that extracts the paragraph number.
+-- If there is none, nil is returned.
+local function paragraph_number(s)
+  return string.match(s, '^%(([0-9]+)%)')
+end
+
 -- Run cmd on a temporary file containing inp and return result.
 local function pipe(cmd, inp)
   local tmp = os.tmpname()
@@ -74,6 +80,9 @@ local notes = {}
 -- Table to store toc.
 local toc = {}
 local lastlev = 1
+
+-- remember last/current paragraph id
+local paragraphId
 
 -- Blocksep is used to separate block elements.
 function Blocksep()
@@ -261,12 +270,19 @@ function Plain(s)
 end
 
 function Para(s)
-  return "<p>" .. s .. "</p>"
+  local id = paragraph_number(s)
+  if id and paragraphId then
+    local remainder = string.match(s, '^%([0-9]+%)(.*)')
+    return "<p".. attributes({id = paragraphId .. '-' .. id}) .. ">(<a" .. attributes({href = '#' .. paragraphId .. '-' .. id}) .. ">" .. id .. "</a>)" .. remainder .. '</p>'
+  else
+    return "<p>" .. s .. "</p>"
+  end
 end
 
 -- lev is an integer, the header level.
 function Header(lev, s, attr)
-  attr.id = paragraph_id(s, attr)
+  paragraphId = paragraph_id(s, attr)
+  attr.id = paragraphId
   while lastlev < lev do
     table.insert(toc, '<ol>')
     lastlev = lastlev + 1

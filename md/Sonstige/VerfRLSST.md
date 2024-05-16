@@ -160,7 +160,7 @@ erneut wie im Semester davor entschieden werden und ein Bescheid ergehen.
 Berücksichtigung des für das jeweilige Semester gültigen Mobilitäts-Beitrags zu ermitteln.
 
 
-### § 8 Entscheidung über Anträge
+### § 8 Entscheidung über Anträge.
 
 (1) Der STA entscheidet über die vorliegenden Anträge. Die Entscheidungen sind zu begründen.
 
