@@ -1,7 +1,7 @@
 ---
 title: Verfahrensrichtlinie zur Handhabung der Semesterticket-Satzung
 short: Verfahrensrichtlinie zur Handhabung der Semesterticket-Satzung
-date:  27. Januar 2021
+date:  16. Mai 2024
 type:  Richtlinie
 id:    VerfRLSST
 contains:
@@ -12,6 +12,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  3. September 2020
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2020/vsbonn_bekanntmachung_2020-27.pdf
+  ref: 357378c9ce80b16738e9ca3f4e7d6c323a77c336/md/Ordnungen/VerfOSTA.md
 - title: Verfahrensrichtlinie zur Handhabung der Semesterticket-Satzung
   short: Verfahrensrichtlinie zur Handhabung der Semesterticket-Satzung
   actorgan: Studierendenparlament
@@ -19,15 +20,25 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  27. Januar 2021
   puburl:  https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-09.pdf
+  ref: e2bff87aa96679c6f9b507e2f40b19b5bb95d8b9/md/Sonstige/VerfRLSST.md
+- title: Zweite Änderungsordnung der Verfahrensrichtlinie zur Handhabung der Semesterticket-Satzung
+  short: Zweite Änderungsordnung der Verfahrensrichtlinie zur Handhabung der Semesterticket-Satzung
+  actorgan: Ausschuss für das Semesterticket
+  actdate:  15. Mai 2024
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  16. Mai 2024
+  puburl:  https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-27.pdf
+  ref: HEAD/md/Sonstige/VerfRLSST.md
 
 ---
 
 
 ### § 1 Gegenstand
 
-Diese Verfahrensrichtlinie konkretisiert die Semesterticket-Satzung (SST) in der Bearbeitung
-der Anträge. Sie ist der Satzung gegenüber nachrangig und wird vom Semesterticketausschuss (STA)
-selbst gesetzt.
+Diese Verfahrensrichtlinie konkretisiert die Satzung zur Erstattung des Mobilitätsbeitrags zum
+Semesterticket (Semesterticket-Satzung - SST) in der Bearbeitung der Anträge. Sie ist der Satzung
+gegenüber nachrangig. Der Semesterticketausschuss (STA) gibt sich diese Verfahrensrichtlinie
+nach den Regelungen von §9 dieser Verfahrensrichtlinie selbst.
 
 
 ### § 2 Eingang und Überprüfung der Anträge
@@ -81,37 +92,80 @@ Sperrkontos oder vergleichbarem einzureichen sowie falls aus diesem nicht
 hervorgeht, dass das Sperrkonto oder vergleichbares Voraussetzung für ihr Studium an
 der RFWU Bonn ist, einen Nachweis darüber von staatlicher Seite.
 
-(4) Als Aufwendungen sind die Ausgaben mit dem Bruttobetrag anzusetzen. Anrechenbar
-sind
+(4) Als Aufwendungen sind die Ausgaben mit dem Bruttobetrag anzusetzen. Als Aufwendungen
+im Sinne des §4 der SST gelten insbesondere:
 
-- Nr.1 Miet- und Nebenkosten nach der jeweils gültigen Betriebskostenverordnung,
-- Nr.2 Aufwendungen für Familienangehörige, soweit sie aufgrund einer
-  gesetzlichen Unterhaltspflicht geleistet werden,
-- Nr.3 gesetzliche Versicherungsbeiträge einschließlich der Beiträge zu den
-  Sozialversicherungen, nicht aber Zuzahlungen,
-- Nr.4 Aufwendungen zum Zwecke eines langfristigen Vermögensaufbaus bis zu
-  einer Höhe von 50 EUR pro Monat und
-- Nr.5 sonstige Aufwendungen, soweit der STA diese unter Berücksichtigung der
-  besonderen Umstände des Einzelfalls für erforderlich hält.
+1. Miet- und Nebenkosten,
+2. Aufwendungen für Familienangehörige, soweit sie aufgrund einer gesetzlichen Unterhaltspflicht geleistet werden,
+3. gesetzliche Versicherungsbeiträge einschließlich der Beiträge zu den Sozialversicherungen, nicht aber Zuzahlungen,
+4. Rundfunkbeitrag und
+5. Aufwendungen zum Zwecke eines langfristigen Vermögensaufbaus bis zu einer Höhe von 100 € pro Monat.
 
-Nicht anrechenbar sind
+(5) Nicht anrechenbar sind sonstige Lebenshaltungskosten, insbesondere:
 
-- Nr. 1 Kosten für Strom, Internet sowie der Rundfunkbeitrag (GEZ-Gebühr),
-- Nr. 2 Beiträge zu nicht-pflichtige Versicherungen,
-- Nr. 3 Fahrzeugkosten einschließlich der Beiträge zur Haftpflichtversicherung – der
-  STA kann in begründeten Einzelfällen Ausnahmen bis zu einem aus der
-  Verwaltungspraxis heraus zu bestimmenden Höchstbetrag machen –
-- Nr. 4 Zahlungen auf Ersatzpflichten wegen deliktischer Handlung und
-- Nr. 5 sonstige Zahlungsverpflichtungen einschließlich Kreditrückzahlungen, die
-  im Rahmen einer sparsamen Lebensführung nicht angefallen wären.
+1. Beiträge zu nicht-verpflichtenden Versicherungen,
+2. Fahrzeugkosten einschließlich der Beiträge zur Haftpflichtversicherung – der STA kann
+   in begründeten Einzelfällen Ausnahmen bis zu einem aus der Verwaltungspraxis heraus
+   zu bestimmenden Höchstbetrag machen -
+3. Zahlungen für Schadensersatzpflichten aus vorsätzlichen oder grob fahrlässigen Handlungen und
+4. sonstige Zahlungsverpflichtungen einschließlich Kreditrückzahlungen, bei denen davon
+   auszugehen ist, dass diese im Rahmen einer sparsamen Lebensführung nicht angefallen
+   wären.
+   Darüber hinaus entscheidet der Ausschuss im Einzelfall, ob weitere anfallende Zahlungen
+   anrechnungsfähig sind. Er hat die Begründung dafür zu archivieren. Bei gehäuftem Auftreten
+   hat eine Aufnahme in die Verfahrensrichtlinie zu erfolgen.
 
-(5) Lebt die antragstellende Person mit anderen Personen in einer Bedarfsgemeinschaft,
+(6) Lebt die antragstellende Person mit anderen Personen in einer Bedarfsgemeinschaft,
 so sind zur Berechnung der Einkünfte alle Einnahmen und Vermögenspositionen zu
 addieren und anschließend durch die Personenanzahl zu dividieren. Für die Kinder
 wird der Bedarf eines Erwachsenen angerechnet.
 
 
-### § 5 Entscheidung über Anträge
+### § 5 Konkretisierung zum studienbedingten Aufenthalt außerhalb des Vertragsgebietes
+
+(1) Dieser Paragraph konkretisiert die Grundsätze, welche in §6 SST gefasst sind.
+
+(2) Bei der Anfertigung eine Abschlussarbeit sind dabei nur Gründe zulässig, die einen Aufenthalt
+außerhalb des Vertragsgebietes unabdingbar machen, wie etwa ein Auslandssemester oder
+Anfertigung an einer Universität oder Institution mit Sitz außerhalb des Vertragsgebietes.
+
+
+### § 6 Konkretisierungen zur Erstattung bei bereits vorhandenem Jobticket
+
+(1) Dieser Paragraph konkretisiert die Grundsätze, welche in §8 SST gefasst sind.
+
+(2) Ein bereits vorhandenes Jobticket ist nur dann zulässig, wenn es bereits vor dem
+Semesterticket im Besitz der antragstellenden Person war.
+
+(3) Die Möglichkeit für Soldatinnen der Bundeswehr, in Uniform den öffentlichen Personen
+Nahverkehr kostenlos zu nutzen, gilt nicht als adäquater Ersatz für das Semesterticket.
+
+(4) Andere kostenpflichtige Angebote, welche einen dem Semesterticket ebenbürtigen Vertragsumfang
+als Teil des Angebots-Umfangs haben, werden nicht als Grund für die Rückerstattung
+akzeptiert. Hierzu zählen insbesondere die BahnCard 100 oder ein zuvor erworbenes, nicht
+vergünstigtes Deutschland-Ticket.
+
+
+### § 7 Konkretisierung zur Anteiligen Erstattung
+
+(1) Dieser Paragraph konkretisiert die Grundsätze, welche in §12 SST gefasst sind.
+
+(2) Ein semesterüberschreitender Antrag nach §12 Absatz 2 muss die folgenden Voraussetzungen
+erfüllen:
+
+0. Semesterübergreifende Anträge, welche in beiden Semestern jeweils mindestens drei
+   Monaten umfasst, sind als getrennte Anträge im jeweiligen Semester zu stellen. Wurden
+   sie dennoch als ein Antrag gestellt und sind alle erforderlichen Unterlagen vorhanden, so
+   ist dem Ausschuss bzw. der Bürokraft freigestellt den Antrag als zwei getrennte Anträge
+   zu betrachten. Ein Nachweis der Immatrikulation durch die Studienbescheinigung ist
+   dann für das zweite Semester zu erbringen. Sollte diese vorliegen kann sofort erneut
+   wie im Semester davor entschieden werden und ein Bescheid ergehen.
+
+(3) Für jedes Semester ist der Betrag anteilig nach Tagen in dem entsprechenden Semester
+und unter Berücksichtigung des für das jeweilige Semester gültigen Mobilitäts-Beitrags zu
+ermitteln.
+
+### § 8 Entscheidung über Anträge
 
 (1) Der STA entscheidet über die vorliegenden Anträge. Die Entscheidungen sind zu
 begründen.
@@ -123,8 +177,14 @@ Doppel des Bescheids ist zu den Antragsunterlagen zu nehmen.
 Absatz 2 der SST zur Entscheidung über den Antrag befugt ist.
 
 
-### § 6 Änderungen der Verfahrensrichtlinie
+### § 9 Änderungen der Verfahrensrichtlinie
 
-Änderungen treten grundsätzlich mit Beginn des nächsten Semesters nach ihrer
-Veröffentlichung in Kraft. Tritt eine Änderung abweichend von Satz 1 im laufenden Semester
-in Kraft, so sind an Anträge die jeweils milderen Anforderungen zu stellen.
+(1) Änderungen der Verfahrensordnung können nach Maßgabe der Geschäftsordnung des
+Studierendenparlaments der Universität Bonn vorgenommen werden, wenn diese in drei getrennten
+Lesungen auf mindestens zwei ordentlich eingeladenen Ausschusssitzungen beraten wurden.
+
+(2) Für eine Änderung der Verfahrensordnung reicht eine einfache Mehrheit.
+
+(3) Änderungen treten grundsätzlich mit Beginn des nächsten Semesters nach ihrer
+Veröffentlichung in Kraft. Tritt eine Änderung abweichend von Satz 1 im laufenden Semester in Kraft,
+so sind an Anträge die jeweils milderen Anforderungen zu stellen.
