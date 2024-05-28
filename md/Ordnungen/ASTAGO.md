@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung des Allgemeinen Studierenden Ausschuss (GO AStA)
 short: Geschäftsordnung des AStA (GO AStA)
-date:  12. Mai 2023
+date:  27. Mai 2024
 type:  Ordnung
 id:    ASTAGO
 contains:
@@ -60,6 +60,14 @@ contains:
   pubdate:  12. Mai 2023
   puborgan: Öffentlichkeitsbeauftragte
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-29.pdf
+  ref: 8568c4a389686df45bbcab002a07b9ddadccb3cd/md/Ordnungen/ASTAGO.md
+- title: 2. Ordnung zur Änderung der Geschäftsordnung des AStA (GO AStA)
+  short: 2. Ordnung zur Änderung der Geschäftsordnung des AStA (GO AStA)
+  actdate:  27. Mai 2024
+  actorgan: Gesamt-AStA-Sitzung
+  pubdate:  27. Mai 2024
+  puborgan: Öffentlichkeitsbeauftragte
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-33.pdf
   ref: HEAD/md/Ordnungen/ASTAGO.md
 
 ---
@@ -141,8 +149,9 @@ ausspricht.
 
 ### § 7 Selbstverwaltete Referate
 
-1. Als selbstverwaltete Referate existieren das Fachschaftenreferat, das Sportreferat, das Referat für FLINTA* und 
-Geschlechtergerechtigkeit‚ das Referat für Internationale Studierende, das BiPoC-Referat und das QueerReferat.
+1. Als selbstverwaltete Referate existieren das Fachschaftenreferat, das Sportreferat, das Referat
+für FLINTA\* und Geschlechtergerechtigkeit, das Referat für Internationale Studierende, das
+BIPoC\*-Referat, das Queer-Referat und das CIMND\*-Referat.
 2. Die selbstverwalteten Referate treten innerhalb ihrer Arbeitsbereiche eigenständig nach außen
 auf. Abweichend von § 5 Abs. 2 findet eine inhaltliche Einflussnahme der Gesamt-AStA- Sitzung
 nicht statt.
@@ -241,32 +250,6 @@ Dieser kann bei erheblichen Bedenken ein Veto gegen deren Veröffentlichung einl
 Sache an die Gesamt-AStA-Sitzung verweisen, die über die Veröffentlichung befindet.
 2. Publikationen sind rechtzeitig der Gesamt-AStA-Sitzung und der Öffentlichkeitsreferentin
 anzuzeigen.
-
-
-### § 12a AStA-Zeitung
-
-1. Der AStA hat seine eigene Zeitung, die sich dem Pressekodex verpflichtet fühlt. Dort wird über
-den AStA, Aktuelles aus Universität und Stadt, und über politische und kulturelle Themen berichtet.
-Diese Themen spiegeln sich in einzelnen Ressorts in der AStA-Zeitung wider.
-2. Die Zeitung ist als Referat organisiert. Die Referentin ist gleichzeitig auch die Chefredakteurin.
-Anders aber als bei den anderen Referaten soll die Referentin von der Redaktion, also den
-Mitarbeiterinnen des Referats, aus ihrer Mitte gewählt werden. Das Votum muss dann im
-Studierendenparlament bestätigt werden.
-3. Die Mitarbeiterinnen, gleichzeitig Redaktionsmitglieder, werden auf der GAS 6 Wochen nach der
-AStA-Wahl gewählt. Die Ausschreibung erfolgt durch den AStA Vorsitz. Voraussetzung für eine
-Bewerbung auf eine Redaktionsstelle ist die Vorlage mindestens einer Arbeitsprobe. Außerdem
-sollte man sich zuvor auf einer Redaktionssitzung der aktuellen FW-Redaktion vorstellen. Die
-Redaktion besteht aus bis zu elf Mitarbeiterinnen. Die alte Redaktion arbeitet die neu gewählte
-Redaktion bis zu 14 Tage ein. Wenn eine Mitarbeiterin ausscheidet, kann zu jedem Zeitpunkt eine
-Mitarbeiterin auf Vorschlag der Chefredakteurin nachgewählt werden.
-4. Nach der Wahl der Mitarbeiterinnen auf der GAS muss die Redaktion innerhalb von 14 Tagen der
-AStA-Vorsitzenden ihr Votum für die Chefredakteurin mitteilen, die den Vorschlag dann an das
-Studierendenparlament weiter gibt.
-5. Das Referat gibt sich eine eigene Geschäftsordnung, in der die genauen Abläufe der Zeitung
-festgehalten werden. Die Geschäftsordnung ist auf der Webseite der AStA-Zeitung zu
-veröffentlichen. Die AStA-Vorsitzende kann als Verantwortliche im Sinne des Presserechts (V.i.S.d.P.)
-in Punkten, die den AStA-Vorsitz betreffen, ein Veto gegen die Geschäftsordnung
-einlegen. Hierüber entscheidet dann die darauffolgende GAS.
 
 
 ## V. Rechenschaftsberichte
@@ -384,10 +367,11 @@ stattfinden.
 3. Ein Veto des Vorsitzes zu einer Sache ist nur ein Mal zulässig.
 
 
-### § 26 Höherrangige Satzung
+### § 26 Nachrangige Ordnungen
 
-Sofern diese Satzung keine anders lautenden Regelungen enthält, gilt die Geschäftsordnung des
-Studierendenparlamentes für die Gesamt-AStA-Sitzung.
+Sofern diese Geschäftsordnung keine anders lautenden Regelungen enthält, gilt die
+Geschäftsordnung des Studierendenparlamentes für die Gesamt-AStA-Sitzung, soweit anwendbar,
+entsprechend.
 
 ## VII. Vollversammlungen
 
@@ -431,16 +415,15 @@ entsprechend anwendbar.“
 
 ### § 31 Beschlussfähigkeit
 
-1. Die verschiedenen Vollversammlungen sind beschlussfähig, wenn die folgenden Zahlen von
-anwesenden Angehörigen erreicht werden:  
-Für das Referat für Internationale Studierende:  
-Internationale Studierende: 40  
-Für das Referat für FLINTA* und Geschlechtergerechtigkeit:  
-Frauen, Lesben, intergeschlechtliche, nichtbinäre, trans und agender (FLINTA*) Studierende: 100  
-Für das Queer-Referat:  
-Queere Studierende: 25  
-Für das BiPoC-Referat:  
-BiPoC Studierende: 20
+1.  
+    1. Für das Referat für Internationale Studierende: 40 Internationale Studierende
+    2. Für das Referat für FLINTA* und Geschlechtergerechtigkeit: 100 Frauen, Lesben,
+       intergeschlechtliche, nichtbinäre, trans und agender (FLINTA\*) Studierende
+    3. Für das Queer-Referat: 25 Queere Studierende
+    4. Für das BIPoC\*-Referat: 20 BIPoC\* Studierende
+    5. Für das CIMND\*-Referat: 20 behinderte, chronisch und psychisch kranke, neurodivergente,
+       taube Studierende sowie alle weiteren von Ableismus betroffene Studierenden, unabhängig
+       von einer offiziellen Diagnose
 2. Unabhängig von ihrer Beschlussfähigkeit können die Vollversammlungen der AStAVorsitzenden eine Referentin vorschlagen.
 3. Ist eine Vollversammlung nicht beschlussfähig, so kann sie der Gesamt-AStA-Sitzung
 Mitarbeiterinnen der entsprechenden Referate vorschlagen, die abweichend von § 7 Abs. 3 durch
