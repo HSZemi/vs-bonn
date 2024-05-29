@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung des Allgemeinen Studierenden Ausschuss (GO AStA)
 short: Geschäftsordnung des AStA (GO AStA)
-date:  27. Mai 2024
+date:  29. Mai 2024
 type:  Ordnung
 id:    ASTAGO
 contains:
@@ -65,9 +65,9 @@ contains:
   short: 2. Ordnung zur Änderung der Geschäftsordnung des AStA (GO AStA)
   actdate:  27. Mai 2024
   actorgan: Gesamt-AStA-Sitzung
-  pubdate:  27. Mai 2024
+  pubdate:  29. Mai 2024
   puborgan: Öffentlichkeitsbeauftragte
-  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-33.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-36.pdf
   ref: HEAD/md/Ordnungen/ASTAGO.md
 
 ---
@@ -415,15 +415,16 @@ entsprechend anwendbar.“
 
 ### § 31 Beschlussfähigkeit
 
-1.  
-    1. Für das Referat für Internationale Studierende: 40 Internationale Studierende
-    2. Für das Referat für FLINTA* und Geschlechtergerechtigkeit: 100 Frauen, Lesben,
-       intergeschlechtliche, nichtbinäre, trans und agender (FLINTA\*) Studierende
-    3. Für das Queer-Referat: 25 Queere Studierende
-    4. Für das BIPoC\*-Referat: 20 BIPoC\* Studierende
-    5. Für das CIMND\*-Referat: 20 behinderte, chronisch und psychisch kranke, neurodivergente,
-       taube Studierende sowie alle weiteren von Ableismus betroffene Studierenden, unabhängig
-       von einer offiziellen Diagnose
+1. Die verschiedenen Vollversammlungen sind beschlussfähig, wenn die folgenden Zahlen von
+Anwesenden Angehörigen erreicht werden:
+    a. Für das Referat für Internationale Studierende: 40 Internationale Studierende
+    b. Für das Referat für FLINTA\* und Geschlechtergerechtigkeit: 100 Frauen, Lesben,
+    intergeschlechtliche, nichtbinäre, trans und agender (FLINTA\*) Studierende
+    c. Für das Queer-Referat: 25 Queere Studierende
+    d. Für das BIPoC\*-Referat: 20 BIPoC\* Studierende
+    e. Für das CIMND\*-Referat: 20 behinderte, chronisch und psychisch kranke, neurodivergente,
+    taube Studierende sowie alle weiteren von Ableismus betroffene Studierenden, unabhängig
+    von einer offiziellen Diagnose
 2. Unabhängig von ihrer Beschlussfähigkeit können die Vollversammlungen der AStAVorsitzenden eine Referentin vorschlagen.
 3. Ist eine Vollversammlung nicht beschlussfähig, so kann sie der Gesamt-AStA-Sitzung
 Mitarbeiterinnen der entsprechenden Referate vorschlagen, die abweichend von § 7 Abs. 3 durch
