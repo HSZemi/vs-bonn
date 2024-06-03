@@ -58,7 +58,7 @@ end
 -- Helper function that extracts the paragraph number.
 -- If there is none, nil is returned.
 local function paragraph_number(s)
-  return string.match(s, '^%(([0-9]+)%)')
+  return string.match(s, '^%(([0-9]+[a-z]?)%)')
 end
 
 -- Run cmd on a temporary file containing inp and return result.
@@ -272,7 +272,7 @@ end
 function Para(s)
   local id = paragraph_number(s)
   if id and paragraphId then
-    local remainder = string.match(s, '^%([0-9]+%)(.*)')
+    local remainder = string.match(s, '^%([0-9]+[a-z]?%)(.*)')
     return "<p".. attributes({id = paragraphId .. '-' .. id}) .. ">(<a" .. attributes({href = '#' .. paragraphId .. '-' .. id}) .. ">" .. id .. "</a>)" .. remainder .. '</p>'
   else
     return "<p>" .. s .. "</p>"
