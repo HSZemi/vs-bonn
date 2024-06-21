@@ -1,7 +1,7 @@
 ---
 title: Finanzordnung des Studierendensports (Sportfinanzordnung – SpoFinO)
 short: Finanzordnung des Studierendensports (Sportfinanzordnung – SpoFinO)
-date:  15. Juni 2021
+date:  20. Juni 2024
 type:  Ordnung
 id:    SpoFinO
 contains:
@@ -12,6 +12,15 @@ contains:
   pubdate:  15. Juni 2021
   puborgan: Öffentlichkeitsbeauftragte
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-32.pdf
+  ref: 6ffca85d5e42a358ccd3f283d250659ee5386dc0/md/Ordnungen/SpoFinO.md
+- title: Erste Änderungsordnung der Finanzordnung des Studierendensports
+  short: Erste Änderungsordnung der Finanzordnung des Studierendensports
+  actdate:  19. Juni 2024
+  actorgan: Studierendenparlament
+  pubdate:  20. Juni 2024
+  puborgan: Öffentlichkeitsbeauftragte
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-47.pdf
+  ref: HEAD/md/Ordnungen/SpoFinO.md
 
 ---
 
@@ -50,9 +59,11 @@ Ist dies nicht der Fall, so wird der Antrag nicht behandelt.
 
 (4) Ein Antrag enthält ein empfohlenes Angebot sowie Vergleichsangebote. Ein Antrag muss Angebote in folgendem Umfang enthalten:
 
-1. bei einer Summe bis zu 1.000€ mindestens drei Angebote
-2. bei einer Summe über 1.000€ mindestens vier Angebote
-3. bei einer Summe über 10.000€ mindestens sieben Angebote
+1. Bei einer Summe bis zu 250€ mindestens ein Angebot, sowie zwei weitere Angebote
+oder Kostenauskünfte zu Vergleichszwecken.
+2. Bei einer Summe über 250€ mindestens drei Angebote
+3. bei einer Summe über 1.000€ mindestens vier Angebote
+4. bei einer Summe über 10.000€ mindestens sieben Angebote
 
 (5) Im Ausnahmefall ist eine Behandlung des Antrags auch ohne ausreichende Vergleichsangebote möglich, sofern deren Einholen nicht sinnvoll möglich ist und deren Fehlen im Antrag begründet wird.
 
@@ -80,7 +91,9 @@ Ist dies nicht der Fall, so wird der Antrag nicht behandelt.
 
 (2) Wettkampfbezuschussung erhalten ausschließlich Studierende der Universität Bonn. 
 
-(3) Bezuschusst werden nur Meldungs- und Fahrtkosten. Verpflegung und Übernachtung sind nicht zuschussfähig.
+(3) Bezuschusst werden nur Meldungs- und Fahrtkosten, sowie Kosten für Materialien, die
+durch den Veranstalter vorgeschrieben sind. Verpflegung und Übernachtung sind nicht
+zuschussfähig.
 
 (4) Pro Sportart können folgende Anzahl an Anträgen genehmigt werden:
 
@@ -102,21 +115,32 @@ Ist dies nicht der Fall, so wird der Antrag nicht behandelt.
 
 (8) Anträge, die die oben genannte Kriterien erfüllen, müssen nicht der OV vorgelegt werden und werden vom Sportreferat entschieden.
 
-(9) Ein Nachweis der Kosten mit Ergebnis des Turniers, bzw einer Teilnahmebescheinigung sind spätestens 4 Wochen nach der Veranstaltung beim Sportreferat einzureichen. 
-
+(9) Ein Nachweis der Kosten mit Ergebnis des Wettkampfs, bzw einer Teilnahmebescheinigung sind spätestens 4 Wochen nach der Veranstaltung beim Sportreferat einzureichen.
 
 (10) Wurden in einem Antrag absichtlich Falschangaben gemacht, können alle beteiligten Personen von einer zukünftigen Bezuschussung ausgeschlossen werden.
 
 
 ### § 5 Höchstsätze Wettkampf- und Fortbildungszuschuss
 
-(1) Erstattet wird für Turniere und Fortbildungen des Allgemeinen Deutschen Hochschulsportverbands maximal 70 € pro Person.
+(1) Erstattet wird für Wettkämpfe und Fortbildungen maximal 70 € pro Person. Teilnahmen
+an Fortbildungen werden nur erstattet, wenn diese vom Allgemeinen Deutschen
+Hochschulsportverband ausgerichtet werden.
 
-(2) Melden sich mehrere Personen zu einer Veranstaltung an, gelten zusätzlich insgesamt folgende Höchstsätze:
+(2) Melden sich mehrere Personen einer Sportart zu einer Veranstaltung an, gelten zusätzlich insgesamt folgende Höchstsätze:
 
-- 2-5 Personen: 300€
-- 6-10 Personen: 500€
-- mehr als 10 Personen: 700€
+- 2-5 Personen einer Sportart: 300€
+- 6-10 Personen einer Sportart: 500€
+- mehr als 10 Personen einer Sportart: 700€
+
+(4) Die Höchstsätze gelten für alle Wettkämpfe und beinhalten sowohl Meldegebühren als
+auch Fahrtkosten.
+
+(3) Für Europäische Hochschulmeisterschaften (EUC) gelten abweichend folgende Regelungen:
+
+1. Übernommen werden maximal zwei Drittel der von der EUSA festgelegten Meldegebühr.
+2. Fahrtkosten werden nur auf Beschluss der OV bezuschusst.
+3. Übersteigt das Antragsvolumen 1500€, so ist eine Zustimmung der OV, sowie des
+Studierendenparlaments, notwendig.
 
     
 ### § 6 Fahrtkostenberechnung
@@ -127,7 +151,27 @@ Ist dies nicht der Fall, so wird der Antrag nicht behandelt.
 
 ```(Anzahl der Personen) * (Gesamtfahrtstrecke in km) * 0,05 EUR =  Höhe des Zuschusses```
 
-(2) Innerhalb des Bereichs des Semestertickets ist dieses zu nutzen. 
+(3) Fahrtkosten werden nur erstattet, wenn eine unzumutbare Mehrbelastung gegenüber
+einer Nutzung des Deutschlandsemestertickets vorliegt. Dies ist insbesondere dann der
+Fall, wenn mit dem Deutschlandsemesterticket eine Verspätung von mindestens drei
+Stunden relativ zu der gewählten Fahrt vorliegt.
+
+
+### § 6a Wettkampfausrichtung
+
+(1) Für eine Wettkampfausrichtung sind bis zu 250€ förderfähig.
+
+(2) Förderfähig sind der Kauf von Verbrauchsmaterialien und etwaigen Gewinnen.
+Verpflegung und Übernachtung sind nicht zuschussfähig.
+
+(3) Ausgaben, die durch andere Mittel, beispielsweise Meldekosten, gedeckt werden
+können, sind nicht zuschussfähig.
+
+(4) Födererfähig sind nur Wettkämpfe in Bonn und direkter Umgebung, die hauptsächlich
+eine studentische Zielgruppe haben und einen Bezug zum Hochschulsport haben.
+
+(5) Anträge, die die oben genannte Kriterien erfüllen, müssen nicht der OV vorgelegt
+werden und werden vom Sportreferat entschieden.
 
 
 ### § 7 Weitergehende Anträge
@@ -135,6 +179,8 @@ Ist dies nicht der Fall, so wird der Antrag nicht behandelt.
 (1) Weitergehende Anträge können vor der Veranstaltung von der OV genehmigt werden.
 
 (2) Es gelten die Regelungen und Fristen für Sachanträge.
+
+(3) Genehmigungen von weitergehende Anträgen sind Einzelfallentscheidungen.
 
 
 # Abschnitt D - Schlussbestimmungen
