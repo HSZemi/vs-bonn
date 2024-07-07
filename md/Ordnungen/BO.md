@@ -135,7 +135,7 @@ contains:
   puburl: https://hdl.handle.net/20.500.11811/10879
   ref: 3f56580f02bb4d09cf6b699a3d8bc0d16bcd67c9/md/Ordnungen/BO.md
 - title: Siebenunddreißigste Ordnung zur Änderung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - XXXVII. Beitragsordnungsänderungsordnung (BOÄO XXXVII) -
-  short: XXXVI\. Beitragsordnungsänderungsordnung (BOÄO XXXVI)
+  short: XXXVII\. Beitragsordnungsänderungsordnung (BOÄO XXXVII)
   actdate:  10. Januar 2024
   actorgan: Studierendenparlament
   confirmorgan: Rektorat
