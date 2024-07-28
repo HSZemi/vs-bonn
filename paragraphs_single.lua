@@ -98,7 +98,7 @@ function Doc(body, metadata, variables)
   local function add(s)
     table.insert(buffer, s)
   end
---  add('<div class="container">')
+  add('<div class="vs-bonn">')
   add('{navigation}')
   if metadata['title'] and metadata['short'] and metadata['title'] ~= "" then
     add('<h1 class="title" title="' .. metadata['title'] .. '">' .. metadata['short'] .. '</h1>')
@@ -135,7 +135,7 @@ function Doc(body, metadata, variables)
     add('<hr>')
     add(containsBox(metadata['contains']))
   end
-  --  add('</div>')
+  add('</div>')
   return table.concat(buffer,'\n')
 end
 

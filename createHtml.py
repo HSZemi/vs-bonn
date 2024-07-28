@@ -165,6 +165,19 @@ for name in names:
 breadcrumbs = generate_breadcrumbs("", "TOP", 0, toplevel=True)
 
 f = open('html/index.html', 'w')
+searchbar = '''
+<link href="./pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="./pagefind/pagefind-ui.js"></script>
+<div id="search"></div>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true, showImages: false });
+    });
+</script>
+'''
 #print(htmltemplate.format(content=breadcrumbs + generate_navtree(names, titles, "", 0), path_to_top=path_to_top(0), title="Index"), file=f)
-print(breadcrumbs + generate_navtree(names, titles, "", 0), file=f)
+print(breadcrumbs + searchbar + generate_navtree(names, titles, "", 0), file=f)
 f.close()
+
+shutil.rmtree('html/pagefind')
+subprocess.call('npx -y pagefind --site html --root-selector div --force-language de', shell=True)

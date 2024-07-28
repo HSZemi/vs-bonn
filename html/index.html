@@ -1,5 +1,14 @@
 <ol class="breadcrumb"><li><a href="./">TOP</a></li>
-</ol><b><a href='./Ordnungen/index.html'>Ordnungen</a></b>
+</ol>
+<link href="./pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="./pagefind/pagefind-ui.js"></script>
+<div id="search"></div>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true, showImages: false });
+    });
+</script>
+<b><a href='./Ordnungen/index.html'>Ordnungen</a></b>
 <ul><li><a href='./Ordnungen/ASTAGO.html'>Geschäftsordnung des AStA (GO AStA)</a></li>
 <li><a href='./Ordnungen/BO.html'>Beitragsordnung der Studierendenschaft (BO)</a></li>
 <li><a href='./Ordnungen/FKGO.html'>Geschäftsordnung der Fachschaftenkonferenz (FKGO)</a></li>

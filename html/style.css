@@ -130,3 +130,7 @@ h6:hover .anchor {
 * {
 	box-sizing: border-box;
 }
+
+#search {
+	margin-bottom: 1rem;
+}
