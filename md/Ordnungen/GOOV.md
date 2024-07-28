@@ -74,6 +74,7 @@ weitreichende Anträge so soll die Sitzung in Präsenz stattfinden.
 
 (1) Die Tagesordnung(TO) ordentlicher Sitzungen muss mindestens folgende Punkte
 enthalten:
+
 a) Eröffnung / Protokollführung
 b) endgültige Festlegung der Tagesordnung
 c) Genehmigung des Protokolls der vorangegangenen Sitzung
@@ -185,9 +186,8 @@ Die Abstimmung beginnt durch Erklärung der Redeleitung.
 dann die Nein-Stimmen, dann die Enthaltungen.
 
 (6) Soweit SpS oder GO nichts anderes bestimmen, gilt ein Antrag als angenommen bzw.
-ist eine Wahl erfolgt, wenn die Zahl der Ja-Stimmen die der Nein-Stimmen übersteigt
-
-(einfache Mehrheit).
+ist eine Wahl erfolgt, wenn die Zahl der Ja-Stimmen die der Nein-Stimmen übersteigt (einfache
+Mehrheit).
 
 (7) Die Abstimmung erfolgt grundsätzlich durch Handzeichen. Einem Antrag auf geheime
 Abstimmung, durch ein OV-Mitglied, ist zu entsprechen; bei GO-Anträgen ist geheime
