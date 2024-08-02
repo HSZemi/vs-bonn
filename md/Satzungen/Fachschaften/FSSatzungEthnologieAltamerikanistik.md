@@ -12,6 +12,7 @@ contains:
   puborgan: AKUT
   pubdate:  16. August 2019
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-15.pdf
+  ref: dd2e2da7b1669b914dcea50ffc0b7b191adc9213/md/Satzungen/Fachschaften/FSSatzungInformatik.md
 - title: Satzung der Fachschaft Altamerikanistik und Ethnologie
   short: Satzung der Fachschaft Altamerikanistik und Ethnologie
   actorgan: Fachschaftsvollversammlung Fachschaft Ethonologie / Altamerikanistik
@@ -19,17 +20,18 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  17. Mai 2023
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-35.pdf
+  ref: HEAD/md/Satzungen/Fachschaften/FSSatzungInformatik.md
 
 ---
 
-# Präambel
+## Präambel
 
 Als Teil der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn und in Ausübung
 ihres Rechts auf Selbstverwaltung hat sich die Fachschaft Altamerikanistik und Ethnologie die folgende
 Satzung gegeben.
 
-## I. Fachschaft
 
+## I. Fachschaft
 
 ### § 1 Begriffsbestimmung und Rechtsstellung
 
@@ -340,6 +342,129 @@ Tod.
 (4) Der FSR gilt solange als beschlussfähig, bis auf Antrag eines FSR-Mitgliedes durch den
 Vorsitzenden oder die Vorsitzende das Gegenteil festgestellt wird.
 
+(5) Die Beschlussfähigkeit wird auf Antrag unverzüglich festgestellt. Sie ist gegeben, wenn mehr als die
+Hälfte der FSR-Mitglieder anwesend ist. Ein Einspruch gegen diesen Antrag ist nicht möglich. Der
+oder die FSR-Vorsitzende überprüft die Beschlussfähigkeit durch namentlichen Aufruf.
+
+(6) Bei Beschlussunfähigkeit muss nach spätestens 14 Tagen eine zweite Sitzung mit der gleichen
+Tagesordnung einberufen werden. Die normalen Ladungsfristen sind zu wahren. Diese Sitzung ist
+unabhängig von der Zahl der anwesenden Mitglieder beschlussfähig. Die Einladung hat ausdrücklich
+auf diesen Umstand hinzuweisen.
+
+(7) FSR-Beschlüsse der laufenden Sitzungsperiode können durch Beschluss mit einer
+Zweidrittelmehrheit der gewählten Mitglieder des FSR oder einer einfachen Mehrheit der FSV
+aufgehoben werden.
+
+
+### § 16 Aufgaben und Zuständigkeiten des FSR
+
+(1) Der FSR kann durch Mehrheitsbeschluss Aufgabengebiete an einzelne FSR-Mitglied vergeben.
+
+(2) Der oder die FSR-Vorsitzende bestimmt die Richtlinien der Arbeit des FSR und trägt dafür die
+Verantwortung. Innerhalb dieser Richtlinien ist jedes FSR-Mitglied gegenüber dem oder der
+Vorsitzenden für sein Aufgabengebiet verantwortlich.
+
+(3) Der oder die FSR-Vorsitzende ist insbesondere dafür verantwortlich, die Arbeit der Organe der
+Fachschaft an alle Mitglieder der Fachschaft zu kommunizieren.
+
+(4) Der oder die FSR-Vorsitzende hat Beschlüsse, Unterlassungen oder Maßnahmen der FSV, des FSR
+und der FSVV zu beanstanden, sofern sie gegen geltendes Recht verstoßen.
+
+
+## IV. Die Fachschaftsvollversammlung (FSVV)
+
+### § 17 Rechtsstellung der FSVV
+
+(1) Die FSVV ist die Versammlung der Mitglieder der Fachschaft Altamerikanistik und Ethnologie.
+
+(2) Die FSVV ist oberstes Beschlussorgan und dient der Information ihrer Mitglieder. Soweit keine FSV
+besteht, übernimmt sie die Aufgaben der FSV, sofern durch diese Satzung, die
+Fachschaftswahlordnung oder eine höherere Rechtsquelle keine andere Zuständigkeit geregelt ist.
+
+
+### § 18 Einberufung und Durchführung der FSVV
+
+(1) Der oder die Vorsitzende des FSR beruft die FSVV ein:
+
+1. auf Beschluss der FSV
+2. auf Beschluss des FSR
+3. auf schriftlichen Antrag von mindestens 5% der Mitglieder der Fachschaft, sofern der Antrag eine
+Tagesordnung enthält.
+
+(2) Die Ankündigung der FSVV erfolgt mindestens eine Woche vor ihrer Durchführung in Textform. Die
+Ankündigung enthält mindestens
+
+1. die genaue Zeit und Ortsangabe der FSVV sowie
+2. ihre Tagesordnung
+
+(3) Die FSVV wählt zu Beginn jeder Versammlung einen oder eine Versammlungsleiter\*in.
+
+(4) Für die FSVV gilt die Geschäftsordnung der Fachschaftenkonferenz (FKGO) soweit anwendbar, falls
+sie sich keine eigene Geschäftsordnung gibt.
+
+
+### § 19 Aufgaben und Zuständigkeiten der FSVV
+
+(1) Die FSVV ist oberstes Beschlussorgan der Fachschaft und dient der Information ihrer Mitglieder.
+
+(2) Soweit keine FSV besteht, übernimmt die FSVV die Aufgaben der FSV, sofern durch Ordnung oder
+Satzung keine andere Zuständigkeit geregelt ist.
+
+
+### § 20 Beschlüsse der FSVV
+
+(1) Rede-, Stimm- und Antragsrecht haben alle Mitglieder der Fachschaft.
+
+(2) Die Entscheidungen der FSVV binden alle Organe der Fachschaft.
+
+(3) Beschlüsse der FSVV können nur durch eine weitere FSVV mit der entsprechenden Mehrheit
+aufgehoben werden.
+
+(4) Ein Beschluss ist rechtmäßig zustande gekommen, wenn
+
+1. die FSVV beschlussfähig war und
+2. er die einfache Mehrheit gefunden hat.
+
+(5) Bei Beschlussunfähigkeit muss nach spätestens 14 Tagen eine zweite Sitzung mit der gleichen
+Tagesordnung einberufen werden. Die normalen Ladungsfristen sind zu wahren. Die Einladung hat
+ausdrücklich darauf hinzuweisen, dass diese Sitzung unabhängig von der Zahl der anwesenden
+Mitglieder beschlussfähig ist.
+
+
+## V. Haushalts- und Wirtschaftsführung
+
+### § 21 Grundsätze der Haushaltsführung
+
+(1) Die Haushalts- und Wirtschaftsführung richtet sich nach den Vorgaben der Satzung der
+Studierendenschaft und der HWVO NRW.
+
+(2) Das Haushaltsjahr der Fachschaft beginnt am 1. April eines jeden Jahres und endet am 31. März
+des jeweiligen Folgejahres.
+
+(3) Bei der Aufstellung und Ausführung des Haushaltsplans sind die Grundsätze der Wirtschaftlichkeit
+und Sparsamkeit zu beachten.
+
+(4) Dem Abschluss von Verträgen über Lieferungen und Leistungen muss ein Preisvergleich
+vorausgehen. Bei Aufträgen mit einem Wert von mehr als 1.000 Euro sind mindestens 3 Angebote
+im Wettbewerb einzuholen, bei Aufträgen mit einem Wert von mehr als 10.000 Euro sind
+mindestens 6 Bewerber\*innen zur Angebotsabgabe aufzufordern. Der Preisvergleich ist
+aktenkundig zu machen und die Vergabeentscheidung zu dokumentieren.
+
+(5) Dem Finanzreferenten oder der Finanzreferentin obliegt die Finanzführung der Fachschaft. Er führt
+über alle Einnahmen und Ausgaben der Fachschaft ordnungsgemäß Buch.
+
+
+### § 22 Haushaltsplan
+
+(1) Der oder die Finanzreferent\*in hat vor Beginn des Haushaltsjahres einen ausgeglichenen
+Haushaltsplan aufzustellen und diesen der FSV in drei Lesungen auf mindestens zwei getrennten
+Sitzungen vor Beginn des Haushaltsjahres zur Abstimmung vorzulegen, wobei die zweite und dritte
+Lesung in der gleichen Sitzung stattfinden dürfen.
+
+(2) Anschaffungen und Ausgaben, die von den im Haushaltsplan unter einem flexiblen Titel, etwa
+„Sonstiges“, ausgewiesenen Geldern getätigt werden und die einen Höchstbetrag von 200 Euro
+überschreiten, sind vor der Anweisung von der FSV gesondert zu beschließen.
+
 (3) Überplanmäßige oder außerplanmäßige Ausgaben sind vor Inkrafttreten eines Nachtrags zum
 Haushaltsplan, der sie vorsieht, nur dann zulässig, wenn sie unabweisbar sind. Sie sind der FSV
 unverzüglich anzuzeigen. Nachträge zum Haushaltsplan können nur für das laufende
@@ -401,7 +526,7 @@ Zuständigkeit festlegen.
 
 (1) Diese Satzung kann durch Beschluss einer Änderungssatzung geändert werden. Für diesen
 Beschluss ist eine Mehrheit von zwei Dritteln der gewählten FSV-Mitglieder oder die Mehrheit der
-anwesenden Fachschaftsmitglieder auf einer beschlussfähigen FSVV nõtig. Die Regelungen zu
+anwesenden Fachschaftsmitglieder auf einer beschlussfähigen FSVV nötig. Die Regelungen zu
 außerordentlichen FSV- und FSVV-Sitzungen sind unanwendbar.
 
 (2) Dieser Beschluss muss jedes Mal in drei Lesungen auf mindestens zwei getrennten Sitzungen
