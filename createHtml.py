@@ -179,5 +179,5 @@ searchbar = '''
 print(breadcrumbs + searchbar + generate_navtree(names, titles, "", 0), file=f)
 f.close()
 
-shutil.rmtree('html/pagefind')
+shutil.rmtree('html/pagefind', ignore_errors=True)
 subprocess.call('npx -y pagefind --site html --root-selector div --force-language de', shell=True)

@@ -1,0 +1,26 @@
+name: Build html files
+on:
+  push:
+    branches:
+      - master
+jobs:
+  Build-Html:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install dependencies
+        run: sudo apt update && DEBIAN_FRONTEND=noninteractive TZ=Etc/UTC sudo apt install -y python3 npm pandoc
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Build html files
+        run: python3 createHtml.py
+      - name: Zip it up
+        run: cd html && zip -r ../html.zip * && cd ..
+      - name: Prepare tag name
+        run: echo "TAG_NAME=$(date -u +'%Y-%m-%d-%H-%M-%S')" >> $GITHUB_ENV
+      - name: Create tag
+        run: git tag "$TAG_NAME"
+      - name: Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{env.TAG_NAME}}
+          files: html.zip
