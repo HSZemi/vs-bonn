@@ -1,7 +1,7 @@
 ---
 title: Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Beitragsordnung der Studierendenschaft (BO)
-date:  6. März 2024
+date:  10. September 2024
 type:  Ordnung
 id:    BO
 contains:
@@ -143,6 +143,16 @@ contains:
   pubdate:  6. März 2024
   puborgan: Amtliche Bekanntmachungen
   puburl: https://hdl.handle.net/20.500.11811/11396
+  ref: 3f56580f02bb4d09cf6b699a3d8bc0d16bcd67c9/md/Ordnungen/BO.md
+- title: Achtunddreißigste Ordnung zur Änderung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - XXXVIII. Beitragsordnungsänderungsordnung (BOÄO XXXVIII) -
+  short: XXXVIII\. Beitragsordnungsänderungsordnung (BOÄO XXXVIII)
+  actdate:  15. Mai 2024
+  actorgan: Studierendenparlament
+  confirmorgan: Rektorat
+  confirmdate: 6. August 2024
+  pubdate:  10. September 2024
+  puborgan: Amtliche Bekanntmachungen
+  puburl: https://hdl.handle.net/20.500.11811/12086
   ref: HEAD/md/Ordnungen/BO.md
 
 ---
@@ -156,14 +166,31 @@ Kosten der Selbstverwaltung, der Selbsthilfe und Mobilität der Studierendenscha
 
 ### § 2
 
-Der Beitrag in Höhe von 223,96 € (SS 2024) ist für folgende Zwecke bestimmt:
+Der Beitrag in Höhe von 198,16 € für das WS 2024/25 ist für folgende Zwecke bestimmt:
 
 |   |                                                                    |           |
 |:--|:-------------------------------------------------------------------|----------:|
 |1. | für die studentische Selbstverwaltung                              |  14,00 €, |
 |2. | für die studentischen Sozialeinrichtungen                          |   0,50 €, |
 |3. | für den Hilfsfonds zur Unterstützung in Not geratener Studierender |   0,01 €, |
-|4. | für das Semesterticket                                             | 202,30 €, |
+|4. | für das Semesterticket                                             | 176,40 €, |
+|5. | für ein Sonderkonto zur Erstattung des Mobilitätsbeitrages         |   0,50 €, |
+|6. | für die Zuweisungen an die Fachschaften                            |   2,25 €, |
+|7. | für den Studierendensport                                          |   1,50 €, |
+|8. | für das Kulturticket                                               |   3,00 €, |
+
+
+### § 2a
+
+Rückwirkend wird der Beitrag für das Sommersemester 2024 wegen der Einführung des
+Deutschlandsemestertickets wie folgt geändert und in Höhe von 198,06 € für folgende Zwecke bestimmt:
+
+|   |                                                                    |           |
+|:--|:-------------------------------------------------------------------|----------:|
+|1. | für die studentische Selbstverwaltung                              |  14,00 €, |
+|2. | für die studentischen Sozialeinrichtungen                          |   0,50 €, |
+|3. | für den Hilfsfonds zur Unterstützung in Not geratener Studierender |   0,01 €, |
+|4. | für das Semesterticket                                             | 176,40 €, |
 |5. | für ein Sonderkonto zur Erstattung des Mobilitätsbeitrages         |   0,60 €, |
 |6. | für die Zuweisungen an die Fachschaften                            |   2,75 €, |
 |7. | für den Studierendensport                                          |   0,80 €, |
