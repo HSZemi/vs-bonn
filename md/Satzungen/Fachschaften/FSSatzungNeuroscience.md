@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Neuroscience
 short: Satzung der Fachschaft Neuroscience
-date:  2. August 2024
+date:  15. September 2024
 type:  Satzung
 id:    FSSatzungNeuroscience
 contains:
@@ -20,6 +20,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  2. August 2024
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-65.pdf
+  ref: cfc3817031f86d7b51a6d4346abba47546f0b874/md/Satzungen/Fachschaften/FSSatzungNeuroscience.md
+- title: Satzung der Fachschaft Neuroscience
+  short: Satzung der Fachschaft Neuroscience
+  actorgan: Fachschaftsvollversammlung Fachschaft Neuroscience
+  actdate:  12. September 2024
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  15. September 2024
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-73.pdf
   ref: HEAD/md/Satzungen/Fachschaften/FSSatzungNeuroscience.md
 ---
 
@@ -30,7 +38,8 @@ Ausübung ihres Rechts auf Selbstverwaltung hat sich die Fachschaft Neuroscience
 folgende Satzung gegeben. Zum Zwecke der Einfachheit verwendet diese Satzung bei allen
 Personenbezeichnungen die männliche Form, sie gelten für alle Menschen unabhängig ihres
 Geschlechts in gleicher Weise. Diese Satzung wurde durch die FSVV der Fachschaft
-Neuroscience 20.12.2023 beschlossen.
+Neuroscience 12.09.2024 beschlossen.
+
 
 ## I. Fachschaft
 
@@ -143,7 +152,7 @@ Geschäftsordnung der Fachschaftenkonferenz.
 
 ### § 8 Beschlüsse des FSR
 
-(1) Rede- und Antragrecht haben alle Mitglieder der FachschaftNeuroscience .
+(1) Rede- und Antragrecht haben alle Mitglieder der Fachschaft Neuroscience .
 
 (2) Stimmrecht haben nur FSR-Mitglieder.
 
@@ -205,7 +214,7 @@ Fachschaftswahlordnung (FSWO).
 
 ### § 11 Rechtsstellung der FSVV
 
-(1) Die FSVV ist die Versammlung der Mitglieder der FachschaftNeuroscience .
+(1) Die FSVV ist die Versammlung der Mitglieder der Fachschaft Neuroscience .
 
 (2) Die FSVV ist oberstes Beschlussorgan und dient der Information ihrer Mitglieder.
 
@@ -270,7 +279,7 @@ Studierendenschaft und der HWVO NRW.
 
 (2) Bei der Aufstellung und Ausführung des Haushaltsplans sind die Grundsätze der
 Wirtschaftlichkeit und Sparsamkeit zu beachten. Das Haushaltsjahr der Fachschaft beginnt
-am 1. September jedes Jahres und endet am 31. August des jeweiligen Folgejahres.
+am 1. Oktober jedes Jahres und endet am 30. September des jeweiligen Folgejahres.
 
 (3) Dem Abschluss von Verträgen über Lieferungen und Leistungen muss ein Preisvergleich
 vorausgehen. Bei Aufträgen mit einem Wert von mehr als 1.000 Euro sind mindestens 3
@@ -284,10 +293,9 @@ Einnahmen und Ausgaben der Fachschaft ordnungsgemäß Buch.
 
 ### § 16 Haushaltsplan
 
-(1) Der Finanzreferent hat vor Beginn des Haushaltsjahres einen ausgeglichenen
-Haushaltsplan aufzustellen und diesen dem FSR in drei Lesungen auf mindestens zwei
-getrennten Sitzungen vor Beginn des Haushaltsjahres zur Abstimmung vorzulegen, wobei die
-zweite und dritte Lesung in der gleichen Sitzung stattfinden dürfen.
+(1) Der Finanzreferent hat zu Beginn des Haushaltsjahres einen ausgeglichenen Haushaltsplan
+aufzustellen und diesen dem FSR auf mindestens zwei getrennten Sitzungen vorzulegen. Die
+Abstimmung über den Haushaltsplan erfolgt im Anschluss über die FSVV.
 
 (2) Anschaffungen und Ausgaben, die von den im Haushaltsplan unter einem flexiblen Titel,
 etwa „Sonstiges“, ausgewiesenen Geldern getätigt werden und die einen Höchstbetrag von
