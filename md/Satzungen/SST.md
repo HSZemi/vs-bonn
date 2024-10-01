@@ -1,7 +1,7 @@
 ---
 title: Satzung zur Erstattung des Mobilitätsbeitrags zum Semesterticket (Semesterticket-Satzung - SST)
 short: Satzung zur Erstattung des Mobilitätsbeitrags zum Semesterticket (Semesterticket-Satzung - SST)
-date:  1. Oktober 2023
+date:  1. Oktober 2024
 type:  Satzung
 id:    SST
 contains:
@@ -76,6 +76,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  12. April 2023
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-22.pdf
+  ref: d5020050ab92f12ce5904605a8c9140e2a162efb/md/Satzungen/SST.md
+- title: Dritte Änderungssatzung zur Änderung der Satzung zur Erstattung des Mobilitätsbeitrags zum Semesterticket (SST)
+  short: Dritte Änderungssatzung zur Änderung der Satzung zur Erstattung des Mobilitätsbeitrags zum Semesterticket (SST)
+  actorgan: Studierendenparlament
+  actdate:  4. September 2024
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  14. September 2024
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-72.pdf
   ref: HEAD/md/Satzungen/SST.md
 
 ---
@@ -99,28 +107,45 @@ Annahme oder Ablehnung und erteilt über ihre Entscheidung einen Bescheid in sch
 Textform; § 37 des Verwaltungsverfahrensgesetzes Nordrhein-Westfalens (VwVfG NRW) bleibt
 unberührt.
 
-(2) Für die laufende Arbeit wird eine Bürokraft eingestellt. Sie hält die wöchentliche Sprechstunde ab,
-bearbeitet die Anträge und kann ergänzend zu Absatz 1 im Namen des STA in den Fällen entscheiden,
-in denen der Antrag ohne Zweifel beschieden werden kann. Fehlen entscheidungserhebliche
-Informationen oder Nachweise über solche Informationen, kann sie entsprechende Nachforderungen
-stellen. Der Bescheid nach Satz zwei und die Nachforderung nach Satz drei können schriftlich oder in Textform
-ergehen, § 37 VwVfG NRW bleibt unberührt. Der STA ist berechtigt, Anträge nach Satz 2 zur eigenen
-abschließenden Entscheidung jederzeit an sich zu ziehen. Die Bürokraft ist an die fachlichen
-Weisungen des STA gebunden und hat auf Aufforderung des STA an dessen Sitzungen teilzunehmen.
-Die Bezahlung erfolgt nach TV-L 5. Die Einstellung nimmt der AStA im Einvernehmen mit dem STA
-vor.
+(2) Für die laufende Arbeit wird eine Bürokraft eingestellt, die für die Erstbearbeitung
+zuständig ist. Genaueres wird in § 2a geregelt.
 
-(3) Offensichtlich unzulässige oder unbegründete Anträge können sofort zurückgewiesen werden.
+(3) Der Bescheid über die Entscheidung des Antrags kann schriftlich oder in
+elektronischer Form ergehen, § 37 VwVfG NRW bleibt unberührt. Allen Bescheiden
+ist eine ordnungsgemäße Rechtsmittelbelehrung beizufügen.
 
-(4) Dem Bescheid nach den Absätzen 1 und 2 ist eine ordnungsgemäße Rechtsmittelbelehrung beizufügen.
+(4) Der STA tagt öffentlich. Die Antragsberatung findet nicht öffentlich statt.
 
-(5) Der STA tagt öffentlich. Die Antragsberatung findet nicht öffentlich statt.
+(5) Der STA teilt dem AStA-Finanzreferat und der Kassenverwaltung unverzüglich
+nach Ende des Semesters mit, wie viele Anträge fristgerecht eingegangen sind, bei
+welchen Studierenden und in welcher Höhe er eine Erstattung bewilligt hat sowie
+wie viele Studierende von dem Vertrag mit dem VRS ausgeschlossen sind. Der
+Ausschuss berichtet dem SP zu Beginn eines jeden Semesters die Anzahl an
+Anträgen, die im letzten Semester beschieden wurden, sowie wie viele Anträge des
+letzten Semesters noch unbearbeitet sind.
 
-(6) Der STA teilt dem AStA-Finanzreferat unverzüglich mit, wie viele Anträge fristgerecht
-eingegangen sind, bei welchen Studierenden und in welcher Höhe er eine Erstattung bewilligt hat
-sowie wie viele Studierende von dem Vertrag mit dem VRS ausgeschlossen sind. Dem SP soll zu
-Beginn eines jeden Semesters ein Bericht über die im letzten Semester beschiedenen sowie über die
-noch unbearbeiteten Anträge des letzten Semesters vorgelegt werden.
+
+### § 2a Aufgaben der Bürokraft
+
+(1) Die eingestellte Bürokraft hat folgende Aufgabengebiete zu übernehmen:
+
+1. Sie hält die wöchentliche Sprechstunde ab.
+2. Sie ist für die Erstbearbeitung der Anträge zuständig.
+3. Sie kann ergänzend zu § 2 Absatz 1 im Namen des STA in den Fällen entscheiden,
+in denen der Antrag ohne Zweifel beschieden werden kann.
+4. Offensichtlich unzulässige oder unbegründete Anträge können sofort durch sie
+zurückgewiesen werden.
+5. Fehlen entscheidungserhebliche Informationen oder Nachweise über solche
+Informationen, kann sie entsprechende Nachforderungen stellen.
+6. Sie ist mitverantwortlich für die Erstellung der Bescheide.
+
+(2) Der STA ist berechtigt, Anträge nach Absatz 1 Nummer 3 zur eigenen abschließenden
+Entscheidung jederzeit an sich zu ziehen.
+
+(3) Die Bürokraft ist an die fachlichen Weisungen des STA gebunden und hat auf
+Aufforderung des STA an dessen Sitzungen teilzunehmen.
+
+(4) Die Einstellung nimmt der AStA-Vorsitz im Einvernehmen mit dem STA vor.
 
 
 ### § 3 Antrag auf Erstattung
@@ -135,12 +160,12 @@ Studierenden zu versehen.
 (3) Der Antrag ist zu begründen. Zulässige Gründe sind insbesondere
 
 1. Bedürftigkeit,
-2. ein familienbedingter Aufenthalt außerhalb des Vertragsgebiets, 
-3. ein studienbedingter Aufenthalt außerhalb des Vertragsgebiets
-4. eine Schwerbehinderung,
-5. ein bereits vorhandenes Jobticket
-6. ein durchgängiger Aufenthalt außerhalb des Vertragsgebiets zur Teilnahme an
-   anerkannten Meisterschaften
+2. eine Schwerbehinderung,
+3. ein studienbedingter Aufenthalt außerhalb des Vertragsgebiets,
+4. ein durchgängiger Aufenthalt außerhalb des Vertragsgebiets zur Teilnahme an
+anerkannten Meisterschaften,
+5. ein familienbedingter Aufenthalt außerhalb des Vertragsgebiets,
+6. ein bereits vorhandenes Jobticket,
 7. eine verspätete Immatrikulation oder
 8. die Exmatrikulation.
 
@@ -158,10 +183,10 @@ Verfahrensordnung zu regeln.
 
 1. einem formellen Antrag auf den der Verfahrensordnung angehängten Formularen
 2. den allgemeinen Nachweisen
-    1. zur Person: eine Kopie eines amtlichen Lichtbildausweises (Personalausweis oder
-       Reisepass) und
-    2. zur Antragsberechtigung: eine Kopie des Studierendenausweis desjenigen Semesters,
-       für das die Erstattung beantragt wird;
+    a. zur Person: eine Kopie eines amtlichen Lichtbildausweises (Personalausweis oder
+    Reisepass) und
+    b. zur Antragsberechtigung: die Studienbescheinigung desjenigen Semesters, für
+    das die Erstattung beantragt wird;
 3. den zusätzlichen Nachweisen nach §§ 4 bis 9 auf dem entsprechenden Formblatt im Anhang
 der Verfahrensordnung
 4. einer Erklärung über Richtigkeit der Angaben auf dem entsprechenden Formblatt im Anhang
@@ -215,10 +240,10 @@ betreffenden Zeitraum nicht mehr als 90 von Hundert des Grundbedarfs eines BAfö
 beträgt. Wenn dem Antragstellerin mehr zur Verfügung steht, wird der
 Mehrbetrag von der Semesterticket-Rückerstattung abgezogen.
 
-(7) Die höchstanrechenbare Warmmiete beträgt 385,00 EUR. Lebt die antragstellende Person in einer
-Bedarfsgemeinschaft, erhöht sich für die erste zusätzliche Person die höchstanrechenbare Warmmiete
-um 385,00 EUR, für jede weitere Person um 192,50 EUR. Der STA prüft die Angemessenheit
-höchstanrechenbarer Beträge regelmäßig.
+(7) Die höchstanrechenbare Warmmiete beträgt 450,00 Euro. Lebt die antragstellende
+Person in einer Bedarfsgemeinschaft, erhöht sich für die erste zusätzliche Person die
+höchstanrechenbare Warmmiete um 450,00 Euro, für jede weitere Person um 225,00
+Euro. Der STA prüft die Angemessenheit höchstanrechenbarer Beträge regelmäßig.
 
 
 ### § 5 Nachweise zum familienbedingten Aufenthalt außerhalb des Vertragsgebietes 
@@ -281,15 +306,15 @@ beantragen, haben die in den Absätzen 2 bis 4 genannten Nachweise zu führen.
 
 (2) Als Nachweis über das Vorhandensein ist das Jobticket in Kopie erforderlich.
 
-(3) Geht aus dem Jobticket nicht hervor, dass der Studierende es bereits vor Erteilung des
-Semestertickets besessen hat, so ist dies durch eine Bescheinigung des zuständigen Verkehrsbetriebes
-nachzuweisen. Aus der Bescheinigung soll sich ergeben, ab wann das Jobticket gilt und wann es
-bestellt wurde.
+(3) Geht aus dem Jobticket nicht hervor, dass die Studierende es bereits vor Erteilung
+des Semestertickets besessen hat, so ist dies durch eine Bescheinigung des
+zuständigen Verkehrsbetriebes oder der Arbeitgeberin nachzuweisen. Aus der
+Bescheinigung soll sich ergeben, ab wann das Jobticket gilt, wann es bestellt wurde
+und welche Vergünstigungen es enthält.
 
 (4) Geht aus dem Jobticket nicht hervor, dass sein Geltungsbereich mindestens identisch mit dem des
 Semestertickets ist, so ist dies durch Tarifinformationen des zuständigen Verkehrsbetriebes
-nachzuweisen. Gilt das Jobticket nur für das Verkehrsgebiet des Verkehrsverbundes Rhein-Sieg (VRS),
-so ist in diesem Fall der auf das VRS-Ticket entfallende Kostenanteil zu erstatten.
+nachzuweisen.
 
 
 ### § 9 Nachweis bei Meisterschaft
@@ -333,6 +358,11 @@ strengen Maßstab anwenden.
 Verzeichnis, in dem die Entscheidungsgründe erläutert werden, zu führen. Wiederholt auftretende
 sonstige Fälle sollen bei Neufassung in die Satzung übernommen werden.
 
+(4) Der Tod einer Person ist zu handhaben wie eine Exmatrikulation. Das Datum für den
+Beginn des Erstattungszeitraums ist das auf dem Todesschein eingetragene Sterbedatum.
+In einem solchen Fall ist eine Antragsstellung durch vertretungsberechtigte
+Hinterbliebene mit entsprechendem Nachweis zulässig.
+
 
 ### § 12 Anteilige Erstattung
 
@@ -341,10 +371,14 @@ Antragsteller sich nicht im Verkehrsgebiet aufhalten beziehungsweise das
 Semesterticket nicht in Anspruch nehmen konnte oder brauchte; kleinste zu 
 erstattende Zeiteinheit sind drei Monate je Semester. Dies gilt nicht für § 4. 
 
-(2) Erstreckt sich in den Fällen nach § 6 und § 9 die Abwesenheit über den Semesterwechsel
+(2) [bis 2025-03-31] Erstreckt sich in den Fällen nach § 6 und § 9 die Abwesenheit über den Semesterwechsel
 hinweg, so kann die Erstattung anteilig nach Tagen je Semester in dem Semester beantragt
 werden, in dem der Aufenthalt endet, wenn die Abwesenheit insgesamt mindestens drei
 Monate dauerte
+
+(2) [ab 2025-04-01] Erstreckt sich in den Fällen nach § 6 und § 9 die Abwesenheit über den Semesterwechsel
+hinweg, so kann die Erstattung anteilig nach Tagen je Semester erfolgen, wenn die
+Abwesenheit insgesamt mindestens drei Monate dauert.
 
 ### § 13 Verstoß gegen die Wahrheitspflicht
 
