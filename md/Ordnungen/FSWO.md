@@ -1,7 +1,7 @@
 ---
 title: Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte (Fachschaftswahlordnung – FSWO)
 short: Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte (Fachschaftswahlordnung – FSWO)
-date:  21. Januar 2021
+date:  2. August 2024
 type:  Ordnung
 id:    FSWO
 contains:
@@ -21,6 +21,14 @@ contains:
   pubdate:  21. Januar 2021
   puburl:  https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-04.pdf
   ref: 1c7d4d810ade65c0b11bd581c06ba5cbfe11c60a/md/Ordnungen/FSWO.md
+- title: Erste Ordnung zur Änderung der Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte
+  short: Erste Ordnung zur Änderung der Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte
+  actorgan: Studierendenparlament
+  actdate:  31. Juli 2024
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  2. August 2024
+  puburl:  https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-66.pdf
+  ref: HEAD/md/Ordnungen/FSWO.md
 
 ---
 
@@ -131,8 +139,8 @@ Mitglied der Fachschaft sind. Maßgeblich für die Wahlberechtigung ist darüber
 Wahlberechtigung angegebene Fach-Abschluss-Kombination (FAK). Zweit- und Gasthörerinnen sind
 nicht wahlberechtigt.
 
-(2) Die Wahlberechtigung ist im Studierendenausweis vermerkt. Die Änderung der Wahlberechtigung ist
-im Studierendensekretariat der Universität möglich.
+(2) Die Änderung der Wahlberechtigung ist über das Studierendensekretariat der
+Universität möglich.
 
 
 ### § 10 Festlegung des Wahltermins
@@ -408,8 +416,11 @@ Stimmzettel muss unbeobachtet ausgefüllt werden.
 (4) Vor Einwurf des Stimmzettels in die Urne kann die wählende Person ihre Stimmabgabe korrigieren. Ihr
 wird dann ein neuer Stimmzettel ausgehändigt, der alte Stimmzettel wird eingezogen und vernichtet.
 
-(5) Bei Einwurf des Stimmzettels in die Urne wird der Ausweis der wählenden Person von den Wahlhelfenden
-markiert.
+(5) Bei Einwurf des Stimmzettels in die Urne wird durch geeignete und angemessene
+Maßnahmen sichergestellt, dass die Person bei dieser Wahl nicht erneut wählen kann.
+Dies kann beispielsweise durch eine entsprechende Markierung im
+Wählendenverzeichnis umgesetzt werden, sofern die Stimmabgabe nicht an mehreren
+Standorten gleichzeitig möglich ist.
 
 (6) An jeder Wahlurne wird die vom Wahlausschuss herausgegebene Liste der Kandidierenden ausgelegt.
 
