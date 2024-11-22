@@ -225,6 +225,7 @@ Fand eine Mehrheitswahl ohne Bindung an die vorgeschlagenen Kandidaten statt, r�
 
 1. Die FSV beschlussfähig war und
 2. er die einfache Mehrheit gefunden hat, soweit diese Satzung nichts anderes vorschreibt.
+
 Die FSV gilt als beschlussfähig, wenn mindestens die Hälfte der FSV-Mitglieder anwesend ist.
 
 (5) Die Beschlussfähigkeit wird auf Verlangen unverzüglich festgestellt. Sie ist gegeben, wenn mindestens die Hälfte der FSV-Mitglieder anwesend ist. Ein Einspruch gegen dieses Verlangen ist nicht möglich.
