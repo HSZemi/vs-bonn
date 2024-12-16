@@ -708,8 +708,8 @@ Näheres regelt die Fachschaftsatzung.
 (1) Die FSVV ist die Versammlung der Mitglieder der Fachschaft.
 
 (2) Die FSVV ist oberstes Beschlussorgan und dient der Information ihrer Mitglieder.
-Soweit keine FSV besteht, übernimmt sie die Aufgaben der FSV, sofern durch Ordnung
-oder Satzung keine andere Zuständigkeit geregelt ist.
+Soweit keine FSV besteht, übernimmt sie die Aufgaben der FSV.
+Eine Ausnahme bildet die Fachschaftswahl: Hier übernimmt stattdessen der FSR die Aufgaben der FSV.
 
 (3) Die FSVV wird vom FSR auf schriftlichen Antrag
 
@@ -835,7 +835,7 @@ bleibt unberührt. Die Einladung der FSVV ist fachschaftsöffentlich bekannt zu 
 die Fachschaftsatzung kann weitere Erfordernisse vorsehen.
 
 (4) Beschlüsse werden mit einfacher Mehrheit gefasst, sofern diese Satzung oder die
-Fachschaftsatzung keine weiteren Erfordernisse vorsieht; § 25 Absatz 4 bleibt unberührt.
+Fachschaftsatzung keine weiteren Erfordernisse vorsieht; für die Beschlussfassung der FSVV kann die Fachschaftssatzung keine von § 25 Absatz 4 abweichenden Erfordernisse vorsehen.
 Es ist ein Protokoll zu führen.
 
 (5) Personalunion von Wahlämtern nach § 26 Absatz 1 und § 27 Absatz 2 ist unzulässig.
