@@ -789,7 +789,7 @@ mit dieser FAK studieren.
 unmittelbarer, freier, gleicher und geheimer Wahl von den Mitgliedern der Fachschaft
 gemäß § 22 gewählt.
 
-(2) Näheres regelt die Fachschaftswahlordnung (FSWO). Sie ist vom SP mit der
+(2) Näheres regelt die Fachschaftswahlordnung (FSWO). Sie ist auf Vorschlag der Fachschaftenkonferenz vom SP mit der
 Mehrheit seiner Mitglieder zu verabschieden und tritt mit der Veröffentlichung
 durch die Öffentlichkeitsbeauftragte in Kraft.
 
@@ -826,15 +826,15 @@ aus besonderem Grund ist zulässig; Beschlüsse können nur dann gefasst werden,
 wenn alle Mitglieder des Organs Gelegenheit zur Teilnahme hatten. Der FSR und die
 FSV können auch für einen regelmäßigen Termin allgemein einberufen werden.
 
-(3) Die Einladung erfolgt schriftlich unter Angabe einer Tagesordnung; Abs. 2 S. 3
+(3) Die Einladung erfolgt in Textform unter Angabe einer Tagesordnung; Absatz 2 Satz 3
 bleibt unberührt. Die Einladung der FSVV ist fachschaftsöffentlich bekannt zu machen;
-Die Fachschaftsatzung kann weitere Erfordernisse vorsehen.
+die Fachschaftsatzung kann weitere Erfordernisse vorsehen.
 
 (4) Beschlüsse werden mit einfacher Mehrheit gefasst, sofern diese Satzung oder die
-Fachschaftsatzung keine weiteren Erfordernisse vorsieht; § 25 Abs. 4 bleibt unberührt.
+Fachschaftsatzung keine weiteren Erfordernisse vorsieht; § 25 Absatz 4 bleibt unberührt.
 Es ist ein Protokoll zu führen.
 
-(5) Personalunion von Wahlämtern nach § 26 Abs. 1 und § 27 Abs. 2 ist unzulässig.
+(5) Personalunion von Wahlämtern nach § 26 Absatz 1 und § 27 Absatz 2 ist unzulässig.
 
 
 ### § 31 Die Fachschaftenkonferenz (FK)
@@ -850,9 +850,7 @@ und an geeigneter Stelle im Internet zu veröffentlichen. Diese enthält insbeso
 Regelungen über
 
 1. Art, Form und Frist der Einberufung und Beschlussfassung,
-2. Wahl des FSK,
-3. Kriterien für die Verteilung der Fachschaftsgelder gemäß § 43 und
-4. als Anlage die Liste der Fachschaften der RFWU ("Fachschaftenliste").
+2. Wahl des FSK.
 
 Die FKGO wird mit der Mehrheit von zwei Drittel der anwesenden stimmberechtigten
 Mitglieder einer FK verabschiedet, auf der mindestens ein Fünftel aller Fachschaften
@@ -1303,19 +1301,23 @@ des Haushaltsplanes in Anspruch genommen werden.
 (1) Die Fachschaften erhalten finanzielle Zuweisungen aus den Mitteln der Studierendenschaft
 nach Maßgabe der Beitragsordnung und des Haushaltsplanes als Selbstbewirtschaftungsmittel
 (Allgemeine Fachschaftengelder – AFSG). Die Zuweisungen für jede Fachschaft bestehen aus
-einem Sockelbetrag und einem weiteren Betrag, der sich nach der Zahl der Studierenden richtet,
-die der betreffenden Fachschaft gemäß \S~22 zugeordnet sind. Die Zuweisungen sind getrennt
+einem Sockelbetrag und einem weiteren Betrag, der sich nach der Zahl der Mitglieder der
+Fachschaft gemäß § 22 richtet. Die Zuweisungen sind getrennt
 von den anderen Ausgaben zu veranschlagen und durch Haushaltsvermerk ausdrücklich als zur
 Selbstbewirtschaftung bestimmt zu bezeichnen. Sie gelten für die Studierendenschaft
 rechnungsmäßig als abgewickelt, sobald sie als Ausgabe vom entsprechenden Titel an die
-Fachschaft überwiesen worden sind. Die FKGO kann Voraussetzungen für die Auszahlung der
-Fachschaftengelder festsetzen.
+Fachschaft überwiesen worden sind.
 
-(2) Darüber hinausgehende Zahlungen (Besondere Fachschaftengelder -- BFSG) richten sich nach
-der Beitragsordnung, dem Haushaltsplan der Studierendenschaft und den Kriterien für die
-Verteilung der Fachschaftsgelder in der FKGO gemäß \S~31 Absatz~3 Nummer~3.
+(2) Darüber hinausgehende Zahlungen (Besondere Fachschaftengelder - BFSG) richten sich nach
+der Beitragsordnung, dem Haushaltsplan der Studierendenschaft und der Satzung nach Absatz 3.
 
-(3) Für die Bewirtschaftung der Mittel durch die Fachschaften sind die Bestimmungen des § 42
+(3) Eine von der FK zu beschließende Satzung regelt:
+
+1. Die Grundzüge der Haushaltsführung der Fachschaften
+2. Die Verfahren zur Antragstellung für AFSG und BFSG
+3. Voraussetzungen für die Auszahlung von AFSG und BFSG
+
+(4) Für die Bewirtschaftung der Mittel durch die Fachschaften sind die Bestimmungen des § 42
 Absatz 1, 3, 4 und 13 entsprechend anzuwenden. Am Ende des Haushaltsjahres kassenmäßig nicht
 verausgabte Mittel sind im Nachweis des neuen Haushaltsjahres als Einnahmen zu buchen.
 
