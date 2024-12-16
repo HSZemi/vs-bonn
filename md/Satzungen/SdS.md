@@ -451,7 +451,7 @@ Näheres regelt die Wahlordnung.
 
 ### § 14 Geschäftsordnung
 
-(1) Das SP gibt sich mit der Mehrheit von 2/3 seiner Mitglieder eine Geschäftsordnung (GO).
+(1) Das SP gibt sich mit der Mehrheit seiner Mitglieder eine Geschäftsordnung (GO).
 In der GO sind insbesondere zu regeln
 
 1. Art, Form und Frist der Einberufung;
@@ -460,7 +460,11 @@ In der GO sind insbesondere zu regeln
 4. Grundzüge der Sitzungsleitung;
 5. Verfahrensregelungen für die Ausschüsse des SP.
 
-(2) Abweichend von Absatz 1 Nummer 5 werden die Verfahrensregelungen für den WA in der
+(2) Das SP kann alternativ beschließen, die zuvor bestehende GO zu übernehmen.
+
+(3) Der Beschluss einer neuen GO oder der Übernahme der zuvor bestehenden GO soll auf der konstituierenden Sitzung unmittelbar nach Feststellung der Beschlussfähigkeit geschehen.
+
+(4) Abweichend von Absatz 1 Nummer 5 werden die Verfahrensregelungen für den WA in der
 Wahlordnung geregelt. Die GO gilt nachrangig.
 
 ### § 15 Dauer und Verfahren der Urabstimmung
