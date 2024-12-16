@@ -173,10 +173,10 @@ Studierendenschaft sein, soweit nicht anders geregelt.
 
 (5) Die Gremien der Studierendenschaft tagen hochschulöffentlich, sofern diese Satzung oder
 ihre Geschäftsordnungen nicht davon abweichen.
-Die Gremien mit Ausnahme des Studierendenparlaments können in ihren Geschäftsordnungen
-festlegen, dass ihre Sitzungen in elektronischer Kommunikation oder einem Hybridformat stattfinden
+Die Gremien können in ihren Geschäftsordnungen festlegen, dass (mit Ausnahme der Sitzungen und Beschlüsse des Studierendenparlaments)
+ihre Sitzungen und die Sitzungen ihrer Ausschüsse in elektronischer Kommunikation oder einem Hybridformat stattfinden
 dürfen und Beschlüsse in elektronischer Kommunikation oder im Umlaufverfahren gefasst werden
-können. Die Fachschaften können für ihre Gremien derartige Festlegungen außerdem auch in ihren
+können. Die Fachschaften können für ihre Gremien derartige Festlegungen außerdem auch in ihren
 Fachschaftssatzungen treffen.
 
 
