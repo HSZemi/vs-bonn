@@ -87,20 +87,17 @@ Einrichtung einer FSV treffen. In diesem Fall beträgt die Anzahl ihrer Mitglied
 (1) Sofern der FSR nicht direkt zu wählen ist, erfolgt die Wahl durch die FSV. Näheres regelt die
 Fachschaftssatzung vorbehaltlich der §§ 20 f. dieser Ordnung und der SdS.
 
-(2) Der FSR besteht aus:
+(2) Der FSR besteht mindestens aus:
 
 1. der Vorsitzenden,
 2. der stellvertretenden Vorsitzenden,
-3. der Finanzreferentin,
-4. 2 bis 6 weiteren Mitgliedern, sowie
-5. gegebenenfalls zusätzlichen Mitgliedern gemäß Absatz 3.
+3. der Finanzreferentin.
 
-Falls die Fachschaftssatzung zu der Anzahl nach Nummer 4 keine Regelung trifft, sind zwei Mitglieder
-nach Nummer 4 zu wählen.
+Die Wahl einer oder mehrerer stellvertretender Finanzreferentinnen als weitere FSR-Mitglieder ist möglich.
+Wird der FSR von den Mitgliedern der Fachschaft direkt gewählt, sind insgesamt vier weitere FSR-Mitglieder zu wählen.
+Wird der FSR durch die FSV gewählt, wählt die FSV eine beliebige Anzahl weiterer FSR-Mitglieder.
 
-(3) Sind in einer Fachschaft mehrere Fach-Abschluss-Kombinationen (FAKs) zusammengefasst und wird
-eine Fachschaftsvertretung gewählt, so kann diese gemäß § 27 Absatz 5 SdS für jede dieser FAKs bis zu
-zwei zusätzliche Personen in den FSR wählen, die einen Studiengang mit dieser FAK studieren.
+(3) (weggefallen)
 
 
 ### § 7 Wahlsystem
@@ -264,10 +261,9 @@ elektronischen Sitzungen teilnehmen kann.
 
 ### § 14 Wählendenverzeichnis
 
-(1) Die Hochschulverwaltung erstellt auf Antrag ein Verzeichnis, das Familien- und Vornamen der
-Wahlberechtigten und die Matrikelnummer enthält (Wählendenverzeichnis). Der Antrag ist an das
-Fachschaftenkollektiv zu richten. Das Wählendenverzeichnis wird von der Wahlleitung bis spätestens
-zum 19. Tag vor dem ersten Wahltag übernommen.
+(1) Das Wählendenverzeichnis enthält Familien- und Vornamen der Wahlberechtigten sowie ihre Matrikelnummer.
+Es ist beim Fachschaftenkollektiv zu beantragen.
+Das Wählendenverzeichnis wird von der Wahlleitung bis spätestens zum 19. Tag vor dem ersten Wahltag übernommen.
 
 (2) Bei der Aufstellung und Handhabung des Wählendenverzeichnisses ist den Erfordernissen des
 Datenschutzes Rechnung zu tragen. Insbesondere ist dafür Sorge zu tragen, dass das Wählendenverzeichnis
@@ -360,7 +356,7 @@ Wählendenverzeichnis liegt dann im Wahllokal zur Einsicht aus.
 
 ### § 18 Briefwahl
 
-(1) Auf schriftlichen Antrag hin können Wahlberechtigte ihre Stimme per Briefwahl abgeben. Der Antrag
+(1) Auf Antrag in Textform hin können Wahlberechtigte ihre Stimme per Briefwahl abgeben. Der Antrag
 ist zu begründen und muss Name, Anschrift, ggf. Versandanschrift und Matrikelnummer der den Antrag
 stellenden Person enthalten.
 
@@ -478,11 +474,12 @@ Im Zweifelsfall entscheidet der Wahlausschuss über die Gültigkeit von Stimmen.
 3. die Zahl der Wahlberechtigten;
 4. die Zahl der abgegebenen Stimmen;
 5. die Zahl der ungültigen Stimmen;
-6. die Zahl der gültigen Stimmen;
-7. die Zahl der auf jede einzelne Person entfallenden gültigen Stimmen;
-8. die Angabe darüber, welche Personen gewählt sind und welche nicht;
-9. Ort und Zeit der konstituierenden Sitzung;
-10. den Hinweis auf die Möglichkeit des Einspruchs gegen das Wahlergebnis, die mit Bekanntgabe des
+6. die Zahl der Enthaltungen;
+7. die Zahl der gültigen Stimmen;
+8. die Zahl der auf jede einzelne Person entfallenden gültigen Stimmen;
+9. die Angabe darüber, welche Personen gewählt sind und welche nicht;
+10. Ort und Zeit der konstituierenden Sitzung;
+11. den Hinweis auf die Möglichkeit des Einspruchs gegen das Wahlergebnis, die mit Bekanntgabe des
 Wahlergebnisses beginnende Einspruchsfrist von vierzehn Tagen, die vorgeschriebene Form des
 Einspruchs, sowie den Wahlprüfungsausschuss der Fachschaftenkonferenz als zuständige Stelle.
 
@@ -512,10 +509,10 @@ leitet die Sitzung bis zur Wahl einer Vorsitzenden.
 ### § 23 Wahl des FSR-Vorstands
 
 (1) Wird der Fachschaftsrat direkt gewählt, so wählt er auf seiner konstituierenden Sitzung aus seiner
-Mitte eine Vorsitzende, eine stellvertretende Vorsitzende und eine Finanzreferentin.
+Mitte eine Vorsitzende, eine stellvertretende Vorsitzende und eine Finanzreferentin sowie ggf. stellvertretende Finanzreferentinnen.
 
 (2) Wird eine Fachschaftsvertretung gewählt, so wählt sie die Vorsitzende des Fachschaftsrats, deren
-Stellvertreterin, die Finanzreferentin und weitere Mitglieder mit der Mehrheit ihrer Mitglieder. Die
+Stellvertreterin, die Finanzreferentin, ggf. stellvertretende Finanzreferentinnen und weitere Mitglieder mit der Mehrheit ihrer Mitglieder. Die
 Abwahl der Vorsitzenden, stellvertretenden Vorsitzenden oder Finanzreferentin ist nur durch die Wahl
 einer Nachfolge möglich.
 
