@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms-Universität Bonn [FKGO]
 short: Geschäftsordnung der Fachschaftenkonferenz (FKGO)
-date:  19. Dezember 2023
+date:  15. Dezember 2024
 type:  Ordnung
 id:    FKGO
 contains:
@@ -232,6 +232,16 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  19. Dezember 2023
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-90.pdf
+  ref: 79685278e37cfc02a7b02c493edace547ddc6953/md/Ordnungen/FKGO.md
+- title:    Sechzehnte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  short:    Sechzehnte Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  actorgan: Fachschaftenkonferenz
+  actdate:  2. Dezember 2024
+  confirmorgan: Studierendenparlament
+  confirmdate: 11. Dezember 2024
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  15. Dezember 2024
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-84.pdf
   ref: HEAD/md/Ordnungen/FKGO.md
 ---
 
@@ -1594,7 +1604,6 @@ Anglistik, Amerikanistik und Keltologie
   * Anglistik/Amerikanistik: Sprachwissenschaft (Promotion)
   * Anglistik/Neuere Englische Literatur (Promotion)
   * Applied Linguistics (Master of Arts)
-  * Englische Philologie (Promotion)
   * English Literatures and Cultures (Master of Arts)
   * English Studies (Bachelor of Arts)
   * Keltologie (Bachelor of Arts)
@@ -1608,7 +1617,6 @@ Archäologie
   * Archäologische Wissenschaften (Master of Arts)
   * Christliche Archäologie (Promotion)
   * Klassische Archäologie (Promotion)
-  * Kunstgeschichte und Archäologie (Bachelor of Arts)
   * Vor- u. frühgeschichtliche Archäologie (Promotion)
 
 Biologie
@@ -1629,21 +1637,16 @@ Chemie
 ELW
 ---
   * Agricultural and Food Economics (Master of Science)
-  * Ernährungs- u. Haushaltswissenschaft (Promotion)
   * Ernährungswissenschaften (Master of Science)
   * Ernährungs- und Lebensmittelwissenschaften (Bachelor of Science)
   * Ernährungs- und Lebensmittelwissenschaften (Promotion)
-  * Humanernährung (Master of Science)
-  * Lebensmitteltechnologie (Promotion)
   * Lebensmittelchemie (Promotion)
   * Lebensmittelchemie (Staatsex.)
-  * Lebensmitteltechnologie (Master of Science)
   * Molekulare Lebensmitteltechnologie (Master of Science)
 
 Ethnologie / Altamerikanistik
 -----------------------------
   * Altamerikanistik und Ethnologie (Bachelor of Arts)
-  * Altamerikanistik/Ethnologie (Master of Arts)
   * Anthropology of the Americas (Master of Arts)
   * Ethnologie unter besond.Berücks.d.Altamerikanistik (Promotion)
   * Kulturstudien zu Lateinamerika/Estudios culturales de America Latina (Master of Arts)
@@ -1651,10 +1654,11 @@ Ethnologie / Altamerikanistik
 
 Evangelische Theologie
 ----------------------
+  * Biblical Studies (Master of Arts)
   * Ecumenical Studies (Master of Arts)
   * Evangelische Theologie und Hermeneutik (Bachelor of Arts)
   * Evangelische Theologie (Kirchl.Ex.)
-  * Evangelische Theologie (Magister Theologiae (ev.))
+  * Evangelische Theologie (Magister Theologiae)
   * Evangelische Theologie (Master of Arts)
   * Evangelische Theologie (Promotion)
   * Extended Ecumenical Studies (Master of Arts)
@@ -1752,7 +1756,7 @@ Katholische Theologie
   * Katholische Theologie (Kirchl.Ex.)
   * Katholische Theologie (Promotion)
   * Katholische Theologie (Bachelor of Arts)
-  * Katholische Theologie (Magister Theologiae (kath.))
+  * Katholische Theologie (Magister Theologiae)
 
 Klassische und Romanische Philologie
 ------------------------------------
@@ -1765,18 +1769,16 @@ Klassische und Romanische Philologie
   * Griechisch (LA MA Gym Ge)
   * Griechische Literatur der Antike und ihr Fortleben (Bachelor of Arts)
   * Griechische und Lateinische Literatur der Antike und ihr Fortleben (Bachelor of Arts)
+  * Griechische und Lateinische Literatur- und Kulturwissenschaft (Master of Arts)
   * Hispanistik (Bachelor of Arts)
   * Italianistik (Bachelor of Arts)
   * Klassische Philologie/Griechisch (Promotion)
   * Klassische Philologie/Latein (Promotion)
   * Latein (LA BA Gym Ge)
   * Latein (LA MA Gym Ge)
-  * Latein (Promotion)
   * Lateinische Literatur der Antike und ihr Fortleben (Bachelor of Arts)
   * Mittel- und Neulateinische Philologie (Promotion)
   * Renaissance-Studien (Master of Arts)
-  * Romanische Mediävistik (Promotion)
-  * Romanische Philologie, 2 Teilgebiete (Promotion)
   * Romanische Philologie (Promotion)
   * Romanistik (Bachelor of Arts)
   * Romanistik (Master of Arts)
@@ -1824,7 +1826,6 @@ Lehramt
   * Englisch (LA MA Gym Ge)
   * Ernährungs- und Hauswirtschaftswissenschaft (LA BA Berufskolleg)
   * Ernährungs- und Hauswirtschaftswissenschaft (LA MA Berufskolleg)
-  * Evangelische Religionslehre (LA BA Berufskolleg)
   * Evangelische Religionslehre (LA BA Gym Ge)
   * Evangelische Religionslehre (LA MA Gym Ge)
   * Französisch (LA BA Berufskolleg)
@@ -1852,20 +1853,18 @@ Lehramt
   * Pflanzenwissenschaften (Pflanzenbau) (LA BA Berufskolleg)
   * Pflanzenwissenschaften (Pflanzenbau) (LA MA Berufskolleg)
   * Philosophie/Praktische Philosophie (LA BA Gym Ge)
-  * Philosophie (LA MA Gym Ge)
-  * Physik (LA BA Berufskolleg)
+  * Philosophie/Praktische Philosophie (LA MA Gym Ge)
   * Physik (LA BA Gym Ge)
   * Physik (LA MA Gym Ge)
   * Praktische Philosophie (LA BA Berufskolleg)
-  * Wirtschaft-Politik/Sozialwissenschaften (LA BA Gym Ge)
-  * Sozialwissenschaften (LA MA Gym Ge)
   * Spanisch (LA BA Berufskolleg)
   * Spanisch (LA BA Gym Ge)
   * Spanisch (LA MA Gym Ge)
   * Tierwissenschaften (Tierhaltung) (LA BA Berufskolleg)
   * Tierwissenschaften (Tierhaltung) (LA MA Berufskolleg)
   * Wirtschafts- und Sozialwissenschaften des Landbaus (LA BA Berufskolleg)
-  * Wirtschafts- und Sozialwissenschaften des Landbaus (LA MA Berufskolleg)
+  * Wirtschaft-Politik/Sozialwissenschaften (LA BA Gym Ge)
+  * Wirtschaft-Politik/Sozialwissenschaften (LA MA Gym Ge)
   * Wirtschaftslehre/ Politik (LA BA Berufskolleg)
 
 Mathematik
@@ -1888,12 +1887,12 @@ Medizin
   * Experimentelle Medizin (Med.Doc/Doc.of Philosophy)
   * Global Health - Risk Management and Hygiene Policies (Master)
   * Hebammenwissenschaft (Bachelor of Science)
+  * Humangenetik (Doctor of Philosophy)
   * Humangenetik (Med.Doc/Doc.of Philosophy)
+  * Immun- und Infektionswissenschaften (Doctor of Philosophy)
+  * Klinische Forschung, Versorgungsforschung, Populationsforschung und Datenwissenschaften (Doctor of Philosophy)
   * Klinische Immunologie (Doctor of Philosophy)
-  * Klinische Immunologie (Med.Doc/Doc.of Philosophy)
   * Klinische Infektiologie (Doctor of Philosophy)
-  * Klinische Medizin (Doctor of Philosophy)
-  * Klinische Medizin (Med.Doc/Doc.of Philosophy)
   * Medical Immunosciences and Infection (Master of Science)
   * Medizin (Promotion)
   * Medizin (Staatsex.)
@@ -1905,7 +1904,6 @@ Medizin
   * Public Health (Doctor of Philosophy)
   * Translationale Medizin (Med.Doc/Doc.of Philosophy)
   * Versorgungsforschung (Doctor of Philosophy)
-  * Versorgungsforschung (Med.Doc/Doc.of Philosophy)
 
 Meteorologie und Geophysik
 --------------------------
@@ -1913,13 +1911,12 @@ Meteorologie und Geophysik
   * Meteorologie (Bachelor of Science)
   * Meteorologie und Geophysik (Bachelor of Science)
   * Meteorologie (Promotion)
-  * Physik der Erde und Atmosphäre (Master of Science)
+  * Physics of the Earth and Atmosphere (Master of Science)
 
 Molekulare Biomedizin
 ---------------------
   * Biochemistry (Master of Science)
   * Immunobiology: from molecules to integrative systems (Master of Science)
-  * Life and Medical Sciences (Master of Science)
   * Molekulare Biomedizin (Bachelor of Science)
   * Molekulare Biomedizin (Promotion)
 
@@ -1927,7 +1924,6 @@ Musikwissenschaften/Sound Studies
 ---------------------------------
   * Musik- und Klangkulturen der Moderne (Master of Arts)
   * Musikwissenschaft/Sound Studies (Bachelor of Arts)
-  * Musikwissenschaft (Bachelor of Arts)
   * Musikwissenschaft (Promotion)
 
 Neuroscience
@@ -1941,7 +1937,6 @@ OrientAsia
 ----------
   * Arabisch (Bachelor of Arts)
   * Arabistik (Promotion)
-  * Asiatische und Orientalische Schwerpunktsprachen (Bachelor of Arts)
   * Asienwissenschaften (Bachelor of Arts)
   * Asienwissenschaften (Master of Arts)
   * Asiatische und Islamische Kunstgeschichte (Bachelor of Arts)
@@ -1952,7 +1947,6 @@ OrientAsia
   * Indologie (Promotion)
   * Indonesisch (Bachelor of Arts)
   * Islamwissenschaft (Promotion)
-  * Islamwissenschaft/Nahostsprachen (Bachelor of Arts)
   * Japanisch (Bachelor of Arts)
   * Japanologie (Promotion)
   * Koreanisch (Bachelor of Arts)
@@ -2004,8 +1998,6 @@ Physik/Astronomie
 
 Politik &amp; Soziologie
 ------------------------
-  * European Studies - Governance and Regulation (Master)
-  * Gesellschaften, Globalisierung und Entwicklung (Master of Arts)
   * Politik und Gesellschaft (Bachelor of Arts)
   * Politikwissenschaft (Master of Arts)
   * Politische Wissenschaft (Promotion)
@@ -2020,6 +2012,7 @@ Psychologie
   * Psychologie (Bachelor of Science)
   * Psychologie (Master of Science)
   * Psychologie (Promotion)
+  * Psychologie mit Schwerpunkt Klinische Psychologie und Psychotherapie (Master of Science)
   * Rechtspsychologie (Master)
   * Rechtspsychologie: Schwerpunkt Begutachtung im Straf- und Zivilverfahren (Master)
   * Rechtspsychologie: Schwerpunkt Psychologie im Straf- und Maßregelvollzug (Master)
