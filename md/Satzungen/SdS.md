@@ -730,13 +730,17 @@ Urabstimmungen mit Mehrheit gefasst werden, binden die Organe der FS.
 ### § 26 Der Fachschaftsrat (FSR)
 
 (1) Der FSR wird von der FSV oder den Mitgliedern der Fachschaft direkt gewählt. Er
-besteht aus:
+besteht mindestens aus:
 
 1. der Vorsitzenden,
 2. der stellvertretenden Vorsitzenden,
-3. der Finanzreferentin,
-4. bis zu sechs weiteren Mitgliedern,
-5. sowie darüber hinaus den nach § 27 Abs. 5 gewählten Vertreterinnen ihrer FAKs.
+3. der Finanzreferentin.
+
+Die Wahl einer oder mehrerer stellvertretender Finanzreferentinnen als weitere FSR-Mitglieder ist möglich.
+Wird der FSR von den Mitgliedern der Fachschaft direkt gewählt, sind insgesamt zwei weitere FSR-Mitglieder zu wählen, sofern die Fachschaftssatzung keine andere Zahl festlegt.
+Wird der FSR durch die FSV gewählt, wählt die FSV eine beliebige Anzahl weiterer FSR-Mitglieder, sofern die Fachschaftssatzung nichts anderes bestimmt.
+
+
 
 (2) Der FSR repräsentiert und vertritt die FS und führt ihre Geschäfte. Der FSR ist im
 Rahmen der zu besorgenden Geschäfte sowie im Eilfall auch Beschlussorgan; Im
@@ -780,9 +784,7 @@ Antrag
 3. von 30% der Mitglieder der FSV;
 4. von 5% der Mitglieder der Fachschaft.
 
-(5) Sind in einer Fachschaft mehrere FAKs zusammengefasst, so kann die FSV für jede
-dieser FAK bis zu zwei zusätzliche Referentinnen in den FSR wählen, die einen Studiengang
-mit dieser FAK studieren.
+(5) (weggefallen)
 
 (6) Näheres regelt die Fachschaftssatzung.
 
