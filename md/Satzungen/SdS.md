@@ -1,7 +1,7 @@
 ---
 title: Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Studierendenschaft
-date:  1. August 2023
+date:  - Entwurfsfassung -
 type:  Satzung
 id:    SdS
 contains:
@@ -666,25 +666,20 @@ wenn dies von der AStA-Vorsitzenden verlangt wird.
 
 ### § 22 Die Fachschaften (FS)
 
-(1) Die Studierendenschaft gliedert sich in Fachschaften gemäß der Anlage
-"Fachschaftenliste" zur FKGO, in der jede an der Universität Bonn mögliche Kombination
-von Studienfach und angestrebtem Abschluss (Fach-Abschluss-Kombination, FAK) einer
-Fachschaft zugeordnet wird. Falls die Besonderheiten eines Faches es erfordern, können
-weitere Kriterien zur Zuordnung herangezogen werden. Die Anlage "Fachschaftenliste" zur
-FKGO bedarf zu ihrer Gültigkeit der Bestätigung durch das SP. Die Fachschaft besteht unter
-Berücksichtigung des Absatzes 3 aus den Studierenden der ihr zugeordneten FAKs.
+(1) Die Studierendenschaft gliedert sich in Fachschaften.
 
-(2) Alle an der Universität Bonn eingeschriebenen Studierenden müssen einer Fachschaft
-angehören.
+(2) Die Gliederung der Studierendenschaft in Fachschaften wird in einer von der Fachschaftenkonferenz zu beschließenden Satzung geregelt.
+Die Satzung und Änderungen jener Satzung bedürfen zu ihrer Gültigkeit der Bestätigung durch das SP.
 
-(3) Die Zuordnung einer Studierenden zu einer Fachschaft erfolgt aufgrund der FAK, für die
-sie eingeschrieben ist. Ist eine Studierende für mehrere FAKs eingeschrieben, so erfolgt die
-Zuordnung aufgrund der ersten auf dem Studierendenausweis angegebenen FAK, sofern sie
-bei der Einschreibung bzw. Rückmeldung gegenüber der Universität nicht erklärt, aufgrund
-welcher FAK sie einer Fachschaft angehören möchte.
+(3) Alle an der Universität Bonn eingeschriebenen Studierenden müssen mindestens einer Fachschaft angehören.
+
+(4) Jede an der Universität Bonn mögliche Kombination von Studienfach und angestrebtem Abschluss (Fach-Abschluss-Kombination, FAK) wird mindestens einer Fachschaft zugeordnet.
+
+(5) Mitglieder der Fachschaft sind jene Studierenden, welche die der Fachschaft zugeordneten FAKs studieren.
 
 
 ### § 23 Aufgaben
+
 Die Fachschaft vertritt die spezifischen Interessen ihrer Mitglieder. Sie vertritt darüber
 hinaus im Rahmen ihrer Möglichkeiten Belange von Studierenden, die an einem
 Studienangebot eines Faches teilnehmen, das der Fachschaft gemäß § 22 zugeordnet
@@ -860,8 +855,7 @@ Regelungen über
 
 1. Art, Form und Frist der Einberufung und Beschlussfassung,
 2. Wahl des FSK,
-3. Kriterien für die Verteilung der Fachschaftsgelder gemäß § 43 und
-4. als Anlage die Liste der Fachschaften der RFWU ("Fachschaftenliste").
+3. Kriterien für die Verteilung der Fachschaftsgelder gemäß § 43.
 
 Die FKGO wird mit der Mehrheit von zwei Drittel der anwesenden stimmberechtigten
 Mitglieder einer FK verabschiedet, auf der mindestens ein Fünftel aller Fachschaften
