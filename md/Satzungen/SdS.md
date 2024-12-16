@@ -854,8 +854,7 @@ und an geeigneter Stelle im Internet zu veröffentlichen. Diese enthält insbeso
 Regelungen über
 
 1. Art, Form und Frist der Einberufung und Beschlussfassung,
-2. Wahl des FSK,
-3. Kriterien für die Verteilung der Fachschaftsgelder gemäß § 43.
+2. Wahl des FSK.
 
 Die FKGO wird mit der Mehrheit von zwei Drittel der anwesenden stimmberechtigten
 Mitglieder einer FK verabschiedet, auf der mindestens ein Fünftel aller Fachschaften
@@ -1311,14 +1310,18 @@ die der betreffenden Fachschaft gemäß \S~22 zugeordnet sind. Die Zuweisungen s
 von den anderen Ausgaben zu veranschlagen und durch Haushaltsvermerk ausdrücklich als zur
 Selbstbewirtschaftung bestimmt zu bezeichnen. Sie gelten für die Studierendenschaft
 rechnungsmäßig als abgewickelt, sobald sie als Ausgabe vom entsprechenden Titel an die
-Fachschaft überwiesen worden sind. Die FKGO kann Voraussetzungen für die Auszahlung der
-Fachschaftengelder festsetzen.
+Fachschaft überwiesen worden sind.
 
-(2) Darüber hinausgehende Zahlungen (Besondere Fachschaftengelder -- BFSG) richten sich nach
-der Beitragsordnung, dem Haushaltsplan der Studierendenschaft und den Kriterien für die
-Verteilung der Fachschaftsgelder in der FKGO gemäß \S~31 Absatz~3 Nummer~3.
+(2) Darüber hinausgehende Zahlungen (Besondere Fachschaftengelder - BFSG) richten sich nach
+der Beitragsordnung, dem Haushaltsplan der Studierendenschaft und der Satzung nach Absatz 3.
 
-(3) Für die Bewirtschaftung der Mittel durch die Fachschaften sind die Bestimmungen des § 42
+(3) Eine von der FK zu beschließende Satzung regelt:
+
+1. Die Grundzüge der Haushaltsführung der Fachschaften
+2. Die Verfahren zur Antragstellung für AFSG und BFSG
+3. Voraussetzungen für die Auszahlung von AFSG und BFSG
+
+(4) Für die Bewirtschaftung der Mittel durch die Fachschaften sind die Bestimmungen des § 42
 Absatz 1, 3, 4 und 13 entsprechend anzuwenden. Am Ende des Haushaltsjahres kassenmäßig nicht
 verausgabte Mittel sind im Nachweis des neuen Haushaltsjahres als Einnahmen zu buchen.
 
