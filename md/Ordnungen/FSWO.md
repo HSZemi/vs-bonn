@@ -1,7 +1,7 @@
 ---
 title: Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte (Fachschaftswahlordnung – FSWO)
 short: Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte (Fachschaftswahlordnung – FSWO)
-date:  2. August 2024
+date:  - Entwurfsfassung -
 type:  Ordnung
 id:    FSWO
 contains:
