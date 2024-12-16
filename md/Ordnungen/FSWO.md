@@ -1,7 +1,7 @@
 ---
 title: Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte (Fachschaftswahlordnung – FSWO)
 short: Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte (Fachschaftswahlordnung – FSWO)
-date:  2. August 2024
+date:  - Entwurfsfassung -
 type:  Ordnung
 id:    FSWO
 contains:
@@ -87,20 +87,17 @@ Einrichtung einer FSV treffen. In diesem Fall beträgt die Anzahl ihrer Mitglied
 (1) Sofern der FSR nicht direkt zu wählen ist, erfolgt die Wahl durch die FSV. Näheres regelt die
 Fachschaftssatzung vorbehaltlich der §§ 20 f. dieser Ordnung und der SdS.
 
-(2) Der FSR besteht aus:
+(2) Der FSR besteht mindestens aus:
 
 1. der Vorsitzenden,
 2. der stellvertretenden Vorsitzenden,
-3. der Finanzreferentin,
-4. 2 bis 6 weiteren Mitgliedern, sowie
-5. gegebenenfalls zusätzlichen Mitgliedern gemäß Absatz 3.
+3. der Finanzreferentin.
 
-Falls die Fachschaftssatzung zu der Anzahl nach Nummer 4 keine Regelung trifft, sind zwei Mitglieder
-nach Nummer 4 zu wählen.
+Die Wahl einer oder mehrerer stellvertretender Finanzreferentinnen als weitere FSR-Mitglieder ist möglich.
+Wird der FSR von den Mitgliedern der Fachschaft direkt gewählt, sind insgesamt zwei weitere FSR-Mitglieder zu wählen, sofern die Fachschaftssatzung keine andere Zahl festlegt.
+Wird der FSR durch die FSV gewählt, wählt die FSV eine beliebige Anzahl weiterer FSR-Mitglieder, sofern die Fachschaftssatzung nichts anderes bestimmt.
 
-(3) Sind in einer Fachschaft mehrere Fach-Abschluss-Kombinationen (FAKs) zusammengefasst und wird
-eine Fachschaftsvertretung gewählt, so kann diese gemäß § 27 Absatz 5 SdS für jede dieser FAKs bis zu
-zwei zusätzliche Personen in den FSR wählen, die einen Studiengang mit dieser FAK studieren.
+(3) (weggefallen)
 
 
 ### § 7 Wahlsystem
@@ -512,10 +509,10 @@ leitet die Sitzung bis zur Wahl einer Vorsitzenden.
 ### § 23 Wahl des FSR-Vorstands
 
 (1) Wird der Fachschaftsrat direkt gewählt, so wählt er auf seiner konstituierenden Sitzung aus seiner
-Mitte eine Vorsitzende, eine stellvertretende Vorsitzende und eine Finanzreferentin.
+Mitte eine Vorsitzende, eine stellvertretende Vorsitzende und eine Finanzreferentin sowie ggf. stellvertretende Finanzreferentinnen.
 
 (2) Wird eine Fachschaftsvertretung gewählt, so wählt sie die Vorsitzende des Fachschaftsrats, deren
-Stellvertreterin, die Finanzreferentin und weitere Mitglieder mit der Mehrheit ihrer Mitglieder. Die
+Stellvertreterin, die Finanzreferentin, ggf. stellvertretende Finanzreferentinnen und weitere Mitglieder mit der Mehrheit ihrer Mitglieder. Die
 Abwahl der Vorsitzenden, stellvertretenden Vorsitzenden oder Finanzreferentin ist nur durch die Wahl
 einer Nachfolge möglich.
 
