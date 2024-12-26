@@ -793,7 +793,7 @@ mit dieser FAK studieren.
 unmittelbarer, freier, gleicher und geheimer Wahl von den Mitgliedern der Fachschaft
 gemäß § 22 gewählt.
 
-(2) Näheres regelt die Fachschaftswahlordnung (FSWO). Sie ist vom SP mit der
+(2) Näheres regelt die Fachschaftswahlordnung (FSWO). Sie ist auf Vorschlag der Fachschaftenkonferenz vom SP mit der
 Mehrheit seiner Mitglieder zu verabschieden und tritt mit der Veröffentlichung
 durch die Öffentlichkeitsbeauftragte in Kraft.
 
