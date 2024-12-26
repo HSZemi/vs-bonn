@@ -223,7 +223,7 @@ ergibt;
 Studierendenschaften;
 9. Auflösung des SP.
 
-(3) Das SP hat in den Angelegenheiten nach § 5 Abs. 1 und 2 Nr. 7 und 8 eine
+(3) Das SP hat in den Angelegenheiten nach § 5 Absatz 1 und 2 Nr. 7 und 8 eine
 Urabstimmung unter allen Mitgliedern der Studierendenschaft durchzuführen, wenn
 mindestens fünf Prozent der Mitglieder der Studierendenschaft die Urabstimmung
 schriftlich verlangt haben oder das SP dies mit der Mehrheit von zwei Drittel seiner
@@ -242,7 +242,7 @@ ist, gewählt werden. Die Sitze werden auf die an der Listenwahl teilnehmenden L
 nach dem Wahlverfahren Sainte-Laguë/Schepers verteilt.
 
 (2) Findet gemäß § 13 eine vorzeitige Neuwahl in den Monaten Oktober bis Dezember
-statt, so finden die nächsten satzungsmäßigen Wahlen nach Abs. 1 erst zum übernächsten Januar statt.
+statt, so finden die nächsten satzungsmäßigen Wahlen nach Absatz 1 erst zum übernächsten Januar statt.
 
 (3) Wahlkreise und Wahlverfahren werden im Übrigen durch die Wahlordnung bestimmt. 
 Diese Wahlordnung kann innerhalb der letzten 30 Tage vor einer Wahl nicht mehr
@@ -267,8 +267,8 @@ dadurch erhöhen. Stellvertretungen sind dem Präsidium zu Beginn der Stellvertr
 Erscheint das vertretene Mitglied zur Sitzung und äußert gegenüber dem Präsidium den Wunsch,
 seinen Sitz wieder einzunehmen, erlischt die Stellvertretung unverzüglich.
 
-(4) Stellvertreterinnen können nicht in Ämter gewählt werden, die gemäß § 9 Abs. 2
-S. 1 und § 17 Abs. 1 S. 2 dieser Satzung nur mit gewählten SP-Mitgliedern bzw.
+(4) Stellvertreterinnen können nicht in Ämter gewählt werden, die gemäß § 9 Absatz 2
+Satz 1 und § 17 Absatz 1 Satz 2 dieser Satzung nur mit gewählten SP-Mitgliedern bzw.
 Nachrückerinnen/Nachrückern besetzt sein dürfen.
 
 
@@ -367,7 +367,7 @@ Mehrheit der anwesenden Mitglieder aufgehoben werden. Wenn ein höheres Quorum
 für die Beschlussfassung vorgesehen ist, gilt dieses.
 
 (5) Wahlen und Finanzanträge sowie der Abschluss von Verträgen sind nur zulässig,
-wenn dazu schriftlich eingeladen wurde. Dies gilt nicht für die Abwahl von Mitgliedern
+wenn dazu in Textform eingeladen wurde. Dies gilt nicht für die Abwahl von Mitgliedern
 des SP-Präsidiums nach § 9 Abs. 4. Finanzanträge sind der Einladung beizufügen.
 
 (6) Auf Antrag der FK oder der Fachschaftenreferentin ist die Behandlung eines
@@ -424,13 +424,13 @@ einen aus fünf Mitgliedern bestehenden Untersuchungsausschuss einzusetzen.
 Näheres regelt die Geschäftsordnung.
 
 (6) Bei Besetzung der Ausschüsse ist nach dem Sainte-Laguë/Schepers Verfahren das
-Stärkeverhältnis der Listen im Sinne von § 6 Abs. 1 auf Grundlage der Anzahl der Stimmen, die bei der
+Stärkeverhältnis der Listen im Sinne von § 6 Absatz 1 auf Grundlage der Anzahl der Stimmen, die bei der
 letzten SP-Wahl auf die jeweiligen Listen entfallen sind, zugrunde zu legen. Wenn nach Anwendung
 dieses Verfahrens ein Ausschusssitz auf mehrere Listen entfallen könnte, sollen sich die Listen
 untereinander einigen und einstimmig erklären, auf welche Liste der Platz entfallen wird. Kommt es zu
 keiner Einigung, entscheidet das Präsidium durch das Los.
 
-(7) Außer den nach Maßgabe der Abs. 1 bis 6 bestimmten Mitgliedern gehören jedem
+(7) Außer den nach Maßgabe der Absatz 1 bis 6 bestimmten Mitgliedern gehören jedem
 SP-Ausschuss zusätzlich ein ordentliches Mitglied und ein entsprechendes
 stellvertretendes Mitglied an, das nicht von den Fraktionen im SP, sondern von der FK
 zu benennen und durch das SP zu bestätigen ist. Benennt die FK keine Mitglieder für
@@ -445,7 +445,7 @@ Sitze besetzt ist.
 
 (2) Innerhalb der nach der Wahlordnung kürzestmöglichen Zeit haben Neuwahlen
 stattzufinden. Ist zum Zeitpunkt der Auflösung noch kein Wahlausschuss gemäß § 12
-Abs. 3 gewählt, so tritt an seine Stelle der vom SP zuletzt gewählte Wahlausschuss;
+Absatz 3 gewählt, so tritt an seine Stelle der vom SP zuletzt gewählte Wahlausschuss;
 Näheres regelt die Wahlordnung.
 
 
@@ -465,7 +465,7 @@ Wahlordnung geregelt. Die GO gilt nachrangig.
 
 ### § 15 Dauer und Verfahren der Urabstimmung
 
-(1) Dem ordnungsgemäßen Verlangen nach einer Urabstimmung gemäß § 5 Abs. 3
+(1) Dem ordnungsgemäßen Verlangen nach einer Urabstimmung gemäß § 5 Absatz 3
 müssen beigefügt sein:
 
 1. der abzustimmende Antrag im Wortlaut einschließlich einer englischsprachigen Übersetzung
@@ -476,12 +476,12 @@ müssen beigefügt sein:
     einer vertretungsberechtigten Person.
 
 (2) Das Urabstimmungsverlangen ist von der vertretungsberechtigten Person nach
-Abs. 1 Nr. 3 beim SP einzureichen. In diesem Fall und im Fall eines entsprechenden
+Absatz 1 Nr. 3 beim SP einzureichen. In diesem Fall und im Fall eines entsprechenden
 SP-Beschlusses setzt das SP einen aus neun Mitgliedern bestehenden
 Urabstimmungsausschuss (UA) ein.
 
 (3) Der UA prüft im Falle eines Urabstimmungsverlangens die Voraussetzungen nach
-Abs. 1 unverzüglich. Er erteilt der vertretungsberechtigten Person hierüber binnen
+Absatz 1 unverzüglich. Er erteilt der vertretungsberechtigten Person hierüber binnen
 sechs Wochen einen schriftlichen Bescheid und setzt gegebenenfalls eine
 angemessene Nachbesserungsfrist von bis zu vier Wochen ab Zugang des Bescheides.
 
@@ -589,7 +589,7 @@ auf Vorschlag der Vorsitzenden vom SP mit der Mehrheit seiner Mitglieder gewähl
 Sie können nur durch gleichzeitige Neuwahl einer Stellvertreterin abgewählt werden.
 
 (7) Für den Rücktritt der Vorsitzenden und von stellvertretenden Vorsitzenden gilt § 19
-Abs. 1 entsprechend.
+Absatz 1 entsprechend.
 
 
 ### § 18 Wahl und Aufgaben von Referentinnen/Referenten
@@ -616,10 +616,10 @@ Geschäfte bis zur Wahl bzw. Bestellung einer Nachfolgerin weiterzuführen.
 
 (2) Das SP kann Referentinnen mit der Mehrheit seiner Mitglieder abberufen. Nach der Abberufung
 der Finanzreferentin darf die AStA-Vorsitzende dem SP unmittelbar eine Nachfolgerin vorschlagen.
-Wenn sie dies nicht tut oder der Vorschlag keine Mehrheit im Sinne von § 18 Abs. 1 findet, muss die
+Wenn sie dies nicht tut oder der Vorschlag keine Mehrheit im Sinne von § 18 Absatz 1 findet, muss die
 AStA-Vorsitzende eine kommissarische Finanzreferentin für die Dauer von bis zu 30 Tagen in der
 Vorlesungszeit bestellen. Diese darf nicht die Abgewählte sein. Nach Ablauf dieser Tage wird eine
-Nachfolgerin entsprechend § 19a Abs. 3 vom SP gewählt.
+Nachfolgerin entsprechend § 19a Absatz 3 vom SP gewählt.
 
 (3) Auf Vorschlag der AStA-Vorsitzenden kann das SP eine Referentin mit einfacher
 Mehrheit der Stimmen abberufen.
@@ -628,7 +628,7 @@ Mehrheit der Stimmen abberufen.
 ### § 19a Einsetzung von Referentinnen
 
 (1) Ist einer zurückgetretenen Referentin die Weiterführung ihrer Geschäfte nicht
-mehr zuzumuten oder ist eine Referentin gemäß § 19 Abs. 2 oder 3 abberufen
+mehr zuzumuten oder ist eine Referentin gemäß § 19 Absatz 2 oder 3 abberufen
 worden, so kann die Vorsitzende bis zur Wahl einer Nachfolgerin einmalig eine
 kommissarische Vertreterin der Referentenstelle bestellen.
 
@@ -636,14 +636,14 @@ kommissarische Vertreterin der Referentenstelle bestellen.
 
 (3) Die AStA-Vorsitzende hat dem SP innerhalb von 30 Tagen in der Vorlesungszeit
 nach Bestellung der kommissarischen Referentin einen Vorschlag für die Wahl einer
-Nachfolgerin gemäß § 18 Abs. 1 zu machen. Entspricht das SP diesem Vorschlag
+Nachfolgerin gemäß § 18 Absatz 1 zu machen. Entspricht das SP diesem Vorschlag
 nicht, so kann es auf Vorschlag eines SP-Mitgliedes mit der Mehrheit seiner Mitglieder
 eine Referentin wählen.
 
 
 ### § 20 Amtszeit und Amtsführung des AStA
 
-(1) Die Amtszeit des AStA dauert längstens ein Jahr. § 19 Abs. 1 S. 2 gilt
+(1) Die Amtszeit des AStA dauert längstens ein Jahr. § 19 Absatz 1 Satz 2 gilt
 entsprechend.
 
 (2) Dem SP sind Regelungen über die Amtsführung des AStA schriftlich vorzulegen.
@@ -721,7 +721,7 @@ Mehrheit, wenn sie ordnungsgemäß einberufen wurde. Der FSR und die FSV sind
 grundsätzlich an die Beschlüsse der FSVV gebunden.
 
 (5) Die Fachschaftssatzung kann vorsehen, dass die FSVV die Durchführung einer
-Urabstimmung entsprechend § 15 Abs. 4 bis 9 beschließen kann. Beschlüsse, die auf
+Urabstimmung entsprechend § 15 Absatz 4 bis 9 beschließen kann. Beschlüsse, die auf
 Urabstimmungen mit Mehrheit gefasst werden, binden die Organe der FS.
 
 (6) Näheres regelt die Fachschaftssatzung unter Berücksichtigung des § 30.
@@ -830,15 +830,15 @@ aus besonderem Grund ist zulässig; Beschlüsse können nur dann gefasst werden,
 wenn alle Mitglieder des Organs Gelegenheit zur Teilnahme hatten. Der FSR und die
 FSV können auch für einen regelmäßigen Termin allgemein einberufen werden.
 
-(3) Die Einladung erfolgt schriftlich unter Angabe einer Tagesordnung; Abs. 2 S. 3
+(3) Die Einladung erfolgt in Textform unter Angabe einer Tagesordnung; Absatz 2 Satz 3
 bleibt unberührt. Die Einladung der FSVV ist fachschaftsöffentlich bekannt zu machen;
-Die Fachschaftsatzung kann weitere Erfordernisse vorsehen.
+die Fachschaftsatzung kann weitere Erfordernisse vorsehen.
 
 (4) Beschlüsse werden mit einfacher Mehrheit gefasst, sofern diese Satzung oder die
-Fachschaftsatzung keine weiteren Erfordernisse vorsieht; § 25 Abs. 4 bleibt unberührt.
+Fachschaftsatzung keine weiteren Erfordernisse vorsieht; § 25 Absatz 4 bleibt unberührt.
 Es ist ein Protokoll zu führen.
 
-(5) Personalunion von Wahlämtern nach § 26 Abs. 1 und § 27 Abs. 2 ist unzulässig.
+(5) Personalunion von Wahlämtern nach § 26 Absatz 1 und § 27 Absatz 2 ist unzulässig.
 
 
 ### § 31 Die Fachschaftenkonferenz (FK)
@@ -1123,7 +1123,7 @@ Aufgaben der Studierendenschaft erkennbar ist.
     Referate, des SP und seiner Ausschüsse); Ausgaben für
     wirtschaftliche Betätigung und Zuführung an Rücklagen.
 
-(5) Einnahmen und Ausgaben der zweckgebundenen Anteile gemäß § 38 Abs. 2 sind
+(5) Einnahmen und Ausgaben der zweckgebundenen Anteile gemäß § 38 Absatz 2 sind
 ebenso gesondert darzustellen. Sie bilden den Verwahrhaushalt. Sie sind sofort auf
 das entsprechende Konto zu buchen. Sie dürfen zu keiner Zeit dem ordentlichen
 Haushalt zugeführt werden.
@@ -1216,7 +1216,7 @@ gefasst hat, unter Beachtung ihrer/seiner Auffassung erneut über die Angelegenh
 berät. Das Verlangen hat aufschiebende Wirkung.
 
 (3) Kassenanordnungen sind von der Finanzreferentin zu unterzeichnen (anzuordnen).
-Abs. 1 S. 2 gilt entsprechend. Mit der Unterzeichnung der Kassenanordnung
+Absatz 1 Satz 2 gilt entsprechend. Mit der Unterzeichnung der Kassenanordnung
 übernimmt die Unterzeichnende die Verantwortung dafür, dass
 
 1. offensichtlich erkennbare Fehler in der Kassenanordnung nicht enthalten sind,
@@ -1230,7 +1230,7 @@ beigefügten Unterlagen, Zweck und Anlass einer Zahlung begründen und eine Prü
 ohne Rückfragen ermöglichen.
 
 (4) Die eine Einnahme oder Ausgabe begründenden Teile einer Kassenanordnung
-bedürfen vor der Anordnung gemäß Abs. 3 der Feststellung der sachlichen und
+bedürfen vor der Anordnung gemäß Absatz 3 der Feststellung der sachlichen und
 rechnerischen Richtigkeit. Die Feststellung der sachlichen Richtigkeit obliegt der
 Finanzreferentin. Mit der Feststellung der rechnerischen Richtigkeit ist eine andere
 Person schriftlich zu beauftragen. Beauftragt werden können:
@@ -1256,7 +1256,7 @@ AStA-Vorsitzende diese Befugnisse im Rahmen einer geordneten und jederzeit
 Nachtrages zum Haushaltsplan, der sie vorsieht, nur dann zulässig, wenn sie
 unabweisbar sind. Sie sind dem SP unverzüglich anzuzeigen. Vor Tätigung dieser
 Ausgaben soll vom AStA das Einverständnis des Haushaltsausschusses eingeholt
-werden. Die S. 1 bis 3 gelten auch für die vorläufige Haushaltsführung. Bei der
+werden. Die Sätze 1 bis 3 gelten auch für die vorläufige Haushaltsführung. Bei der
 Aufstellung eines Nachtrags zum Haushaltsplan haben diese Ausgaben Vorrang.
 
 (8) Maßnahmen, die die Studierendenschaft zur Leistung von Ausgaben in künftigen
@@ -1274,7 +1274,7 @@ fließen nicht den Rücklagen zu, sondern sind im Haushaltsplan als Einnahmen
 auszuweisen. Die Rücklagen sind nach der deutschen Einlagensicherung bei
 Geldinstituten als Sparbücher, andere Geldeinlagen oder in mündelsicheren
 Wertpapieren aufzubewahren. Sparbücher sind durch Kennworte zu sichern. Andere
-Geldeinlagen und Wertpapierdepots sind wie die Girokonten zu sichern (vgl. § 44 Abs. 5).
+Geldeinlagen und Wertpapierdepots sind wie die Girokonten zu sichern (vgl. § 44 Absatz 5).
 
 (10) Kredite dürfen nur zum Zwecke der Kassenverstärkung aufgenommen werden.
 Die Höhe der Kredite darf den Gesamtbetrag von 25.000 Euro nicht überschreiten.
@@ -1305,8 +1305,8 @@ des Haushaltsplanes in Anspruch genommen werden.
 (1) Die Fachschaften erhalten finanzielle Zuweisungen aus den Mitteln der Studierendenschaft
 nach Maßgabe der Beitragsordnung und des Haushaltsplanes als Selbstbewirtschaftungsmittel
 (Allgemeine Fachschaftengelder – AFSG). Die Zuweisungen für jede Fachschaft bestehen aus
-einem Sockelbetrag und einem weiteren Betrag, der sich nach der Zahl der Studierenden richtet,
-die der betreffenden Fachschaft gemäß \S~22 zugeordnet sind. Die Zuweisungen sind getrennt
+einem Sockelbetrag und einem weiteren Betrag, der sich nach der Zahl der Mitglieder der
+Fachschaft gemäß § 22 richtet. Die Zuweisungen sind getrennt
 von den anderen Ausgaben zu veranschlagen und durch Haushaltsvermerk ausdrücklich als zur
 Selbstbewirtschaftung bestimmt zu bezeichnen. Sie gelten für die Studierendenschaft
 rechnungsmäßig als abgewickelt, sobald sie als Ausgabe vom entsprechenden Titel an die
@@ -1329,7 +1329,7 @@ verausgabte Mittel sind im Nachweis des neuen Haushaltsjahres als Einnahmen zu b
 ### § 44 Kassenwesen
 
 (1) Der Zahlungsverkehr der Studierendenschaft sowie der zweckgebundenen
-Beitragsanteile gemäß § 38 Abs. 2 mit Ausnahme der Selbstbewirtschaftungsmittel
+Beitragsanteile gemäß § 38 Absatz 2 mit Ausnahme der Selbstbewirtschaftungsmittel
 der Fachschaften erfolgt über die Kasse der Studierendenschaft (Sammelkasse).
 Der AStA kann durch öffentlich-rechtlichen Vertrag die Kasse einer anderen Behörde,
 Anstalt, Körperschaft oder Stiftung öffentlichen Rechts mit der Erledigung des
@@ -1342,11 +1342,11 @@ Verschluss zu halten. Sparbücher sind zusätzlich durch Kennwort zu sichern.
 (3) Belege, Kassenbücher, Kontoauszüge und Quittungsblöcke sind geordnet und
 sicher aufzubewahren. Nach Abschluss der Rechnungsprüfung durch den
 Haushaltsausschuss sind sie der Hochschulleitung zuzustellen. Dort sind sie
-mindestens fünf Jahre lang entsprechend S. 1 aufzubewahren.
+mindestens fünf Jahre lang entsprechend Satz 1 aufzubewahren.
 
 (4) Der Zahlungsverkehr wird bar über die Kasse und über bis zu fünf Konten bei
 Kreditinstituten (Sparkasse, Bank, Postscheckamt), die zweckgebundenen
-Beitragsanteile gemäß § 38 Abs. 2, mit Ausnahme der Selbstbewirtschaftungsmittel
+Beitragsanteile gemäß § 38 Absatz 2, mit Ausnahme der Selbstbewirtschaftungsmittel
 der Fachschaften, über getrennte Konten abgewickelt. Weitere Konten dürfen nur für
 die kurzfristige Anlage von Festgeldern unterhalten werden.
 
@@ -1359,10 +1359,10 @@ die kurzfristige Anlage von Festgeldern unterhalten werden.
 
 als Unterschriftsberechtigte für die Konten
 (Kontoverfügungsberechtigte). Die Konten sind so zu sichern, dass von den in
-S. 1 genannten Personen über sie nur je zwei gemeinschaftlich verfügen
+Satz 1 genannten Personen über sie nur je zwei gemeinschaftlich verfügen
 können. Kontoverfügungsberechtigte dürfen nicht mit der Unterzeichnung von Kassenanordnungen
 betraut (anordnungsbefugt) sein. Die Finanzreferentin kontrolliert die
-Personen nach S. 1.
+Personen nach Satz 1.
 
 (6) Kasseneinzahlungen sind zu quittieren, eine Durchschrift der Quittung verbleibt
 im Quittungsblock. Es sind fortlaufend nummerierte Quittungsblöcke zu verwenden.
@@ -1451,7 +1451,7 @@ festzustellen, ob das Rechnungsergebnis richtig aufgestellt worden ist. Die
 Niederschrift über diese Prüfung ist rechtzeitig dem Haushaltsausschuss als
 Grundlage für die von diesem abzugebende Stellungnahme vorzulegen.
 
-(4) Die richtige Übertragung des Fehlbetrages oder Überschusses (§ 46 Abs. 4) sowie
+(4) Die richtige Übertragung des Fehlbetrages oder Überschusses (§ 46 Absatz 4) sowie
 der nicht abgewickelten Verwahrungen ist von den Kassenprüferinnen zu bescheinigen.
 
 (5) Nach Durchführung der Jahresabschlussprüfung (Absatz 3) sind dem Rektorat
