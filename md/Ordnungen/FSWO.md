@@ -474,11 +474,12 @@ Im Zweifelsfall entscheidet der Wahlausschuss über die Gültigkeit von Stimmen.
 3. die Zahl der Wahlberechtigten;
 4. die Zahl der abgegebenen Stimmen;
 5. die Zahl der ungültigen Stimmen;
-6. die Zahl der gültigen Stimmen;
-7. die Zahl der auf jede einzelne Person entfallenden gültigen Stimmen;
-8. die Angabe darüber, welche Personen gewählt sind und welche nicht;
-9. Ort und Zeit der konstituierenden Sitzung;
-10. den Hinweis auf die Möglichkeit des Einspruchs gegen das Wahlergebnis, die mit Bekanntgabe des
+6. die Zahl der Enthaltungen;
+7. die Zahl der gültigen Stimmen;
+8. die Zahl der auf jede einzelne Person entfallenden gültigen Stimmen;
+9. die Angabe darüber, welche Personen gewählt sind und welche nicht;
+10. Ort und Zeit der konstituierenden Sitzung;
+11. den Hinweis auf die Möglichkeit des Einspruchs gegen das Wahlergebnis, die mit Bekanntgabe des
 Wahlergebnisses beginnende Einspruchsfrist von vierzehn Tagen, die vorgeschriebene Form des
 Einspruchs, sowie den Wahlprüfungsausschuss der Fachschaftenkonferenz als zuständige Stelle.
 
