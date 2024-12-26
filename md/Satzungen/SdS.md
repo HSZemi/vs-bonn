@@ -739,8 +739,7 @@ besteht mindestens aus:
 Die Wahl einer oder mehrerer stellvertretender Finanzreferentinnen als weitere FSR-Mitglieder ist möglich.
 Wird der FSR von den Mitgliedern der Fachschaft direkt gewählt, sind insgesamt zwei weitere FSR-Mitglieder zu wählen, sofern die Fachschaftssatzung keine andere Zahl festlegt.
 Wird der FSR durch die FSV gewählt, wählt die FSV eine beliebige Anzahl weiterer FSR-Mitglieder, sofern die Fachschaftssatzung nichts anderes bestimmt.
-
-
+FSR-Mitglieder dürfen nicht Mitglied im FSV-Vorstand sein.
 
 (2) Der FSR repräsentiert und vertritt die FS und führt ihre Geschäfte. Der FSR ist im
 Rahmen der zu besorgenden Geschäfte sowie im Eilfall auch Beschlussorgan; Im
@@ -768,6 +767,8 @@ Mitglieder sieben.
 
 (2) Die FSV wählt eine Vorsitzende, sie kann darüber hinaus eine stellvertretende
 Vorsitzende und eine Protokollantin wählen.
+Vorsitzende, ggf. stellvertretende Vorsitzende und ggf. Protokollantin bilden den FSV-Vorstand.
+Sie dürfen nicht dem FSR angehören.
 
 (3) Die FSV ist Beschlussorgan der Fachschaft. Die FSV trifft, sollte kein Beschluss
 der FSVV vorliegen, alle Entscheidungen von grundlegender oder gehobener
@@ -839,8 +840,6 @@ die Fachschaftsatzung kann weitere Erfordernisse vorsehen.
 (4) Beschlüsse werden mit einfacher Mehrheit gefasst, sofern diese Satzung oder die
 Fachschaftsatzung keine weiteren Erfordernisse vorsieht; für die Beschlussfassung der FSVV kann die Fachschaftssatzung keine von § 25 Absatz 4 abweichenden Erfordernisse vorsehen.
 Es ist ein Protokoll zu führen.
-
-(5) Personalunion von Wahlämtern nach § 26 Absatz 1 und § 27 Absatz 2 ist unzulässig.
 
 
 ### § 31 Die Fachschaftenkonferenz (FK)

@@ -96,6 +96,7 @@ Fachschaftssatzung vorbehaltlich der §§ 20 f. dieser Ordnung und der SdS.
 Die Wahl einer oder mehrerer stellvertretender Finanzreferentinnen als weitere FSR-Mitglieder ist möglich.
 Wird der FSR von den Mitgliedern der Fachschaft direkt gewählt, sind insgesamt zwei weitere FSR-Mitglieder zu wählen, sofern die Fachschaftssatzung keine andere Zahl festlegt.
 Wird der FSR durch die FSV gewählt, wählt die FSV eine beliebige Anzahl weiterer FSR-Mitglieder, sofern die Fachschaftssatzung nichts anderes bestimmt.
+FSR-Mitglieder dürfen nicht Mitglied im FSV-Vorstand sein.
 
 (3) (weggefallen)
 
