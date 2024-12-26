@@ -356,7 +356,7 @@ Wählendenverzeichnis liegt dann im Wahllokal zur Einsicht aus.
 
 ### § 18 Briefwahl
 
-(1) Auf schriftlichen Antrag hin können Wahlberechtigte ihre Stimme per Briefwahl abgeben. Der Antrag
+(1) Auf Antrag in Textform hin können Wahlberechtigte ihre Stimme per Briefwahl abgeben. Der Antrag
 ist zu begründen und muss Name, Anschrift, ggf. Versandanschrift und Matrikelnummer der den Antrag
 stellenden Person enthalten.
 
