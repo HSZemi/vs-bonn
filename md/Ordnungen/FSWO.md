@@ -261,10 +261,9 @@ elektronischen Sitzungen teilnehmen kann.
 
 ### § 14 Wählendenverzeichnis
 
-(1) Die Hochschulverwaltung erstellt auf Antrag ein Verzeichnis, das Familien- und Vornamen der
-Wahlberechtigten und die Matrikelnummer enthält (Wählendenverzeichnis). Der Antrag ist an das
-Fachschaftenkollektiv zu richten. Das Wählendenverzeichnis wird von der Wahlleitung bis spätestens
-zum 19. Tag vor dem ersten Wahltag übernommen.
+(1) Das Wählendenverzeichnis enthält Familien- und Vornamen der Wahlberechtigten sowie ihre Matrikelnummer.
+Es ist beim Fachschaftenkollektiv zu beantragen.
+Das Wählendenverzeichnis wird von der Wahlleitung bis spätestens zum 19. Tag vor dem ersten Wahltag übernommen.
 
 (2) Bei der Aufstellung und Handhabung des Wählendenverzeichnisses ist den Erfordernissen des
 Datenschutzes Rechnung zu tragen. Insbesondere ist dafür Sorge zu tragen, dass das Wählendenverzeichnis
