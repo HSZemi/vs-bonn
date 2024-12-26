@@ -315,13 +315,13 @@ SP-Mitglieder abgewählt werden.
 (1) Das Präsidium ist für die Durchführung der Arbeiten des SP verantwortlich. Näheres regelt
 die GO des SP.
 
-(2) Die 1. Sprecherin beruft das SP schriftlich unter Angabe der Tagesordnung ein, leitet die
+(2) Die 1. Sprecherin beruft das SP in Textform unter Angabe der Tagesordnung ein, leitet die
 Verhandlungen, fertigt die Beschlüsse aus und gibt diese an den AStA und die Betroffenen weiter.
 
 (3) Die Sprecherin muss das SP einberufen, wenn es der AStA, das Schlichtungsgremium, die FK
 oder 1/5 der SP-Mitglieder schriftlich unter Angabe eines oder mehrerer auf dieser Sitzung zu
 behandelnder Tagesordnungspunkte verlangt. Die Einberufung des SP muss unverzüglich,
-spätestens jedoch auf den 16. Tag nach Eingang des Antrags bei der Sprecherin, schriftlich
+spätestens jedoch auf den 16. Tag nach Eingang des Antrags bei der Sprecherin, in Textform
 erfolgen.
 
 (4) Die 2. Sprecherin übernimmt den Vorsitz im Schlichtungsgremium des Sps.
@@ -416,7 +416,7 @@ sowie ihre Wahl erfolgen mit einfacher Mehrheit auf der Sitzung, auf der die
 Einrichtung beschlossen wurde. Ein Antrag auf Einrichtung eines Ausschusses kann
 nur behandelt werden, wenn er bereits mit der Einladung zur betreffenden SP-Sitzung
 versandt wurde, frühestens jedoch am 7. Kalendertag, der auf den Tag des Versandes
-der Einladung folgt. Der Antrag ist schriftlich einzureichen und mit Gründen zu
+der Einladung folgt. Der Antrag ist in Textform einzureichen und mit Gründen zu
 versehen.
 
 (5) Auf schriftliches Verlangen von mindestens 1/5 der SP-Mitglieder hat das SP
