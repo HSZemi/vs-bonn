@@ -183,8 +183,8 @@ Annahme ist eine Mehrheit der stimmberechtigen Mitglieder notwendig.
 ### § 7 Selbstverwaltete Referate
 
 (1) Als selbstverwaltete Referate existieren das Fachschaftenreferat, das Sportreferat, das Referat für
-FLINTA* und Geschlechtergerechtigkeit‚ das Referat für Internationale Studierende, das BIPoC*-Referat,
-das Queer-Referat und das CIMND*-Referat.
+FLINTA\* und Geschlechtergerechtigkeit‚ das Referat für Internationale Studierende, das BIPoC\*-Referat,
+das Queer-Referat und das CIMND\*-Referat.
 
 (2) Die selbstverwalteten Referate treten innerhalb ihrer Arbeitsbereiche eigenständig nach außen
 auf. § 5 Abs. 2 findet nur bei finanziellen Angelegenheiten Anwendung.
@@ -538,11 +538,11 @@ anwendbar.
 anwesenden Angehörigen erreicht werden:
 
 a. Für das Referat für Internationale Studierende: 40 Internationale Studierende
-b. Für das Referat für FLINTA* und Geschlechtergerechtigkeit: 100 Frauen, Lesben,
-intergeschlechtliche, nichtbinäre, trans und agender (FLINTA*) Studierende
+b. Für das Referat für FLINTA\* und Geschlechtergerechtigkeit: 100 Frauen, Lesben,
+intergeschlechtliche, nichtbinäre, trans und agender (FLINTA\*) Studierende
 c. Für das Queer-Referat: 25 Queere Studierende
-d. Für das BIPoC*-Referat: 20 BIPoC* Studierende
-e. Für das CIMND*-Referat: 20 behinderte, chronisch und psychisch kranke, neurodivergente, taube
+d. Für das BIPoC\*-Referat: 20 BIPoC\* Studierende
+e. Für das CIMND\*-Referat: 20 behinderte, chronisch und psychisch kranke, neurodivergente, taube
 sowie alle weiteren von Ableismus betroffene Studierenden, unabhängig von einer offiziellen
 Diagnose
 
