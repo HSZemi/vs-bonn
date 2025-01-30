@@ -1,7 +1,7 @@
 ---
 title: Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Beitragsordnung der Studierendenschaft (BO)
-date:  10. September 2024
+date:  29. Januar 2025
 type:  Ordnung
 id:    BO
 contains:
@@ -153,6 +153,16 @@ contains:
   pubdate:  10. September 2024
   puborgan: Amtliche Bekanntmachungen
   puburl: https://hdl.handle.net/20.500.11811/12086
+  ref: b7c71f5cb76585b7e153ca925a22ebeb6caf7029/md/Ordnungen/BO.md
+- title: Neununddreißigste Ordnung zur Änderung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - XXXIX. Beitragsordnungsänderungsordnung (BOÄO XXXIX) -
+  short: XXXIX\. Beitragsordnungsänderungsordnung (BOÄO XXXIX)
+  actdate:  11. Dezember 2024
+  actorgan: Studierendenparlament
+  confirmorgan: Rektorat
+  confirmdate: 7. Januar 2025
+  pubdate:  29. Januar 2025
+  puborgan: Amtliche Bekanntmachungen
+  puburl: https://hdl.handle.net/20.500.11811/12769
   ref: HEAD/md/Ordnungen/BO.md
 
 ---
@@ -166,7 +176,8 @@ Kosten der Selbstverwaltung, der Selbsthilfe und Mobilität der Studierendenscha
 
 ### § 2
 
-Der Beitrag in Höhe von 198,16 € für das WS 2024/25 ist für folgende Zwecke bestimmt:
+Der Beitrag in Höhe von 198,16 € für das Wintersemester 2024/25 und 197,67 € für das Sommersemester
+2025 ist für folgende Zwecke bestimmt:
 
 |   |                                                                    |           |
 |:--|:-------------------------------------------------------------------|----------:|
@@ -174,27 +185,13 @@ Der Beitrag in Höhe von 198,16 € für das WS 2024/25 ist für folgende Zwecke
 |2. | für die studentischen Sozialeinrichtungen                          |   0,50 €, |
 |3. | für den Hilfsfonds zur Unterstützung in Not geratener Studierender |   0,01 €, |
 |4. | für das Semesterticket                                             | 176,40 €, |
-|5. | für ein Sonderkonto zur Erstattung des Mobilitätsbeitrages         |   0,50 €, |
+|5. | für ein Sonderkonto zur Erstattung des Mobilitätsbeitrages:        |           |
+|   | » WS 24/25                                                         |   0,50 €, |
+|   | » SS 25                                                            |   0,01 €, |
 |6. | für die Zuweisungen an die Fachschaften                            |   2,25 €, |
 |7. | für den Studierendensport                                          |   1,50 €, |
 |8. | für das Kulturticket                                               |   3,00 €, |
 
-
-### § 2a
-
-Rückwirkend wird der Beitrag für das Sommersemester 2024 wegen der Einführung des
-Deutschlandsemestertickets wie folgt geändert und in Höhe von 198,06 € für folgende Zwecke bestimmt:
-
-|   |                                                                    |           |
-|:--|:-------------------------------------------------------------------|----------:|
-|1. | für die studentische Selbstverwaltung                              |  14,00 €, |
-|2. | für die studentischen Sozialeinrichtungen                          |   0,50 €, |
-|3. | für den Hilfsfonds zur Unterstützung in Not geratener Studierender |   0,01 €, |
-|4. | für das Semesterticket                                             | 176,40 €, |
-|5. | für ein Sonderkonto zur Erstattung des Mobilitätsbeitrages         |   0,60 €, |
-|6. | für die Zuweisungen an die Fachschaften                            |   2,75 €, |
-|7. | für den Studierendensport                                          |   0,80 €, |
-|8. | für das Kulturticket                                               |   3,00 €, |
 
 
 ### § 3
@@ -230,9 +227,9 @@ Beitragsanteile nach § 2 Nrn. 4 und 5 können in Härtefällen auf begründeten
 Beschluss eines vom Studierendenparlament gewählten Ausschusses mit Gegenzeichnung
 des/der AStA-FinanzreferentIn ganz oder teilweise erlassen werden.
 
-(4) Ist die Exmatrikulation oder der Widerruf der Einschreibung vor Beginn der
-Vorlesungszeit des Semesters erfolgt, für das der Beitrag geleistet wurde, ist der Betrag
-zurückzuerstatten; im übrigen besteht kein Anspruch auf anteilige Rückzahlung.
+(4) Ist der Tod, Exmatrikulation oder der Widerruf der Einschreibung vor Beginn der Vorlesungszeit des
+Semesters erfolgt, für das der Beitrag geleitet wurde, ist der Betrag zurückzuerstatten; im Übrigen besteht
+kein Anspruch auf anteilige Rückzahlung.
 
 
 ### § 5
