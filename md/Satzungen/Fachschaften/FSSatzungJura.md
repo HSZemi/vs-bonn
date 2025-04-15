@@ -53,7 +53,7 @@ contains:
 - title: Satzung der Fachschaft Jura der Rheinischen Friedrich – Wilhelms – Universität Bonn
   short: Satzung der Fachschaft Jura
   actorgan: Fachschaftsvertretung Fachschaft Jura
-  actdate:  30. März 2021
+  actdate:  13. November 2024
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  20. November 2024
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-82.pdf
