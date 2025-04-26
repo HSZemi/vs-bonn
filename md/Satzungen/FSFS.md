@@ -189,9 +189,9 @@ Er kann nicht mehr nach Ende des Haushaltsjahres beschlossen werden.
 6. Eine Einnahmen- und eine Ausgabenseite als Tabellen mit jeweils Spalten für:
     a) Titelnummer
     b) Bezeichnung des Haushaltstitels
-    c) Betrag des des Titels im aktuellen Haushaltsplan
-    d) Betrag des des Titels im gültigen Haushaltsplan des letzten Haushaltsjahres
-    e) Betrag des des Titels in der Haushaltsrechnung des vorvergangenen Haushaltsjahres
+    c) Betrag des Titels im aktuellen Haushaltsplan
+    d) Betrag des Titels im gültigen Haushaltsplan des letzten Haushaltsjahres
+    e) Betrag des Titels in der Haushaltsrechnung des vorvergangenen Haushaltsjahres
 8. Optional Haushaltsvermerke, insbesondere:
     a) Die Kopplung von bestimmten Einnahmen- und Ausgabentiteln, was bedeutet, dass Mehreinnahmen im Einnahmentitel Mehrausgaben im Ausgabentitel in gleicher Höhe erlauben sowie Mindereinnahmen im Einnahmentitel die erlaubten Ausgaben im Ausgabentitel um dieselbe Summe verringern.
     b) Die Verstärkung von bestimmten Einnahmen- und Ausgabentiteln, was bedeutet, dass Mehreinnahmen im Einnahmentitel Mehrausgaben im Ausgabentitel in gleicher Höhe erlauben.
@@ -243,7 +243,7 @@ Existiert kein solcher, sind die Regeln zur vorläufigen Haushaltsführung anzuw
     a) den aktuellen Nachtragshaushaltsplan
     b) den Haushaltsplan, der durch diesen Nachtragshaushaltsplan ersetzt wird
     c) die neueste vorhandene Haushaltsrechnung
-3. Statt des Betrags des Titels im aktuellen Haushaltsplan gehört der Betrag des des Titels im aktuellen Nachtragshaushaltsplan zum deklarativen Teil des Nachtragshaushaltsplans
+3. Statt des Betrags des Titels im aktuellen Haushaltsplan gehört der Betrag des Titels im aktuellen Nachtragshaushaltsplan zum deklarativen Teil des Nachtragshaushaltsplans
 
 (3) Änderungen des Nachtragshaushaltsplans im Vergleich zum Haushaltsplan, der durch den Nachtragshaushaltsplan ersetzt wird, sollen farblich hervorgehoben werden.
 
@@ -264,8 +264,8 @@ Sie wird von der Finanzreferentin erstellt.
 5. Eine Einnahmen- und eine Ausgabenseite als Tabellen mit jeweils Spalten für:
     a) Titelnummer
     b) Bezeichnung des Haushaltstitels
-    c) Betrag des des Titels im zugehörigen Haushaltsplan
-    d) tatsächlicher Betrag des des Titels im Haushaltsjahr
+    c) Betrag des Titels im zugehörigen Haushaltsplan
+    d) tatsächlicher Betrag des Titels im Haushaltsjahr
 8. Alle Haushaltsvermerke des zugehörigen Haushaltsplans
 9. die Kassenstände aller Konten und Kassen der Fachschaft zu Beginn und Ende des Haushaltsjahres
 
@@ -277,8 +277,13 @@ Sie wird von der Finanzreferentin erstellt.
 1. Stimmt bei allen Kassen und Konten der Istbestand mit dem Sollbestand überein?
 2. Sind alle Eintragungen in den Kassenbüchern vollständig und fehlerfrei?
 3. Sind alle Kassenanordnungen samt Quittungen/Nachweisen vollständig und fehlerfrei?
+4. Wurde jederzeit der jeweils gültige Haushaltsplan eingehalten?
+    i. Wurden keine außerplanmäßigen Ausgaben getätigt?
+    ii. Wurden keine überplanmäßigen Ausgaben getätigt?
+    iii. Falls doch: Waren alle außerplanmäßigen und/oder überplanmäßigen Ausgaben unabweisbar?
 
-(2) Kassenprüfende dürfen weder im geprüften Zeitraum noch zum
+(2) Kassenprüfende werden von der FSV oder der FSVV gewählt.
+Kassenprüfende dürfen weder im geprüften Zeitraum noch zum
 Prüfungszeitpunkt Mitglied des FSR oder Teil des Vorstands der FSV
 sein bzw. gewesen sein.
 Kassenprüfende müssen Teil der Studierendenschaft der RFWU Bonn sein.
@@ -321,7 +326,7 @@ Dokumente vorliegen:
 6. Nachweise, dass für die Mitglieder der Kassenprüfungsausschüsse keine Ausschlussgründe vorlagen, und
 7. das aktuellste Ergebnis einer Fachschaftswahl in diesem oder dem vorhergehenden Semester.
 
-(4) Sind die Voraussetzungen nach Abs. 3 erfüllt, der Antrag
+(4) Sind die Voraussetzungen nach Abs. 3 erfüllt, ist der Antrag
 ordnungsgemäß ausgefüllt und bestehen sonst keine Bedenken gegen die
 Auszahlung der Gelder, so werden die Gelder vom Vorsitzenden des FSK
 oder seiner Stellvertretung angewiesen.
@@ -352,12 +357,12 @@ Mängel mit. Diese Fristverlängerung ist auch rückwirkend möglich.
 
 ### § XXX Reservierung der AFSG
 
-(1) Nicht beantragte AFSG sind im nächsten Haushaltsplan als frei verfügbarer Überschuss zu berücksichtigen.
+(1) Nicht beantragte AFSG sind im nächsten Haushaltsplan der Studierendenschaft als frei verfügbarer Überschuss zu berücksichtigen.
 
 (2) Beantragte AFSG sind zu reservieren, bis sie vervollständigt sind oder die Vervollständigungsfrist verstrichen ist.
 
 (3) Der Betrag von AFSG-Anträgen, die nach ihrer Vervollständigungsfrist nicht vollständig sind und somit als nicht gestellt gelten,
-ist im nächsten Haushaltsplan als frei verfügbarer Überschuss zu berücksichtigen.
+ist im nächsten Haushaltsplan der Studierendenschaft als frei verfügbarer Überschuss zu berücksichtigen.
 
 (4) Der Betrag vollständiger AFSG-Anträge ist zu reservieren, bis sie ausgezahlt wurden.
 
@@ -378,7 +383,7 @@ Podiumsdiskussionen, Ausstellungen, Ringvorlesungen und ähnliches.
 Prüfung vorzulegen. Das FSK bringt den Antrag sodann auf der ersten
 Finanz-FK des nächsten Monats zur Abstimmung durch die FK ein.
 
-(3) Die Fachschaft, die den Antrag stellt, muss auf den Finanz-FK, auf
+(3) Die Fachschaft, die den Antrag stellt, muss auf den Finanz-FKs, auf
 welchen ihr Antrag behandelt wird, durch Delegierte vertreten
 sein. Der Antrag ist von den Delegierten gegebenenfalls zu begründen
 und zu erläutern. Sind keine Delegierten anwesend, wird der Antrag in
