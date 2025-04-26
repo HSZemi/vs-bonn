@@ -250,6 +250,17 @@ Existiert kein solcher, sind die Regeln zur vorläufigen Haushaltsführung anzuw
 (4) Überschuss bzw. Fehlbetrag aus dem vorherigen Haushaltsjahr sind mit den tatsächlichen Beträgen festzulegen, sofern das vorherige Haushaltsjahr bereits geendet hat.
 
 
+### § XXX Buchung von Rücklage, Überschuss und Fehlbetrag
+
+(1) Als letzte Buchung eines Haushaltsjahres ist die Überführung in die Rücklage zu buchen.
+Sie erfolgt in der vollen Höhe des im Haushaltsplan dafür vorgesehenen Betrags.
+
+(2) Als erste Buchung eines Haushaltsjahres ist die Entnahme aus der Rücklage zu buchen.
+Sie erfolgt in voller Höhe des im Haushaltsplan dafür vorgesehenen Betrags.
+
+(3) Als zweite Buchung eines Haushaltsjahres ist der Überschuss aus dem letzten Haushaltsjahr als Einnahme bzw. der Fehlbetrag aus dem letzten Haushaltsjahr als Ausgabe zu buchen.
+
+
 ### § XXX Haushaltsrechnung
 
 (1) Die Haushaltsrechnung listet für alle Titel des Haushaltsplans für ein Haushaltsjahr die tatsächlich erfolgten Einnahmen bzw. Ausgaben auf.
