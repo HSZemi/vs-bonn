@@ -28,21 +28,22 @@ contains:
 
 ### § XXX Fachschaftengelder
 
-(1) Die den Fachschaften gemäß § 43 Satzung der Studierendenschaft der
-RFWU Bonn zugewiesenen Gelder werden durch das FSK verwaltet.
+(1) Die den Fachschaften gemäß § 43 Satzung der Studierendenschaft (SdS) der
+RFWU Bonn zugewiesenen Gelder werden durch das Fachschaftenkollektiv (FSK) verwaltet.
 
 (2) Die Gelder werden den einzelnen Fachschaften als Allgemeine
-Fachschaftengelder (AFSG) und als Besondere Fachschaftengelder
-(BFSG) zugewiesen. AFSG setzen sich zusammen aus einem
-Sockelbetrag und einem weiteren Betrag, der sich nach der Zahl der
-Studierenden richtet, die der betreffenden Fachschaft gemäß § 22
-Satzung der Studierendenschaft der RFWU Bonn zugeordnet sind. Mit
-BFSG werden wichtige Fachschaftsbelange gesondert gefördert.
+Fachschaftengelder (AFSG) oder als Besondere Fachschaftengelder (BFSG)
+zugewiesen. AFSG setzen sich zusammen aus einem Sockelbetrag und einem
+weiteren Betrag, der sich nach der Zahl der Studierenden richtet, die der
+betreffenden Fachschaft gemäß § 22 Satzung der Studierendenschaft (SdS) nach
+der Anlage „Fachschaftenliste“ zur FKGO zugeordnet sind. Mit BFSG werden
+wichtige Fachschaftsbelange gesondert gefördert.
 
-(3) Die Gelder werden nur auf Antrag ausgezahlt.
+(3) Die Gelder werden nur auf Antrag ausgezahlt. Näheres zur Antragstellung
+regeln die §§ XXX, XXX, XXX. Die Auszahlungen werden durch den Vorsitz des FSK
+oder seine zeichnungsberechtigte Stellvertretung angewiesen.
 
-(4) Antragsberechtigt sind die Fachschaftsräte der Fachschaften der RFWU
-Bonn.
+(4) Antragsberechtigt sind die Fachschaften der RFWU Bonn.
 
 (5) Die Finanzanträge und die Dokumente einer Fachschaft dürfen im FSK nicht von einer
 Person mit gleicher Fachschaftszugehörigkeit geprüft oder angewiesen werden.
@@ -50,11 +51,12 @@ Person mit gleicher Fachschaftszugehörigkeit geprüft oder angewiesen werden.
 (6) Zuweisungen an eine Fachschaft werden ausschließlich auf ein Bankkonto 
 ausgezahlt, welches auf die Fachschaft selbst eingetragen ist.
 
-(7) Die Gelder der Fachschaften dürfen nicht dazu verwendet werden,
-Aufgaben der Institute oder Seminare der Universität zu finanzieren.
-Sie dürfen außerdem nicht für Veranstaltungen verwendet werden, die
-für das bestehen einer Lehrveranstaltung notwendig sind oder eine
-solche Veranstaltung ersetzen.
+(7) Die Gelder der Fachschaften dürfen nicht dazu verwendet werden, Aufgaben
+der Verwaltung und Lehre der Universität zu finanzieren. Sie dürfen nicht für
+Veranstaltungen verwendet werden, die für das Bestehen einer Lehrveranstaltung
+notwendig sind oder eine solche Veranstaltung ersetzen. Sie dürfen außerdem
+nicht zur Anschaffung von Materialien genutzt werden, die für die Teilnahme an
+einer Lehrveranstaltung oder ihr Bestehen unerlässlich sind.
 
 
 ### § XXX Auszahlungsfähigkeit
@@ -79,26 +81,27 @@ Die Erfüllung dieser Voraussetzungen wird als „Auszahlungsfähigkeit“ bezei
 (2) Die folgenden Nachweise werden jeweils benötigt, um nachzuweisen, dass die 
 Voraussetzungen erfüllt sind:
 
-1. Das auf der Bekanntmachungsplattform der Studierendenschaft veröffentlichte Wahlergebnis,
-2. (die entsprechende Information liegt dem FSK vor),
-3. (die entsprechende Information liegt dem FSK vor),
-4. das Protokoll der konstituierenden Sitzung des Gremiums,
-5. die auf der Bekanntmachungsplattform der Studierendenschaft veröffentlichte Fachschaftssatzung,
-6. der Haushaltsplan, etwaige Nachtragshaushaltspläne, sowie die Protokolle der Sitzungen, auf der Haushaltsplan und ggf. Nachtragshaushaltspläne beschlossen wurden,
-7. der Haushaltsplan, etwaige Nachtragshaushaltspläne, sowie die Protokolle der Sitzungen, auf der Haushaltsplan und ggf. Nachtragshaushaltspläne beschlossen wurden,
-8. die Haushaltsrechnung, welche die tatsächlichen Einnahmen und Ausgaben zu den Haushaltstiteln im Haushaltsplan sowie die Kassenstände zu Beginn und Ende des Haushaltsjahres aufführt, und
-9. die Kassenprüfungsberichte, die Protokolle der Sitzung, auf der die Kassenprüfungsausschüsse gewählt wurden, sowie der Nachweis, dass für die Mitglieder der Kassenprüfungsausschüsse keine Ausschlussgründe vorlagen.
+zu 1. Das auf der Bekanntmachungsplattform der Studierendenschaft veröffentlichte Wahlergebnis,  
+zu 2. (die entsprechende Information liegt dem FSK vor),  
+zu 3. (die entsprechende Information liegt dem FSK vor),  
+zu 4. das Protokoll der konstituierenden Sitzung des Gremiums,  
+zu 5. die auf der Bekanntmachungsplattform der Studierendenschaft veröffentlichte Fachschaftssatzung,  
+zu 6. der Haushaltsplan, etwaige Nachtragshaushaltspläne, sowie die Protokolle der Sitzungen, auf der Haushaltsplan und ggf. Nachtragshaushaltspläne beschlossen wurden,  
+zu 7. der Haushaltsplan, etwaige Nachtragshaushaltspläne, sowie die Protokolle der Sitzungen, auf der Haushaltsplan und ggf. Nachtragshaushaltspläne beschlossen wurden,  
+zu 8. die Haushaltsrechnung, welche die tatsächlichen Einnahmen und Ausgaben zu den Haushaltstiteln im Haushaltsplan sowie die Kassenstände zu Beginn und Ende des Haushaltsjahres aufführt, und  
+zu 9. die Kassenprüfungsberichte, die Protokolle der Sitzung, auf der die Kassenprüfungsausschüsse gewählt wurden, sowie der Nachweis, dass für die Mitglieder der Kassenprüfungsausschüsse keine Ausschlussgründe vorlagen.
 
 (3) Das FSK kann beschließen, Gelder an eine Fachschaft anzuweisen, die die
-Voraussetzungen nach Absatz 5 nicht erfüllt, wenn
+Voraussetzungen nach Absatz 1 nicht erfüllt, wenn
 
-1. die Fachschaft die nicht erfüllten Voraussetzungen nicht innerhalb des aktuellen
-Haushaltsjahres selbst heilen kann und
+1. die Fachschaft die nicht erfüllten Voraussetzungen nicht innerhalb ihres
+aktuellen Haushaltsjahres selbst heilen kann und
 2. der Fachschaft durch die ausbleibende Anweisung eine besondere Härte droht.
 Davon ist insbesondere dann auszugehen, wenn der Kassenstand insgesamt
 weniger als 0 € beträgt.
 
-Die FK ist über die Entscheidung des FSK zu informieren.
+Die FK ist über die Entscheidung des FSK zu informieren und kann die
+Maßnahme verweigern.
 
 
 ### § XXX Stammdatenverwaltung und Antragstellung
@@ -124,7 +127,7 @@ halten. Die Erinnerung soll wenige Wochen nach Beginn jedes Semesters erfolgen.
 
 (5) Anträge auf AFSG sind über die Plattform zu stellen.
 
-(6) Dokumente und Nachweise gemäß §§ 25 und 26 sind per E-Mail an das FSK
+(6) Dokumente und Nachweise gemäß §§ XXX und XXX sind per E-Mail an das FSK
 einzureichen, solange die Plattform keine Möglichkeit zur Einreichung im
 Produktivbetrieb anbietet und sofern sie nicht im Rahmen eines Evaluationsbetriebs
 über die Plattform eingereicht werden.
@@ -337,13 +340,13 @@ Dokumente vorliegen:
 6. Nachweise, dass für die Mitglieder der Kassenprüfungsausschüsse keine Ausschlussgründe vorlagen, und
 7. das aktuellste Ergebnis einer Fachschaftswahl in diesem oder dem vorhergehenden Semester.
 
-(4) Sind die Voraussetzungen nach Abs. 3 erfüllt, ist der Antrag
+(4) Sind die Voraussetzungen nach Absatz 3 erfüllt, ist der Antrag
 ordnungsgemäß ausgefüllt und bestehen sonst keine Bedenken gegen die
 Auszahlung der Gelder, so werden die Gelder vom Vorsitzenden des FSK
 oder seiner Stellvertretung angewiesen.
 
 (5) Anträge, die vier Semester nach Ablauf des Semesters, auf das sich
-der Antrag bezieht, die Voraussetzungen des Abs. 5 nicht erfüllen,
+der Antrag bezieht, die Voraussetzungen des Absatz 3 nicht erfüllen,
 gelten als nicht gestellt.
 
 (6) Das FSK kann die Frist nach Absatz 5 einmalig verlängern, wenn für einen Antrag alle Dokumente
@@ -382,199 +385,250 @@ ist im nächsten Haushaltsplan der Studierendenschaft als frei verfügbarer Übe
 
 ### § XXX BFSG
 
-(1) BFSG dienen der Förderung wichtiger Fachschaftsbelange. Dies sind
-insbesondere Fahrten zu überregionalen Fachschaftentreffen und
-andere Veranstaltungen, welche der Information bzw. dem
-Erfahrungsaustausch der Fachschaften dienen, die Ausrichtung von
-Erstsemesterorientierungseinheiten, Fachschaftsarbeitswochenenden
-und Arbeitskreisen zu bestimmten Themen, Vorträgen, Seminaren,
-Podiumsdiskussionen, Ausstellungen, Ringvorlesungen und ähnliches.
+(1) Die FK kann den Fachschaften zweckgebundene Finanzmittel in Form von
+Besonderen Fachschaftengeldern (BFSG) zuweisen. Sie dienen der Förderung
+wichtiger Fachschaftsbelange, die in Anlage 1 konkretisiert werden. Kosten
+werden nur insoweit übernommen, wie sie nicht durch andere Einnahmen gedeckt
+sind. Dabei können Einnahmen auch zur Deckung von nicht-förderfähigen
+Kosten genutzt werden. Die genaue Höhe und Ausgestaltung der BFSG richten
+sich nach § XXX und Anlage 1.
 
-(2) BFSG werden auf Antrag ausgezahlt. Der Antrag ist dem FSK zur
-Prüfung vorzulegen. Das FSK bringt den Antrag sodann auf der ersten
-Finanz-FK des nächsten Monats zur Abstimmung durch die FK ein.
+(2) BFSG werden auf Antrag ausgezahlt. BFSG können nur für das aktuelle und
+für das vorangegangene Semester beantragt werden. Bei mehrtägigen
+Antragsanlässen ist der Endzeitpunkt maßgeblich. Dem Antrag sind die in Anlage 1
+geforderten Unterlagen beizufügen.
 
-(3) Die Fachschaft, die den Antrag stellt, muss auf den Finanz-FKs, auf
-welchen ihr Antrag behandelt wird, durch Delegierte vertreten
-sein. Der Antrag ist von den Delegierten gegebenenfalls zu begründen
-und zu erläutern. Sind keine Delegierten anwesend, wird der Antrag in
-erster Lesung auf den nächsten Monat verschoben.
+(3) Im Regelfall werden Anträge auf der ersten Finanz-FK eines Monats
+vorgestellt und auf der zweiten abgestimmt. Auf Ferien-FKs und in besonderen
+Ausnahmefällen entfällt diese Vorgabe. Das FSK bringt die vollständigen Anträge
+zur Vorstellung ein und entscheidet dabei nach billigem Ermessen, ob Anträge,
+die weniger als zwei Wochen vor der nächsten Finanz- oder Ferien-FK
+eingegangen sind, auf dieser oder der darauf folgenden vorgestellt werden.
 
-(4) Der Antrag ist spätestens 2 Wochen vor der Finanz-FK, auf welcher er
-vorgestellt werden soll, zur Prüfung vorzulegen.
+(4) Die Fachschaft, die den Antrag stellt, muss auf den Finanz-FKen, auf welchen
+ihr Antrag behandelt wird, durch eine Delegierte vertreten sein. Der Antrag ist
+von ihrer Delegierten gegebenenfalls zu begründen und zu erläutern. Ist keine
+Delegierte anwesend wird der Antrag in erster Lesung auf den nächsten Monat
+oder die nächste Ferien-FK verschoben.
 
-(5) In dem Antrag sind alle entstandenen Einnahmen und Ausgaben
-tabellarisch aufzulisten. Die zu erstattenden Kosten sowie alle
-Kosten, die durch nicht-zweckgebundene Einnahmen wie etwa
-Teilnehmerbeiträge gedeckt werden, sind durch Kopien der Rechnungen
-vollständig zu belegen. Bei Fahrten sind dem Antrag zudem eine
-Teilnahmeliste mit Unterschriften aller Teilnehmenden hinzuzufügen.
-
-(6) Die FK hat das Recht, Anträge zurückzuweisen, wenn sie der Ansicht
-ist, dass diese unberechtigt sind. Ebenso kann die FK lediglich
+(5) Die FK hat das Recht, Anträge zurückzuweisen. Ebenso kann die FK lediglich
 einen Teil der beantragten Summe bewilligen.
 
-(7) Ein abgelehnter oder teilweise bewilligter Antrag kann nicht noch
-einmal gestellt werden. Ein Antrag gilt als abgelehnt, wenn die FK
-ihn durch Mehrheitsbeschluss nicht bewilligt. Er gilt als teilweise
-bewilligt, wenn der Antragssumme nicht in voller Höhe zugestimmt
-wurde.
+(6) Ein abgelehnter oder teilweise bewilligter Antrag kann nicht noch einmal
+gestellt werden. Ein Antrag gilt als abgelehnt, wenn die FK ihn durch
+Mehrheitsbeschluss nicht bewilligt. Er gilt als teilweise bewilligt, wenn der
+Antragssumme nicht in voller Höhe zugestimmt wurde.
 
-(8) Anträge, die sechs Monate nach Einreichung nicht vorgestellt oder
-abgestimmt wurden, gelten als nicht gestellt und müssen neu
-beantragt werden.
+(7) Anträge, die im sechsten Kalendermonat nach ihrer Einreichung nicht
+vorgestellt wurden, gelten als nicht gestellt und müssen neu beantragt werden.
+Angenommene Anträge verfallen drei Jahre nach Beschluss, sofern sie aufgrund
+inkorrekter Angaben oder mangels Auszahlungsfähigkeit nicht ausgezahlt werden
+konnten.
 
-(9) BFSG können nur für das aktuelle und für das vorangegangene Semester beantragt
-werden. Bei mehrtägigen Antragsanlässen ist der Endzeitpunkt maßgeblich.
+(8) Wird ein Antrag eingereicht, der mehrere Veranstaltungen oder Anschaffungen
+beinhaltet, so kann das FSK ihn der FK zur besseren Übersicht aufgegliedert
+vorlegen. Der Antrag wird weiterhin in einem abgestimmt und der entsprechende
+Höchstsatz bleibt unberührt. Das FSK kann darüber hinaus nach billigem
+Ermessen Anträge, die mehrere Posten beinhalten, als mehrere separate Anträge
+vorstellen und abstimmen lassen.
 
-(10) Die genaue Höhe und Ausgestaltung der BFSG bestimmt sich nach § XXX
-und Anlage 1.
+(9) Wurde eine der Fristen nach Absatz 7 ohne Verschulden der antragsstellenden
+Fachschaft nicht eingehalten, so ist auf Antrag dieser Fachschaft die
+Wiedereinsetzung in den vorigen Stand zu gewähren. Der Antrag auf
+Wiedereinsetzung eines BFSG-Antrags ist innerhalb eines Monats nach Wegfall
+des Hindernisses zu stellen. Die Tatsachen zur Begründung des Antrags auf
+Wiedereinsetzung sind mit dem Antrag einzureichen. Über einen Antrag auf
+Wiedereinsetzung entscheidet die FK auf den nächstmöglichen Sitzungen.
+
+(10) Wird ein BFSG-Antrag abgestimmt, welcher einen Maximalbetrag nach der
+Anlage 1 zur FKGO übersteigt, ohne, dass eine Vorankündigung diesbezüglich
+vorliegt, gilt dieser Antrag als nur in Höhe des Maximalbetrags bewilligt.
+
+(11) Wurde ein BFSG-Antrag unter der Annahme abgestimmt, dass die
+Einnahmen inklusive der BFSG die Ausgaben für den BFSG-Antrag nicht
+übersteigen und ergeben sich nach der Abstimmung Änderungen diesbezüglich,
+so kann das FSK diesen Antrag im Nachhinein auf den Betrag kürzen, ab dem
+sich die Einnahmen mit den Ausgaben decken. Es hat die betroffene Fachschaft
+hiervon in Kenntnis zu setzen.
+
+(12) Wurde ein BFSG-Antrag unter der Annahme abgestimmt, dass er vollständig
+sei und stellt sich erst im Nachhinein heraus, dass Unterlagen fehlerhaft waren
+und sich daraus eine niedrigere Antragssumme hätte ergeben müssen, so kann der
+Antrag innerhalb von drei Monaten erneut vom FSK zur Abstimmung gebracht
+werden. Wird der Antrag erneut abgestimmt, so gilt die erste Abstimmung als
+nichtig. Absatz 6 gilt in diesem Fall nicht.
 
 
 ### § XXX Fachschaftsübergreifende Ausgaben
 
-(1) Das FSK kann auf der FK BFSG für fachschaftsübergreifende Maßnahmen
-und Anschaffungen beantragen. In diesen Fällen muss die
-Fachschaftenkonferenz die Anträge vor Beginn der Maßnahme
-entscheiden. Maßnahmen, deren zu beantragende Kosten nicht durch §
-30 abgedeckt sind, und Fahrten ins Ausland bedürfen abweichend von §
-31 Abs. 1 keiner Vorankündigung.
+(1) Das Fachschaftenkollektiv (FSK) kann auf der FK Besondere
+Fachschaftengelder (BFSG) für fachschaftsübergreifende Maßnahmen und
+Anschaffungen beantragen. In diesen Fällen muss die FK die Anträge vor Beginn
+der Maßnahme entscheiden. Die Nachweise über die Nutzung der Geldmittel sind
+nach der Durchführung vorzulegen. Anträge, die von den Vorgaben der Anlage 1
+abweichen sowie Fahrten und Exkursionen mit Zielen außerhalb des Schengen-
+Raumes bedürfen abweichend von § XXX Absatz 1 keiner Vorankündigung.
 
-(2) Mindestens zwei Fachschaften können auf der FK BFSG für
-fachschaftsübergreifende Maßnahmen und Anschaffungen beantragen. Bei
-Bewilligung wird die Summe auf Basis des Antrags auf die
-Fachschaftskonten ausgezahlt.
+(2) Mindestens zwei Fachschaften können auf der FK ebenfalls BFSG für
+fachschaftsübergreifende Maßnahmen und Anschaffungen beantragen. Der
+Antrag muss die Verteilung der Gelder unter den Fachschaften regeln. Bei
+Bewilligung wird die Summe auf Basis des Antrags auf die Fachschaftskonten
+ausgezahlt.
 
 
 ### § XXX Kriterien zur Vergabe der BFSG
 
-(2) Es werden nur für die in Anlage 1 definierten Kostenpunkte Anträge
-gewährt.
+(1) Es werden nur für die in Anlage 1 definierten Kostenpunkte Anträge gewährt.
 
-(3) Die Höchstsätze werden ebenfalls in Anlage 1 definiert.
+(2) Die Höchstsätze werden ebenfalls in Anlage 1 definiert.
 
-(4) Dem Abschluss von Verträgen über Lieferungen und Leistungen muss ein
-Preisvergleich vorausgehen. Bei Aufträgen mit einem Wert von mehr
-als 1.000 Euro sind mindestens 3 Angebote im Wettbewerb einzuholen,
-bei Aufträgen mit einem Wert von mehr als 10.000 Euro sind
-mindestens 6 Bewerber zur Angebotsabgabe aufzufordern. Der
-Preisvergleich ist aktenkundig zu machen und die Vergabeentscheidung
-zu dokumentieren. (vgl. § 2 Abs. 2 HWVO)
+(3) Ausnahmen dürfen nur auf Grundlage einer angenommenen
+Ausnahmegenehmigung (Vorankündigung gemäß § XXX) oder bei
+fachschaftsübergreifenden Besonderen Fachschaftengeldern (BFSG) gemacht
+werden.
 
-(5) Fahrten und Exkursionen ins Ausland bedürfen einer Vorankündigung.
+(4) Fahrten und Exkursionen mit Zielen außerhalb des Schengen-Raumes
+bedürfen einer Vorankündigung.
 
-(6) Für die Erstattung von Fahrtkosten gilt:
+(5) Dem Abschluss von Verträgen über Lieferungen und Leistungen muss ein
+Preisvergleich vorausgehen. Bei Aufträgen mit einem Wert von mehr als 1.000
+Euro sind mindestens 3 Angebote im Wettbewerb einzuholen, bei Aufträgen mit
+einem Wert von mehr als 10.000 Euro sind mindestens 6 Bewerber zur
+Angebotsabgabe aufzufordern. Der Preisvergleich ist aktenkundig zu machen und
+die Vergabeentscheidung zu dokumentieren. (vgl. § 2 Absatz 2 Haushalts- und
+Wirtschaftsführungs-Verordnung der Studierendenschaften NRW)
 
-1. bei Fahrten mit der Bahn/ÖPNV soll der sinnvollste und der
-kostengünstigste Tarif gewählt werden (dass es sich um den
-kostengünstigsten Tarif handelt, ist gesondert zu dokumentieren)
-Abweichungen sind zu begründen. Fahrzeiten zwischen 8 Uhr und 22
-Uhr werden als zumutbar bzw. sinnvoll erachtet. Kosten für eine
-Bahncard werden nur dann erstattet, wenn die Gesamtkosten der
-Fahrt incl. Bahncard die Gesamtkosten ohne Bahncard nicht
-übersteigen.
-2. Bei Anfahrt mit dem Auto werden die Kosten von maximal 0,30 €/km
-und Auto pauschal erstattet. Eine Erstattung von Tankkosten und
-Gebühren für Mietwägen erfolgt innerhalb des Maximalbetrages der
-Pauschale. Es wird vorausgesetzt, dass die Kapazität der
-Fahrzeuge, abhängig von der Anzahl der Mitfahrenden Personen,
-sinnvoll ausgenutzt wird.
-3. Bahnfahrten sind Fahrten mit dem Auto vorzuziehen. Fahrten mit
-dem Auto müssen begründet werden.
-4. Flüge innerhalb Deutschlands werden generell nicht erstattet.
+(6) Fahrtkosten werden nur erstattet, wenn eine Mehrbelastung gegenüber einer
+Nutzung des Deutschlandsemestertickets vorliegt. Diese muss begründet werden.
+Dies ist insbesondere dann der Fall, wenn Verpflegung oder sonstige Güter
+transportiert werden müssen, wenn mit dem Deutschlandsemesterticket eine
+Verspätung von mindestens einer Stunde relativ zu der gewählten Fahrt bestünde
+oder die Reisedauer drei Stunden überschreitet. In diesem Fall werden erstattet:
 
-(7) Beim Druck von Zeitschriften (Ersti-Heft, Newsletter, Flyer o.ä.)
-sind dem Antrag ein Belegexemplar hinzuzufügen. Das Belegexemplar
-kann digital vorgelegt werden.
+1. Bei einer Bahnfahrt die tatsächlich entstandenen Kosten einer Fahrt in der 2.
+Klasse. Kosten für eine Bahncard werden erstattet, wenn zu erwarten ist oder
+festgestellt wird, dass während der Laufzeit dieser Bahncard die Einsparungen
+durch den Gebrauch während dieser Fahrt den Preis der Bahncard übersteigen.
+2. Bei Fahrten mit einem Fernbus, Reisebus oder Transporte die tatsächlichen
+Kosten. Es wird vorausgesetzt, dass die Kapazität der Fahrzeuge, abhängig von
+mitfahrenden Personen und den transportierten Gütern, sinnvoll ausgenutzt wird.
+3. Bei einer Fahrt mit dem öffentlichen Personennahverkehr die tatsächlichen
+Kosten.
+4. Bei einer Fahrt mit dem Taxi die tatsächlichen Kosten. Fahrten mit Taxen
+können nur bei Vorliegen eines wichtigen Grundes erstattet werden.
+5. Bei Fahrten mit AStA-Fahrzeugen oder Mitfahrgelegenheiten die tatsächlich
+entstandenen Kosten.
+6. Bei einer Fahrt mit einem anderen, als den hier aufgeführten Kraftfahrzeugen
+eine Fahrtkostenpauschale von 0,40 EUR pro Kilometer. Eine Erstattung von
+Tankkosten und Gebühren für Mietwägen erfolgt innerhalb des Maximalbetrages
+der Pauschale. Es wird vorausgesetzt, dass die Kapazität der Fahrzeuge, abhängig
+von mitfahrenden Personen und den transportierten Gütern, sinnvoll ausgenutzt
+wird. Fahrten mit Kraftfahrzeugen können nur bei Vorliegen eines wichtigen
+Grundes erstattet werden, hierzu zählt insbesondere der Transport von
+Verpflegung und sonstigen Gütern.
+7. Bei Fahrten mit anderen, als den hier aufgeführten Verkehrsmitteln können die
+tatsächlichen Kosten nach einer Vorankündigung gemäß § XXX erstattet werden. Bei
+jeglicher Mobilität soll geprüft werden, wie diese möglichst nachhaltig und
+inklusiv gestaltet werden kann. Das AStA-Ökologiereferat leistet Hilfestellungen
+zu Fragen der nachhaltigen Reisegestaltung.
 
-(8) Verpflegungskosten werden nicht erstattet. Die einzige Ausnahme
-bildet pro Studiengang, den eine Fachschaft vertritt, ein
-gemeinsames Essen im Rahmen der Erstsemesterarbeit.
+Bei der Planung einer Reise sind die Prinzipien der Wirtschaftlichkeit und
+Sparsamkeit zu beachten.
 
-(9) Alkoholische Getränke werden grundsätzlich nicht erstattet.
+(7) Sagt ein nicht unwesentlicher Teil der angemeldeten und finanziell
+eingeplanten Studierenden bei Veranstaltungen, Fahrten oder Exkursionen
+kurzfristig ab, so kann die FK auch in Ermangelung einer Vorankündigung
+beschließen, dass dennoch die eingeplanten Höchstbeträge für eine höhere
+Teilnehmerzahl zugrunde gelegt werden.
 
-(10) Kosten für die Durchführung von Lehrveranstaltungen welche von der
-RFWU Bonn durchzuführen sind, sind nicht ersatzfähig.
+(8) Verpflegung kann nur im Rahmen der Erstsemesterarbeit nach 2 a. sowie der
+Ausrichtung von Fachschaftentagungen nach 5 i. des Kriterienkatalogs (KritKat)
+gefördert werden
 
-(11) Die Kosten werden nur insoweit übernommen, wie sie nicht durch
-andere Einnahmen gedeckt sind. Dabei können Einnahmen auch zur
-Deckung von nicht-förderfähigen Kosten genutzt werden.
+(9) Alkoholische Getränke werden generell nicht erstattet.
+
 
 
 ### § XXX Ausnahmegenehmigung von BFSG via Vorankündigung
 
-(1) Maßnahmen, deren zu beantragende Kosten nicht durch § XXX abgedeckt
-sind, und Fahrten ins Ausland müssen vor Beginn der Maßnahme
-vorangekündigt werden.
+(1) BFSG-Anträge, die von den Vorgaben der Anlage 1
+abweichen sowie Fahrten und Exkursionen mit Zielen außerhalb des Schengen-
+Raumes müssen vor Beginn der Maßnahme vorangekündigt werden. Beschließt
+die FK die Annahme der Vorankündigung, so kann die Fachschaft bei einem
+späteren Antrag auf Zubilligung Besonderer Fachschaftengelder in dem durch die
+Vorankündigung begrenzten Rahmen von den Vorgaben der Anlage 1 abweichen.
+Vorgaben zu einzureichenden Dokumenten sind hiervon ausgenommen.
 
-(2) Vorankündigungen sind auf dem Formblatt zu stellen. Eine Begründung
-der Überschreitung des § XXX bzw. der Notwendigkeit, ins Ausland zu
-reisen, ebenso wie eine Vorkalkulation der Maßnahme, sind
+(2) Vorankündigungen sind auf dem Formblatt zu stellen. Eine Begründung der
+Abweichung von Anlage 1 ebenso wie eine Vorkalkulation der Maßnahme, sind
 beizufügen.
 
-(3) Vorankündigungen für Veranstaltungen müssen mindestens
-vier Wochen vor der Veranstaltung bzw. Fahrt dem FSK vorliegen und
-mindestens zwei Wochen vor der Veranstaltung auf der FK vorgestellt
-werden.
+(3) Das Fachschaftenkollektiv (FSK) bringt vollständige Vorankündigungen zur
+Vorstellung auf der nächsten FK ein. Das FSK entscheidet
+nach billigem Ermessen, ob Anträge, die weniger als eine Woche vor der nächsten
+FK eingegangen sind, auf dieser oder der darauffolgenden vorgestellt werden.
 
-(4) Die FK kann durch mehrheitliche Annahme der Vorankündigung
-beschließen, dass die jeweilige Fachschaft bei einem späteren Antrag
-auf Zubilligung Besonderer Fachschaftengelder in dem durch die
-Vorankündigung begrenzten Rahmen von § XXX abweichen kann
-beziehungsweise die Erstattung der Kosten für eine Fahrt ins Ausland
-beantragen darf. Die Abstimmung der Vorankündigung erfolgt in der
-auf die Vorstellung folgenden FK.
+(4) Vorankündigungen für Veranstaltungen müssen vor Beginn der Veranstaltung
+auf der FK beschlossen worden sein. Vorankündigungen über Anschaffungen
+müssen vor dem Kauf beschlossen werden. Die Anschaffung kann sofort nach
+dem Beschluss getätigt werden. Vorankündigungen zu Jahreshöchstbeträgen
+können zudem im Laufe des Jahres, auf das sie sich beziehen, eingereicht werden.
 
-(5) Die FK hat das Recht, Anträge zurückzuweisen, wenn sie der Ansicht
-ist, dass diese unberechtigt sind. Ebenso kann die FK lediglich
-einen Teil der beantragten Summe bewilligen.
+(5) Bei der Vorstellung und Abstimmung von Vorankündigungen muss eine
+Delegierte der antragstellenden Fachschaft anwesend sein, um die
+Vorankündigung zu begründen und zu erläutern. Ist keine Delegierte anwesend,
+wird die Vorankündigung auf der nächsten FK in gleicher Lesung behandelt. Dies
+ist nur möglich, wenn sie hierdurch noch vor der Maßnahme beschlossen werden
+kann.
 
-(6) Bei der Vorstellung und Abstimmung von Vorankündigungen muss ein
-Delegierter der antragstellenden Fachschaft anwesend sein, um den
-Antrag zu begründen und gestellte Fragen zu beantworten. Ist die
-antragstellende Fachschaft nicht anwesend, müssen die Anträge
-zurückgestellt werden.
+(6) BFSG-Anträge, die in mehreren Punkten von Anlage 1 abweichen würden,
+benötigen nur eine Vorankündigung, in der alle Abweichungen genannt werden.
 
-(7) Beschließt die FK die Vorankündigung nicht, gilt die Maßnahme als
-nicht vorangekündigt. Eine Abweichung von § XXX bzw. die Erstattung
-der Kosten für eine Fahrt ins Ausland ist dann nicht möglich.
+(7) Die FK hat das Recht, Vorankündigungen zurückzuweisen. Ebenso kann die
+FK lediglich einen Teil der beantragten Summe oder nur eine teilweise
+Abweichung von den Vorgaben in Anlage 1 bewilligen. Beschließt die FK die
+Vorankündigung nicht, gilt die Maßnahme als nicht vorangekündigt. Eine erneute
+Vorankündigung und eine Abweichung von Anlage 1 sind dann nicht möglich.
 
-(8) Vorankündigungen über Anschaffungen müssen vor dem Kauf beschlossen
-werden. Die Anschaffung kann sofort nach dem Beschluss gekauft
-werden. Eine Frist von 4 Wochen ist nicht einzuhalten.
+(8) Die Annahme einer Vorankündigung bedeutet keine Garantie für die Annahme
+des späteren Antrags. Wurde über einen Antrag unter Rückgriff auf eine
+Vorankündigung abgestimmt, kann diese Vorankündigung für keinen weiteren
+Antrag genutzt werden. Vorankündigungen können nur für Veranstaltungen oder
+Anschaffungen genutzt werden, die in dem Semester erfolgen, auf das sich die
+Vorankündigung bezieht.
 
-(9) BFSG-Anträge, deren Kosten in mehreren Punkten nicht durch § XXX
-abgedeckt sind, benötigen nur einer Vorankündigung, in der alle
-Überschreitungen genannt werden.
-
-(10) Das Erstatten alkoholischer Verpflegung ist auch durch
-Vorankündigungen nicht möglich.
-
-(11) Veranstaltungen, deren Art im Sinne § XXX nicht förderbar
-ist, bleiben auch durch eine Vorankündigung nicht förderbar.
+(9) Das Erstatten alkoholischer Verpflegung ist auch durch Vorankündigungen
+nicht möglich.
 
 
 ### § XXX Kaution für Veranstaltungen
 
 (1) Fachschaften können für Veranstaltungen einen Vorschuss für an das
-Studierendenwerk oder die Universität zu leistende Kautionen
-beantragen. Anträge dazu sind an das Fachschaftenkollektiv zu
-richten und werden von diesem beschieden. Dem Antrag ist eine
-Vorkalkulation der Veranstaltung beizufügen.
+Studierendenwerk oder die Universität zu leistende Kautionen beantragen.
+Anträge dazu sind an das Fachschaftenkollektiv zu richten und werden von
+diesem beschieden. Dem Antrag ist eine Kopie des Vertrages oder
+Kostenvoranschlags beizufügen.
 
-(2) Die geleisteten Vorschüsse sind unmittelbar nach der Veranstaltung,
-spätestens bis zum 14. Tag nach der Veranstaltung, auf das Konto des
-AStA zurückzuleisten.
+(2) Die geleisteten Vorschüsse sind unmittelbar nach der Veranstaltung, spätestens
+bis zum 14. Tag nach der Veranstaltung, auf das Konto des Allgemeinen
+Studierendenausschusses (AStA) zurückzuleisten.
 
-(3) Die geleisteten Vorschüsse können der betreffenden Fachschaft
-gegenüber mit noch auszuzahlenden AFsG und BFSG aufgerechnet werden.
+(3) Die geleisteten Vorschüsse können der betreffenden Fachschaft gegenüber mit
+noch auszuzahlenden Allgemeine Fachschaftengelder (AFSG) und Besondere
+Fachschaftengelder (BFSG) aufgerechnet werden.
 
 
 # Abschnitt 5 – Schlussbestimmungen
 
 ### § XXX Übergangsbestimmungen
 
-Sofern nichts anderes bestimmt wird, sind Änderungen der Regelungen in § XXX und in Anlage 1 stets erst auf Anträge anzuwenden, die für Semester gestellt werden, welche nach dem Semester liegen, in dem die Änderungen bekannt gemacht werden.
+(1) Sofern nichts anderes bestimmt wird, sind Änderungen der Regelungen in § XXX und in Anlage 1 stets erst auf Anträge anzuwenden, die für Semester gestellt werden, welche nach dem Semester liegen, in dem die Änderungen bekannt gemacht werden.
+
+(2) Fachschaften, denen in den Semestern vor dem Wintersemester 2021/22
+bewilligte Besondere Fachschaftengelder (BFSG) noch nicht ausgezahlt wurden,
+können die Auszahlung dieser Gelder bis Ende des Sommersemesters 2025
+erwirken, sofern sie auszahlungsfähig sind.
+
 
 
 ### § XXX Inkrafttreten
@@ -587,183 +641,210 @@ frühestens aber mit Inkrafttreten der 9. Änderungssatzung zur Satzung der Stud
 
 ### 1. Allgemeine Regelungen
 
-(1) Für Jährliche Maximalbeträge beginnt der Berechnungszeitraum mit dem
+(1) Für jährliche Maximalbeträge beginnt der Berechnungszeitraum mit dem
 Wintersemester (1. Oktober) und endet mit dem Sommersemester (30. September).
-  
-(2) Die Semester erstrecken sowohl über die Vorlesungszeit, als auch
-über die darauf folgende vorlesungsfreie Zeit.
-  
-(3) Anträgen sind mit den vom Fachschaftenkollektiv bereitgestellten,
-vollständig ausgefüllten Antragsformularen einzureichen. Die
-Einreichung erfolgt digital per E-Mail.
 
-(4) Allen Anträgen müssen die folgendem Dokumente beigefügt werden:
+(2) Die Semester erstrecken sich sowohl über die Vorlesungszeit als auch über die
+darauffolgende vorlesungsfreie Zeit.
 
-1. tabellarische Kostenkalkulation
-2. **Kopien** aller Rechnungen
-3. Ein Arbeitsbericht. Der Arbeitsbericht muss dokumentieren, welche Awareness-
-   Maßnahmen getroffen wurden. Bei der Teilnahme an einer BuFaTa gemäß 3. e sollen
-   die Awareness-Maßnahmen der BuFaTa geschildert werden.
-4. Ein Nachhaltigkeitsbericht. Der Nachhaltigkeitsberich muss dokumentieren, welche
-   Nachhaltigkeits-Maßnahmen getroffen wurden. Bei der Teilnahme an einer BuFaTa
-   gemäß 3. e sollen die Nachhaltigkeits-Maßnahmen der BuFaTa geschildert werden.
-   Der Nachhaltigkeitsbericht sollte die Handreichung für nachhaltige studentische
-   Veranstaltungen und Fachschaften an der Universität Bonn und den Leitfaden zur
-   Kompensation nicht vermeidbarer Treibhausgasemissionen des AStA berücksichtigen.
+(3) Anträge sind mit den vom Fachschaftenkollektiv bereitgestellten, vollständig
+ausgefüllten Antragsformularen einzureichen. Die Einreichung soll digital per E-
+Mail erfolgen.
+
+(4) Allgemeine Anschaffungen, die der Fachschaft erwartungsgemäß über den
+Rahmen einzelner Veranstaltungen hinaus zur Verfügung stehen, wie z.B.
+Mikrofone, Audioboxen und Banner, sind über den Posten Sachmittel zu
+beantragen. Fachschaftskleidung ist hiervon ausgenommen.
+
+(5) Allen Anträgen müssen die folgenden Dokumente beigefügt werden:
+
+1. Tabellarische Kostenkalkulation mit allen Einnahmen und Ausgaben im
+Zusammenhang mit der Maßnahme.
+2. Kopien aller Rechnungen. Besteht kein Anspruch auf eine Rechnung ist ein
+angemessener Nachweis zu erbringen.
+3. Ein Arbeitsbericht in dem die Hintergründe und der Ablauf der Maßnahme
+beschrieben werden. Dieser muss, wo nicht Gegenteiliges festgelegt ist, einen
+Awarenessbericht enthalten. Der Awarenessbericht muss erläutern, ob es ein
+Awarenesskonzept gab, wenn es eines gab, wie es ausgesehen hat, und, ob es
+Vorfälle gab. Bei der Teilnahme an einer Fachschaftentagung (z.B. BuFaTa)
+gemäß 3. e sollen die Awareness-Maßnahmen der Fachschaftentagung geschildert
+werden.
+4. Ein Nachhaltigkeitsbericht. Der Nachhaltigkeitsbericht muss dokumentieren,
+welche Nachhaltigkeits-Maßnahmen getroffen wurden. Bei der Teilnahme an
+einer Fachschaftentagung (z.B. BuFaTa) gemäß 3. e sollen die Nachhaltigkeits-
+Maßnahmen der Fachschaftentagung geschildert werden. Der
+Nachhaltigkeitsbericht sollte die Handreichung für nachhaltige studentische
+Veranstaltungen und Fachschaften an der Universität Bonn und den Leitfaden zur
+Kompensation nicht vermeidbarer Treibhausgasemissionen des Allgemeinen
+Studierendenausschusses (AStA) berücksichtigen.
+5. Bei Veranstaltungen, Fahrten und Exkursionen zudem ein Programm. Bei
+Fahrten und Exkursionen außerdem eine Teilnehmerliste mit Unterschriften aller
+Teilnehmenden. Bei Druckwerken die entsprechende Bebilderung oder ein
+Belegexemplar. Sowie alle weiteren, unter den jeweiligen Punkten geforderten,
+Unterlagen.
 
 ### 2. Veranstaltungen
 
-Insgesamt können maximal **3000 € im Jahr** für Veranstaltungen
-beantragt werden.
+Insgesamt können maximal 4000 € im Jahr für Veranstaltungen beantragt
+werden.
 
-|   | Titel                       | Höchstsatz                       |
-|---|-----------------------------|----------------------------------|
-| a | Erstsemesterarbeit          | 1000 € pro Semester              |
-|   |                             | davon für Verpflegung max. 500 € |
-| b | Inhaltliche Veranstaltungen | 700 € pro Veranstaltung          |
-
+|  | Titel | Höchstsatz |
+|--|-------|------------|
+|a | Erstsemesterarbeit | 1200 € pro Semester |
+|b | Inhaltliche Veranstaltungen | 800 € pro Veranstaltung|
 
 #### 2.1 Anmerkungen
 
-Anträgen muss zusätzlich das Veranstaltungsprogramm beigefügt werden.
+1. Dem Antrag muss ein Veranstaltungsprogramm beigefügt werden.
+2. Veranstaltungen sollen in Bonn stattfinden. Abweichungen sind zu begründen.
 
 ##### 2.1.1 Erstsemesterarbeit
 
-1. Veranstaltungen müssen im zeitlichen Zusammenhang zum
-   Semesterbeginn/Einschreibung (ca. 1 Monat) stehen.
-2. Im Sommersemester ist das Vorhandensein von Erstsemestern
-   nachzuweisen.
-3. Verpflegung ist nur bis zum angegebenen Höchstbetrag förderbar.
-   Alkohol wird nicht erstattet.
+1. Veranstaltungen müssen im zeitlichen Zusammenhang zum Semesterbeginn/
+Einschreibung (ca. 1 Monat) stehen.
+2. Verpflegung ist im Rahmen des Höchstbetrags förderbar. Alkohol wird nicht
+erstattet.
 
 ##### 2.1.2 Inhaltliche Veranstaltungen
 
-Der Posten inhaltliche Veranstaltungen dient der Förderung von
-Veranstaltungen, die der fachlichen und allgemeinen Bildung der
-Mitglieder der Fachschaft dienen. Zur Förderung sollte die Veranstaltung
-die folgenden Voraussetzungen erfüllen:
+1. Der Posten inhaltliche Veranstaltungen dient der Förderung von
+Veranstaltungen, die der fachlichen und allgemeinen Bildung der Mitglieder der
+Fachschaft dienen. Zur Förderung sollte die Veranstaltung die folgenden
+Voraussetzungen erfüllen:
 
-1. Sie bietet Vorteile für das Studium in Form von Fachinformationen
-   oder -methoden.
-2. Die Veranstaltung hat eine formelle Struktur und ein Programm.
-3. Sie dient der strukturierten Weitergabe von akademischen
-   Informationen, z.B. in Form eines Vortrags oder es besteht ein
-   organisiertes Debattenformat, z.B. in Form einer Podiumsdiskussion.
+    1. Sie bietet Vorteile für das Studium oder die berufliche Zukunft.
+    2. Die Veranstaltung hat eine formelle Struktur und ein Programm.
+    3. Sie dient der strukturierten Weitergabe von akademischen Informationen,
+    z.B. in Form eines Vortrags oder es besteht ein organisiertes Konferenz-,
+    Austausch- oder Debattenformat, z.B. in Form einer Podiumsdiskussion.
 
-Nicht als inhaltlich förderbar sind solche Veranstaltungen, die in ihrer
-Natur vordergründig dem sozialen Austausch der Teilnehmer untereinander
-dienen, zum Beispiel:
-
-1. Brettspieleabende, Paintball, Veranstaltungen mit dem Ziel sich zu
-   betrinken, Partys, Bälle, (saisonale) Feiern
-2. Verpflegung und Alkohol sind nicht förderbar
+2. Nicht als inhaltlich förderbar sind solche Veranstaltungen, die vorwiegend
+einen hohen Alkoholkonsum erwarten lassen.
+3. Verpflegung und Alkohol sind nicht förderbar.
 
 ### 3. Allgemeine Fahrten
 
-Insgesamt können maximal **5000 € im Jahr** für Allgemeine Fahrten
-beantragt werden. Es können je Person und Tag **maximal 50 €** beantragt
-werden.
+Insgesamt können maximal 5000 € im Jahr für Allgemeine Fahrten beantragt
+werden. Es können je Person und Tag maximal 50 € beantragt werden.
 
-|   | Titel               | Höchstsatz                   |
-|---|---------------------|------------------------------|
-| c | Erstsemesterfahrten | bis zu 30 Teilnehmer: 1000 € |
-|   |                     | bis zu 50 Teilnehmer: 1100 € |
-|   |                     | über 50 Teilnehmer: 1200 €   |
-| d | Klausurfahrten      | bis zu 10 Teilnehmer: 600 €  |
-|   |                     | bis zu 30 Teilnehmer: 800 €  |
-|   |                     | über 30 Teilnehmer: 1100 €   |
-| e | BuFaTa              | 1000 €                       |
-
+|  | Titel | Höchstsatz |
+|--|-------|------------|
+|c |Erstsemesterfahrten | bis zu 30 Teilnehmende: 1000 € |
+|  |                    | bis zu 50 Teilnehmende: 1100 € |
+|  |                    | über 50 Teilnehmende: 1200 € |
+|d | Klausurfahrten | bis zu 10 Teilnehmende: 600 € |
+|  |                | bis zu 30 Teilnehmende: 800 € |
+|  |                | über 30 Teilnehmende: 1100 € |
+|e | Fachschaftentagung | 1000 € |
 
 #### 3.1 Anmerkungen
 
-1. Dem Antrag muss eine Teilnahmeliste mit Unterschriften aller
-   Teilnehmenden beigefügt werden.
-2. Anträge für Fahrten ins Ausland bedürfen einer Vorankündigung.
+1. Dem Antrag muss eine Teilnehmerliste mit Unterschriften aller
+Teilnehmenden beigefügt werden.
+2. Anträge mit Zielen außerhalb des Schengen-Raumes bedürfen einer
+Vorankündigung.
 3. Verpflegung und Alkohol sind nicht förderbar.
 
-##### 3.1.1 Erstsemesterfahrt
+##### 3.1.1 Erstsemesterfahrten
 
-1. Eine Erstsemesterfahrt soll sich gezielt an Erstsemester richten.
-   Der Anteil an Nicht-Studienanfängern soll 30 % nicht überschreiten,
-   sofern dies mehr als 5 Teilnehmende sind.
-2. Erstsemester im Sinne dieser Ordnung sind alle Studierende, die in
-   mindestens einem Studiengang noch nicht länger als ein Studienjahr
-   an der RFWU Bonn eingeschrieben sind.
+1. Eine Erstsemesterfahrt soll sich gezielt an Erstsemester richten. Der Anteil an
+Nicht-Erstsemestern soll 30 % nicht überschreiten, sofern dies mehr als 5
+Teilnehmende sind.
+2. Erstsemester im Sinne dieser Ordnung sind alle Studierenden, die in
+mindestens einem Studiengang noch nicht länger als ein Studienjahr an der
+RFWU Bonn eingeschrieben sind.
 3. Verpflegung und Alkohol sind nicht förderbar.
 
 ##### 3.1.2 Klausurfahrten
 
-1. Fahrt für aktive Fachschaftsmitglieder, um gezielt an fachschafts-
-   bezogenen Themen zu arbeiten
-
-2. Klausurfahrten sollen regional im Umkreis zu Bonn stattfinden. (\< 100 km Entfernung)
-
+1. Fahrt für aktive Fachschaftsmitglieder, um gezielt an fachschaftsbezogenen
+Themen zu arbeiten.
+2. Klausurfahrten sollen regional im Umkreis zu Bonn stattfinden. (< 100 km
+Entfernung). Beträchtlich weitere Fahrten (> 120 km) müssen begründet werden.
+Die Entfernung ergibt sich aus der Luftlinie zwischen dem Hauptgebäude der
+RFWU Bonn und der Unterkunft.
 3. Verpflegung und Alkohol sind nicht förderbar.
 
-##### 3.1.3 Teilnahme BuFaTa
+##### 3.1.3 Teilnahme Fachschaftentagung
 
 Teilnahme an landes-, bundes-, europa- oder weltweiten
-Fachschaftsversammlungen
+Fachschaftentagungen.
 
 ### 4. Exkursionen
 
-Insgesamt können maximal **2000 € im Jahr** für Exkursionen beantragt
-werden.
+Insgesamt können maximal 2500 € im Jahr für Exkursionen beantragt werden. Es
+können je Person und Tag maximal 75 € beantragt werden.
 
-|   | Titel          | Höchstsatz                  |
-|---|----------------|-----------------------------|
-| f | Bildungsfahrt  | bis zu 20 Teilnehmer: 800 € |
-|   |                | bis zu 50 Teilnehmer: 900 € |
-|   |                | über 50 Teilnehmer: 1000 €  |
-| g | Tagesexkursion | bis zu 20 Teilnehmer: 100 € |
-|   |                | bis zu 50 Teilnehmer: 250 € |
-|   |                | über 50 Teilnehmer: 500 €   |
+|  | Titel | Höchstsatz |
+|--|-------|------------|
+|f | Bildungsfahrten | bis zu 20 Teilnehmende: 800 € |
+|  |                 | bis zu 50 Teilnehmende: 900 € |
+|  |                 | über 50 Teilnehmende: 1000 € |
+|g | Tagesexkursionen | 10 € je Teilnehmenden |
+|  |                  | max. 500 € |
 
 #### 4.1 Anmerkungen
 
-Dem Antrag muss zusätzlich beigefügt werden:
+1. Dem Antrag müssen ein Veranstaltungsprogramm und eine Teilnehmerliste
+mit Unterschriften aller Teilnehmenden beigefügt werden.
+2. Anträge mit Zielen außerhalb des Schengen-Raumes bedürfen einer
+Vorankündigung.
+3. Verpflegung und Alkohol sind nicht förderbar.
 
-1. Programm der Fahrt/Exkursion
-2. Teilnahmeliste mit Unterschriften aller Teilnehmenden
+##### 4.1.1 Bildungsfahrten
 
-##### 4.2 Bildungsfahrt
-
-1. mehrtägige Exkursion mit Fachbezug, offen für die gesamte Fachschaft
+1. Mehrtägige Exkursionen mit Fachbezug, offen für die gesamte Fachschaft
 2. Verpflegung und Alkohol sind nicht förderbar.
 
-##### 4.3 Tagesexkursion
+##### 4.1.2 Tagesexkursionen
 
-1. eintägige Exkursion mit Fachbezug, offen für die gesamte Fachschaft
+1. Eintägige Exkursionen mit Fachbezug, offen für die gesamte Fachschaft
 2. Verpflegung und Alkohol sind nicht förderbar.
+
 
 ### 5. Sonstiges
 
-|   | Titel                  | Höchstsatz                     |
-|---|------------------------|--------------------------------|
-| h | Computer und Zubehör   | 400 € pro Jahr                 |
-| i | Ausrichtung BuFaTa     | 2000 € pro BuFaTa              |
-| j | Fachschaftskleidung    | 200 € pro Jahr                 |
-| k | Fachschaftsneugründung | AFsG-Sockelsatz, i.d.R. 1000 € |
-| l | Schulungen             | 400 € pro Jahr                 |
+|  | Titel | Höchstsatz |
+|--|-------|------------|
+|h | Sachmittel | 500 € pro Jahr |
+|i | Ausrichtung Fachschaftentagung | 2500 € pro BuFaTa |
+|j | Fachschaftskleidung | 400 € pro Jahr |
+|k | Fachschaftsneugründung | 2000 € |
+|l | Schulungen | 500 € pro Jahr |
 
 #### 5.1 Anmerkungen
 
-##### 5.1.1 Computer und Zubehör
+##### 5.1.1 Sachmittel
 
-Reparatur oder Kauf von EDV-Geräten, kein alltäglicher Bürobedarf
-wie Druckerpatronen
+1. Reparatur oder Kauf von elektronischen Datenverarbeitungsgeräten (EDV-
+Geräten), grundlegendes Fachschaftsraummobiliar sowie Anschaffungen zur
+Repräsentation der Fachschaft bei Veranstaltungen, wie z.B. Banner.
+2. Kein alltäglicher Bürobedarf wie Druckerpatronen.
+3. Von einem Awarenessbericht kann abgesehen werden. Es ist aber auf Anfrage
+eine Stellungnahme nachzureichen.
 
-##### 5.1.2 Ausrichtung BuFaTa
+##### 5.1.2 Ausrichtung Fachschaftentagung
 
-Ausrichtung sowie Vor- und Nachbereitung von landes-, bundes-,
-europa- oder weltweiten Fachschaftsversammlungen in Bonn.
+1. Ausrichtung sowie Vor- und Nachbereitung von landes-, bundes-, europa-
+oder weltweiten Fachschaftsversammlungen in Bonn.
+2. Alkohol wird nicht erstattet.
+3. Es ist ein Awarenesskonzept zu erarbeiten und allen teilnehmenden
+Fachschaften bekannt zu machen.
 
-##### 5.1.3 Fachschaftsneugründung
+##### 5.1.3 Fachschaftskleidung
 
-Maßgeblich ist die Aufnahme in die Fachschaftenliste (Anhang Fachschaftenliste FKGO).
+Von einem Awarenessbericht kann abgesehen werden. Es ist aber auf Anfrage
+eine Stellungnahme nachzureichen.
 
-##### 5.1.4 Schulungen
+##### 5.1.4 Fachschaftsneugründung
 
-Fortbildende Maßnahmen, die im unmittelbaren Zusammenhang mit der Fachschaftsarbeit stehen, wie etwa
-Erste-Hilfe-Kurse oder Schulungen für Awarenessmaßnahmen.
+1. Maßgeblich ist die Aufnahme in die Fachschaftenliste (Anlage
+„Fachschaftenliste“ zur FKGO).
+2. Von einem Awarenessbericht kann abgesehen werden. Es ist aber auf Anfrage
+eine Stellungnahme nachzureichen.
+
+##### 5.1.5 Schulungen
+
+Fortbildende Maßnahmen, die im unmittelbaren Zusammenhang mit der
+Fachschaftsarbeit stehen, wie etwa Erste-Hilfe-Kurse oder Schulungen für
+Awarenessmaßnahmen.
