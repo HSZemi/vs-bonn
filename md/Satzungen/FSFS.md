@@ -43,10 +43,10 @@ wichtige Fachschaftsbelange gesondert gefördert.
 regeln die §§ XXX, XXX, XXX. Die Auszahlungen werden durch den Vorsitz des FSK
 oder seine zeichnungsberechtigte Stellvertretung angewiesen.
 
-(4) Antragsberechtigt sind die Fachschaften der RFWU Bonn.
+(4) Antragsberechtigt sind die Fachschaftsräte der RFWU Bonn.
 
 (5) Die Finanzanträge und die Dokumente einer Fachschaft dürfen im FSK nicht von einer
-Person mit gleicher Fachschaftszugehörigkeit geprüft oder angewiesen werden.
+Person mit gleicher Fachschaftszugehörigkeit abschließend geprüft oder angewiesen werden.
 
 (6) Zuweisungen an eine Fachschaft werden ausschließlich auf ein Bankkonto 
 ausgezahlt, welches auf die Fachschaft selbst eingetragen ist.
@@ -170,7 +170,7 @@ nachzuweisen.
 (2) Beginn und Ende des Haushaltsjahres einer Fachschaft werden in ihrer Fachschaftssatzung festgelegt.
 Er soll entweder der Zeitraum "1. April eines Jahres bis 31. März des Folgejahres" oder der Zeitraum "1. Oktober eines Jahres bis 30. September des Folgejahres" festgelegt werden.
 
-(3) Ändert eine Fachschaft den Zeitraum ihres Haushaltsjahres, so dies durch Einschub eines verkürzten Haushaltsjahres umzusetzen, dessen Dauer in einer Übergangsbestimmung festzuhalten ist.
+(3) Ändert eine Fachschaft den Zeitraum ihres Haushaltsjahres, so ist dies durch Einschub eines verkürzten Haushaltsjahres umzusetzen, dessen Dauer in einer Übergangsbestimmung festzuhalten ist.
 
 
 ### § XXX Haushaltsplan
@@ -195,7 +195,7 @@ Er kann nicht mehr nach Ende des Haushaltsjahres beschlossen werden.
     c) Betrag des Titels im aktuellen Haushaltsplan
     d) Betrag des Titels im gültigen Haushaltsplan des letzten Haushaltsjahres
     e) Betrag des Titels in der Haushaltsrechnung des vorvergangenen Haushaltsjahres
-8. Optional Haushaltsvermerke, insbesondere:
+7. Optional Haushaltsvermerke, insbesondere:
     a) Die Kopplung von bestimmten Einnahmen- und Ausgabentiteln, was bedeutet, dass Mehreinnahmen im Einnahmentitel Mehrausgaben im Ausgabentitel in gleicher Höhe erlauben sowie Mindereinnahmen im Einnahmentitel die erlaubten Ausgaben im Ausgabentitel um dieselbe Summe verringern.
     b) Die Verstärkung von bestimmten Einnahmen- und Ausgabentiteln, was bedeutet, dass Mehreinnahmen im Einnahmentitel Mehrausgaben im Ausgabentitel in gleicher Höhe erlauben.
     c) Die Deckungsfähigkeit von Ausgabentiteln, was bedeutet, dass Minderausgaben in Titeln Mehrausgaben in den anderen Titeln in derselben Höhe erlauben.
@@ -214,7 +214,7 @@ Der Betrag eines Obertitels ist die Summe der Beträge seiner Untertitel.
 Als Entnahme aus der Rücklage ist derselbe Betrag vorzusehen, welcher im Vorjahr als Überführung in die Rücklage vorgesehen ist.
 Überschuss bzw. Fehlbetrag aus dem vorherigen Haushaltsjahr sind bei Aufstellung des Haushaltsplans sorgfältig zu schätzen.
 
-(5) Der deklarative Teil des Haushaltsplans besteht aus den in Absatz 3 aufgeführten Punkten 3, 6b, 6c, 8a, 8b, 8c sowie 6a, sofern sich ein Haushaltsvermerk darauf bezieht.
+(5) Der deklarative Teil des Haushaltsplans besteht aus den in Absatz 3 aufgeführten Punkten 3, 6a, 6b, 6c, 7a, 7b und 7c.
 Die übrigen Bestandteile sind informativer Natur.
 Änderungen und Korrekturen am deklarativen Teil eines Haushaltsplans bedürfen eines Nachtragshaushaltsplans.
 Insbesondere ein nicht ausgeglichener Haltsplan muss durch einen Nachtragshaushaltsplan korrigiert werden.
@@ -232,14 +232,20 @@ Existiert kein solcher, sind die Regeln zur vorläufigen Haushaltsführung anzuw
 
 (1) Grundlage für die Haushaltsführung vor Inkrafttreten des Haushaltsplans (vorläufige Haushaltsführung) ist der gültige Haushaltsplan des Vorjahres; von jenen Beträgen darf für jeden Monat der vorläufigen Haushaltsführung ein Zwölftel in Anspruch genommen werden.
 
-(2) Sieht der Entwurf des Haushaltsplans niedrigere Beträge gegenüber den Beträgen des Vorjahres vor, so ist bei der vorläufigen Haushaltsführung von diesen auszugehen.
+(2) Sieht der Entwurf des Haushaltsplans der Finanzreferentin niedrigere Beträge gegenüber den Beträgen des Vorjahres vor, so ist bei der vorläufigen Haushaltsführung von diesen auszugehen.
 
 
 ### § XXX Nachtragshaushaltsplan
 
 (1) Ein Nachtragshaushaltsplan ersetzt einen bestehenden Haushaltsplan oder Nachtragshaushaltsplan für ein Haushaltsjahr.
 
-(2) Für einen Nachtragshaushaltsplan gelten alle Regeln, die auch für den Haushaltsplan gelten, mit folgenden Abweichungen:
+(2) Änderungen des Nachtragshaushaltsplans im Vergleich zum Haushaltsplan, der durch den Nachtragshaushaltsplan ersetzt wird, sind farblich hervorzuheben.
+
+(3) Überschuss bzw. Fehlbetrag aus dem vorherigen Haushaltsjahr sind mit den tatsächlichen Beträgen festzulegen, sofern das vorherige Haushaltsjahr bereits geendet hat.
+
+(4) Weicht der tatsächliche Überschuss bzw. Fehlbetrag aus dem vorherigen Haushaltsjahr um mehr als 100 € vom im Haushaltsplan veranschlagten Betrag ab, so ist unverzüglich ein Nachtragshaushaltsplan zu erstellen und zu beschließen.
+
+(5) Für einen Nachtragshaushaltsplan gelten alle Regeln, die auch für den Haushaltsplan gelten, mit folgenden Abweichungen:
 
 1. Das Dokument wird als Nachtragshaushaltsplan betitelt. Weitere Nachtragshaushaltspläne werden als 2. Nachtragshaushaltsplan, 3. Nachtragshaushaltsplan usw. betitelt.
 2. Die Einnahmen- und Ausgabenseite enthalten jeweils Spalten für:
@@ -247,10 +253,12 @@ Existiert kein solcher, sind die Regeln zur vorläufigen Haushaltsführung anzuw
     b) den Haushaltsplan, der durch diesen Nachtragshaushaltsplan ersetzt wird
     c) die neueste vorhandene Haushaltsrechnung
 3. Statt des Betrags des Titels im aktuellen Haushaltsplan gehört der Betrag des Titels im aktuellen Nachtragshaushaltsplan zum deklarativen Teil des Nachtragshaushaltsplans
+4. Für die Gültigkeit eines Nachtragshaushaltsplans ist zusätzlich die Einhaltung von Absatz 2 und 3 notwendig
 
-(3) Änderungen des Nachtragshaushaltsplans im Vergleich zum Haushaltsplan, der durch den Nachtragshaushaltsplan ersetzt wird, sollen farblich hervorgehoben werden.
 
-(4) Überschuss bzw. Fehlbetrag aus dem vorherigen Haushaltsjahr sind mit den tatsächlichen Beträgen festzulegen, sofern das vorherige Haushaltsjahr bereits geendet hat.
+### § XXX Buchführung
+
+*Hey Luc mach mal*
 
 
 ### § XXX Buchung von Rücklage, Überschuss und Fehlbetrag
