@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Informatik
-date:  8. Januar 2025
+date:  7. Mai 2025
 type:  Satzung
 id:    FSSatzungInformatik
 contains:
@@ -83,6 +83,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  8. Januar 2025
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2025/vsbonn_bekanntmachung_2025-02.pdf
+  ref: 5d26ce068ed1612e3c031ab0f790ac6dc804fcc3/md/Satzungen/Fachschaften/FSSatzungInformatik.md
+- title: Zehnte Satzung zur Änderung der Satzung der Fachschaft Informatik
+  short: Zehnte Satzung zur Änderung der Satzung der Fachschaft Informatik
+  actorgan: Fachschaftsvertretung Fachschaft Informatik
+  actdate:  26. März 2025
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  7. Mai 2025
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2025/vsbonn_bekanntmachung_2025-16.pdf
   ref: HEAD/md/Satzungen/Fachschaften/FSSatzungInformatik.md
 ---
 
@@ -247,6 +255,11 @@ Die normalen Ladungsfristen sind zu wahren.
 
 (7) FSV-Beschlüsse der laufenden Sitzungsperiode können durch Beschluss mit einer Zweidrittelmehrheit der gewählten Mitglieder der FSV aufgehoben werden.
 
+(8) Die FSV darf in ihrer Geschäftsordnung festlegen, dass Beschlüsse im Umlauf
+gefasst werden können. Sofern keine Widerspruchsregelung festgelegt wird,
+gelten für Umlaufbeschlüsse dieselben oder schärfere Anforderungen bezüglich
+Mehrheiten.
+
 ### § 10 Ausschüsse der FSV
 
 (1) Die FSV wählt die Mitglieder des Wahlausschusses sowie den Wahlleiter mit einfacher Mehrheit. Näheres
@@ -380,6 +393,11 @@ Die normalen Ladungsfristen sind zu wahren.
 
 (6) FSR-Beschlüsse der laufenden Sitzungsperiode können durch Beschluss mit einer 
 Zweidrittelmehrheit der gewählten Mitglieder des FSR aufgehoben werden. 
+
+(8) Der FSR darf in seiner Geschäftsordnung festlegen, dass Beschlüsse im Umlauf
+gefasst werden können. Sofern keine Widerspruchsregelung festgelegt wird,
+gelten für Umlaufbeschlüsse dieselben oder schärfere Anforderungen bezüglich
+Mehrheiten.
 
 ## III. Die Fachschaftsvollversammlung (FSVV) 
 
