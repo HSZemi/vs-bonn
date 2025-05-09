@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftsvertretung der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Geschäftsordnung der Fachschaftsvertretung der Fachschaft Informatik
-date:  13. März 2024
+date:  7. Mai 2025
 type:  Ordnung
 id:    GO-FSV-Informatik
 contains:
@@ -36,6 +36,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  13. März 2024
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-10.pdf
+  ref: 16a65e321e07330cbbd286098f0ab0bca84884e4/md/Ordnungen/Fachschaften/GO-FSV-Informatik.md
+- title: Vierte Ordnung zur Änderung der Geschäftsordnung der Fachschaftsvertretung der Fachschaft Informatik
+  short: Vierte Ordnung zur Änderung der Geschäftsordnung der Fachschaftsvertretung der Fachschaft Informatik
+  actorgan: Fachschaftsvertretung Fachschaft Informatik
+  actdate:  26. März 2025
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  7. Mai 2025
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2025/vsbonn_bekanntmachung_2025-15.pdf
   ref: HEAD/md/Ordnungen/Fachschaften/GO-FSV-Informatik.md
 
 ---
@@ -112,7 +120,10 @@ des Protokolls.
 
 (6) (aufgehoben)
 
-(7) Korrekturen sollen bis zur nächsten Sitzung ins Protokoll eingearbeitet werden.
+(7) Korrekturen sollen bis zur Genehmigung des Protokolls ins Protokoll
+eingearbeitet werden. Im Fall einer Genehmigung im Umlaufverfahren dürfen
+keine Änderungen zwischen dem Beginn und dem Ende des Umlaufverfahrens
+eingearbeitet werden.
 
 (8) Das Protokoll soll auf der folgenden Sitzung genehmigt und im Anschluss versandt werden.
 Der öffentliche Teil wird an eine öffentliche Mailingliste und an die interne Mailingliste
@@ -122,6 +133,17 @@ Protokoll wird außerdem im Fachschaftsbüro zur Einsicht aufbewahrt.
 (9) Das fachschaftsöffentliche Protokoll kann vor der Genehmigung über die interne Mailingliste
 versandt werden.
 
+(10) Die FSV kann die Genehmigung von Protokollen rechtmäßig im Umlauf
+beschließen. Ein Umlaufverfahren wird durch das FSV-Präsidium eingeleitet.
+Für die Genehmigung eines Protokolls im Umlauf muss eine Frist von
+mindestens 5 Tagen gesetzt werden und der Antrag auf Protokollgenehmigung
+muss allen Mitgliedern der FSV per E-Mail zugetragen werden. Widerspricht ein
+Mitglied dem Umlaufverfahren innerhalb der Frist, kann das Protokoll nicht im
+Umlauf genehmigt werden und der Antrag auf Protokollgenehmigung wird auf
+die nächste Sitzung der FSV verschoben. Ist mit dem Widerspruch eine
+Korrekturanmerkung an das Protokoll verbunden, darf abweichend vom
+vorherigen Satz ein neues Umlaufverfahren eingeleitet werden. Widerspricht
+kein Mitglied der FSV innerhalb der Frist, ist der Antrag angenommen.
 
 ### § 5 Sprache
 
