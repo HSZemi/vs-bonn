@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Biologie
 short: Satzung der Fachschaft Biologie
-date:  4. August 2021
+date:  14. Mai 2025
 type:  Satzung
 id:    FSSatzungBiologie
 contains:
@@ -12,10 +12,19 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  4. August 2021
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-43.pdf
+  ref: fc31207c2c0c3cec06fbcabdb263eaabc236ef55/md/Satzungen/Fachschaften/FSSatzungBiologie.md
+- title: Satzung der Fachschaft Biologie der Mathematisch-Naturwissenschaftlichen Fakultät der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: Satzung der Fachschaft Biologie
+  actorgan: Fachschaftsvertretung Fachschaft Biologie
+  actdate:  29. April 2025
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  14. Mai 2025
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2025/vsbonn_bekanntmachung_2025-19.pdf
+  ref: HEAD/md/Satzungen/Fachschaften/FSSatzungBiologie.md
 
 ---
 
-# Abschnitt A Die Fachschaft
+# Abschnitt A – Die Fachschaft
 
 ### § 1 Begriffsbestimmung und Rechtsstellung
 
@@ -70,7 +79,7 @@ Vertreten die Studierenden ihrer Fachbereiche gegenüber des Lehrkörpers, den G
 und den übrigen Gremien der Studierendenschaft.
 
 
-# Abschnitt B Die Organe der Fachschaft
+# Abschnitt B – Die Organe der Fachschaft
 
 ## I. Die Fachschaftsvertretung (FSV)
 
@@ -81,18 +90,17 @@ Die FSV ist das oberste beschlussfassende Organ der Studierendenschaft im Fachbe
 
 ### § 5 Zusammensetzung und Zusammentritt der FSV
 
-(1) Die FSV besteht aus x [x bestimmt sich nach § 27 I Satzung der Studierendenschaft] Mitglieder.
+(1) Die FSV besteht aus x \[x bestimmt sich nach § 27 I Satzung der Studierendenschaft\] Mitglieder.
 
 (2) Sie tritt regelmäßig im Semester zusammen. Für die Einladung zu einer FSV-Sitzung gilt die
 Schriftform. Die in der Biologie vorgesehene Form, ist die elektronische Schriftform.
 
-(3) Die Mitglieder der FSV sind grundsätzlich verpflichtet, an den Sitzungen teilzunehmen, sofern sie
-nicht begründet entschuldigt sind. Der Ermessenspielraum dessen wird von der Fachschaftsvertretung
-bestimmt. Bei begründetem Fehlen muss eine Abmeldung über den vorgesehenen elektronischen Weg,
-spätestens 30min vor Beginn der Sitzung eintreffen. Sollte diese Abmeldung nicht zum vorgesehenen
-Zeitpunkt eintreffen, muss das nicht abgemeldete FSV-Mitglied bis zur nächstmöglichen Sitzung eine
-gebackene Verzehrmöglichkeit mitbringen. Zu dem Inhalt nicht öffentlicher Beratungen ist Stillschweigen
-zu bewahren.
+(3) Die Mitglieder der FSV sind grundsätzlich verpflichtet, an den Sitzungen teilzunehmen, sofern sie nicht
+begründet entschuldigt sind. Der Ermessenspielraum dessen wird von der Fachschaftsvertretung bestimmt.
+Bei begründetem Fehlen muss eine Abmeldung über den vorgesehenen elektronischen Weg, spätestens
+30min vor Beginn der Sitzung eintreffen. Sollte diese Abmeldung nicht zum vorgesehenen Zeitpunkt
+eintreffen, muss das nicht abgemeldete FSV-Mitglied bis zur nächstmöglichen Sitzung eine gebackene
+Verzehrmöglichkeit mitbringen. Zu dem Inhalt nicht öffentlicher Beratungen ist Stillschweigen zu bewahren.
 
 (4) Zu einzelnen Tagesordnungspunkten kann die FSV die Öffentlichkeit ausschließen.
 
@@ -127,18 +135,20 @@ Ausschusses.
 
 (4) Die FSV wählt den Wahlausschuss.
 
-(5) Die FSV beschließt über den Haushaltsplan.
+(5) Die FSV wählt den Awarenessausschuss.
 
-(6) Die FSV beschließt mit der Mehrheit ihrer satzungsmäßigen Mitglieder die Entlastung des FSR. Die
-finanzielle Entlastung kann nicht verweigert werden, wenn die Kassenprüfung keine Ungenauigkeiten
-ergibt. Die Entlastung muss von einem Mitglied der FSV beantragt werden. Finanzielle Entlastung kann auch
-von den Kassenprüfenden beantragt werden. Auf Antrag eines Mitglieds der FSV muss eine
-Einzelentlastung durchgeführt werden.
+(6) Die FSV beschließt über den Haushaltsplan.
 
-(7) Sofern sie keiner Geschäftsordnung unterliegt, gilt für die FSV, soweit anwendbar, die
+(7) Die FSV beschließt mit der Mehrheit ihrer satzungsmäßigen Mitglieder die Entlastung des FSR. Die
+finanzielle Entlastung kann nicht verweigert werden, wenn die Kassenprüfung keine Ungenauigkeiten ergibt.
+Die Entlastung muss von einem Mitglied der FSV beantragt werden. Finanzielle Entlastung kann auch von den
+Kassenprüfenden beantragt werden. Auf Antrag eines Mitglieds der FSV muss eine Einzelentlastung
+durchgeführt werden.
+
+(8) Sofern sie keiner Geschäftsordnung unterliegt, gilt für die FSV, soweit anwendbar, die
 Geschäftsordnung des Studierendenparlaments, entsprechend.
 
-(8) Die unter §7 Abs. 2 aufgeführte Aufgabe ist in der Biologie nicht vorgesehen.
+(9) Die unter §7 Abs. 2 aufgeführte Aufgabe ist in der Biologie nicht vorgesehen.
 
 
 ### § 8 Das Präsidium der FSV und seine Aufgaben
@@ -146,14 +156,14 @@ Geschäftsordnung des Studierendenparlaments, entsprechend.
 (1) Das Präsidium besteht aus dem/der Vorsitzenden und einer Stellvertretung, einem/einer
 Schriftführer\*in und einer Stellvertretung.
 
-(2) Alle Mitglieder des Präsidiums müssen FSV-Mitglieder sein und werden einzeln in nicht geheimer
-Wahl in der konstituierenden Sitzung gewählt.
+(2) Alle Mitglieder des Präsidiums müssen FSV-Mitglieder sein und werden einzeln in nicht geheimer Wahl
+in der konstituierenden Sitzung gewählt.
 
 (3) Die Ämter des Präsidiums der FSV sind unvereinbar mit der Mitgliedschaft im FSR.
 
 (4) Ein Rücktritt vom Amt des/der FSR-Sprecher\*in lässt eine, in derselben FSV-Sitzung erfolgende, Wahl
-ins Präsidium der FSV zu, wenn in derselben Sitzung ein/e Nachfolger\*in in das Amt der/des FSR-
-Sprecher\*in gewählt wird.
+ins Präsidium der FSV zu, wenn in derselben Sitzung ein/e Nachfolger\*in in das Amt der/des FSR-Sprecher\*in
+gewählt wird.
 
 (5) Zur Wahl des Präsidiums bedarf es der Mehrheit der satzungsgemäßen Mitglieder der FSV. Erhält im
 ersten Wahlgang kein/e Kandidat\*in die notwendige Stimmenzahl, so findet unverzüglich ein zweiter
@@ -164,9 +174,9 @@ vorgeschlagen werden, wenn die Mehrheit der anwesenden Mitglieder einem Antrag a
 Wahlliste zustimmt.
 
 (6) Die Schriftführung ist für die Erstellung des Sitzungsprotokolls verantwortlich. Die Schriftführung ist
-dafür verantwortlich, dass das Protokoll der FSV-Sitzung spätestens eine Woche nach der Sitzung in
-digitaler Form ausgefertigt an alle Mitglieder ausgehändigt wird. Dem Protokoll ist eine Anwesenheitsliste
-der jeweiligen FSV-Sitzung hinzuzufügen.
+dafür verantwortlich, dass das Protokoll der FSV-Sitzung spätestens eine Woche nach der Sitzung in digitaler
+Form ausgefertigt an alle Mitglieder ausgehändigt wird. Dem Protokoll ist eine Anwesenheitsliste der
+jeweiligen FSV-Sitzung hinzuzufügen.
 
 (7) Über die Vollständigkeit und Richtigkeit des Protokolls wird in der jeweils folgenden FSV-Sitzung mit
 der Mehrheit der anwesenden Mitglieder per Akklamation abgestimmt.
@@ -179,8 +189,8 @@ werden. Die Einladungen werden in elektronischer Schriftform verschickt. Dieser 
 öffentlich für alle Mitglieder der Fachschaft Biologie bekanntgegeben werden.
 
 (10) Tritt ein Mitglied des Präsidiums zurück, wählt die FSV unverzüglich eine/n Nachfolger\*in. Kann die
-Wahl nicht auf derselben Sitzung erfolgen, so führt das ausgeschiedene Mitglied sein Amt kommissarisch
-bis zur Neuwahl weiter.
+Wahl nicht auf derselben Sitzung erfolgen, so führt das ausgeschiedene Mitglied sein Amt kommissarisch bis
+zur Neuwahl weiter.
 
 
 ### § 9 Ausscheiden, Ausschluss und Nachrücken von Mitgliedern
@@ -202,16 +212,15 @@ dem jeweils bekleideten Amt gewählt werden.
 
 1. Jedes Mitglied der FSV ist berechtigt, durch Einreichung eines formlosen, schriftlichen Antrages
 eine solche Amtsenthebung zur Debatte zu stellen.
-2. Dieser Antrag muss bei dem derzeitigen FSR-Vorsitz eingereicht werden. Der FSR-Vorsitz hat die
-Pflicht die betroffene Person unverzüglich über den Vorgang in Kenntnis zu setzen, dabei aber die
-Vertraulichkeit zu wahren.
-3. In der Wahl hat das zu enthebende Mitglied kein Stimmrecht. Es muss allerdings 14 Tage vor der
-Wahl, zu der Sitzung eingeladen werden.
+2. Dieser Antrag muss bei dem derzeitigen FSR-Vorsitz eingereicht werden. Der FSR-Vorsitz hat die Pflicht
+die betroffene Person unverzüglich über den Vorgang in Kenntnis zu setzen, dabei aber die Vertraulichkeit zu wahren.
+3. In der Wahl hat das zu enthebende Mitglied kein Stimmrecht. Es muss allerdings 14 Tage vor der Wahl,
+zu der Sitzung eingeladen werden.
 4. Es hat vor der Wahl die Möglichkeit Stellung zu nehmen.
-5. Die Wahl der Amtsenthebung muss mit einer Mehrheit von 3/4 der Anwesenden der FSV
-entschieden werden, dabei muss die FSV gemäß § 10 Abs. 5 beschlussfähig sein.
+5. Die Wahl der Amtsenthebung muss mit einer Mehrheit von 3/4 der Anwesenden der FSV entschieden werden,
+dabei muss die FSV gemäß § 10 Abs. 5 beschlussfähig sein.
 6. Sollte auf diesem Wege eines der folgenden Ämter (FSV-Vorsitz, stellv. FSV-Vorsitz, FSR-Vorsitz,
-stellv. FSR-Vorsitz, Schatzmeister\*in) aus dem Amt enthoben werden, muss dieses, gemäß §6 und §8, 
+stellv. FSR-Vorsitz, Schatzmeister\*in) aus dem Amt enthoben werden, muss dieses, gemäß §6 und §8,
 in derselben Sitzung neu gewählt werden.
 
 
@@ -232,9 +241,9 @@ Fachschaft während der den Antrag betreffenden nachfolgenden Sitzung anwesend z
 Die FSV gilt solange als beschlussfähig, bis auf Antrag eines FSV-Mitgliedes durch den Vorsitz das Gegenteil
 festgestellt wird.
 
-(5) Die Beschlussfähigkeit ist gegeben, wenn mehr als die Hälfte der FSV-Mitglieder anwesend ist. Der
-FSV-Vorsitz hat die Beschlussfähigkeit auf Antrag unverzüglich zu überprüfen. Ein Einspruch gegen diesen
-Antrag ist nicht möglich.
+(5) Die Beschlussfähigkeit ist gegeben, wenn mehr als die Hälfte der FSV-Mitglieder anwesend ist. Der FSV-
+Vorsitz hat die Beschlussfähigkeit auf Antrag unverzüglich zu überprüfen. Ein Einspruch gegen diesen Antrag
+ist nicht möglich.
 
 (6) Bei Beschlussunfähigkeit muss nach spätestens 10 Tagen eine zweite Sitzung mit der gleichen
 Tagesordnung einberufen werden. Die normalen Ladungsfristen sind zu wahren. Die Einladung hat
@@ -251,21 +260,24 @@ satzungsmäßigen Mitglieder der FSV aufgehoben werden.
 Fachschaftsvertretung auszustellen.
 
 (2) Anträge für die Bescheinigung über die Fachschaftstätigkeit müssen mindestens eine Woche vor
-Abstimmung der Stattgabe der Bescheinigung gestellt werden. Die Sitzung, in welcher über die Stattgabe
-der Bescheinigung abgestimmt wird, darf frühestens eine Woche, spätestens aber vier Wochen nach
+Abstimmung der Stattgabe der Bescheinigung gestellt werden. Die Sitzung, in welcher über die Stattgabe der
+Bescheinigung abgestimmt wird, darf frühestens eine Woche, spätestens aber vier Wochen nach
 Antragsstellung stattfinden.
 
-(3) Die Diskussion und Abstimmung über die Stattgabe der Bescheinigung findet unter Ausschluss
-des/der Antragsteller\*in statt. Stimmberechtigt sind lediglich die gewählten Mitglieder der
-Fachschaftsvertretung.
+(3) Die Diskussion und Abstimmung über die Stattgabe der Bescheinigung findet unter Ausschluss des/der
+Antragsteller\*in statt. Stimmberechtigt sind lediglich die gewählten Mitglieder der Fachschaftsvertretung.
 
-(4) Im Falle einer Ablehnung des Antrages, darf der/die Antragsteller\*in einen begründeten Widerspruch
+(4) Die angefertigte Bescheinigung darf von der FSV erst an den/die Antragsteller\*in ausgehändigt
+werden, wenn diese/dieser nach § 5 Absatz 3 und § 15 Absatz 6 keine offenen gebackenen
+Verzehrmöglichkeiten mehr mitzubringen hat.
+
+(5) Im Falle einer Ablehnung des Antrages, darf der/die Antragsteller\*in einen begründeten Widerspruch
 einlegen. Der Ermessenspielraum dessen wird vom Vorsitz der Fachschaftsvertretung bestimmt.
 Gegebenenfalls wird zu einer neuen Abstimmung gerufen.
 
-(5) Die stattgegebene Bescheinigung wird von dem amtierenden Fachschaftsratvorsitz unterschrieben.
+(6) Die stattgegebene Bescheinigung wird von dem amtierenden Fachschaftsratvorsitz unterschrieben.
 
-(6) Die stattgegebene Bescheinigung kann während den offiziellen Öffnungszeiten entgegen genommen
+(7) Die stattgegebene Bescheinigung kann während den offiziellen Öffnungszeiten entgegen genommen
 werden. Auf Anfrage wird die stattgegebene Bescheinigung postalisch zugesandt.
 
 
@@ -289,6 +301,11 @@ dem/der Schatzmeister\*in des FSR. Der/die Schatzmeister\*in des FSR hat den Vor
 konstituiert den Ausschuss. Der Ausschuss beschließt über den Haushaltsplanentwurf mit qualifizierter
 Mehrheit, sofern der Vorsitz und der der/die Schatzmeister\*in des FSR mit der 2/3 Mehrheit stimmen.
 
+(4) Der Awareness-Ausschuss besteht aus mindestens zwei Vertreter\*innen. Diese müssen Teil der FSV
+oder des FSR sein. Dieser Ausschuss muss paritätisch besetzt sein und die im Awareness-Konzept
+aufgeführten Maßnahmen durchsetzen. Der Awareness-Ausschuss kann das Awareness-Konzept jederzeit
+anpassen. Änderungen im Awareness-Konzept werden von der FSV mit einer 2/3 Mehrheit beschlossen.
+
 
 ### § 13 Vorlesungsfreie Zeit
 
@@ -300,7 +317,6 @@ Die Regelungen über die FSV gelten auch in der vorlesungsfreien Zeit.
 ### § 14 Rechtsstellung des FSR
 
 Der FSR führt die Geschäfte der Fachschaftvertretung.
-
 
 ### § 15 Zusammensetzung des FSR
 
@@ -328,13 +344,13 @@ dies, unter Angabe von zu behandelnden Tagesordnungspunkten, schriftlich verlang
 
 (5) Zu einzelnen Tagesordnungspunkten kann der FSR die Öffentlichkeit ausschließen.
 
-(6) Die Mitglieder des FSR sind grundsätzlich dazu verpflichtet, an den Sitzungen teilzunehmen, sofern
-sie nicht begründet entschuldigt sind. Der Ermessenspielraum dessen wird von dem Fachschaftsrat
-bestimmt. Bei begründetem Fehlen muss eine Abmeldung über den vorgesehenen elektronischen Weg,
-spätestens 30min vor Beginn der Sitzung eintreffen. Sollte diese Abmeldung nicht zum vorgesehenen
-Zeitpunkt eingetroffen sein, muss das nicht abgemeldete FSR-Mitglied bis zur nächstmöglichen Sitzung eine
-gebackene Verzehrmöglichkeit mitbringen. Über den Inhalt nicht öffentlicher Beratungen ist Stillschweigen
-zu bewahren.
+(6) Die Mitglieder des FSR sind grundsätzlich dazu verpflichtet, an den Sitzungen teilzunehmen, sofern sie
+nicht begründet entschuldigt sind. Der Ermessenspielraum dessen wird von dem Fachschaftsrat bestimmt.
+Bei begründetem Fehlen muss eine Abmeldung über den vorgesehenen elektronischen Weg, spätestens
+30min vor Beginn der Sitzung eintreffen. Sollte diese Abmeldung nicht zum vorgesehenen Zeitpunkt
+eingetroffen sein, muss das nicht abgemeldete FSR-Mitglied bis zur nächstmöglichen Sitzung eine gebackene
+Verzehrmöglichkeit mitbringen. Über den Inhalt nicht öffentlicher Beratungen ist Stillschweigen zu
+bewahren.
 
 (7) Der FSR ist dazu verpflichtet, während der Sitzungen Protokoll zu führen.
 
@@ -347,8 +363,7 @@ des Studierendenparlaments, soweit anwendbar.
 (1) Der geschäftsführende Vorstand muss der FSV zum Zeitpunkt seiner Wahl angehören.
 
 (2) Die Mitgliedschaft im FSR ist unvereinbar mit Ämtern des Präsidiums der FSV.
-Ämter des geschäftsführenden Vorstandes sind mit Ämtern des Kassenprüfungsausschusses nicht
-vereinbar.
+Ämter des geschäftsführenden Vorstandes sind mit Ämtern des Kassenprüfungsausschusses nicht vereinbar.
 
 (3) Der geschäftsführende Vorstand wird entsprechend § 8 Abs. 5 gewählt.
 
@@ -365,13 +380,18 @@ Dazu muss gemäß § 8 eingeladen werden.
 
 ### § 17 Aufgaben und Zuständigkeiten des FSR
 
-(1) Die FSR-Sprecher\*innen bestimmen die Richtlinien der Arbeit des FSR sowie der FSV und tragen
-dafür die Verantwortung. Innerhalb dieser Richtlinien ist jede/r Referent\*in gegenüber den FSR-
-Sprechern\*innen, sowie der FSV für sein Aufgabengebiet verantwortlich. Die FSR-Sprecher\*innen haben
-auf jeder FSV-Sitzung einen Bericht über den derzeitigen Stand der Arbeit der FSV abzuliefern.
+(1) Die FSR-Sprecher\*innen bestimmen die Richtlinien der Arbeit des FSR sowie der FSV und tragen dafür
+die Verantwortung. Innerhalb dieser Richtlinien ist jede/r Referent\*in gegenüber den FSR-Sprechern\*innen,
+sowie der FSV für sein Aufgabengebiet verantwortlich. Die FSR-Sprecher\*innen haben auf jeder FSV-Sitzung
+einen Bericht über den derzeitigen Stand der Arbeit der FSV abzuliefern.
 
 (2) Die FSR-Sprecher\*innen haben Beschlüsse, Unterlassungen oder Maßnahmen der FSV, des
 FSR, der FSVV, sofern sie gegen geltendes Recht verstoßen, zu beanstanden.
+
+(3) Die allgemeinen Aufgaben der Schatzmeister\*innen sind dem Paragraf § 29 „Grundsätze und
+Kontrolle der Haushaltsführung“ zu entnehmen.
+
+(4) Für Regelungen von Ausscheiden, Ausschluss und Nachrücken von Mitgliedern, siehe § 9.
 
 
 ## III. Die Fachschaftsvollversammlung (FSVV)
@@ -435,7 +455,6 @@ Wahl des Fachausschusses durch die FSV.
 
 1. Auf Beschluss des FA,
 2. Auf schriftlichen Antrag von mindestens 5% der Mitglieder des Studienfaches,
-
 sofern der Antrag eine Tagesordnung enthält.
 
 (2) Die Ankündigung der SfVV erfolgt mindestens zwei Wochen vor ihrer Durchführung. Die
@@ -498,14 +517,15 @@ begründet entschuldigt sind. Über den Inhalt nichtöffentlicher Beratung ist S
 Geschäftsordnung gibt, gilt für den FA die Geschäftsordnung des Studierendenparlaments, soweit
 anwendbar, entsprechend.
 
+
 ### § 27 Wahl des FA
 
 (1) Auf der SfVV werden bis zu 5 Kandidaten für den FA gewählt. Die Kandidaten müssen in dem
-betreffenden Studienfach zum Zeitpunkt der Wahl eingeschrieben sein. Zur Wahl bedarf es der Mehrheit
-der anwendenden Studienfachmitglieder, ansonsten gilt § 8 Abs. 5 entsprechend.
+betreffenden Studienfach zum Zeitpunkt der Wahl eingeschrieben sein. Zur Wahl bedarf es der Mehrheit der
+anwendenden Studienfachmitglieder, ansonsten gilt § 8 Abs. 5 entsprechend.
 
-(2) Die vom SfVV gewählten Kandidaten für den FA werden von dem Versammlungsleiter umgehend
-dem FSV-Vorsitzenden mitgeteilt. Die FSV wählt umgehend aus den ihr vorgeschlagenen Kandidaten die
+(2) Die vom SfVV gewählten Kandidaten für den FA werden von dem Versammlungsleiter umgehend dem
+FSV-Vorsitzenden mitgeteilt. Die FSV wählt umgehend aus den ihr vorgeschlagenen Kandidaten die
 Mitglieder des FA mit einfacher Mehrheit ihrer satzungsgemäßen Mitglieder. Die SfVV hat das alleinige
 Vorschlagsrecht für die FA Mitglieder. Der FA ist allerspätestens einen Monat nach der Bestimmung der
 Kandidaten durch die SfVV zu konstituieren.
@@ -518,8 +538,8 @@ Kassenprüfungsausschusses nicht vereinbar.
 wählen. Die Begründung ist in das Protokoll aufzunehmen und gegenüber der Fachschaft, und dem
 betreffenden SfVV zu vertreten.
 
-(5) Der FA wählt mit einfacher Mehrheit seiner Mitglieder einen Vorsitzenden und einen
-stellvertretenden Vorsitzenden. Das Ergebnis der Wahl ist dem FSR und der FSV bekannt zu geben.
+(5) Der FA wählt mit einfacher Mehrheit seiner Mitglieder einen Vorsitzenden und einen stellvertretenden
+Vorsitzenden. Das Ergebnis der Wahl ist dem FSR und der FSV bekannt zu geben.
 
 (6) FA Mitglieder können jederzeit zurücktreten. Sie sind jedoch verpflichtet, die Geschäfte bis zur Wahl
 eines Nachfolgers weiterzuführen.
@@ -528,12 +548,12 @@ eines Nachfolgers weiterzuführen.
 ### § 28 Aufgaben und Zuständigkeiten des FA
 
 Der Vorsitzende bestimmt die Richtlinien der Arbeit des FA und trägt dafür die Verantwortung. Innerhalb
-dieser Richtlinien ist jedes Ausschussmitglied dem Vorsitzenden für sein Aufgabengebiet verantwortlich.
-Der FA Vorsitzende hat auf jeder FSV-Sitzung und SfVV einen Bericht über den derzeitigen Stand der
+dieser Richtlinien ist jedes Ausschussmitglied dem Vorsitzenden für sein Aufgabengebiet verantwortlich. Der
+FA Vorsitzende hat auf jeder FSV-Sitzung und SfVV einen Bericht über den derzeitigen Stand der
 Ausschussarbeit zu halten. Zudem hat er den Kontakt zum FSR zu halten.
 
 
-# Abschnitt C Haushalts- und Wirtschaftsführung
+# Abschnitt C – Haushalts- und Wirtschaftsführung
 
 
 ### § 29 Grundsätze und Kontrolle der Haushaltsführung
@@ -545,18 +565,17 @@ Studierendenschaft und der Fachschaftsrahmenordnung.
 Ausgaben der FSV ordnungsgemäß Buch.
 
 (3) Die Schatzmeister\*innen haben vor Beginn des Haushaltsjahres mit dem Aufgabenverteilungs- und
-Haushaltsauschuss einen ausgeglichenen Haushaltsplan aufzustellen und diesen der FSV auf einer Sitzung
-vor Beginn des Haushaltsjahres zur Abstimmung vorzulegen. Das Haushaltsjahr beginnt am 1. Oktober eines
+Haushaltsauschuss einen ausgeglichenen Haushaltsplan aufzustellen und diesen der FSV auf einer Sitzung vor
+Beginn des Haushaltsjahres zur Abstimmung vorzulegen. Das Haushaltsjahr beginnt am 1. Oktober eines
 jeden Jahres.
 
 (4) Anschaffungen und Ausgaben, die von den unter dem Titel „Sonstiges“ im Haushaltsplan
-ausgewiesenen Geldern getätigt werden und einen Höchstbetrag von 125,- Euro überschreiten, sind von
-der FSV gesondert zu beschließen.
+ausgewiesenen Geldern getätigt werden und einen Höchstbetrag von 125,- Euro überschreiten, sind von der
+FSV gesondert zu beschließen.
 
 (5) Überplanmäßige oder außerplanmäßige Ausgaben sind vor Inkrafttreten eines Nachtrags zum
-Haushaltsplan, der sie vorsieht, nur dann zulässig, wenn sie unumgänglich sind. Sie sind der FSV
-unverzüglich mitzuteilen. Nachträge zum Haushaltsplan können nur für das laufende Haushaltsjahr
-eingebracht werden.
+Haushaltsplan, der sie vorsieht, nur dann zulässig, wenn sie unumgänglich sind. Sie sind der FSV unverzüglich
+mitzuteilen. Nachträge zum Haushaltsplan können nur für das laufende Haushaltsjahr eingebracht werden.
 
 (6) Die Kassenprüfer\*innen der FSV führen eine Jahresabschlussprüfung durch. Unabhängig davon kann
 die Kasse von den Kassenprüfer\*innen mindestens einmal jährlich unangekündigt geprüft werden. Die
@@ -564,8 +583,8 @@ Kassenprüfung dient dem Zweck festzustellen, ob insbesondere
 
 1. der Kassen-Ist-Bestand mit dem Kassen-Soll-Bestand übereinstimmt und
 2. die Buchungen nach der Zeitfolge mit den Buchungen nach der im Haushaltsplan
-vorgesehene Ordnungen übereinstimmen. Über die Kassenprüfung ist Protokoll zu führen, in das
-die Kassen- und Kontobestände aufzunehmen sind.
+vorgesehene Ordnungen übereinstimmen. Über die Kassenprüfung ist Protokoll zu führen, in das die
+Kassen- und Kontobestände aufzunehmen sind.
 
 (7) Zur finanziellen Verpflichtung der Fachschaft sind die Unterschriften der FSR-Sprecher\*innen und der
 Schatzmeister\*innen oder die Unterschrift der zuständigen Person nach Zustimmung der FSR-
@@ -575,7 +594,7 @@ Mehrheit der gewählten Mitglieder Ausgaben beschließen, sofern die FSR-Spreche
 Schatzmeister\*innen mit der Mehrheit stimmen.
 
 
-# Abschnitt D Schlussbestimmungen
+# Abschnitt D – Schlussbestimmungen
 
 ### § 30 Satzungsänderung
 
@@ -596,4 +615,3 @@ Studienparlamentes Bonn in Kraft. Diese ist unverzüglich der Fachschaft durch e
 bekanntzugeben.
 
 (5) Die Satzung wurde ausgefertigt auf Grund des Beschlusses der FSV Biologie am 18. Juni 2019
-
