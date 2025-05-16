@@ -1,7 +1,7 @@
 ---
 title: Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Beitragsordnung der Studierendenschaft (BO)
-date:  29. Januar 2025
+date:  15. Mai 2025
 type:  Ordnung
 id:    BO
 contains:
@@ -163,6 +163,16 @@ contains:
   pubdate:  29. Januar 2025
   puborgan: Amtliche Bekanntmachungen
   puburl: https://hdl.handle.net/20.500.11811/12769
+  ref: 2fd6f2b0924953cab0b44c70aa4f5518f53d890d/md/Ordnungen/BO.md
+- title: Vierzigste Ordnung zur Änderung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - XL. Beitragsordnungsänderungsordnung (BOÄO XL) -
+  short: XL\. Beitragsordnungsänderungsordnung (BOÄO XL)
+  actdate:  9. April 2025
+  actorgan: Studierendenparlament
+  confirmorgan: Rektorat
+  confirmdate: 29. April 2025
+  pubdate:  15. Mai 2025
+  puborgan: Amtliche Bekanntmachungen
+  puburl: https://hdl.handle.net/20.500.11811/13073
   ref: HEAD/md/Ordnungen/BO.md
 
 ---
@@ -176,21 +186,19 @@ Kosten der Selbstverwaltung, der Selbsthilfe und Mobilität der Studierendenscha
 
 ### § 2
 
-Der Beitrag in Höhe von 198,16 € für das Wintersemester 2024/25 und 197,67 € für das Sommersemester
-2025 ist für folgende Zwecke bestimmt:
+Der Beitrag in Höhe von 230,07 € für das Wintersemester 2025/26 und das Sommersemester 2026 ist für
+folgende Zwecke bestimmt:
 
-|   |                                                                    |           |
-|:--|:-------------------------------------------------------------------|----------:|
-|1. | für die studentische Selbstverwaltung                              |  14,00 €, |
-|2. | für die studentischen Sozialeinrichtungen                          |   0,50 €, |
-|3. | für den Hilfsfonds zur Unterstützung in Not geratener Studierender |   0,01 €, |
-|4. | für das Semesterticket                                             | 176,40 €, |
-|5. | für ein Sonderkonto zur Erstattung des Mobilitätsbeitrages:        |           |
-|   | » WS 24/25                                                         |   0,50 €, |
-|   | » SS 25                                                            |   0,01 €, |
-|6. | für die Zuweisungen an die Fachschaften                            |   2,25 €, |
-|7. | für den Studierendensport                                          |   1,50 €, |
-|8. | für das Kulturticket                                               |   3,00 €, |
+|   |                                                                         |           |
+|:--|:------------------------------------------------------------------------|----------:|
+|1. | für die studentische Selbstverwaltung                                   |  14,00 €, |
+|2. | für die studentischen Sozialeinrichtungen                               |   0,50 €, |
+|3. | für den Hilfsfonds zur Unterstützung in Not geratener Studierender      |   0,01 €, |
+|4. | für das Semesterticket                                                  | 208,80 €, |
+|5. | für ein Sonderkonto zur Erstattung des Mobilitäts- und Kulturbeitrages: |   0,01 €  |
+|6. | für die Zuweisungen an die Fachschaften                                 |   2,25 €, |
+|7. | für den Studierendensport                                               |   1,50 €, |
+|8. | für das Kulturticket                                                    |   3,00 €. |
 
 
 
