@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
-date:  19. November 2023
+date:  27. Mai 2025
 type:  Ordnung
 id:    GO-FSR-Informatik
 contains:
@@ -12,6 +12,7 @@ contains:
   puborgan: AKUT
   pubdate:  16. April 2015
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2015/Geschaeftsordnung-FSR-beschlossen-akut-extra.pdf
+  ref: 577cfba8d2fc73e01b98f0d818078785ce80cc76/md/Ordnungen/Fachschaften/GO-FSR-Informatik.md
 - title: 1. Änderungsordnung der Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: 1. Änderungsordnung der Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
   actorgan: Fachschaftsrat Fachschaft Informatik
@@ -19,6 +20,7 @@ contains:
   puborgan: AKUT
   pubdate:  20. November 2019
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-23.pdf
+  ref: 9bb9278e8d86518a3d8332dcb28e8e04e5c74a24/md/Ordnungen/Fachschaften/GO-FSR-Informatik.md
 - title: Zweite Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
   short: Zweite Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
   actorgan: Fachschaftsrat Fachschaft Informatik
@@ -26,6 +28,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  16. April 2021
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-18.pdf
+  ref: a444cea3eda8128c1380bfec387c0e1cc30b6931/md/Ordnungen/Fachschaften/GO-FSR-Informatik.md
 - title: Dritte Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
   short: Dritte Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
   actorgan: Fachschaftsrat Fachschaft Informatik
@@ -33,6 +36,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  2. Oktober 2021
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-51.pdf
+  ref: e802b2606c60511748c70b6df21d4c0565a03d2a/md/Ordnungen/Fachschaften/GO-FSR-Informatik.md
 - title: Vierte Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
   short: Vierte Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
   actorgan: Fachschaftsrat Fachschaft Informatik
@@ -40,6 +44,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  15. November 2021
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-61.pdf
+  ref: 6dc6e529597b740a10c72e61773d853966e0cb0b/md/Ordnungen/Fachschaften/GO-FSR-Informatik.md
 - title: Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
   actorgan: Fachschaftsrat Fachschaft Informatik
@@ -47,6 +52,15 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  19. November 2023
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-74.pdf
+  ref: 453b8ac9f5bf7c719bcf2d413a11bd2a1abcae01/md/Ordnungen/Fachschaften/GO-FSR-Informatik.md
+- title: Erste Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
+  short: Erste Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
+  actorgan: Fachschaftsrat Fachschaft Informatik
+  actdate:  29. Januar 2025
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  27. Mai 2025
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2025/vsbonn_bekanntmachung_2025-27.pdf
+  ref: HEAD/md/Ordnungen/Fachschaften/GO-FSR-Informatik.md
 
 ---
 
@@ -110,6 +124,20 @@ Ablauf in der Einladung angekündigt wird. Dabei sind nur die in Präsenz
 anwesenden Personen stimmberechtigt. Es gelten die Regelungen für
 Beschlussfähigkeit und Mehrheiten, als ob alle online Teilnehmenden nicht
 anwesend wären.
+
+(8) Der FSR kann Beschlüsse rechtmäßig im Umlauf fassen. Ein Antrag wird vom FSR-Vorsitzenden im Umlauf
+zur Abstimmung gestellt, wenn der FSR-Vorsitzende
+
+a) den Bedarf nach einem Umlaufverfahren gegeben sieht, oder
+b) von mindestens drei Mitgliedern des FSR in Textform dazu aufgefordert wurde.
+
+Die Notwendigkeit des Umlaufbeschlusses muss von den Antragstellenden begründet werden und mit dem
+Antrag versendet werden. Der Antrag muss allen Mitgliedern des FSR mit einer Widerspruchsfrist von
+mindestens 48 Stunden per E-Mail zugeschickt werden. Widerspricht kein Mitglied des FSR innerhalb der
+Frist per E-Mail, ist der Antrag angenommen. Widerspricht ein Mitglied innerhalb der Frist, kann der Beschluss
+nicht im Umlauf gefasst werden und ist auf der nächsten Sitzung des FSR zu behandeln. In beiden Fällen
+muss über den im Umlauf zur Abstimmung gestellten Antrag und seinen Ausgang auf der nächsten Sitzung
+des FSR berichtet werden. Antrag und Ausgang sind im Protokoll der Sitzung festzuhalten.
 
 
 ### § 4 Protokoll
