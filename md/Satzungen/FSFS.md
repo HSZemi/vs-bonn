@@ -31,9 +31,9 @@ contains:
 (1) Die den Fachschaften gemäß § 43 Satzung der Studierendenschaft (SdS) der
 RFWU Bonn zugewiesenen Gelder werden durch das Fachschaftenkollektiv (FSK) verwaltet.
 
-(2) Die Gelder werden den einzelnen Fachschaften als Allgemeine
-Fachschaftengelder (AFSG) oder als Besondere Fachschaftengelder (BFSG)
-zugewiesen. AFSG setzen sich zusammen aus einem Sockelbetrag und einem
+(2) Die Gelder gliedern sich in Allgemeine
+Fachschaftengelder (AFSG) und Besondere Fachschaftengelder (BFSG).
+AFSG setzen sich zusammen aus einem Sockelbetrag und einem
 weiteren Betrag, der sich nach der Zahl der Studierenden richtet, die der
 betreffenden Fachschaft gemäß § 22 Satzung der Studierendenschaft (SdS) nach
 der Anlage „Fachschaftenliste“ zur FKGO zugeordnet sind. Mit BFSG werden
@@ -125,7 +125,7 @@ Stammdaten und zur Antragstellung für Finanzanträge zur Verfügung.
 (4) Das FSK erinnert die Fachschaften regelmäßig daran, ihre Stammdaten aktuell zu
 halten. Die Erinnerung soll wenige Wochen nach Beginn jedes Semesters erfolgen.
 
-(5) Anträge auf AFSG sind über die Plattform zu stellen.
+(5) Anträge auf AFSG sind über die Plattform zu stellen. # BFSG auch pls?? 
 
 (6) Dokumente und Nachweise gemäß §§ XXX und XXX sind per E-Mail an das FSK
 einzureichen, solange die Plattform keine Möglichkeit zur Einreichung im
@@ -133,7 +133,7 @@ Produktivbetrieb anbietet und sofern sie nicht im Rahmen eines Evaluationsbetrie
 über die Plattform eingereicht werden.
 
 (7) Anträge auf BFSG und zugehörige Dokumente sowie Vorankündigungen und
-zugehörige Dokumente sind bis auf Weiteres per E-Mail einzureichen.
+zugehörige Dokumente sind bis auf Weiteres per E-Mail einzureichen. # bitti digitalisierung
 
 (8) Der Zugriff auf die Plattform erfolgt über personengebundene Accounts.
 
@@ -208,10 +208,12 @@ Der Betrag eines Obertitels ist die Summe der Beträge seiner Untertitel.
 
 1. Einnahmentitel: Entnahme aus der Rücklage
 2. Einnahmentitel: Überschuss aus dem vorherigen Haushaltsjahr
-3. Ausgabentitel: Überführung in die Rücklage
-4. Ausgabentitel Fehlbetrag aus dem vorherigen Haushaltsjahr
+3. Einnahmetitel: Sonstige Einnahmen
+4. Ausgabentitel: Zuführung in die Rücklage
+5. Ausgabentitel Fehlbetrag aus dem vorherigen Haushaltsjahr
+6. Ausgabentitel: Sonstige Ausgaben/Diebstahl
 
-Als Entnahme aus der Rücklage ist derselbe Betrag vorzusehen, welcher im Vorjahr als Überführung in die Rücklage vorgesehen ist.
+Als Entnahme aus der Rücklage ist derselbe Betrag vorzusehen, welcher im vorherigen Haushaltsjahr als Zuführung in die Rücklage vorgesehen ist.
 Überschuss bzw. Fehlbetrag aus dem vorherigen Haushaltsjahr sind bei Aufstellung des Haushaltsplans sorgfältig zu schätzen.
 
 (5) Der deklarative Teil des Haushaltsplans besteht aus den in Absatz 3 aufgeführten Punkten 3, 6a, 6b, 6c, 7a, 7b und 7c.
@@ -222,10 +224,11 @@ Insbesondere ein nicht ausgeglichener Haltsplan muss durch einen Nachtragshausha
 
 (6) Ein Haushaltsplan ist gültig, wenn er die in den Absätzen 1 bis 5 festgelegten Anforderungen erfüllt. Andernfalls ist er ungültig.
 
-(7) Die Ungültigkeit eines Haushaltsplans wird vom FSK festgestellt.
-Das FSK teilt der betroffenen Fachschaft die zu behebenden Mängel mit.
-Solange die Mängel nicht behoben sind, ist der zuletzt gültige Haushaltsplan für das Haushaltsjahr anzuwenden.
-Existiert kein solcher, sind die Regeln zur vorläufigen Haushaltsführung anzuwenden.
+(7) Die Ungültigkeit eines Haushaltsplans wird vom FSK festgestellt und dem FSR-Vorsitz der betreffenden Fachschaft unter Nennung der zu behebenden Mängel mitgeteilt.
+Der FSR-Vorsitz hat den Beschluss eines ungültigen Haushaltsplans oder Nachtragshaushaltsplans zu beanstanden und vom beschlussfassenden Gremium unverzügliche Abhilfe zu verlangen.
+Eine solche Beanstandung hat aufschiebende Wirkung.(unklar was mit dem rest passiert, also bei wechsel des HHJ vor abhilfe, bis zur abhilfe etc.)% 
+Solange die das beschlussfassende Gremium der Abhilfe nicht nachgekommen ist, ist der zuletzt gültige Haushaltsplan für das Haushaltsjahr anzuwenden. Existiert kein solcher, ist die volöufige Haushaltsführung nach § XXX anzuwenden. (Needs correction deeply)
+
 
 
 ### § XXX Vorläufige Haushaltsführung
@@ -243,7 +246,7 @@ Existiert kein solcher, sind die Regeln zur vorläufigen Haushaltsführung anzuw
 
 (3) Überschuss bzw. Fehlbetrag aus dem vorherigen Haushaltsjahr sind mit den tatsächlichen Beträgen festzulegen, sofern das vorherige Haushaltsjahr bereits geendet hat.
 
-(4) Weicht der tatsächliche Überschuss bzw. Fehlbetrag aus dem vorherigen Haushaltsjahr um mehr als 100 € vom im Haushaltsplan veranschlagten Betrag ab, so ist unverzüglich ein Nachtragshaushaltsplan zu erstellen und zu beschließen.
+(4) Weicht der tatsächliche Überschuss bzw. Fehlbetrag aus dem vorherigen Haushaltsjahr um mehr als 5% des Ansatzes des Überschusses bzw. Fehlbetrag, mindestens aber 100 € vom im Haushaltsplan veranschlagten Betrag ab, so ist unverzüglich ein Nachtragshaushaltsplan zu erstellen und zu beschließen.
 
 (5) Für einen Nachtragshaushaltsplan gelten alle Regeln, die auch für den Haushaltsplan gelten, mit folgenden Abweichungen:
 
@@ -259,6 +262,45 @@ Existiert kein solcher, sind die Regeln zur vorläufigen Haushaltsführung anzuw
 ### § XXX Buchführung
 
 *Hey Luc mach mal*
+
+-§ XXX Finanzreferentin oder Finanzreferent
+
+Ein Mitglied des FSR bewirtschaftet die Einnahmen und Ausgaben (Finanzreferentin).
+
+§ XXX Kassenanordnungen
+
+(1) Kassenanordnungen sind von der Finanzreferentin zu unterzeichnen.
+Mit der Unterzeichnung der Kassenanordnung übernimmt die Finanzreferentin die Verantwortung dafür, dass
+
+offensichtlich erkennbare Fehler in der Kassenanordnung nicht enthalten sind,
+
+die sachliche und rechnerische Richtigkeit der in der Kassenanordnung enthaltenen Angaben bescheinigt worden ist (Absatz 2),
+
+der Titel richtig bezeichnet ist und
+
+Ausgabemittel in der vorgesehenen Höhe zur Verfügung stehen.
+
+Die Kassenanordnung muss gegebenenfalls im Zusammenhang mit den ihr beigefügten Unterlagen Zweck und Anlass einer Zahlung begründen und eine Prüfung ohne Rückfragen ermöglichen.
+
+(2) Die eine Einnahme oder Ausgabe begründenden Teile einer Kassenanordnung bedürfen der Feststellung der sachlichen und rechnerischen Richtigkeit. Die Feststellung der sachlichen Richtigkeit obliegt der Finanzreferentin. Mit der Feststellung der rechnerischen Richtigkeit ist ein anderes Mitglied des FSR zu beauftragen.
+
+§ XXX Kassenführung
+
+Zahlungen dürfen nur aufgrund schriftlicher oder elektronischer Anordnung (Kassenanordnung) angenommen oder geleistet werden. Einzahlungen, die durch Übergabe oder Übersendung von Zahlungsmitteln (Bargeld, Schecks) entrichtet werden, sind auch dann anzunehmen, wenn eine schriftliche oder elektronische Anordnung nicht vorliegt. Dies gilt auch für überwiesene Beträge. Die Anordnung ist nachträglich zu erteilen.
+
+§ XXX Buchführung und Gegenstandsverzeichnis
+
+(1) Über die Zahlungen ist sowohl nach der Zeitfolge als auch nach der im Haushaltsplan vorgesehenen Ordnung Buch zu führen. Die Zahlungen sind für das Haushaltsjahr zu buchen, in dem sie eingegangen oder geleistet worden sind.
+
+(2) Die Kassenanordnungen sind nach Titeln getrennt fortlaufend zu nummerieren und in der Reihenfolge der Buchungen zu ordnen.
+
+(3) Bleibt am Ende des Haushaltsjahres der Gesamtbetrag der Einnahmen hinter dem Gesamtbetrag der Ausgaben zurück, so ist der Fehlbetrag im nächsten Haushaltsjahr als Ausgabe nachzuweisen. Ein Überschuss ist im nächsten Haushaltsjahr als Einnahme zu buchen.
+
+§ XXX Aufbewahrung der Bücher
+
+Die Bücher eines Haushaltsjahres sind nach Ablauf des 31. Dezembers des Kalenderjahres in denen das Haushaltsjahr endete weitere 10 Jahre aufzubewahren.
+
+
 
 
 ### § XXX Buchung von Rücklage, Überschuss und Fehlbetrag
@@ -306,8 +348,7 @@ Sie wird von der Finanzreferentin erstellt.
 
 (2) Kassenprüfende werden von der FSV oder der FSVV gewählt.
 Kassenprüfende dürfen weder im geprüften Zeitraum noch zum
-Prüfungszeitpunkt Mitglied des FSR oder Teil des Vorstands der FSV
-sein bzw. gewesen sein.
+Prüfungszeitpunkt Mitglied des FSR sein bzw. gewesen sein.
 Kassenprüfende müssen Teil der Studierendenschaft der RFWU Bonn sein.
 
 (3) Über die Kassenprüfung wird ein Bericht erstellt, der mindestens Folgendes enthält:
@@ -351,7 +392,7 @@ Dokumente vorliegen:
 (4) Sind die Voraussetzungen nach Absatz 3 erfüllt, ist der Antrag
 ordnungsgemäß ausgefüllt und bestehen sonst keine Bedenken gegen die
 Auszahlung der Gelder, so werden die Gelder vom Vorsitzenden des FSK
-oder seiner Stellvertretung angewiesen.
+oder seiner zeichnungsberechtigten Stellvertretung angewiesen.
 
 (5) Anträge, die vier Semester nach Ablauf des Semesters, auf das sich
 der Antrag bezieht, die Voraussetzungen des Absatz 3 nicht erfüllen,
@@ -379,14 +420,14 @@ Mängel mit. Diese Fristverlängerung ist auch rückwirkend möglich.
 
 ### § XXX Reservierung der AFSG
 
-(1) Nicht beantragte AFSG sind im nächsten Haushaltsplan der Studierendenschaft als frei verfügbarer Überschuss zu berücksichtigen.
+(1) Nicht beantragte AFSG sind im nächsten Haushaltsplan der Studierendenschaft als frei verfügbarer Überschuss des Verwahrhaushalts der Fachschaften zu berücksichtigen.
 
 (2) Beantragte AFSG sind zu reservieren, bis sie vervollständigt sind oder die Vervollständigungsfrist verstrichen ist.
 
 (3) Der Betrag von AFSG-Anträgen, die nach ihrer Vervollständigungsfrist nicht vollständig sind und somit als nicht gestellt gelten,
-ist im nächsten Haushaltsplan der Studierendenschaft als frei verfügbarer Überschuss zu berücksichtigen.
+ist im nächsten Haushaltsplan der Studierendenschaft im Verwahrhaushalt der Fachschaften als frei verfügbarer Überschuss zu berücksichtigen.
 
-(4) Der Betrag vollständiger AFSG-Anträge ist zu reservieren, bis sie ausgezahlt wurden.
+(4) Der Betrag vollständiger AFSG-Anträge ist zu reservieren, bis sie ausgezahlt wurden, höchstens aber N (2/3/4) Semester. 
 
 
 # Abschnitt 4 - Besondere Fachschaftengelder (BFSG)
@@ -410,14 +451,14 @@ geforderten Unterlagen beizufügen.
 vorgestellt und auf der zweiten abgestimmt. Auf Ferien-FKs und in besonderen
 Ausnahmefällen entfällt diese Vorgabe. Das FSK bringt die vollständigen Anträge
 zur Vorstellung ein und entscheidet dabei nach billigem Ermessen, ob Anträge,
-die weniger als zwei Wochen vor der nächsten Finanz- oder Ferien-FK
+die weniger als zwei Wochen vor der nächsten Ferien-FK oder Finanz-FK, auf welcher Anträge vorgestellt werden
 eingegangen sind, auf dieser oder der darauf folgenden vorgestellt werden.
 
 (4) Die Fachschaft, die den Antrag stellt, muss auf den Finanz-FKen, auf welchen
 ihr Antrag behandelt wird, durch eine Delegierte vertreten sein. Der Antrag ist
 von ihrer Delegierten gegebenenfalls zu begründen und zu erläutern. Ist keine
-Delegierte anwesend wird der Antrag in erster Lesung auf den nächsten Monat
-oder die nächste Ferien-FK verschoben.
+Delegierte anwesend wird der Antrag in erster Lesung auf die nächste FK auf 
+der Anträge vorgestellt werden verschoben.
 
 (5) Die FK hat das Recht, Anträge zurückzuweisen. Ebenso kann die FK lediglich
 einen Teil der beantragten Summe bewilligen.
@@ -517,7 +558,7 @@ oder die Reisedauer drei Stunden überschreitet. In diesem Fall werden erstattet
 Klasse. Kosten für eine Bahncard werden erstattet, wenn zu erwarten ist oder
 festgestellt wird, dass während der Laufzeit dieser Bahncard die Einsparungen
 durch den Gebrauch während dieser Fahrt den Preis der Bahncard übersteigen.
-2. Bei Fahrten mit einem Fernbus, Reisebus oder Transporte die tatsächlichen
+2. Bei Fahrten mit einem Fernbus, Reisebus oder Transporter die tatsächlichen
 Kosten. Es wird vorausgesetzt, dass die Kapazität der Fahrzeuge, abhängig von
 mitfahrenden Personen und den transportierten Gütern, sinnvoll ausgenutzt wird.
 3. Bei einer Fahrt mit dem öffentlichen Personennahverkehr die tatsächlichen
@@ -557,7 +598,7 @@ gefördert werden
 
 
 
-### § XXX Ausnahmegenehmigung von BFSG via Vorankündigung
+### § XXX Ausnahmegenehmigung von BFSG durch Vorankündigung
 
 (1) BFSG-Anträge, die von den Vorgaben der Anlage 1
 abweichen sowie Fahrten und Exkursionen mit Zielen außerhalb des Schengen-
@@ -569,7 +610,7 @@ Vorgaben zu einzureichenden Dokumenten sind hiervon ausgenommen.
 
 (2) Vorankündigungen sind auf dem Formblatt zu stellen. Eine Begründung der
 Abweichung von Anlage 1 ebenso wie eine Vorkalkulation der Maßnahme, sind
-beizufügen.
+beizufügen. #(Digitalisierung bitti)
 
 (3) Das Fachschaftenkollektiv (FSK) bringt vollständige Vorankündigungen zur
 Vorstellung auf der nächsten FK ein. Das FSK entscheidet
@@ -672,12 +713,13 @@ Zusammenhang mit der Maßnahme.
 angemessener Nachweis zu erbringen.
 3. Ein Arbeitsbericht in dem die Hintergründe und der Ablauf der Maßnahme
 beschrieben werden. Dieser muss, wo nicht Gegenteiliges festgelegt ist, einen
-Awarenessbericht enthalten. Der Awarenessbericht muss erläutern, ob es ein
+Awarenessbericht enthalten.
+4. Ein Awarenessbericht der erläutern muss, ob es ein
 Awarenesskonzept gab, wenn es eines gab, wie es ausgesehen hat, und, ob es
 Vorfälle gab. Bei der Teilnahme an einer Fachschaftentagung (z.B. BuFaTa)
 gemäß 3. e sollen die Awareness-Maßnahmen der Fachschaftentagung geschildert
 werden.
-4. Ein Nachhaltigkeitsbericht. Der Nachhaltigkeitsbericht muss dokumentieren,
+5. Ein Nachhaltigkeitsbericht. Der Nachhaltigkeitsbericht muss dokumentieren,
 welche Nachhaltigkeits-Maßnahmen getroffen wurden. Bei der Teilnahme an
 einer Fachschaftentagung (z.B. BuFaTa) gemäß 3. e sollen die Nachhaltigkeits-
 Maßnahmen der Fachschaftentagung geschildert werden. Der
@@ -685,7 +727,7 @@ Nachhaltigkeitsbericht sollte die Handreichung für nachhaltige studentische
 Veranstaltungen und Fachschaften an der Universität Bonn und den Leitfaden zur
 Kompensation nicht vermeidbarer Treibhausgasemissionen des Allgemeinen
 Studierendenausschusses (AStA) berücksichtigen.
-5. Bei Veranstaltungen, Fahrten und Exkursionen zudem ein Programm. Bei
+6. Bei Veranstaltungen, Fahrten und Exkursionen zudem ein Programm. Bei
 Fahrten und Exkursionen außerdem eine Teilnehmerliste mit Unterschriften aller
 Teilnehmenden. Bei Druckwerken die entsprechende Bebilderung oder ein
 Belegexemplar. Sowie alle weiteren, unter den jeweiligen Punkten geforderten,
