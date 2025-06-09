@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft VWL der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft VWL
-date:  28. Mai 2024
+date:  6. Juni 2025
 type:  Satzung
 id:    FSSatzungVWL
 contains:
@@ -52,6 +52,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  18. Juli 2024
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-61.pdf
+  ref: c785f2f68b555a3f68ef1663e8083e8c0f6d1842/md/Satzungen/Fachschaften/FSSatzungVWL.md
+- title: Satzungsänderungssatzung der Fachschaft Volkswirtschaftslehre
+  short: Satzungsänderungssatzung der Fachschaft Volkswirtschaftslehre
+  actorgan: Fachschaftsvertretung Fachschaft VWL
+  actdate:  27. Juni 2024
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  6. Juni 2025
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2025/vsbonn_bekanntmachung_2025-32.pdf
   ref: HEAD/md/Satzungen/Fachschaften/FSSatzungVWL.md
 ---
 
@@ -171,11 +179,11 @@ Wahl in der konstituierenden Sitzung gewählt.
 
 (3) Die Ämter des Präsidiums der FSV sind unvereinbar mit der Mitgliedschaft im FSR.
 
-(4) Tritt ein FSR-Mitglied in einer FSV-Sitzung von seinem Amt zurück, kann es während selbiger
-Sitzung ins Präsidium der FSV gewählt werden, wenn in derselben Sitzung ein Nachfolger in
-das Amt des FSR-Mitglieds gewählt wird. Ausschließlich in diesem Fall wird der
-kommissarische Status des rücktretenden FSR-Mitglieds aufgehoben. Falls es sich in diesem
-Fall um den FSR-Vorsitzenden handelt wird der FSR nicht aufgelöst.
+(4) Tritt ein FSR-Mitglied in einer FSV-Sitzung von seinem Amt zurück,
+kann es während selbiger Sitzung ins Präsidium der FSV gewählt werden,
+wenn in derselben Sitzung ein Nachfolger in das Amt des FSR-Mitglieds
+gewählt wird. Ausschließlich in diesem Fall wird der kommissarische Status
+des zurücktretenden FSR-Mitglieds aufgehoben.
 
 (5) Zur Wahl des Präsidiums bedarf es der absoluten Mehrheit der satzungsgemäßen Mitglieder
 der FSV. Erhält im ersten Wahlgang kein Kandidat die notwendige Stimmenanzahl, so findet
@@ -310,35 +318,42 @@ vorhanden o.ä.
 
 (4) Die Größe der einzelnen Referate ist wie folgt beschränkt:
 
-1. Referat Studienorganisation: max. 8 Beauftrage, bei der Aufgabenverteilung
-innerhalb des Referats sollten die Schwerpunkte Fachschaftsdienst und
-Getränkelogistik abgedeckt sein
-2. Referat Öffentlichkeitsarbeit: max. 6 Beauftragte, bei der Aufgabenverteilung
-innerhalb des Referats sollten die Schwerpunkte Internetseite und
-Fachschaftswiki, sowie Beiträge und Design abgedeckt sein
-3. Referat Master, PhD & Internationales: max. 6 Beauftrage, bei der
-Aufgabenverteilung innerhalb des Referats sollten die Schwerpunkte Master und
-Internationales abgedeckt sein
-4. Ersti-Referat: max. 6 Beauftragte, bei der Aufgabenverteilung innerhalb des Referats
-sollten die Schwerpunkte Awareness und Nachwuchsförderung abgedeckt sein
-5. Event-Referat: max. 6 Beauftragte, bei der Aufgabenverteilung innerhalb des
-Referats sollten die Schwerpunkte Alumniarbeit und Förderverein, Corporate
-Events, inhaltliche Veranstaltungen, fachschaftsübergreifende Arbeit und
-Awareness abgedeckt sein
-6. Party-Referat: max. 6 Beauftragte, bei der Aufgabenverteilung innerhalb des Referats
-sollte der Schwerpunkt Awareness abgedeckt sein
-Die FSR-Vorsitzende kann Abweichungen hiervon bestimmen. Diese sind der FSV anzuzeigen.
+1. Referat Studienorganisation: max. 6 Beauftragte, bei der Aufgabenverteilung
+innerhalb des Referats sollten die Schwerpunkte Fachschaftsdienst,
+Getränkelogistik sowie Pflege des Google-Drives abgedeckt sein.
+2. Referat für IT & Kommunikation: max. 4 Beauftragte, bei der
+Aufgabenverteilung innerhalb des Referats sollten die Schwerpunkte
+Internetseite und Fachschaftswiki sowie Beiträge und Design abgedeckt
+sein.
+3. Referat Master, PhD & Internationales: max. 4 Beauftragte, bei der
+Aufgabenverteilung innerhalb des Referats sollten die Schwerpunkte
+Master und Internationales abgedeckt sein.
+4. Referat für Erstsemester & Party: max. 8 Beauftragte, wovon einer
+als stellvertretender Referent ernannt wird ohne einen Teil des
+Fachschaftsrats zu bilden. Bei der Aufgabenverteilung innerhalb des
+Referats sollten die Schwerpunkte Erstsemester-Woche, Awareness und
+Nachwuchsförderung sowie Semester- und Erstsemester-Partys abgedeckt
+sein. Es ist eine Verantwortungsteilung für die Bereiche Erstsemester
+und Party zwischen dem Referenten und seinem Stellvertreter
+vorgesehen.
+5. Event-Referat: max. 5 Beauftragte, bei der Aufgabenverteilung innerhalb
+des Referats sollten inhaltliche Veranstaltungen, fachschaftsübergreifende
+Arbeit und Awareness abgedeckt sein. Ein Beauftragter ist für den
+Schwerpunkt Kooperation mit dem Alumniarbeit und Förderverein
+verantwortlich.
+6. Referat für Unternehmenskooperationen: max. 6 Beauftragte, bei der
+Aufgabenverteilung innerhalb des Referats sollten die Schwerpunkte
+Erstsemester-Tüten, Kontakt und Absprache mit dem Alumni- und
+Förderverein, inhaltliche Unternehmensveranstaltungen sowie Akquise
+abgedeckt sein.
 
-(5) Der FSR-Vorsitzende kann jeweils einen Sonderbeauftragten mit folgenden
-Aufgabenbereichen benennen:
+Der FSR-Vorsitzende kann Abweichungen hiervon bestimmen. Diese sind
+der FSV anzuzeigen.
 
-1. Awareness
-2. Sponsoring
-3. Nachhaltigkeit
-4. Satzungen & Ordnungen
-
-Diese nehmen mit beratender Stimme an den Sitzungen des FSR teil. Sie gehören keinem
-Referat an.
+(5) Der FSR-Vorsitzende kann einen Sonderbeauftragten für Awareness
+benennen.  
+Dieser nimmt mit beratender Stimme an den Sitzungen des FSR teil. Er
+gehört keinem Referat an.
 
 (6) Der FSR tritt zusammen:
 
