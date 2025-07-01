@@ -1,7 +1,7 @@
 ---
 title: Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte (Fachschaftswahlordnung – FSWO)
 short: Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte (Fachschaftswahlordnung – FSWO)
-date:  2. August 2024
+date:  6. Juni 2025
 type:  Ordnung
 id:    FSWO
 contains:
@@ -28,8 +28,15 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  2. August 2024
   puburl:  https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-66.pdf
+  ref: e3474a7ff14b661b346e6365cec460f44fdb94b6/md/Ordnungen/FSWO.md
+- title: Zweite Ordnung zur Änderung der Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte
+  short: Zweite Ordnung zur Änderung der Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte
+  actorgan: Studierendenparlament
+  actdate:  4. Juni 2025
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  6. Juni 2025
+  puburl:  https://sp.uni-bonn.de/bekanntmachungen/files/2025/vsbonn_bekanntmachung_2025-33.pdf
   ref: HEAD/md/Ordnungen/FSWO.md
-
 ---
 
 Alle Personen- und Funktionsbezeichnungen in dieser Ordnung gelten für alle Menschen unabhängig
@@ -95,8 +102,9 @@ Fachschaftssatzung vorbehaltlich der §§ 20 f. dieser Ordnung und der SdS.
 4. 2 bis 6 weiteren Mitgliedern, sowie
 5. gegebenenfalls zusätzlichen Mitgliedern gemäß Absatz 3.
 
-Falls die Fachschaftssatzung zu der Anzahl nach Nummer 4 keine Regelung trifft, sind zwei Mitglieder
-nach Nummer 4 zu wählen.
+Falls die Fachschaftssatzung zu der Anzahl nach Nummer 4 keine andere Zahl festlegt
+und der FSR nach § 3 Abs. 1 direkt gewählt wird, sind zwei Mitglieder nach Nummer 4 zu
+wählen.
 
 (3) Sind in einer Fachschaft mehrere Fach-Abschluss-Kombinationen (FAKs) zusammengefasst und wird
 eine Fachschaftsvertretung gewählt, so kann diese gemäß § 27 Absatz 5 SdS für jede dieser FAKs bis zu
@@ -134,13 +142,10 @@ aus ihrem Haushalt getragen.
 
 ### § 9 Wahlberechtigung
 
-(1) Wahlberechtigt und wählbar sind die Personen, die am 30. Tag vor dem ersten Wahltag (Stichtag)
-Mitglied der Fachschaft sind. Maßgeblich für die Wahlberechtigung ist darüber hinaus die für die
-Wahlberechtigung angegebene Fach-Abschluss-Kombination (FAK). Zweit- und Gasthörerinnen sind
-nicht wahlberechtigt.
-
-(2) Die Änderung der Wahlberechtigung ist über das Studierendensekretariat der
-Universität möglich.
+Wahlberechtigt und wählbar sind die Personen, die am 30. Tag vor dem ersten Wahltag (Stichtag)
+Mitglied der Fachschaft sind. Maßgeblich für die Zuordnung ist die Studierendenschaftsgliederungssatzung
+in der jeweils geltenden Fassung. Zweit- und Gasthörerinnen
+sind nicht wahlberechtigt. Beitragspflichtige beurlaubte Stuiderende sind wahlberechtigt.
 
 
 ### § 10 Festlegung des Wahltermins
@@ -184,9 +189,9 @@ diesen Vorgang ist Protokoll zu führen.
 
 ### § 12 Veröffentlichungen des Wahlausschusses
 
-(1) Öffentliche Bekanntmachungen des Wahlausschusses sind an angemessenen Stellen jeweils als Aushang
-fachschaftsöffentlich sowie im Internet zu veröffentlichen. Der Aushang soll an ortsüblicher Stelle
-erfolgen.
+(1) Öffentliche Bekanntmachungen des Wahlausschusses sind an angemessener Stelle im
+Internet zu veröffentlichen. Zusätzlich soll die Veröffentlichung an ortsüblicher Stelle als
+Aushang erfolgen.
 
 (2) Protokolle gemäß § 13 Absatz 3 müssen nur im Internet veröffentlicht werden. Sie sind zudem auf
 Nachfrage einsehbar zu machen.
@@ -210,8 +215,8 @@ und öffentlich geladen wurde. Die Sitzungen des Wahlausschusses sind öffentlic
 (3) Der Wahlausschuss fertigt über seine Sitzungen Protokolle an. Am Ende der Sitzung oder auf der
 nächsten Sitzung ist das Protokoll auf seine Richtigkeit zu prüfen, gegebenenfalls anzupassen und per
 Beschluss als richtig zu verabschieden. Danach ist das Protokoll durch die Wahlleitung zu unterzeichnen,
-gemäß § 12 Absatz 3 zu veröffentlichen und gemäß § 25 Absatz 6 dieser Ordnung durch den FSR im
-Original zur Einsichtnahme aufzubewahren. Der Wahlauschuss ist für die Veröffentlichung der Protokolle
+gemäß § 12 Absatz 3 zu veröffentlichen und gemäß § 25 Absatz 6 dieser Ordnung durch den FSR
+zur Einsichtnahme aufzubewahren. Der Wahlauschuss ist für die Veröffentlichung der Protokolle
 zuständig.
 
 (4) Bis zum 25. Tag vor dem ersten Wahltag findet die konstituierende Sitzung des Wahlausschusses
@@ -257,17 +262,21 @@ Wahlausschuss das Wahlergebnis fest.
 
 (11) Die Wahlleitung kann zu weiteren Sitzungen einladen.
 
-(12) Die Wahlleitung kann festlegen, dass Sitzungen des Wahlausschusses als virtuelle Sitzung in
-elektronischer Kommunikation stattfinden. Die Wahlleitung stellt sicher, dass die Öffentlichkeit auch an
-elektronischen Sitzungen teilnehmen kann.
+(12) Die Wahlleitung kann festlegen, dass Sitzungen des Wahlausschusses als virtuelle Sit-
+zung in elektronischer Kommunikation stattfinden. Die Wahlleitung stellt sicher, dass die
+Öffentlichkeit auch an elektronischen Sitzungen teilnehmen kann. In begründeten Ausnah-
+mefällen ist der Wahlausschuss auf Vorschlag der Wahlleitung berechtigt Beschlüsse im
+Umlaufverfahren zu treffen, solange dem kein Mitglied des Wahlausschusses widerspricht.
+Über einen entsprechenden Vorgang ist Protokoll zu führen.
 
 
 ### § 14 Wählendenverzeichnis
 
-(1) Die Hochschulverwaltung erstellt auf Antrag ein Verzeichnis, das Familien- und Vornamen der
-Wahlberechtigten und die Matrikelnummer enthält (Wählendenverzeichnis). Der Antrag ist an das
-Fachschaftenkollektiv zu richten. Das Wählendenverzeichnis wird von der Wahlleitung bis spätestens
-zum 19. Tag vor dem ersten Wahltag übernommen.
+(1) Das Wählendenverzeichnis enthält Familiennamen, Vornamen und Matrikelnummern der
+Wahlberechtigten. Die Daten für die Erstellung der Wählendenverzeichnisse werden durch
+die Hochschulverwaltung bereitgestellt. Das Wählendenverzeichnis wird beim Fachschaf-
+tenkollektiv beantragt und von der Wahlleitung bis spätestens zum 19. Tag vor dem ersten
+Wahltag übernommen.
 
 (2) Bei der Aufstellung und Handhabung des Wählendenverzeichnisses ist den Erfordernissen des
 Datenschutzes Rechnung zu tragen. Insbesondere ist dafür Sorge zu tragen, dass das Wählendenverzeichnis
@@ -306,6 +315,8 @@ Regeln des § 12 dieser Ordnung bekannt.
 11. einen Hinweis auf die Einspruchsmöglichkeit gegen das Wählendenverzeichnis,
 12. einen Hinweis auf die Möglichkeit eines Antrags auf Briefwahl, sowie die bei der Briefwahl zu
 beachtenden Fristen.
+13. einen Hinweis auf Ort und Zeit der Sitzung des Wahlausschusses zur Auszählung der
+Stimmen.
 
 (3) Das Fachschaftenkollektiv stellt den Wahlausschüssen Musterdokumente für unter anderem Wahlbekanntmachung,
 Stimmzettel und Briefwahl zur Verfügung.
@@ -315,7 +326,8 @@ Stimmzettel und Briefwahl zur Verfügung.
 
 (1) Die Kandidaturen sind innerhalb der Frist für die Einreichung von Kandidaturen, Briefwahlanträgen
 und Einsprüchen gegen das Wählendenverzeichnis beim Wahlausschuss einzureichen. Nicht fristgerecht
-eingereichte Kandidaturen sind von der Wahlleitung zurückzuweisen.
+eingereichte Kandidaturen sind von der Wahlleitung zurückzuweisen. Über die zulässigen Wege der
+Einreichung entscheidet der Wahlausschuss nach billigem Ermessen.
 
 (2) Eine Kandidatur muss mindestens enthalten:
 
@@ -360,9 +372,9 @@ Wählendenverzeichnis liegt dann im Wahllokal zur Einsicht aus.
 
 ### § 18 Briefwahl
 
-(1) Auf schriftlichen Antrag hin können Wahlberechtigte ihre Stimme per Briefwahl abgeben. Der Antrag
-ist zu begründen und muss Name, Anschrift, ggf. Versandanschrift und Matrikelnummer der den Antrag
-stellenden Person enthalten.
+(1) Auf Antrag in Textform hin können Wahlberechtigte ihre Stimme per Briefwahl abgeben.
+Der Antrag ist zu begründen und muss Name, Anschrift, ggf. Versandanschrift und
+Matrikelnummer der den Antrag stellenden Person enthalten.
 
 (2) Erkennt die Wahlleitung die vorgebrachten Gründe an, ist der Antrag angenommen. Andernfalls
 entscheidet der Wahlausschuss über den Antrag. Anträge auf Briefwahl, die nach der Frist für die
@@ -390,24 +402,26 @@ gesandt werden muss. Sind diese Bedingungen nicht erfüllt, so ist der Stimmzett
 
 (6) Der Wahlbrief muss spätestens bis zu dem vom Wahlausschuss festgesetzten Ende der Wahl bei der
 Wahlleitung eingegangen sein. Die Stimmabgabe ist vom Wahlausschuss nach Eingang des Wahlbriefs
-anhand des Wahlscheins zu prüfen und der Wahlumschlag in eine als Briefwahlurne bestimmte Urne
-einzuwerfen. Die Abgabe der Briefwahlstimme ist im Urnenbuch festzuhalten und der Wahlschein als
+anhand des Wahlscheins zu prüfen und der Stimmzettel in die Urne einzuwerfen.
+Die Abgabe der Briefwahlstimme ist im Urnenbuch festzuhalten und der Wahlschein als
 Anlage dem Urnenbuch beizufügen.
 
-(7) Sämtliche Personen deren Antrag auf Briefwahl angenommen wurde sind in einer gesonderten Liste
-zu erfassen, die den Wahlhelfenden an den Urnen mitzugeben ist.
+(7) Sämtliche Personen deren Antrag auf Briefwahl angenommen wurde sind nicht mehr zur
+Wahl an der Urne berechtigt. Sie sind in einer gesonderten Liste zu erfassen, diese ist dem
+Urnenbuch beizulegen.
 
 
 ### § 19 Wahlablauf und Urnenbuch
 
-(1) Die Wahlurnen sind vor Beginn der Wahl öffentlich durch die Wahlleitung zu versiegeln. Dies wird
-im Urnenbuch dokumentiert.
+(1) Die Wahlurne ist vor Beginn der Wahl öffentlich durch die Wahlleitung zu versiegeln.
+Dies wird im Urnenbuch dokumentiert.
 
-(2) Jede Wahlurne muss stets von mindestens zwei Wahlhelfenden besetzt sein, die für die ordnungsgemäße
-Durchführung der Wahl an dieser Urne verantwortlich sind. Die Wahlhelfenden dürfen keine
-Kandidierenden sein. Verlässt eine dieser Personen die Wahlurne, so wird bis zu ihrer Rückkehr der
-Wahlakt an dieser Urne durch Zwischensiegelung unterbrochen, falls dadurch weniger als 2 Wahlhelfende
-an der Urne verbleiben würden.
+(2) Die Wahlurne muss stets von mindestens zwei Wahlhelfenden besetzt sein, die für
+die ordnungsgemäße Durchführung der Wahl an der Urne verantwortlich sind. Die
+Wahlhelfenden dürfen keine Kandidierenden sein. Verlässt eine dieser Personen die
+Wahlurne, so wird bis zu ihrer Rückkehr der Wahlakt an der Urne durch Zwischensiegelung
+unterbrochen, falls dadurch weniger als 2 Wahlhelfende an der Urne verbleiben
+würden.
 
 (3) Die Wahlhelfenden prüfen die Wahlberechtigung jeder Person die wählen möchte und händigen die
 Stimmzettel aus. Die Wahlhelfenden haben dafür Sorge zu tragen, dass die Wahl geheim erfolgt. Der
@@ -422,7 +436,8 @@ Dies kann beispielsweise durch eine entsprechende Markierung im
 Wählendenverzeichnis umgesetzt werden, sofern die Stimmabgabe nicht an mehreren
 Standorten gleichzeitig möglich ist.
 
-(6) An jeder Wahlurne wird die vom Wahlausschuss herausgegebene Liste der Kandidierenden ausgelegt.
+(6) An der Wahlurne wird die vom Wahlausschuss herausgegebene Liste der Kandidierenden
+ausgelegt.
 
 (7) Im Urnenbuch werden mit Zeitstempel dokumentiert:
 
@@ -436,8 +451,9 @@ Standorten gleichzeitig möglich ist.
 Die Eintragungen nach Nummer 1 bis 5 sind von den beteiligten Wahlausschussmitgliedern und Wahlhelfenden
 zu unterzeichnen.
 
-(8) Nach Beendigung eines jeden Wahltages hat die Wahlleitung für die bestmöglich gesicherte, versiegelte
-Aufbewahrung von Urnen und sonstigen Wahlunterlagen zu sorgen.
+(8) Nach Beendigung eines jeden Wahltages hat die Wahlleitung für die bestmöglich
+gesicherte, versiegelte Aufbewahrung der Urne und sonstigen Wahlunterlagen zu
+sorgen.
 
 (9) Ergeben sich bei der Feststellung der ordnungsgemäßen Versiegelung Unregelmäßigkeiten, so hat der
 Wahlausschuss die erforderlichen Maßnahmen zu treffen.
@@ -455,11 +471,11 @@ Teilnahme an der Wahl ist zulässig.
 und weitere hierfür bestimmte Helfende, die nicht Kandidierende sein dürfen, unverzüglich nach dem
 Ende der Wahl durchgeführt.
 
-(3) Die Urnen werden von der Wahlleitung öffentlich entsiegelt. Dies wird im Urnenbuch dokumentiert.
+(3) Die Urne wird von der Wahlleitung öffentlich entsiegelt. Dies wird im Urnenbuch dokumentiert.
 
 (4) Ein Stimmzettel ist ungültig, wenn
 
-1. auf ihm mehr als eine Stimme abgegeben wurde;
+1. auf ihm keine oder mehr als eine Stimme abgegeben wurde;
 2. er außer der ordnungsgemäßen Stimmabgabe Zusätze enthält;
 3. der Wille der wählenden Person nicht zweifelsfrei erkennbar ist;
 4. sich ein Eintrag in einem Freifeld gemäß § 17 Absatz 3 nicht eindeutig einer wählbaren Person
@@ -489,7 +505,7 @@ Einspruchs, sowie den Wahlprüfungsausschuss der Fachschaftenkonferenz als zust�
 (2) Die Wahlleitung benachrichtigt die gewählten Personen unverzüglich schriftlich oder per E- Mail von
 ihrer Wahl.
 
-(3) Die Gewählten erklären spätestens bis zu Beginn der konstituierenden Sitzung die Annahme oder
+(3) Die Gewählten erklären spätestens zu Beginn der konstituierenden Sitzung die Annahme oder
 Nichtannahme der Wahl. Andernfalls gilt die Wahl als nicht angenommen.
 
 (4) Mit der Annahme der Wahl verpflichtet sich die jeweilige Person, an den Sitzungen des Gremiums
@@ -585,7 +601,7 @@ der Frist nach Absatz 10 zu erfolgen.
 jede Fachschaft die folgenden Informationen vermerkt sind:
 
 1. Zeitpunkt des Antrags auf das Wählendenverzeichnis
-2. Art des Wahlsystems (vgl. §§ 7, 27, 28)
+2. 2. Art des Wahlsystems (vgl. §§ 7, 27)
 3. der Wahltermin
 4. Zeitpunkt der Zusendung des Wahlergebnisses durch die Wahlleitung, sowie ein Verweis, wo dieses
 im Internet bekanntgemacht wurde
@@ -670,62 +686,7 @@ Wahlergebnisses 7 Kalendertage Zeit, die Wahl anzunehmen. Andernfalls gilt die W
 (10) Die übrigen Vorschriften dieser Wahlordnung sind entsprechend anzuwenden.
 
 
-### § 28 Option der Verhältniswahl
-
-(1) Die Fachschaftssatzung kann festlegen, dass die Wahl abweichend von § 2 Absatz 2 nicht als
-Persönlichkeitswahl, sondern als personalisierte Verhältniswahl durchgeführt wird.
-
-(2) Neben dem in Absatz 1 genannten Fall wird die Wahl ebenfalls als personalisierte Verhältniswahl
-durchgeführt, wenn
-
-1. bei weniger als 11 zu wählenden Personen 5 Wahlberechtigte
-2. bei 11 zu wählenden Personen 6 Wahlberechtigte
-3. bei 15 zu wählenden Personen 8 Wahlberechtigte
-4. bei 19 zu wählenden Personen 10 Wahlberechtigte
-
-dies 25 Tage vor dem 1. Wahltag für diese Wahl verlangen. Das Verlangen ist der Wahlleitung einzureichen
-und von dieser zu prüfen.
-
-(3) Im Falle einer personalisierten Verhältniswahl muss jeder Wahlvorschlag einen Listennamen und
-mindestens eine Kandidatur in einer erkennbaren Reihenfolge enthalten. Eine Person kann nicht auf
-mehreren Wahlvorschlägen kandidieren.
-
-(4) Wurde nur genau ein Wahlvorschlag oder nicht mehr Kandidaturen als Sitze zu besetzen sind zur
-Wahl zugelassen, so wird statt der Verhältniswahl eine Persönlichkeitswahl durchgeführt.
-
-(5) Der Stimmzettel enthält die Wahlvorschläge in einer vom Wahlausschuss gelosten zufälligen Reihenfolge,
-für jeden Wahlvorschlag unter dem Listennamen die Kandidaturen in der Reihenfolge aus dem
-Wahlvorschlag. Angekreuzt werden kann ein gesamter Wahlvorschlag oder eine einzelne Kandidatur.
-
-(6) Die Verteilung der Sitze auf die Wahlvorschläge erfolgt nach dem Sainte-Laguë-Verfahren auf
-Grundlage der Gesamtzahl der Stimmen, die für einen Wahlvorschlag und seine Kandidaturen abgegeben
-wurden. Bei Höchstzahlgleichheit wird durch die Wahlleitung ausgelost, welchem Wahlvorschlag der
-Sitz zugeteilt wird. Innerhalb eines Wahlvorschlags werden die Sitze absteigend nach der Anzahl der
-erhaltenen Personenstimmen verteilt. Bei Stimmengleichheit wird durch die Wahlleitung gelost. Beim
-Ausscheiden eines Mitglieds rücken solange die Nächstplatzierten des selben Wahlvorschlags nach, bis
-der Wahlvorschlag erschöpft ist. Ist der Wahlvorschlag erschöpft, bleibt der Sitz unbesetzt. Abweichend
-von der Regelung in § 7 Absatz 2 und 4 ist keine Mindeststimmzahl erforderlich.
-
-(7) Die Bekanntgabe des Wahlergebnisses gemäß § 21 enthält zusätzlich die Zahl der auf jeden Wahlvorschlag
-entfallenden Stimmen und Sitze.
-
-(8) Wurde bei einer Wiederholungswahl nach Ablauf einer Nachfrist keine Kandidatur eingereicht (§ 26 Absatz 2), 
-so wird statt der Verhältniswahl eine Persönlichkeitswahl durchgeführt, bei der der
-Stimmzettel abweichend von Absatz 5 lediglich das Freifeld gemäß § 17 Absatz 3 enthält.
-
-(9) Die übrigen Vorschriften dieser Wahlordnung sind entsprechend anzuwenden.
-
-(10) Eine Festlegung nach Absatz 1, die nach Bestellung des Wahlausschusses hinzugefügt oder gestrichen
-wird, entfaltet keine Wirkung mehr für diese Wahl.
-
-(11) Die Hinzufügung oder Streichung einer solchen Festlegung durch eine FSVV erfolgt mit der Mehrheit
-der anwesenden Fachschaftsmitglieder; anderslautende Mehrheitserfordernisse der Fachschaftssatzung
-sind unbeachtlich. Falls eine solche Festlegung durch eine FSVV hinzugefügt oder gestrichen wird, kann
-die FSV bis nach Abschluss der nächsten Wahl keinen davon abweichenden Beschluss fassen. Absatz 2
-bleibt unberührt.
-
-(12) Die Durchführung einer Verhältniswahl gemäß § 28 hat stets Vorrang vor der Durchführung einer
-Persönlichkeitswahl in einer Wahlvollversammlung gemäß § 27.
+### § 28 (weggefallen)
 
 
 # Abschnitt 5 Schlussbestimmungen
