@@ -1,7 +1,7 @@
 ---
 title: Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Studierendenschaft
-date:  1. August 2023
+date:  4. Juli 2025
 type:  Satzung
 id:    SdS
 contains:
@@ -94,6 +94,16 @@ contains:
   puborgan: Amtliche Bekanntmachungen
   pubdate:  1. August 2023
   puburl: https://hdl.handle.net/20.500.11811/10962
+  ref: 12e86addadb35958c695f52ce1d43f065530a1fe/md/Satzungen/SdS.md
+- title: Neunte Satzung zur Änderung der Satzung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - SÄS 9 –
+  short: 9\. Satzungsänderungssatzung
+  actorgan: Studierendenparlament
+  actdate: 9. April 2025
+  confirmorgan: Rektorat
+  confirmdate: 20. Mai 2025
+  puborgan: Amtliche Bekanntmachungen
+  pubdate:  4. Juli 2025
+  puburl: https://hdl.handle.net/20.500.11811/13175
   ref: HEAD/md/Satzungen/SdS.md
 
 ---
@@ -666,25 +676,21 @@ wenn dies von der AStA-Vorsitzenden verlangt wird.
 
 ### § 22 Die Fachschaften (FS)
 
-(1) Die Studierendenschaft gliedert sich in Fachschaften gemäß der Anlage
-"Fachschaftenliste" zur FKGO, in der jede an der Universität Bonn mögliche Kombination
-von Studienfach und angestrebtem Abschluss (Fach-Abschluss-Kombination, FAK) einer
-Fachschaft zugeordnet wird. Falls die Besonderheiten eines Faches es erfordern, können
-weitere Kriterien zur Zuordnung herangezogen werden. Die Anlage "Fachschaftenliste" zur
-FKGO bedarf zu ihrer Gültigkeit der Bestätigung durch das SP. Die Fachschaft besteht unter
-Berücksichtigung des Absatzes 3 aus den Studierenden der ihr zugeordneten FAKs.
+(1) Die Studierendenschaft gliedert sich in Fachschaften.
 
-(2) Alle an der Universität Bonn eingeschriebenen Studierenden müssen einer Fachschaft
-angehören.
+(2) Die Gliederung der Studierendenschaft in Fachschaften wird in einer von der
+Fachschaftenkonferenz zu beschließende Satzung geregelt. Die Satzung und Änderungen jener Satzung
+bedürfen zu ihrer Gültigkeit der Bestätigung durch das SP.
 
-(3) Die Zuordnung einer Studierenden zu einer Fachschaft erfolgt aufgrund der FAK, für die
-sie eingeschrieben ist. Ist eine Studierende für mehrere FAKs eingeschrieben, so erfolgt die
-Zuordnung aufgrund der ersten auf dem Studierendenausweis angegebenen FAK, sofern sie
-bei der Einschreibung bzw. Rückmeldung gegenüber der Universität nicht erklärt, aufgrund
-welcher FAK sie einer Fachschaft angehören möchte.
+(3) Jede an der Universität Bonn mögliche Kombination von Studienfach und angestrebtem
+Abschluss (Fach-Abschluss-Kombination, FAK) wird mindestens einer Fachschaft zugeordnet.
+
+(4) Mitglieder der Fachschaft sind alle Studierenden, welche der Fachschaft zugeordnete FAKs
+studieren. Studierende können somit Mitglied mehrerer Fachschaften sein.
 
 
 ### § 23 Aufgaben
+
 Die Fachschaft vertritt die spezifischen Interessen ihrer Mitglieder. Sie vertritt darüber
 hinaus im Rahmen ihrer Möglichkeiten Belange von Studierenden, die an einem
 Studienangebot eines Faches teilnehmen, das der Fachschaft gemäß § 22 zugeordnet
@@ -859,9 +865,7 @@ und an geeigneter Stelle im Internet zu veröffentlichen. Diese enthält insbeso
 Regelungen über
 
 1. Art, Form und Frist der Einberufung und Beschlussfassung,
-2. Wahl des FSK,
-3. Kriterien für die Verteilung der Fachschaftsgelder gemäß § 43 und
-4. als Anlage die Liste der Fachschaften der RFWU ("Fachschaftenliste").
+2. Wahl des FSK.
 
 Die FKGO wird mit der Mehrheit von zwei Drittel der anwesenden stimmberechtigten
 Mitglieder einer FK verabschiedet, auf der mindestens ein Fünftel aller Fachschaften
@@ -1307,26 +1311,29 @@ Haushaltsführung von diesen auszugehen. Neue Stellen dürfen erst nach Inkraftt
 des Haushaltsplanes in Anspruch genommen werden.
 
 
-### § 43 Zuweisung der Fachschaftsgelder
+### § 43 Zuweisung der Fachschaftengelder
 
-(1) Die Fachschaften erhalten finanzielle Zuweisungen aus den Mitteln der Studierendenschaft
-nach Maßgabe der Beitragsordnung und des Haushaltsplanes als Selbstbewirtschaftungsmittel
-(Allgemeine Fachschaftengelder – AFSG). Die Zuweisungen für jede Fachschaft bestehen aus
-einem Sockelbetrag und einem weiteren Betrag, der sich nach der Zahl der Studierenden richtet,
-die der betreffenden Fachschaft gemäß \S~22 zugeordnet sind. Die Zuweisungen sind getrennt
-von den anderen Ausgaben zu veranschlagen und durch Haushaltsvermerk ausdrücklich als zur
-Selbstbewirtschaftung bestimmt zu bezeichnen. Sie gelten für die Studierendenschaft
-rechnungsmäßig als abgewickelt, sobald sie als Ausgabe vom entsprechenden Titel an die
-Fachschaft überwiesen worden sind. Die FKGO kann Voraussetzungen für die Auszahlung der
-Fachschaftengelder festsetzen.
+(1) Die Fachschaften erhalten finanzielle Zuweisungen aus den Mitteln der Studierendenschaft nach
+Maßgabe der Beitragsordnung und des Haushaltsplanes als Selbstbewirtschaftungsmittel (Allgemeine
+Fachschaftengelder – AFSG). Die Zuweisungen für jede Fachschaft bestehen aus einem Sockelbetrag
+und einem weiteren Betrag, der sich nach der Zahl der Mitglieder der Fachschaft gemäß § 22 richtet.
+Die Zuweisungen sind getrennt von den anderen Ausgaben zu veranschlagen und durch
+Haushaltsvermerk ausdrücklich als zur Selbstbewirtschaftung bestimmt zu bezeichnen. Sie gelten für
+die Studierendenschaft rechnungsmäßig als abgewickelt, sobald sie als Ausgabe vom entsprechenden
+Titel an die Fachschaft überwiesen worden sind.
 
-(2) Darüber hinausgehende Zahlungen (Besondere Fachschaftengelder -- BFSG) richten sich nach
-der Beitragsordnung, dem Haushaltsplan der Studierendenschaft und den Kriterien für die
-Verteilung der Fachschaftsgelder in der FKGO gemäß \S~31 Absatz~3 Nummer~3.
+(2) Darüberhinausgehende Zahlungen (Besondere Fachschaftengelder – BFSG) richten sich nach der
+Beitragsordnung, dem Haushaltsplan der Studierendenschaft und der Satzung nach Absatz 3.
 
-(3) Für die Bewirtschaftung der Mittel durch die Fachschaften sind die Bestimmungen des § 42
-Absatz 1, 3, 4 und 13 entsprechend anzuwenden. Am Ende des Haushaltsjahres kassenmäßig nicht
-verausgabte Mittel sind im Nachweis des neuen Haushaltsjahres als Einnahmen zu buchen.
+(3) Eine von der FK zu beschließende Satzung regelt:
+
+1. Die Grundzüge der Haushaltsführung der Fachschaften
+2. Die Verfahren zur Antragsstellung für AFSG und BFSG
+3. Voraussetzungen für die Auszahlung von AFSG und BFSG
+
+(4) Für die Bewirtschaftung der Mittel durch die Fachschaften sind die Bestimmungen des § 42
+Absatz 1, 3, 4 und 13 entsprechend anzuwenden. Am Ende des Haushalsjahres kassenmäßig nicht
+verausgabte Mittel sind im Nachweis des Haushaltsjahres als Einnahmen zu buchen.
 
 
 ### § 44 Kassenwesen
