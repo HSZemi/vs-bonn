@@ -77,9 +77,9 @@ Ein Antrag muss Angebote in folgendem Umfang enthalten:
 
 (1) Die OV befindet selbständig über Anträge mit folgenden Höchstsummen:
 
-(a) pro Haushaltsjahr der Studierendenschaft und Sportart für Neuanschaffungen und Reparaturen 1.500 €.
-(b) pro Haushaltsjahr der Studierendenschaft und Sportart für Fortbildungen und Seminare in der Regel maximal 300 €.
-(c) pro Semester und Kurs für Übungsleiterinnenhonorare max. 800 €.
+a) pro Haushaltsjahr der Studierendenschaft und Sportart für Neuanschaffungen und Reparaturen 1.500 €.
+b) pro Haushaltsjahr der Studierendenschaft und Sportart für Fortbildungen und Seminare in der Regel maximal 300 €.
+c) pro Semester und Kurs für Übungsleiterinnenhonorare max. 800 €.
 
 (2) Weitergehende Anträge bedürfen der Zustimmung des SP.
 
