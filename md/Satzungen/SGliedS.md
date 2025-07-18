@@ -244,6 +244,7 @@ FAKs, welche mehreren Fachschaften gleichzeitig zugeordnet sind, sind in der let
 | 18.10. | Klassische und Romanische Philologie                               | Griechisch                | LA BA Gym Ge              | X |
 | 18.11. | Klassische und Romanische Philologie                               | Griechisch                | LA MA Gym Ge              | X |
 | 18.12. | Klassische und Romanische Philologie                               | Griechisch                | LABA Dritt/Erw.fach GymGe | X |
+| 18.XXX | Klassische und Romanische Philologie                               | Griechisch                | LAMA Dritt/Erw.fach GymGe | X |
 | 18.13. | Klassische und Romanische Philologie                               | Hispanistik               | Bachelor of Arts          |   |
 | 18.14. | Klassische und Romanische Philologie                               | Italianistik              | Bachelor of Arts          |   |
 | 18.15. | Klassische und Romanische Philologie                               | Klass.Phil./Griechisch    | Promotion                 |   |
@@ -267,6 +268,7 @@ FAKs, welche mehreren Fachschaften gleichzeitig zugeordnet sind, sind in der let
 | 18.33. | Klassische und Romanische Philologie                               | Spanisch                  | LA BA Berufskolleg        | X |
 | 18.34. | Klassische und Romanische Philologie                               | Spanisch                  | LA BA Gym Ge              | X |
 | 18.35. | Klassische und Romanische Philologie                               | Spanisch                  | LA MA Gym Ge              | X |
+| 18.XXX | Klassische und Romanische Philologie                               | Spanisch                  | LABA Dritt/Erw.fach GymGe | X |
 | 18.36. | Klassische und Romanische Philologie                               | Italienisch               | LA BA Gym Ge              | X |
 | 18.37. | Klassische und Romanische Philologie                               | Italienisch               | LA MA Gym Ge              | X |
 | 18.38. | Klassische und Romanische Philologie                               | Italienisch               | LABA Dritt/Erw.fach GymGe | X |
@@ -339,22 +341,27 @@ FAKs, welche mehreren Fachschaften gleichzeitig zugeordnet sind, sind in der let
 | 21.57. | Lehramt                                                            | Philosoph/Prakt.Philosoph | LA BA Gym Ge              | X |
 | 21.58. | Lehramt                                                            | Philosoph/Prakt.Philosoph | LA MA Gym Ge              | X |
 | 21.59. | Lehramt                                                            | Philosoph/Prakt.Philosoph | LABA Dritt/Erw.fach GymGe | X |
+| 21.XXX | Lehramt                                                            | Philosoph/Prakt.Philosoph | LAMA Dritt/Erw.fach GymGe | X |
 | 21.60. | Lehramt                                                            | Physik                    | LA BA Gym Ge              | X |
 | 21.61. | Lehramt                                                            | Physik                    | LA MA Gym Ge              | X |
 | 21.62. | Lehramt                                                            | Physik                    | LABA Dritt/Erw.fach GymGe | X |
 | 21.63. | Lehramt                                                            | Prakt. Philosophie        | LA BA Berufskolleg        |   |
+| 21.XXX | Lehramt                                                            | Prakt. Philosophie        | LABA Dritt/Erw.fach BK    |   |
 | 21.64. | Lehramt                                                            | Spanisch                  | LA BA Berufskolleg        | X |
 | 21.65. | Lehramt                                                            | Spanisch                  | LA BA Gym Ge              | X |
 | 21.66. | Lehramt                                                            | Spanisch                  | LA MA Gym Ge              | X |
+| 21.XXX | Lehramt                                                            | Spanisch                  | LABA Dritt/Erw.fach GymGe | X |
 | 21.67. | Lehramt                                                            | Tierwissenschaften        | LA BA Berufskolleg        |   |
 | 21.68. | Lehramt                                                            | Tierwissenschaften        | LA MA Berufskolleg        |   |
 | 21.69. | Lehramt                                                            | Wirtsch-Pol/Sozialwiss.   | LA BA Gym Ge              | X |
 | 21.70. | Lehramt                                                            | Wirtsch-Pol/Sozialwiss.   | LA MA Gym Ge              | X |
+| 21.XXX | Lehramt                                                            | Wirtsch-Pol/Sozialwiss.   | LAMA Dritt/Erw.fach GymGe | X |
 | 21.71. | Lehramt                                                            | Wirtsch./Sozialw. Landbau | LA BA Berufskolleg        | X |
 | 21.72. | Lehramt                                                            | Wirtschaftsl/Politik      | LA BA Berufskolleg        | X |
 | 21.73. | Lehramt                                                            | Griechisch                | LA BA Gym Ge              | X |
 | 21.74. | Lehramt                                                            | Griechisch                | LA MA Gym Ge              | X |
 | 21.75. | Lehramt                                                            | Griechisch                | LABA Dritt/Erw.fach GymGe | X |
+| 21.XXX | Lehramt                                                            | Griechisch                | LAMA Dritt/Erw.fach GymGe | X |
 | 21.76. | Lehramt                                                            | Latein                    | LA BA Gym Ge              | X |
 | 21.77. | Lehramt                                                            | Latein                    | LA MA Gym Ge              | X |
 | 22.1.  | Mathematik                                                         | Mathematics               | Master of Science         |   |
@@ -455,6 +462,7 @@ FAKs, welche mehreren Fachschaften gleichzeitig zugeordnet sind, sind in der let
 | 31.5.  | Philosophie                                                        | Philosoph/Prakt.Philosoph | LA BA Gym Ge              | X |
 | 31.6.  | Philosophie                                                        | Philosoph/Prakt.Philosoph | LA MA Gym Ge              | X |
 | 31.7.  | Philosophie                                                        | Philosoph/Prakt.Philosoph | LABA Dritt/Erw.fach GymGe | X |
+| 31.XXX | Philosophie                                                        | Philosoph/Prakt.Philosoph | LAMA Dritt/Erw.fach GymGe | X |
 | 31.8.  | Philosophie                                                        | Alt-Kath. u. Ökum. Theol. | Master of Arts            | X |
 | 31.9.  | Philosophie                                                        | Altkath.-Theologie        | Kirchl.Ex.                | X |
 | 31.10. | Philosophie                                                        | Rel.theo.u.interrel.Dialo | Promotion                 | X |
@@ -475,6 +483,7 @@ FAKs, welche mehreren Fachschaften gleichzeitig zugeordnet sind, sind in der let
 | 33.7.  | Politik & Soziologie                                               | Strat.a.Internat.Security | Master of Arts            |   |
 | 33.8.  | Politik & Soziologie                                               | Wirtsch-Pol/Sozialwiss.   | LA BA Gym Ge              | X |
 | 33.9.  | Politik & Soziologie                                               | Wirtsch-Pol/Sozialwiss.   | LA MA Gym Ge              | X |
+| 33.XXX | Politik & Soziologie                                               | Wirtsch-Pol/Sozialwiss.   | LAMA Dritt/Erw.fach GymGe | X |
 | 33.10. | Politik & Soziologie                                               | Wirtsch./Sozialw. Landbau | LA BA Berufskolleg        | X |
 | 33.11. | Politik & Soziologie                                               | Wirtschaftsl/Politik      | LA BA Berufskolleg        | X |
 | 34.1.  | Psychologie                                                        | Erziehungswiss.           | Promotion                 |   |
