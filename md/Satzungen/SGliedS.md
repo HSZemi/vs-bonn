@@ -171,6 +171,7 @@ FAKs, welche mehreren Fachschaften gleichzeitig zugeordnet sind, sind in der let
 | 10.3.  | Geodäsie                                                           | Geodäsie u.Geoinformation | Master of Science         |   |
 | 10.4.  | Geodäsie                                                           | Geodäsie u.Geoinformation | Promotion                 |   |
 | 10.5.  | Geodäsie                                                           | Geodetic Engineering      | Master of Science         |   |
+| 10.6.  | Geodäsie                                                           | Mobile Robotics           | Master of Science         | X |
 | 11.1.  | Geographie                                                         | Entwicklungsforschung     | Promotion                 |   |
 | 11.2.  | Geographie                                                         | Geographie                | Bachelor of Arts          |   |
 | 11.3.  | Geographie                                                         | Geographie                | Bachelor of Science       |   |
@@ -206,11 +207,12 @@ FAKs, welche mehreren Fachschaften gleichzeitig zugeordnet sind, sind in der let
 | 14.4.  | Informatik                                                         | Cyber Security            | Master of Science         |   |
 | 14.5.  | Informatik                                                         | Informatik                | Bachelor of Science       |   |
 | 14.6.  | Informatik                                                         | Informatik                | Promotion                 |   |
-| 14.7.  | Informatik                                                         | Life Science Informatics  | Master of Science         |   |
-| 14.8.  | Informatik                                                         | Informatik                | LA BA Berufskolleg        | X |
-| 14.9.  | Informatik                                                         | Informatik                | LA BA Gym Ge              | X |
-| 14.10. | Informatik                                                         | Informatik                | LA MA Gym Ge              | X |
-| 14.11. | Informatik                                                         | Informatik                | LABA Dritt/Erw.fach GymGe | X |
+| 14.7.  | Informatik                                                         | Informatik                | LA BA Berufskolleg        | X |
+| 14.8.  | Informatik                                                         | Informatik                | LA BA Gym Ge              | X |
+| 14.9.  | Informatik                                                         | Informatik                | LA MA Gym Ge              | X |
+| 14.10. | Informatik                                                         | Informatik                | LABA Dritt/Erw.fach GymGe | X |
+| 14.11. | Informatik                                                         | Life Science Informatics  | Master of Science         |   |
+| 14.12. | Informatik                                                         | Mobile Robotics           | Master of Science         | X |
 | 15.1.  | Interkulturelle Kommunikation und Mehrsprachigkeitsforschung (IKM) | Deutsch a.Zw.u.Fremdspr.  | Bachelor of Arts          |   |
 | 15.2.  | Interkulturelle Kommunikation und Mehrsprachigkeitsforschung (IKM) | Deutsch Zweit-/Fremdspr.  | Bachelor of Arts          |   |
 | 15.3.  | Interkulturelle Kommunikation und Mehrsprachigkeitsforschung (IKM) | Spr.&Komm.i.d.glob.Medges | Bachelor of Arts          |   |
@@ -220,18 +222,19 @@ FAKs, welche mehreren Fachschaften gleichzeitig zugeordnet sind, sind in der let
 | 16.3.  | Jura                                                               | Rechtswissenschaft        | Promotion                 |   |
 | 16.4.  | Jura                                                               | Rechtswissenschaft        | Staatsex.                 |   |
 | 16.5.  | Jura                                                               | Rechtswissenschaft BF     | Bachelor of Arts          |   |
-| 17.1.  | Katholische Theologie                                              | Kath.Theologie            | Kirchl.Ex.                |   |
-| 17.2.  | Katholische Theologie                                              | Kath.Theologie            | Promotion                 |   |
-| 17.3.  | Katholische Theologie                                              | Katholische Theologie     | Bachelor of Arts          |   |
-| 17.4.  | Katholische Theologie                                              | Katholische Theologie     | Magister Theologiae       |   |
-| 17.5.  | Katholische Theologie                                              | Kath. Religionslehre      | LA BA Berufskolleg        | X |
-| 17.6.  | Katholische Theologie                                              | Kath. Religionslehre      | LA MA Gym Ge              | X |
-| 17.7.  | Katholische Theologie                                              | Kath. Religionslehre      | LAMA Dritt/Erw.fach GymGe | X |
-| 17.8.  | Katholische Theologie                                              | Kathol. Religionslehre    | LA BA Gym Ge              | X |
-| 17.9.  | Katholische Theologie                                              | Kathol. Religionslehre    | LABA Dritt/Erw.fach GymGe | X |
-| 17.10. | Katholische Theologie                                              | Alt-Kath. u. Ökum. Theol. | Master of Arts            | X |
-| 17.11. | Katholische Theologie                                              | Altkath.-Theologie        | Kirchl.Ex.                | X |
-| 17.12. | Katholische Theologie                                              | Rel.theo.u.interrel.Dialo | Promotion                 | X |
+| 17.1.  | Katholische Theologie                                              | Comparative Theological Studies | Master of Arts      |   |
+| 17.2.  | Katholische Theologie                                              | Kath.Theologie            | Kirchl.Ex.                |   |
+| 17.3.  | Katholische Theologie                                              | Kath.Theologie            | Promotion                 |   |
+| 17.4.  | Katholische Theologie                                              | Katholische Theologie     | Bachelor of Arts          |   |
+| 17.5.  | Katholische Theologie                                              | Katholische Theologie     | Magister Theologiae       |   |
+| 17.6.  | Katholische Theologie                                              | Kath. Religionslehre      | LA BA Berufskolleg        | X |
+| 17.7.  | Katholische Theologie                                              | Kath. Religionslehre      | LA MA Gym Ge              | X |
+| 17.8.  | Katholische Theologie                                              | Kath. Religionslehre      | LAMA Dritt/Erw.fach GymGe | X |
+| 17.9.  | Katholische Theologie                                              | Kathol. Religionslehre    | LA BA Gym Ge              | X |
+| 17.10. | Katholische Theologie                                              | Kathol. Religionslehre    | LABA Dritt/Erw.fach GymGe | X |
+| 17.11. | Katholische Theologie                                              | Alt-Kath. u. Ökum. Theol. | Master of Arts            | X |
+| 17.12. | Katholische Theologie                                              | Altkath.-Theologie        | Kirchl.Ex.                | X |
+| 17.13. | Katholische Theologie                                              | Rel.theo.u.interrel.Dialo | Promotion                 | X |
 | 18.1.  | Klassische und Romanische Philologie                               | Deutsch-Ital. Studien     | Bachelor of Arts          | X |
 | 18.2.  | Klassische und Romanische Philologie                               | Deutsch-Ital. Studien     | Master of Arts            | X |
 | 18.3.  | Klassische und Romanische Philologie                               | Dt.-Franz. Studien        | Bachelor of Arts          | X |
@@ -244,34 +247,36 @@ FAKs, welche mehreren Fachschaften gleichzeitig zugeordnet sind, sind in der let
 | 18.10. | Klassische und Romanische Philologie                               | Griechisch                | LA BA Gym Ge              | X |
 | 18.11. | Klassische und Romanische Philologie                               | Griechisch                | LA MA Gym Ge              | X |
 | 18.12. | Klassische und Romanische Philologie                               | Griechisch                | LABA Dritt/Erw.fach GymGe | X |
-| 18.13. | Klassische und Romanische Philologie                               | Hispanistik               | Bachelor of Arts          |   |
-| 18.14. | Klassische und Romanische Philologie                               | Italianistik              | Bachelor of Arts          |   |
-| 18.15. | Klassische und Romanische Philologie                               | Klass.Phil./Griechisch    | Promotion                 |   |
-| 18.16. | Klassische und Romanische Philologie                               | Klass.Phil./Latein        | Promotion                 |   |
-| 18.17. | Klassische und Romanische Philologie                               | Latein                    | LA BA Gym Ge              | X |
-| 18.18. | Klassische und Romanische Philologie                               | Latein                    | LA MA Gym Ge              | X |
-| 18.19. | Klassische und Romanische Philologie                               | Latein.Lit. u. ihr Fortl. | Bachelor of Arts          |   |
-| 18.20. | Klassische und Romanische Philologie                               | Mittel-u.Neulatein.Philol | Promotion                 |   |
-| 18.21. | Klassische und Romanische Philologie                               | Renaissance-Studien       | Master of Arts            |   |
-| 18.22. | Klassische und Romanische Philologie                               | Romanische Philologie     | Promotion                 |   |
-| 18.23. | Klassische und Romanische Philologie                               | Romanistik                | Bachelor of Arts          |   |
-| 18.24. | Klassische und Romanische Philologie                               | Romanistik                | Master of Arts            |   |
-| 18.25. | Klassische und Romanische Philologie                               | Romanistik/Franz.Phil.    | Promotion                 |   |
-| 18.26. | Klassische und Romanische Philologie                               | Romanistik/Iberorom.Phil. | Promotion                 |   |
-| 18.27. | Klassische und Romanische Philologie                               | Romanistik/Ital.Phil.     | Promotion                 |   |
-| 18.28. | Klassische und Romanische Philologie                               | Span.Kult.u. europ.Ident. | Master of Arts            |   |
-| 18.29. | Klassische und Romanische Philologie                               | Französisch               | LA BA Berufskolleg        | X |
-| 18.30. | Klassische und Romanische Philologie                               | Französisch               | LA BA Gym Ge              | X |
-| 18.31. | Klassische und Romanische Philologie                               | Französisch               | LA MA Gym Ge              | X |
-| 18.32. | Klassische und Romanische Philologie                               | Französisch               | LAMA Dritt/Erw.fach GymGe | X |
-| 18.33. | Klassische und Romanische Philologie                               | Spanisch                  | LA BA Berufskolleg        | X |
-| 18.34. | Klassische und Romanische Philologie                               | Spanisch                  | LA BA Gym Ge              | X |
-| 18.35. | Klassische und Romanische Philologie                               | Spanisch                  | LA MA Gym Ge              | X |
-| 18.36. | Klassische und Romanische Philologie                               | Italienisch               | LA BA Gym Ge              | X |
-| 18.37. | Klassische und Romanische Philologie                               | Italienisch               | LA MA Gym Ge              | X |
-| 18.38. | Klassische und Romanische Philologie                               | Italienisch               | LABA Dritt/Erw.fach GymGe | X |
-| 18.39. | Klassische und Romanische Philologie                               | Lateinam.-u.Altam.studien | Bachelor of Arts          | X |
-| 18.40. | Klassische und Romanische Philologie                               | Kulturs.zu Lateinamerika  | Master of Arts            | X |
+| 18.13. | Klassische und Romanische Philologie                               | Griechisch                | LAMA Dritt/Erw.fach GymGe | X |
+| 18.14. | Klassische und Romanische Philologie                               | Hispanistik               | Bachelor of Arts          |   |
+| 18.15. | Klassische und Romanische Philologie                               | Italianistik              | Bachelor of Arts          |   |
+| 18.16. | Klassische und Romanische Philologie                               | Klass.Phil./Griechisch    | Promotion                 |   |
+| 18.17. | Klassische und Romanische Philologie                               | Klass.Phil./Latein        | Promotion                 |   |
+| 18.18. | Klassische und Romanische Philologie                               | Latein                    | LA BA Gym Ge              | X |
+| 18.19. | Klassische und Romanische Philologie                               | Latein                    | LA MA Gym Ge              | X |
+| 18.20. | Klassische und Romanische Philologie                               | Latein.Lit. u. ihr Fortl. | Bachelor of Arts          |   |
+| 18.21. | Klassische und Romanische Philologie                               | Mittel-u.Neulatein.Philol | Promotion                 |   |
+| 18.22. | Klassische und Romanische Philologie                               | Renaissance-Studien       | Master of Arts            |   |
+| 18.23. | Klassische und Romanische Philologie                               | Romanische Philologie     | Promotion                 |   |
+| 18.24. | Klassische und Romanische Philologie                               | Romanistik                | Bachelor of Arts          |   |
+| 18.25. | Klassische und Romanische Philologie                               | Romanistik                | Master of Arts            |   |
+| 18.26. | Klassische und Romanische Philologie                               | Romanistik/Franz.Phil.    | Promotion                 |   |
+| 18.27. | Klassische und Romanische Philologie                               | Romanistik/Iberorom.Phil. | Promotion                 |   |
+| 18.28. | Klassische und Romanische Philologie                               | Romanistik/Ital.Phil.     | Promotion                 |   |
+| 18.29. | Klassische und Romanische Philologie                               | Span.Kult.u. europ.Ident. | Master of Arts            |   |
+| 18.30. | Klassische und Romanische Philologie                               | Französisch               | LA BA Berufskolleg        | X |
+| 18.31. | Klassische und Romanische Philologie                               | Französisch               | LA BA Gym Ge              | X |
+| 18.32. | Klassische und Romanische Philologie                               | Französisch               | LA MA Gym Ge              | X |
+| 18.33. | Klassische und Romanische Philologie                               | Französisch               | LAMA Dritt/Erw.fach GymGe | X |
+| 18.34. | Klassische und Romanische Philologie                               | Spanisch                  | LA BA Berufskolleg        | X |
+| 18.35. | Klassische und Romanische Philologie                               | Spanisch                  | LA BA Gym Ge              | X |
+| 18.36. | Klassische und Romanische Philologie                               | Spanisch                  | LA MA Gym Ge              | X |
+| 18.37. | Klassische und Romanische Philologie                               | Spanisch                  | LABA Dritt/Erw.fach GymGe | X |
+| 18.38. | Klassische und Romanische Philologie                               | Italienisch               | LA BA Gym Ge              | X |
+| 18.39. | Klassische und Romanische Philologie                               | Italienisch               | LA MA Gym Ge              | X |
+| 18.40. | Klassische und Romanische Philologie                               | Italienisch               | LABA Dritt/Erw.fach GymGe | X |
+| 18.41. | Klassische und Romanische Philologie                               | Lateinam.-u.Altam.studien | Bachelor of Arts          | X |
+| 18.42. | Klassische und Romanische Philologie                               | Kulturs.zu Lateinamerika  | Master of Arts            | X |
 | 19.1.  | Kulturanthropologie                                                | Kulturanthr./Volkskunde   | Promotion                 |   |
 | 19.2.  | Kulturanthropologie                                                | Kulturanthropol./ Emp.KW  | Bachelor of Arts          |   |
 | 19.3.  | Kulturanthropologie                                                | Transkult.Stud/Kulturanth | Master of Arts            |   |
@@ -339,24 +344,29 @@ FAKs, welche mehreren Fachschaften gleichzeitig zugeordnet sind, sind in der let
 | 21.57. | Lehramt                                                            | Philosoph/Prakt.Philosoph | LA BA Gym Ge              | X |
 | 21.58. | Lehramt                                                            | Philosoph/Prakt.Philosoph | LA MA Gym Ge              | X |
 | 21.59. | Lehramt                                                            | Philosoph/Prakt.Philosoph | LABA Dritt/Erw.fach GymGe | X |
-| 21.60. | Lehramt                                                            | Physik                    | LA BA Gym Ge              | X |
-| 21.61. | Lehramt                                                            | Physik                    | LA MA Gym Ge              | X |
-| 21.62. | Lehramt                                                            | Physik                    | LABA Dritt/Erw.fach GymGe | X |
-| 21.63. | Lehramt                                                            | Prakt. Philosophie        | LA BA Berufskolleg        |   |
-| 21.64. | Lehramt                                                            | Spanisch                  | LA BA Berufskolleg        | X |
-| 21.65. | Lehramt                                                            | Spanisch                  | LA BA Gym Ge              | X |
-| 21.66. | Lehramt                                                            | Spanisch                  | LA MA Gym Ge              | X |
-| 21.67. | Lehramt                                                            | Tierwissenschaften        | LA BA Berufskolleg        |   |
-| 21.68. | Lehramt                                                            | Tierwissenschaften        | LA MA Berufskolleg        |   |
-| 21.69. | Lehramt                                                            | Wirtsch-Pol/Sozialwiss.   | LA BA Gym Ge              | X |
-| 21.70. | Lehramt                                                            | Wirtsch-Pol/Sozialwiss.   | LA MA Gym Ge              | X |
-| 21.71. | Lehramt                                                            | Wirtsch./Sozialw. Landbau | LA BA Berufskolleg        | X |
-| 21.72. | Lehramt                                                            | Wirtschaftsl/Politik      | LA BA Berufskolleg        | X |
-| 21.73. | Lehramt                                                            | Griechisch                | LA BA Gym Ge              | X |
-| 21.74. | Lehramt                                                            | Griechisch                | LA MA Gym Ge              | X |
-| 21.75. | Lehramt                                                            | Griechisch                | LABA Dritt/Erw.fach GymGe | X |
-| 21.76. | Lehramt                                                            | Latein                    | LA BA Gym Ge              | X |
-| 21.77. | Lehramt                                                            | Latein                    | LA MA Gym Ge              | X |
+| 21.60. | Lehramt                                                            | Philosoph/Prakt.Philosoph | LAMA Dritt/Erw.fach GymGe | X |
+| 21.61. | Lehramt                                                            | Physik                    | LA BA Gym Ge              | X |
+| 21.62. | Lehramt                                                            | Physik                    | LA MA Gym Ge              | X |
+| 21.63. | Lehramt                                                            | Physik                    | LABA Dritt/Erw.fach GymGe | X |
+| 21.64. | Lehramt                                                            | Prakt. Philosophie        | LA BA Berufskolleg        |   |
+| 21.65. | Lehramt                                                            | Prakt. Philosophie        | LABA Dritt/Erw.fach BK    |   |
+| 21.66. | Lehramt                                                            | Spanisch                  | LA BA Berufskolleg        | X |
+| 21.67. | Lehramt                                                            | Spanisch                  | LA BA Gym Ge              | X |
+| 21.68. | Lehramt                                                            | Spanisch                  | LA MA Gym Ge              | X |
+| 21.69. | Lehramt                                                            | Spanisch                  | LABA Dritt/Erw.fach GymGe | X |
+| 21.70. | Lehramt                                                            | Tierwissenschaften        | LA BA Berufskolleg        |   |
+| 21.71. | Lehramt                                                            | Tierwissenschaften        | LA MA Berufskolleg        |   |
+| 21.72. | Lehramt                                                            | Wirtsch-Pol/Sozialwiss.   | LA BA Gym Ge              | X |
+| 21.73. | Lehramt                                                            | Wirtsch-Pol/Sozialwiss.   | LA MA Gym Ge              | X |
+| 21.74. | Lehramt                                                            | Wirtsch-Pol/Sozialwiss.   | LAMA Dritt/Erw.fach GymGe | X |
+| 21.75. | Lehramt                                                            | Wirtsch./Sozialw. Landbau | LA BA Berufskolleg        | X |
+| 21.76. | Lehramt                                                            | Wirtschaftsl/Politik      | LA BA Berufskolleg        | X |
+| 21.77. | Lehramt                                                            | Griechisch                | LA BA Gym Ge              | X |
+| 21.78. | Lehramt                                                            | Griechisch                | LA MA Gym Ge              | X |
+| 21.79. | Lehramt                                                            | Griechisch                | LABA Dritt/Erw.fach GymGe | X |
+| 21.80. | Lehramt                                                            | Griechisch                | LAMA Dritt/Erw.fach GymGe | X |
+| 21.81. | Lehramt                                                            | Latein                    | LA BA Gym Ge              | X |
+| 21.82. | Lehramt                                                            | Latein                    | LA MA Gym Ge              | X |
 | 22.1.  | Mathematik                                                         | Mathematics               | Master of Science         |   |
 | 22.2.  | Mathematik                                                         | Mathematik                | Bachelor of Science       |   |
 | 22.3.  | Mathematik                                                         | Mathematik                | Promotion                 |   |
@@ -455,9 +465,10 @@ FAKs, welche mehreren Fachschaften gleichzeitig zugeordnet sind, sind in der let
 | 31.5.  | Philosophie                                                        | Philosoph/Prakt.Philosoph | LA BA Gym Ge              | X |
 | 31.6.  | Philosophie                                                        | Philosoph/Prakt.Philosoph | LA MA Gym Ge              | X |
 | 31.7.  | Philosophie                                                        | Philosoph/Prakt.Philosoph | LABA Dritt/Erw.fach GymGe | X |
-| 31.8.  | Philosophie                                                        | Alt-Kath. u. Ökum. Theol. | Master of Arts            | X |
-| 31.9.  | Philosophie                                                        | Altkath.-Theologie        | Kirchl.Ex.                | X |
-| 31.10. | Philosophie                                                        | Rel.theo.u.interrel.Dialo | Promotion                 | X |
+| 31.8.  | Philosophie                                                        | Philosoph/Prakt.Philosoph | LAMA Dritt/Erw.fach GymGe | X |
+| 31.9.  | Philosophie                                                        | Alt-Kath. u. Ökum. Theol. | Master of Arts            | X |
+| 31.10. | Philosophie                                                        | Altkath.-Theologie        | Kirchl.Ex.                | X |
+| 31.11. | Philosophie                                                        | Rel.theo.u.interrel.Dialo | Promotion                 | X |
 | 32.1.  | Physik/Astronomie                                                  | Astronomie/Astrophysik    | Promotion                 |   |
 | 32.2.  | Physik/Astronomie                                                  | Astrophysik               | Master of Science         |   |
 | 32.3.  | Physik/Astronomie                                                  | Physik                    | Bachelor of Science       |   |
@@ -475,8 +486,9 @@ FAKs, welche mehreren Fachschaften gleichzeitig zugeordnet sind, sind in der let
 | 33.7.  | Politik & Soziologie                                               | Strat.a.Internat.Security | Master of Arts            |   |
 | 33.8.  | Politik & Soziologie                                               | Wirtsch-Pol/Sozialwiss.   | LA BA Gym Ge              | X |
 | 33.9.  | Politik & Soziologie                                               | Wirtsch-Pol/Sozialwiss.   | LA MA Gym Ge              | X |
-| 33.10. | Politik & Soziologie                                               | Wirtsch./Sozialw. Landbau | LA BA Berufskolleg        | X |
-| 33.11. | Politik & Soziologie                                               | Wirtschaftsl/Politik      | LA BA Berufskolleg        | X |
+| 33.10. | Politik & Soziologie                                               | Wirtsch-Pol/Sozialwiss.   | LAMA Dritt/Erw.fach GymGe | X |
+| 33.11. | Politik & Soziologie                                               | Wirtsch./Sozialw. Landbau | LA BA Berufskolleg        | X |
+| 33.12. | Politik & Soziologie                                               | Wirtschaftsl/Politik      | LA BA Berufskolleg        | X |
 | 34.1.  | Psychologie                                                        | Erziehungswiss.           | Promotion                 |   |
 | 34.2.  | Psychologie                                                        | Psychologie               | Bachelor of Arts          |   |
 | 34.3.  | Psychologie                                                        | Psychologie               | Bachelor of Science       |   |
