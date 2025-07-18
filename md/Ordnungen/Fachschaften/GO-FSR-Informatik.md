@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
-date:  27. Mai 2025
+date:  18. Juli 2025
 type:  Ordnung
 id:    GO-FSR-Informatik
 contains:
@@ -60,6 +60,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  27. Mai 2025
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2025/vsbonn_bekanntmachung_2025-27.pdf
+  ref: 5858f25b2c281fb5d558b78f456509ae4aa1dee5/md/Ordnungen/Fachschaften/GO-FSR-Informatik.md
+- title: Zweite Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
+  short: Zweite Ordnung zur Änderung der Geschäftsordnung des Fachschaftsrats der Fachschaft Informatik
+  actorgan: Fachschaftsrat Fachschaft Informatik
+  actdate:  16. Juli 2025
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  18. Juli 2025
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2025/vsbonn_bekanntmachung_2025-51.pdf
   ref: HEAD/md/Ordnungen/Fachschaften/GO-FSR-Informatik.md
 
 ---
@@ -142,8 +150,8 @@ des FSR berichtet werden. Antrag und Ausgang sind im Protokoll der Sitzung festz
 
 ### § 4 Protokoll
 
-(1) Es wird ein Verlaufsprotokoll geführt, aus dem der grobe Verlauf der
-Diskussion sowie die Ergebnisse ersichtlich sein sollen.
+(1) Es wird ein Sitzungsprotokoll geführt, aus dem die Beschlüsse sowie die zur Beschlussfindung
+relevanten Argumente ersichtlich werden.
 
 (2) Das Protokoll besteht aus einem öffentlichen und einem fachschaftsöffentlichen Teil.
 
