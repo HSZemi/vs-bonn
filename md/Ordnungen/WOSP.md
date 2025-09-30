@@ -1,7 +1,7 @@
 ---
 title: Wahlordnung für die Wahlen zum Studierendenparlament (WOSP)
 short: Wahlordnung für die Wahlen zum Studierendenparlament (WOSP)
-date:  14. Oktober 2024
+date:  30. September 2025
 type:  Ordnung
 id:    WOSP
 contains:
@@ -84,6 +84,16 @@ contains:
   puborgan: Amtliche Bekanntmachungen
   pubdate: 14. Oktober 2024
   puburl: https://hdl.handle.net/20.500.11811/12468
+  ref: 4bedd576a89454e73f9f24a56c9ffaf9cc376118/md/Ordnungen/WOSP.md
+- title: Änderungsordnung der Wahlordnung für die Wahlen zum Studierendenparlament der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: Änderungsordnung der Wahlordnung für die Wahlen zum Studierendenparlament
+  actorgan: Studierendenparlament
+  actdate:  16. Juli 2025
+  confirmorgan: Rektorat
+  confirmdate: 2. September 2025
+  puborgan: Amtliche Bekanntmachungen
+  pubdate: 30. September 2025
+  puburl: https://hdl.handle.net/20.500.11811/13475
   ref: HEAD/md/Ordnungen/WOSP.md
 
 ---
@@ -127,17 +137,17 @@ passives Wahlrecht
 (2) Zur Vorbereitung und Kontrolle der Wahlen wählt das Studierendenparlament einen Wahlausschuss (WA).
 Seine Besetzung richtet sich nach den entsprechenden Satzungsvorschriften.
 
-(3) Für Mitglieder des Wahlausschusses müssen Stellvertreterinnen gewählt werden.
+(3) Für Mitglieder des Wahlausschusses sollen Stellvertreterinnen gewählt werden.
 
 (4) Die Mitglieder und stellvertretenden Mitglieder des Wahlausschusses müssen vom
-Studierendenparlament mit absoluter Mehrheit der Stimmen gewählt werden. Im dritten Wahlgang genügt
-die einfache Mehrheit.
+Studierendenparlament mit der Mehrheit der Mitglieder gewählt werden. Im dritten Wahlgang
+genügt die einfache Mehrheit.
 
 (5) Das SP wählt die Wahlleitung (Wahlleiterin und deren Stellvertreterin) aus der Mitte des
-Wahlausschusses. Dafür ist in den ersten beiden Wahlgängen eine Zweidrittelmehrheit erforderlich. Im
-dritten Wahlgang ist gewählt, wer die meisten Stimmen erhält. Vorschläge für die Kandidatur erfolgen
-schriftlich. Den Kandidierenden ist im SP genügend Zeit für ihre Vorstellung einräumen. Die Wahlleitung soll
-spätestens 90 Tage vor dem ersten Wahltag gewählt werden.
+Wahlausschusses. Dafür ist in den ersten beiden Wahlgängen eine qualifizierte Zweidrittelmehrheit
+erforderlich. Im dritten Wahlgang ist gewählt, wer die meisten Stimmen erhält. Vorschläge für die
+Kandidatur erfolgen schriftlich. Den Kandidierenden ist im SP genügend Zeit für ihre Vorstellung
+einzuräumen. Die Wahlleitung soll spätestens 120 Tage vor dem ersten Wahltag gewählt werden.
 
 (6) Die erste Sitzung des Wahlausschusses hat spätestens 10 Tage nach der Wahl der Wahlleitung
 stattzufinden.
@@ -160,18 +170,24 @@ fasst (außerordentliche Sitzung). Hierauf ist bei der Einladung ausdrücklich h
 Sitzung kann 30 Minuten nach Beginn einer nicht beschlussfähigen ordentlichen Sitzung stattfinden; hierzu
 muss unverzüglich nach Feststellung der Beschlussunfähigkeit eingeladen werden.
 
-(10) Gegen Beschlüsse und Entscheidungen des Wahlausschusses und der Wahlleiterin kann das
+(10) Der Wahlausschuss kann auf Vorschlag der Wahlleiterin seine Sitzungen in elektronischer
+Kommunikation abhalten und Beschlüsse im Umlaufverfahren fassen. Wünscht mindestens ein
+Ausschussmitglied eine Präsenzsitzung oder -abstimmung, so ist dem nachzukommen. Für geheime
+Abstimmungen gilt der Ausschuss in hybrider oder digitaler Tagungsform als nicht beschlussfähig.
+
+(11) Gegen Beschlüsse und Entscheidungen des Wahlausschusses und der Wahlleiterin kann das
 Schlichtungsgremium angerufen werden, soweit kein Verwaltungsakt im Sinne des § 35
 Verwaltungsverfahrensgesetz NRW (VwVfG NRW) angegriffen wird.
 
-(11) Der Wahlleiterin obliegt die Vorbereitung, Einberufung und Leitung der Ausschusssitzungen sowie die
+(12) Der Wahlleiterin obliegt die Vorbereitung, Einberufung und Leitung der Ausschusssitzungen sowie die
 Durchführung der Beschlüsse des Wahlausschusses. Sie übt bei den Sitzungen des Wahlausschusses das
 Hausrecht aus. Im Verhinderungsfall übernimmt die Stellvertreterin diese Aufgaben.
 
-(12) Tritt die Wahlleiterin zurück, hat sie ihre Geschäfte kommissarisch bis zur Wahl einer neuen Wahlleiterin
+(13) Tritt die Wahlleiterin zurück, hat sie ihre Geschäfte kommissarisch bis zur Wahl einer neuen Wahlleiterin
 nach § 3 Absatz 5 weiterzuführen.
 
-(13) Das SP kann mit einer Zweidrittelmehrheit die Wahlleiterin konstruktiv abwählen.
+(14) Das SP kann mit einer qualifizierten Zweidrittelmehrheit die Wahlleiterin konstruktiv
+abwählen.
 
 
 ### § 4 Aufgaben des Wahlausschusses
@@ -188,8 +204,8 @@ können aus dem Sitzungsraum verwiesen werden.
 
 (3) Über die Verhandlungen des Wahlausschusses und seine Beschlüsse sind Niederschriften anzufertigen,
 die von der Wahlleiterin sowie einem weiteren Mitglied des Wahlausschusses und der Protokollführerin zu
-unterzeichnen sind. Diese Protokolle sind zu veröffentlichen. Die Protokolle sind auf der nächsten Sitzung zu
-genehmigen und danach unverzüglich zu veröffentlichen. Bei verspäteter Veröffentlichung wird dem mit der
+unterzeichnen sind. Die Protokolle sollen spätestens auf der nächsten Sitzung genehmigt werden und sind danach
+unverzüglich zu veröffentlichen. Bei verspäteter Veröffentlichung wird dem mit der
 Protokollführung betrauten WA-Mitglied ein Teil seiner Aufwandsentschädigung abgezogen. Die hier
 genannten Protokolle ersetzen nicht die Protokolle gemäß § 20 WO, sondern stellen eine Ergänzung dar.
 
@@ -214,15 +230,17 @@ die Wahlbeteiligung.
 
 ### § 5 Aufwandsentschädigung
 
-(1) Für allgemeine Organisation und Koordination erhalten die Wahlleiterin eine Aufwandsentschädigung (AE)
-von 325,- Euro, die stellvertretende Wahlleiterin eine Aufwandsentschädigung von 250,- Euro. Des
-Weiteren gibt es einen mit 5000,- Euro dotierten Titel „Aufwandsentschädigung Wahlausschuss“. Dieses Geld
-teilen die Mitglieder des Wahlausschusses, gebunden an vom Wahlausschuss zu beschließende Kriterien,
-unter sich auf. Nach der Wahl ist eine Liste der Aufgabenverteilung samt AE-Verteilung zu erstellen und zur
-Kenntnisnahme an SP und AStA-Finanzreferat zu geben.
+1) Für allgemeine Organisation und Koordination erhalten die Wahlleiterin eine
+Aufwandsentschädigung (AE) von 325,- Euro, die stellvertretende Wahlleiterin eine
+Aufwandsentschädigung von 250,- Euro. Des Weiteren gibt es einen mit mindestens 5000,- Euro
+dotierten Titel „Aufwandsentschädigung Wahlausschuss“. Näheres regelt der Haushaltsplan. Dieses
+Geld teilen die Mitglieder des Wahlausschusses, gebunden an vom Wahlausschuss zu beschließende
+Kriterien, unter sich auf. Nach der Wahl ist eine Liste der Aufgabenverteilung samt AE-Verteilung zu
+erstellen und zur Kenntnisnahme an SP und AStA-Finanzreferat zu geben.
 
-(2) Übernimmt der Wahlausschuss die Aufgaben des Urabstimmungsausschusses, so erhöht sich der Betrag
-des Titels „Aufwandsentschädigung Wahlausschuss“ um 1000,- € auf 6000,- €.
+(2) Übernimmt der Wahlausschuss die Aufgaben des Urabstimmungsausschusses, so erhöht sich die
+Aufwandsentschädigung um mindestens 1000,- Euro aus dem Titel „AE Urabstimmung“. Näheres
+regelt der Haushaltsplan.
 
 (3) Das SP kann Tätigkeiten von einer Bezahlung ausschließen. Das SP-Präsidium lässt dem AStA-
 Finanzreferat vor der Wahl eine Liste aller von der Bezahlung ausgeschlossenen Tätigkeiten zukommen.
@@ -230,9 +248,10 @@ Finanzreferat vor der Wahl eine Liste aller von der Bezahlung ausgeschlossenen T
 (4) Am Auszählabend werden Mitglieder des Wahlausschusses und Auszählhelferinnen gleich bezahlt: Der
 „Stundenlohn“, entspricht dem der Wahlhelferinnen.
 
-(5) Der Wahlausschuss beschließt den Stundensatz für die Wahlhelferinnen. Dabei ist darauf zu achten, dass
-es sich hierbei dem Wesen nach nicht um Lohn für eine Angestelltentätigkeit, sondern um
-Aufwandsentschädigung für ein Ehrenamt handelt.
+(5) Der Wahlausschuss beschließt den Stundensatz für die Wahlhelferinnen. Der Stundensatz soll
+nicht unter dem gesetzlichen Mindestlohn liegen. Dabei ist darauf zu achten, dass es sich hierbei dem
+Wesen nach nicht um Lohn für eine Angestelltentätigkeit, sondern um Aufwandsentschädigung für
+ein Ehrenamt handelt.
 
 
 ### § 6 Wahlhelferinnen
@@ -258,8 +277,9 @@ kandidieren.
 
 ### § 8 Wahlausschreibung
 
-Der Wahlausschuss schreibt die Wahlen zum Studierendenparlament bis spätestens zum 27. Tag vor dem 1. Wahltag
-aus. Die Wahlausschreibung ist zu veröffentlichen. Darüber hinaus soll die Wahlleiterin in
+Der Wahlausschuss soll die Wahlen zum Studierendenparlament bis zum 45. Tag vor dem ersten
+Wahltag, aber spätestens zum 27. Tag vor dem 1. Wahltag, ausschreiben.
+Die Wahlausschreibung ist zu veröffentlichen. Darüber hinaus soll die Wahlleiterin in
 auffälliger Weise für die Bekanntgabe sorgen. Die Wahlausschreibung muss mindestens enthalten:
 
 1. Ort und Datum Ihrer Veröffentlichung;
@@ -373,23 +393,20 @@ nur noch durch den Wahlausschuss möglich.
 
 ### § 12 Überprüfung der Listenbewerbungen
 
-(1) Der Wahlausschuss prüft eine Listenbewerbung sofort nach Eingang auf Vollständigkeit. Unvollständige
-Listenbewerbungen sind zurückzuweisen. Eine Listenbewerbung gilt nur dann als unvollständig, wenn das
-Listendeckblatt oder Angaben darauf fehlen.
+(1) Der Wahlausschuss prüft eine Listenbewerbung sofort nach Eingang auf Vollständigkeit.
+Unvollständige Listenbewerbungen sind fristgemäß zu vervollständigen. Erfolgt keine fristgemäße
+Vervollständigung, hat der Wahlausschuss die Bewerbung zurückzuweisen. Eine Listenbewerbung
+gilt nur dann als unvollständig, wenn das Listendeckblatt oder Angaben darauf fehlen.
 
 (2) Verspätet eingegangene Listenbewerbungen bleiben unberücksichtigt.
 
-(3) Der Wahlausschuss ordnet jede Listenbewerbung einer Listenbewerbung der letzten Wahl zu oder
-entscheidet, dass es sich um eine neue Listenbewerbung handelt. Bei der Zuordnung sind Listennamen und
-Verkehrsauffassung zu berücksichtigen.
-
-(4) Der Wahlausschuss prüft alle eingegangenen Listenbewerbungen unmittelbar nach dem Ende der Frist
+(3) Der Wahlausschuss prüft alle eingegangenen Listenbewerbungen unmittelbar nach dem Ende der Frist
 zur Einreichung auf Korrektheit. Zur Verifikation der eingereichten Kandidaturen arbeitet er unter
 Berücksichtigung des Datenschutzes mit der Hochschulverwaltung zusammen. Offensichtliche Fehler in den
 Kandidaturen und auf dem Bewerbungsdeckblatt korrigiert der Wahlausschuss selbsttätig, sofern dies mit
 vertretbarem Aufwand möglich ist. Dies gilt insbesondere für die inkorrekte Benennung von Studiengängen.
 
-(5) Ergibt die Prüfung, dass eine Kandidatur Mängel enthält, die der Wahlausschuss nicht selbst beheben
+(4) Ergibt die Prüfung, dass eine Kandidatur Mängel enthält, die der Wahlausschuss nicht selbst beheben
 kann, so fordert er die Kandidatin und die Vertrauenspersonen ihrer Listenbewerbung unter Angabe der
 Gründe unverzüglich zu ihrer Beseitigung auf. Er hat für die Beseitigung eine Frist zu setzen. Lässt sich der
 Mangel nicht beseitigen oder erfolgt die Beseitigung nicht innerhalb der Frist, wird die entsprechende
@@ -397,7 +414,7 @@ Kandidatur von der Listenbewerbung gestrichen. Ergeben sich dadurch neue Mängel
 Listenbewerbung, ist abermals eine Frist zu deren Behebung zu setzen, falls der Wahlausschuss diese nicht
 selbst beheben kann.
 
-(6) Nach Prüfung und gegebenenfalls Korrektur der Listenbewerbungen erstellt der Wahlausschuss für jede
+(5) Nach Prüfung und gegebenenfalls Korrektur der Listenbewerbungen erstellt der Wahlausschuss für jede
 Listenbewerbung ein Verzeichnis, das die für die Wahl relevanten Daten enthält. Dies sind insbesondere der
 Listenname sowie für jede Kandidatur Vor- und Nachnamen, Studiengang und Platz in der Listenreihung.
 Jeder Vertrauensperson wird dann dieses Verzeichnis ihrer Liste übersandt. Der Wahlausschuss setzt eine
@@ -405,7 +422,7 @@ Frist fest, innerhalb derer die Vertrauenspersonen Korrekturen an diesem Verzeic
 Korrekturforderungen sind zu begründen. Erkennt der Wahlausschuss die vorgebrachten Gründe an, wird die
 Listenbewerbung entsprechend geändert. Erkennt er sie nicht an, entscheidet das Schlichtungsgremium.
 
-(7) Der Wahlausschuss beschließt nach Ablauf dieser Frist über die Zulassung der Listenbewerbungen zur
+(6) Der Wahlausschuss beschließt nach Ablauf dieser Frist über die Zulassung der Listenbewerbungen zur
 Wahl. Die Entscheidung wird unter Anwendung des Landeszustellungsgesetzes NRW (LZG NRW) in der jeweils
 gültigen Fassung zugestellt.
 
@@ -455,9 +472,10 @@ zu schaffen.
 Publikationsorgane die Wahlberechtigten, die sich im Urlaubssemester befinden, über Ort und Zeit der Wahl
 sowie das zu wählende Organ zu benachrichtigen und auf die Berechtigung zur Briefwahl hinzuweisen.
 
-(5) Die Wahlleiterin muss frühzeitig, spätestens zehn Tage vor dem ersten Wahltag, Termin und Ort der
-Wahl bekannt geben. Die Wahlbekanntmachung muss mindestens die Angaben des § 8 Ziff. 1 bis 5 und 8
-bis 12 enthalten.
+(5) Die Wahlleiterin muss frühzeitig, spätestens zehn Tage vor dem ersten Wahltag, Termin und Ort
+der Wahl durch Plakate, Rundschreiben an die betreffenden Fachschaften und soweit möglich an die
+Institute sowie an die Studierendenwohnheime und durch Handzettel bekannt machen. Die
+Wahlbekanntmachung muss mindestens die Angaben des § 8 Ziff. 1 bis 5 und 8 bis 12 enthalten.
 
 
 ### § 14 Stimmzettel
@@ -468,9 +486,7 @@ bis 12 enthalten.
 
 1. die Bezeichnung der Wahl, für die sie gelten;
 2. einen Hinweis auf die Anzahl der Stimmen, die jede Wählerin vergeben darf;
-3. die Listen in der Reihenfolge ihrer Stärke aufgrund der in der letzten Wahl errungenen
-Stimmenzahl;
-4. danach erstmals kandidierende Listen in alphabetischer Reihenfolge.
+3. die Listen in durch Los bestimmter Reihenfolge.
 
 (3) Auf einer Liste werden alle Kandidatinnen namentlich aufgeführt. Die Reihenfolge der
 Listenkandidatinnen entspricht derjenigen beim Eingang der Listenbewerbung. Sie wird durch
@@ -485,30 +501,24 @@ Kandidatin angegebenen Studienfächer in geeigneter Form auszuweisen.
 (1) Die Wahl findet in der Regel gemäß § 6 Absatz 1 der Satzung der Studierendenschaft der Rheinischen
 Friedrich-Wilhelms-Universität statt.
 
-(2) Die Wahl hat an vier aufeinanderfolgenden Wahltagen innerhalb einer Woche stattzufinden. Wahltage
-sind Werktage mit ordentlichem Vorlesungsbetrieb außer Sonnabend. Das Studierendenparlament legt die
-Wahltage bis spätestens 50 Tage vor dem ersten Wahltag fest.
+(2) Die Wahl hat an vier aufeinanderfolgenden Wahltagen innerhalb einer Woche stattzufinden.
+Wahltage sind Werktage mit ordentlichem Vorlesungsbetrieb außer Sonnabend. Das
+Studierendenparlament soll die Wahltage bis 120 Tage vor dem ersten Wahltag festlegen, spätestens
+aber bis zum 50. Tag vor dem ersten Wahltag. Der Wahltermin soll spätestens mit der Wahl der
+Wahlleitung festgelegt werden.
 
 
-### § 16 Wahlbekanntmachung und Wahlbenachrichtigung
+### § 16 Wählerinnenverzeichnis
 
 (1) Die Wahlleiterin erstellt in Zusammenarbeit mit der Hochschulverwaltung ein Wählerinnenverzeichnis,
 das Namen und Matrikelnummer der Wahlberechtigten enthält. Bei der Erstellung des
 Wählerinnenverzeichnisses ist den Erfordernissen des Datenschutzes Rechnung zu tragen.
 
-(2) Das Wählerinnenverzeichnis liegt drei Wochen vor Wahlbeginn bei der Wahlleiterin zur Einsichtnahme
-aus.
+(2) Das Wählerinnenverzeichnis liegt bei der Wahlleiterin zur Einsichtnahme zu den genannten
+Fristen aus der Wahlausschreibung aus.
 
 (3) Einsprüche gegen die Richtigkeit des Wählerinnenverzeichnisses können bei der Wahlleiterin schriftlich
 oder zur Niederschrift bis eine Woche vor Wahlbeginn eingelegt werden.
-
-(4) Die Wahlleiterin hat in geeigneter Form die Voraussetzungen für eine möglichst hohe Wahlbeteiligung
-zu schaffen.
-
-(5) Die Wahlleiterin muss frühzeitig, spätestens zehn Tage vor dem ersten Wahltag, Termin und Ort der
-Wahl durch Plakate, Rundschreiben an die betreffenden Fachschaften und Institute sowie an die
-Studierendenwohnheime und durch Handzettel bekanntmachen. Die Wahlbekanntmachung muss
-mindestens die Angaben des § 8 Ziff. 1 bis 5 und 8 bis 12 enthalten.
 
 
 ### § 17 Wahlsicherung
@@ -559,9 +569,10 @@ Wahlausschuss die erforderlichen Maßnahmen zu treffen.
 des Wahlausschusses unter Aufsicht der Wahlleiterin. Das Schlichtungsgremium soll als Wahlbeobachter der
 Versiegelung beiwohnen. Es gilt § 3 Absatz 11 sinngemäß.
 
-(11) Im Umkreis von 5 Metern um die Wahllokale ist jegliche Form der Wahlwerbung für Wahlvorschläge
-untersagt (Bannmeile). Der Wahlausschuss überwacht die Einhaltung dieser Vorschrift. Vom Wahlausschuss
-veröffentlichte Dokumente dürfen auch innerhalb der Bannmeile ausliegen.
+(11) In Hör- und Sichtweite um die Wahllokale ist jegliche Form der Wahlwerbung für
+Wahlvorschläge untersagt (Bannmeile). Der Wahlausschuss überwacht die Einhaltung dieser
+Vorschrift. Vom Wahlausschuss veröffentlichte Dokumente dürfen auch innerhalb der Bannmeile
+ausliegen.
 
 
 ### § 18 Wahlvorgang
@@ -649,7 +660,8 @@ Wahlutensilien bei dem Wahlausschuss ab.
 (2) Die Wahlleiterin prüft die Siegel auf ihre Unversehrtheit.
 
 (3) Die Auszählung der Stimmen erfolgt unter Aufsicht der Wahlleitung durch die Mitglieder des
-Wahlausschusses und die hierfür bestimmten Wahlhelferinnen unverzüglich nach Beendigung der Wahl.
+Wahlausschusses und die hierfür bestimmten Wahlhelferinnen spätestens am Tag nach Beendigung
+der Wahl.
 
 (4) Die Auszählung erfolgt öffentlich. Die Wahlleiterin kann Personen, die die Ordnung und Ruhe stören,
 aus dem Auszählungsraum verweisen.
@@ -700,7 +712,14 @@ Bewerbung. Die übrigen Sitze werden den noch nicht nach Satz 1 berücksichtigte
 Reihenfolge zugeteilt, in der sie in der Bewerbung benannt sind. Entfallen auf eine Liste mehr Sitze, als
 Kandidatinnen genannt sind, so bleiben diese Sitze unbesetzt.
 
-(6) Würde das Sitzverteilungsverfahren mehr Sitze zuteilen als das SP Sitze hat, entscheidet unter
+(6) Für die Vergabe der Stellvertreterinnenplätze ist das Verfahren nach Absatz 4 nicht auf die Zahl
+der der Liste zugewiesenen Sitze, sondern auf die Summe aus der Anzahl der Sitze und der
+Stellvertreterinnenplätze anzuwenden. Aus dem so ermittelten Ergebnis sind zunächst die bereits
+durch Listenwahl oder Personenwahl vergebenen Sitze abzuziehen.
+Die verbleibenden Stellvertreterinnenplätze werden anschließend entsprechend Absatz 5 auf die
+Kandidaturen verteilt, denen kein Sitz zugeteilt wurde.
+
+(7) Würde das Sitzverteilungsverfahren mehr Sitze zuteilen als das SP Sitze hat, entscheidet unter
 Beachtung der ursprünglichen Zuteilungsreihenfolge das Los unter Aufsicht der Wahlleiterin, welchen
 Bewerbungen die zu vergebenden Sitze tatsächlich zugeteilt werden.
 
@@ -719,7 +738,7 @@ Bewerbungen die zu vergebenden Sitze tatsächlich zugeteilt werden.
 aufgeschlüsselt in nach Personenstimmen und Listenstimmen vergebene Sitze;
 8. die Angabe darüber, welche Kandidatinnen gewählt sind und welche nicht.
 
-(2) Der Wahlausschuss stellt das Wahlergebnis auf einer Sitzung fest; es ist spätestens drei Tage nach seiner
+(2) Der Wahlausschuss stellt das Wahlergebnis auf einer Sitzung fest; es ist unverzüglich nach seiner
 Feststellung zu veröffentlichen.
 
 (3) Bekanntgaben von einzelnen Urnenergebnissen während der Auszählung oder von vorläufigen
@@ -752,8 +771,9 @@ gewählten Kandidatinnen, Stellvertreterinnen und Nachrückerinnen.
 
 ### § 26 Nachrückerinnen
 
-(1) Bei Ausscheiden oder Verzicht einer gewählten Studierendenvertreterin während der Amtsperiode wird
-die Nachrückerin aus der Liste durch eine Neuberechnung nach § 23 Absatz 5 festgestellt. Dabei bleiben
+(1) Bei Ausscheiden oder Verzicht einer gewählten Studierendenvertreterin während der
+Amtsperiode wird die Nachrückerin aus der Liste durch eine Neuberechnung nach § 23 Absatz 5
+und 6 festgestellt. Dabei bleiben
 diejenigen Kandidatinnen unberücksichtigt, die verstorben sind, nicht mehr Teil der Studierendenschaft der
 Universität Bonn sind, die Annahme der Wahl abgelehnt haben oder aus dem Studierendenparlament
 ausgeschieden sind. Ist keine Nachrückerin vorhanden, bleibt der Sitz im Studierendenparlament frei.
