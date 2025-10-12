@@ -111,7 +111,6 @@ function Doc(body, metadata, variables)
   end
    if #toc > 0 then
     add('<h3>Inhaltsverzeichnis <span id="toctoggle" class="eye-open" aria-hidden="true" onclick="toggleTOC()"></span></h3>')
-    add('<script type="text/javascript" src="{path_to_top}toc.js"></script>')
     add('<ol id="toc" class="toc">')
     for _,item in pairs(toc) do
       add(item)
@@ -136,6 +135,7 @@ function Doc(body, metadata, variables)
     add(containsBox(metadata['contains']))
   end
   add('</div>')
+  add('<script type="text/javascript" src="{path_to_top}toc.js"></script>')
   return table.concat(buffer,'\n')
 end
 
