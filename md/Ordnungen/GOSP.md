@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung des Bonner Studierendenparlaments (GOSP)
 short: Geschäftsordnung des Bonner Studierendenparlaments (GOSP)
-date:  22. Juli 2025
+date:  21. November 2025
 type:  Ordnung
 id:    GOSP
 contains:
@@ -92,6 +92,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  22. Juli 2025
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2025/vsbonn_bekanntmachung_2025-54.pdf
+  ref: 060d4cadbbd79246a1fd0fc150f2148b0a97bcf2/md/Ordnungen/GOSP.md
+- title: Erste Ordnung zur Änderung der Geschäftsordnung des Bonner Studierendenparlaments (GOSP)
+  short: Erste Ordnung zur Änderung der Geschäftsordnung des Bonner Studierendenparlaments (GOSP)
+  actorgan: Studierendenparlament
+  actdate:  17. November 2025
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  21. November 2025
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2025/vsbonn_bekanntmachung_2025-67.pdf
   ref: HEAD/md/Ordnungen/GOSP.md
 
 ---
@@ -649,8 +657,15 @@ unterschreiben.
 Lesungen von der SP-Sprecherin zu einer Lesung zusammengezogen. Auf Verlangen ist ein Antrag in
 drei getrennten Lesungen zu behandeln.
 
-(2) Satzungen, Ordnungen und der Haushaltsplan müssen in drei getrennten Lesungen behandelt werden.
-Erste und zweite Lesung müssen auf getrennten Sitzungen erfolgen.
+(2) Beschlüsse von Satzungen, Ordnungen, des Haushaltsplans sowie von Nachträgen zum
+Haushalt müssen in drei getrennten Lesungen behandelt werden. Erste und zweite Lesung
+müssen auf getrennten Sitzungen erfolgen. Dies betrifft auch die Änderung von Satzungen
+und Ordnungen, da hierzu eine Änderungssatzung bzw. Änderungsordnung beschlossen
+wird. Dies betrifft jedoch nicht die bloße Bestätigung von Satzungen, Ordnungen oder
+Richtlinien, die von anderen Gremien beschlossen wurden. Insbesondere betrifft es nicht die
+Bestätigung der von der FK beschlossenen Satzung zur Gliederung der Studierendenschaft
+in Fachschaften nach § 22 Absatz 2 SdS durch das Studierendenparlament, und auch nicht
+die Bestätigung von Änderungen jener Satzung.
 
 (3) Gleichartige oder verwandte Anträge sollen gemeinsam beraten werden. Auf Verlangen müssen sie
 getrennt beraten werden.
@@ -927,8 +942,9 @@ Entscheidungsbefugnis nach § 48 Absatz 3 und der Haushaltsausschuss sind nur be
 mehr als die Hälfte der gewählten Mitglieder anwesend sind. Die Beschlussfähigkeit des Wahlausschusses
 richtet sich nach den Regelungen der WOSP.
 
-(2) Bei Feststellung der Beschlussunfähigkeit soll innerhalb von 14 Tagen zu einer weitere Sitzung
-eingeladen werden.
+(2) Bei Feststellung der Beschlussunfähigkeit soll innerhalb von 14 Tagen zu einer außerordentlichen
+Sitzung eingeladen werden. Die Bestimmungen zu außerordentlichen Sitzungen
+aus § 20 gelten entsprechend.
 
 
 ### § 48 Ausschüsse mit Entscheidungsbefugnis
