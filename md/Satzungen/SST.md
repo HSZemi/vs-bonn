@@ -1,7 +1,7 @@
 ---
 title: Satzung zur Erstattung des Mobilitätsbeitrags zum Semesterticket (Semesterticket-Satzung - SST)
 short: Satzung zur Erstattung des Mobilitätsbeitrags zum Semesterticket (Semesterticket-Satzung - SST)
-date:  1. Oktober 2024
+date:  1. April 2026
 type:  Satzung
 id:    SST
 contains:
@@ -84,6 +84,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  14. September 2024
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-72.pdf
+  ref: 5e1d3a53fa045bd721afa7421ac55b1a7a80e070/md/Satzungen/SST.md
+- title: Vierte Änderungssatzung der Satzung zur Erstattung des Mobilitätsbeitrags zum Semesterticket (SST)
+  short: Vierte Änderungssatzung der Satzung zur Erstattung des Mobilitätsbeitrags zum Semesterticket (SST)
+  actorgan: Studierendenparlament
+  actdate:  19. November 2025
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  21. November 2025
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2025/vsbonn_bekanntmachung_2025-68.pdf
   ref: HEAD/md/Satzungen/SST.md
 
 ---
@@ -167,17 +175,20 @@ anerkannten Meisterschaften,
 5. ein familienbedingter Aufenthalt außerhalb des Vertragsgebiets,
 6. ein bereits vorhandenes Jobticket,
 7. eine verspätete Immatrikulation oder
-8. die Exmatrikulation.
+8. die Exmatrikulation,
+9. die nicht-selbstverschuldete verspätete oder gar nicht erfolgte Ausstellung des Visums zur Einreise nach Deutschland.
 
-(4) Anträge müssen für die Erstattung im Sommersemester bis zum 10. Mai, für das Wintersemester
-bis zum 10. November des jeweiligen Jahres beim STA eingehen (Antragsfrist). Anträge müssen im Fall nach Absatz 3 Nummer 7 
-bis acht Wochen nach dem Datum der Immatrikulation, im Fall des Absatz 3 
-Nummer 8 bis vier Wochen nach dem Datum der Exmatrikulation eingehen. Fällt das
-Fristende nicht auf einen Werktag, verlängert sich die Frist bis zum folgenden Werktag. Ein
-Fristsäumnis gilt als unverschuldet, wenn die Tatsachen, die die Erstattung begründen, erst nach
-Antragschluss eintreten und der Antrag unverzüglich nach Eintritt gestellt wird. Der STA wird
-ermächtigt, das Verfahren bei nachbesserungsbedürftigen und umgestellten Anträgen in seiner
-Verfahrensordnung zu regeln.
+(4) Anträge müssen für die Erstattung im Sommersemester bis zum 10. Mai, für
+das Wintersemester bis zum 10. November des jeweiligen Jahres beim STA eingehen
+(Antragsfrist). Anträge müssen im Fall nach Absatz 3 Nummer 7 bis acht Wochen nach
+dem Datum der Immatrikulation, im Fall des Absatz 3 Nummer 8 bis vier Wochen
+nach dem Datum der Exmatrikulation eingehen und im Fall des Absatz 3 Nummer 9
+bis einen Monat vor Ende des jeweiligen Semesters. Fällt das Fristende nicht auf einen
+Werktag, verlängert sich die Frist bis zum folgenden Werktag. Ein Fristversäumnis
+gilt als unverschuldet, wenn die Tatsachen, die die Erstattung begründen, erst nach
+Antragsschluss eintreten und der Antrag unverzüglich nach Eintritt gestellt wird. Der
+STA wird ermächtigt, das Verfahren bei nachbesserungsbedürftigen und umgestellten
+Anträgen in seiner Verfahrensordnung zu regeln.
 
 (5) Der vollständige Antrag besteht aus folgenden Bestandteilen:
 
@@ -187,8 +198,10 @@ Verfahrensordnung zu regeln.
     Reisepass) und
     b. zur Antragsberechtigung: die Studienbescheinigung desjenigen Semesters, für
     das die Erstattung beantragt wird;
-3. den zusätzlichen Nachweisen nach §§ 4 bis 9 auf dem entsprechenden Formblatt im Anhang
-der Verfahrensordnung
+    c. in den Fällen nach Absatz 3 Nr. 7 und 8 wird die Studienbescheinigung um die
+    Nachweise nach § 10 ergänzt;
+3. den zusätzlichen Nachweisen nach §§ 4 bis 9a auf dem entsprechenden Formblatt
+im Anhang der Verfahrensordnung und
 4. einer Erklärung über Richtigkeit der Angaben auf dem entsprechenden Formblatt im Anhang
 der Verfahrensordnung und
 5. einer Unterschrift des Antragsstellers oder eines oder einer Bevollmächtigten.
@@ -331,6 +344,18 @@ Eingang dieses Nachweises.
 (3) Als Nachweis über die Dauer der Teilnahme ist eine Bescheinigung des Veranstalters erforderlich,
 dass die Meisterschaft die durchgängige Abwesenheit des Teilnehmers vom Vertragsgebiet
 einschließlich der Übergangsgebiete erforderlich macht.
+
+### § 9a Nachweise bei verspätetem Erhalt eines Visums oder nicht erfolgter Ausstellung des Visums
+
+(1) Studierende, die durch nicht-selbstverschuldete Umstände erst verspätet oder gar kein
+Visum für die Einreise nach Deutschland in diesem Semester erhalten haben, haben
+die in den Absätzen 2 und 3 genannten Nachweise zu führen.
+
+(2) Es ist ein geeigneter Nachweis darüber erforderlich, dass das Visum für die Einreise
+nach Deutschland nicht rechtzeitig erhalten wurde.
+
+(3) Bei verspätetem Erhalt des Visums ist ein Nachweis beizufügen, der den Zeitpunkt
+enthält, ab dem das Visum Gültigkeit erlangt hat.
 
 
 ### § 10 Nachweis bei Immatrikulation oder Exmatrikulation
