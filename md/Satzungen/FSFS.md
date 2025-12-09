@@ -1,7 +1,7 @@
 ---
 title: Satzung über die Finanzen der Fachschaften der Rheinischen Friedrich-Wilhelms-Universität Bonn (Fachschaftenfinanzsatzung - FSFS)
 short: Satzung über die Finanzen der Fachschaften (Fachschaftenfinanzsatzung - FSFS)
-date:  1. Juli 2025
+date:  8. Dezember 2025
 type:  Satzung
 id:    FSFS
 contains:
@@ -12,6 +12,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate: 1. Juli 2025
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2025/vsbonn_bekanntmachung_2025-39.pdf
+  ref: 3ddcf334eab469bc76f5e60f6530d45a2679ca87/md/Satzungen/FSFS.md
+- title: Erste Satzung zur Änderung der Fachschaftenfinanzsatzung
+  short: Erste Satzung zur Änderung der Fachschaftenfinanzsatzung
+  actorgan: Fachschaftenkonferenz
+  actdate: 24. November 2025
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate: 8. Dezember 2025
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2025/vsbonn_bekanntmachung_2025-71.pdf
   ref: HEAD/md/Satzungen/FSFS.md
 ---
 
@@ -48,7 +56,8 @@ wichtige Fachschaftsbelange gesondert gefördert.
 (3) Die Gelder werden nur auf Antrag ausgezahlt. Die Prüfung der Anträge erfolgt nach den Bestimmungen dieser Satzung durch das FSK. Die Auszahlungen werden durch den Vorsitz des FSK
 oder seine zeichnungsberechtigte Stellvertretung angewiesen.
 
-(4) Antragsberechtigt sind die Fachschaftsräte der RFWU Bonn.
+(4) Antragsberechtigt sind die Fachschaftsräte sowie bei Anträgen nach § 22 Absatz 2 das
+Fachschaftenkollektiv der RFWU Bonn.
 
 (5) Die Finanzanträge und die Dokumente einer Fachschaft dürfen im FSK nicht von
 Personen gleicher Fachschaftszugehörigkeit abschließend geprüft oder angewiesen werden.
@@ -435,7 +444,13 @@ Mängel mit. Diese Fristverlängerung ist auch rückwirkend möglich.
 3. Der Betrag pro Person wird zu gleichen Teilen auf alle von ihr studierten Fach-Abschluss-Kombinationen (FAKs) aufgeteilt
 4. Der Betrag pro FAK wird zu gleichen Teilen auf alle Fachschaften aufgeteilt, denen die FAK zugeordnet ist
 
-(3) Stichtag für die Berechnung der AFSG-Verteilung ist für Sommersemester der 15. Mai und für Wintersemester der 15. November.
+(3) Stichtag für die Berechnung der AFSG-Verteilung ist für Sommersemester der 15. Mai
+und für Wintersemester der 15. November. Sind an diesem Tag nicht alle studierten Fach-Abschluss-Kombinationen
+in der Studierendenschaftsgliederungssatzung mindestens
+einer Fachschaft zugeordnet, so fällt der Stichtag stattdessen auf den ersten Tag nach
+dem 15. Mai bzw. 15. November, an dem alle studierten Fach-Abschluss-Kombinationen
+in der Studierendenschaftsgliederungssatzung mindestens einer Fachschaft zugeordnet
+sind.
 
 (4) Die Universitätsverwaltung stellt dem FSK die Daten zur Ermittlung der AFSG-Verteilung benötigten Daten zur Verfügung. Die AFSG Verteilung ist ausschließlich auf Grundlage dieser zu berechnen.
 
@@ -521,23 +536,27 @@ nichtig. Absatz 5 gilt in diesem Fall nicht.
 
 ### § 22 Fachschaftsübergreifende Ausgaben
 
-(1) Mindestens zwei Fachschaften können auf der FK Besondere
-Fachschaftengelder (BFSG) für
-fachschaftsübergreifende Maßnahmen und Anschaffungen beantragen. Der
-Antrag muss die Verteilung der Gelder unter den Fachschaften regeln. Bei
-Bewilligung wird die Summe auf Basis des Antrags auf die Fachschaftskonten
-ausgezahlt. In diesen Fällen muss die FK die Anträge vor Beginn
-der Maßnahme entscheiden. Die Nachweise über die Nutzung der Geldmittel sind
-nach der Durchführung vorzulegen. Anträge, die von den Vorgaben der Anlage 1
-abweichen sowie Fahrten und Exkursionen mit Zielen außerhalb des Schengen-
-Raumes bedürfen abweichend von § 24 Absatz 1 keiner Vorankündigung.
+(1) Mindestens zwei Fachschaften können auf der FK Besondere Fachschaftengelder
+(BFSG) für fachschaftsübergreifende Maßnahmen und Anschaffungen beantragen. Der
+Antrag muss die Verteilung der Gelder unter den Fachschaften regeln. Bei Bewilligung
+wird die Summe auf Basis des Antrags auf die Fachschaftskonten ausgezahlt. Die
+Auszahlung erfolgt lediglich in der Höhe, in der die Ausgaben auch tatsächlich erfolgt
+sind. In diesen Fällen muss die FK die Anträge vor Beginn der Maßnahme entscheiden.
+Die Nachweise über die Nutzung der Geldmittel sind nach der Durchführung vorzulegen.
+Anträge, die von den Vorgaben der Anlage 1 abweichen sowie Fahrten und Exkursionen
+mit Zielen außerhalb des Schengen-Raumes bedürfen abweichend von § 24 Absatz 1
+keiner Vorankündigung.
 
-(2) Das Fachschaftenkollektiv (FSK) kann auf der FK ebenfalls BFSG für fachschaftsübergreifende Maßnahmen und
-Anschaffungen beantragen. In diesen Fällen muss die FK die Anträge vor Beginn
-der Maßnahme entscheiden. Die Nachweise über die Nutzung der Geldmittel sind
-nach der Durchführung vorzulegen. Anträge, die von den Vorgaben der Anlage 1
-abweichen sowie Fahrten und Exkursionen mit Zielen außerhalb des Schengen-
-Raumes bedürfen abweichend von § 24 Absatz 1 keiner Vorankündigung. § 23 Absätze 7 bis 8 gelten nicht. Wenn die Rechnungen/Verbindlichkeiten nicht direkt durch das FSK beglichen werden können, kann eine Auszahlung nach Vorlage der entsprechenden Belege auch an ein in Vorleistung gegangenes Mitglied des FSKs erfolgen. Die Auszahlung erfolgt lediglich in Höhe in der die Ausgaben auch tatsächlich erfolgt sind.
+(2) Das Fachschaftenkollektiv (FSK) kann auf der FK ebenfalls BFSG für
+fachschaftsübergreifende Maßnahmen und Anschaffungen beantragen. In diesen Fällen
+muss die FK die Anträge vor Beginn der Maßnahme entscheiden. Die Nachweise über die
+Nutzung der Geldmittel sind nach der Durchführung vorzulegen. Anträge, die von den
+Vorgaben der Anlage 1 abweichen sowie Fahrten und Exkursionen mit Zielen außerhalb
+des Schengen- Raumes bedürfen abweichend von § 24 Absatz 1 keiner Vorankündigung. § 23 Absatz 7 gilt nicht.
+Wenn die Rechnungen/Verbindlichkeiten nicht direkt durch das FSK
+beglichen werden können, kann eine Auszahlung nach Vorlage der entsprechenden
+Belege auch an ein in Vorleistung gegangenes Mitglied des FSKs erfolgen. Die Auszahlung
+erfolgt lediglich in der Höhe, in der die Ausgaben auch tatsächlich erfolgt sind.
 
 
 ### § 23 Kriterien zur Vergabe der BFSG
@@ -598,12 +617,7 @@ inklusiv gestaltet werden kann.
 Bei der Planung einer Reise sind die Prinzipien der Wirtschaftlichkeit und
 Sparsamkeit zu beachten.
 
-(7) Verpflegung kann nur im Rahmen der Erstsemesterarbeit nach 2 a. sowie der
-Ausrichtung von Fachschaftentagungen nach 5 i. des Kriterienkatalogs (KritKat)
-gefördert werden.
-
-(8) Alkoholische Getränke werden generell nicht erstattet.
-
+(7) Alkoholische Getränke werden generell nicht erstattet.
 
 
 ### § 24 Ausnahmegenehmigung von BFSG durch Vorankündigung
@@ -626,11 +640,12 @@ Vorstellung auf der nächsten FK ein. Das FSK entscheidet
 nach billigem Ermessen, ob Anträge, die weniger als eine Woche vor der nächsten
 FK eingegangen sind, auf dieser oder der darauffolgenden vorgestellt werden.
 
-(4) Vorankündigungen für Veranstaltungen müssen vor Beginn der Veranstaltung
-auf der FK beschlossen worden sein. Vorankündigungen über Anschaffungen
-müssen vor dem Kauf beschlossen werden. Die Anschaffung kann sofort nach
-dem Beschluss getätigt werden. Vorankündigungen zu Jahreshöchstbeträgen
-können zudem im Laufe des Jahres, auf das sie sich beziehen, eingereicht werden.
+(4) Vorankündigungen für Veranstaltungen und Fahrten sowie die Ausrichtung von
+Fachschaftentagungen und von Schulungen müssen vor Beginn der Maßnahme auf der FK
+beschlossen worden sein. Vorankündigungen über Anschaffungen müssen vor dem Kauf
+beschlossen werden. Die Anschaffung kann sofort nach dem Beschluss getätigt werden.
+Vorankündigungen zu Jahreshöchstbeträgen können zudem im Laufe des Jahres, auf das
+sie sich beziehen, eingereicht werden.
 
 (5) Bei der Vorstellung und Abstimmung von Vorankündigungen muss eine
 Delegierte der antragstellenden Fachschaft anwesend sein, um die
@@ -764,13 +779,12 @@ werden.
 
 1. Dem Antrag muss ein Veranstaltungsprogramm beigefügt werden.
 2. Veranstaltungen sollen in Bonn stattfinden. Abweichungen sind zu begründen.
+3. Verpflegung und Alkohol werden nicht gefördert.
 
 ##### 2.1.1 Erstsemesterarbeit
 
-1. Veranstaltungen müssen im zeitlichen Zusammenhang zum Semesterbeginn/
+Veranstaltungen müssen im zeitlichen Zusammenhang zum Semesterbeginn/
 Einschreibung (ca. 1 Monat) stehen.
-2. Verpflegung ist im Rahmen des Höchstbetrags förderbar. Alkohol wird nicht
-erstattet.
 
 ##### 2.1.2 Inhaltliche Veranstaltungen
 
@@ -787,7 +801,6 @@ Voraussetzungen erfüllen:
 
 2. Nicht als inhaltlich förderbar sind solche Veranstaltungen, die vorwiegend
 einen hohen Alkoholkonsum erwarten lassen.
-3. Verpflegung und Alkohol sind nicht förderbar.
 
 ### 3. Allgemeine Fahrten
 
@@ -810,7 +823,7 @@ werden. Es können je Person und Tag maximal 50 € beantragt werden.
 mit Unterschriften aller Teilnehmenden beigefügt werden.
 2. Anträge mit Zielen außerhalb des Schengen-Raumes bedürfen einer
 Vorankündigung.
-3. Verpflegung und Alkohol sind nicht förderbar.
+3. Verpflegung und Alkohol werden nicht gefördert.
 
 ##### 3.1.1 Erstsemesterfahrten
 
@@ -820,7 +833,6 @@ Teilnehmende sind.
 2. Erstsemester im Sinne dieser Ordnung sind alle Studierenden, die in
 mindestens einem Studiengang noch nicht länger als ein Studienjahr an der
 RFWU Bonn eingeschrieben sind.
-3. Verpflegung und Alkohol sind nicht förderbar.
 
 ##### 3.1.2 Klausurfahrten
 
@@ -829,12 +841,11 @@ RFWU Bonn eingeschrieben sind.
 Entfernung). Beträchtlich weitere Fahrten (> 120 km) müssen begründet werden.
 Die Entfernung ergibt sich aus der Luftlinie zwischen dem Hauptgebäude der
 RFWU Bonn und der Unterkunft.
-3. Verpflegung und Alkohol sind nicht förderbar.
 
 ##### 3.1.3 Teilnahme Fachschaftentagung
 
 Teilnahme an landes-, bundes-, europa- oder weltweiten
-Fachschaftentagungen. (will man noch definieren was eine Fachschaftentagung im Sinne der FKGO zum Zwecke hat?)
+Fachschaftentagungen.
 
 ### 4. Exkursionen
 
@@ -855,17 +866,17 @@ können je Person und Tag maximal 75 € beantragt werden.
 mit Unterschriften aller Teilnehmenden beigefügt werden.
 2. Anträge mit Zielen außerhalb des Schengen-Raumes bedürfen einer
 Vorankündigung.
-3. Verpflegung und Alkohol sind nicht förderbar.
+3. Verpflegung und Alkohol werden nicht gefördert.
 
 ##### 4.1.1 Bildungsfahrten
 
-1. Mehrtägige Exkursionen mit Fachbezug, offen für die gesamte Fachschaft (alle der Fachschaft gemäß §22 SdS zugeordneten Studierenden)
-2. Verpflegung und Alkohol sind nicht förderbar.
+Mehrtägige Exkursionen mit Fachbezug, offen für die gesamte Fachschaft (alle
+der Fachschaft gemäß § 22 SdS zugeordneten Studierenden)
 
 ##### 4.1.2 Tagesexkursionen
 
-1. Eintägige Exkursionen mit Fachbezug, offen für die gesamte Fachschaft (alle der Fachschaft gemäß §22 SdS zugeordneten Studierenden)
-2. Verpflegung und Alkohol sind nicht förderbar.
+Eintägige Exkursionen mit Fachbezug, offen für die gesamte Fachschaft (alle
+der Fachschaft gemäß § 22 SdS zugeordneten Studierenden)
 
 
 ### 5. Sonstiges
@@ -880,6 +891,8 @@ Vorankündigung.
 |m | Schulungen | 500 € pro Jahr |
 
 #### 5.1 Anmerkungen
+
+Verpflegung und Alkohol werden nicht gefördert.
 
 ##### 5.1.1 Sachmittel
 
