@@ -601,7 +601,7 @@ der Frist nach Absatz 10 zu erfolgen.
 jede Fachschaft die folgenden Informationen vermerkt sind:
 
 1. Zeitpunkt des Antrags auf das Wählendenverzeichnis
-2. 2. Art des Wahlsystems (vgl. §§ 7, 27)
+2. Art des Wahlsystems (vgl. §§ 7, 27)
 3. der Wahltermin
 4. Zeitpunkt der Zusendung des Wahlergebnisses durch die Wahlleitung, sowie ein Verweis, wo dieses
 im Internet bekanntgemacht wurde
