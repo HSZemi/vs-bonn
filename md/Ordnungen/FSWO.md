@@ -1,7 +1,7 @@
 ---
 title: Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte (Fachschaftswahlordnung – FSWO)
 short: Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte (Fachschaftswahlordnung – FSWO)
-date:  6. Juni 2025
+date:  7. Januar 2026
 type:  Ordnung
 id:    FSWO
 contains:
@@ -36,6 +36,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  6. Juni 2025
   puburl:  https://sp.uni-bonn.de/bekanntmachungen/files/2025/vsbonn_bekanntmachung_2025-33.pdf
+  ref: cce8b918d7325dcd2904895d250714a52cedd6cc/md/Ordnungen/FSWO.md
+- title: Dritte Ordnung zur Änderung der Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte (FSWO)
+  short: Dritte Ordnung zur Änderung der Wahlordnung für die Wahlen der Fachschaftsvertretungen und Fachschaftsräte (FSWO)
+  actorgan: Studierendenparlament
+  actdate:  18. Dezember 2025
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  7. Januar 2026
+  puburl:  https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-04.pdf
   ref: HEAD/md/Ordnungen/FSWO.md
 ---
 
@@ -272,10 +280,11 @@ Umlaufverfahren zu treffen, solange dem kein Mitglied des Wahlausschusses widers
 
 ### § 14 Wählendenverzeichnis
 
-(1) Das Wählendenverzeichnis enthält Familiennamen, Vornamen und Matrikelnummern der
-Wahlberechtigten. Die Daten für die Erstellung der Wählendenverzeichnisse werden durch
-die Hochschulverwaltung bereitgestellt. Das Wählendenverzeichnis wird beim Fachschaf-
-tenkollektiv beantragt und von der Wahlleitung bis spätestens zum 19. Tag vor dem ersten
+(1) Das Wählendenverzeichnis enthält Familiennamen, Vornamen und Matrikelnummern
+der Wahlberechtigten. Die Daten für die Erstellung der Wählendenverzeichnisse werden
+durch die Hochschulverwaltung bereitgestellt. Das Wählendenverzeichnis wird beim
+Fachschaftenkollektiv unverzüglich nach der Festlegung des Wahltermins und der Wahl der
+Wahlleitung beantragt und von der Wahlleitung bis spätestens zum 19. Tag vor dem ersten
 Wahltag übernommen.
 
 (2) Bei der Aufstellung und Handhabung des Wählendenverzeichnisses ist den Erfordernissen des
@@ -333,7 +342,7 @@ Einreichung entscheidet der Wahlausschuss nach billigem Ermessen.
 
 1. Familienname(n) der kandidierenden Person,
 2. alle Vornamen der kandidierenden Person, welche in die Matrikel eingetragen sind,
-3. der Name, wie er auf dem Stimmzettel stehen soll,
+3. der Name, wie er auf dem Stimmzettel und in allen weiteren Dokumenten stehen soll,
 4. ladungsfähige Anschrift der kandidierenden Person,
 5. E-Mail-Adresse der kandidierenden Person,
 6. Matrikelnummer der kandidierenden Person,
@@ -487,20 +496,23 @@ Im Zweifelsfall entscheidet der Wahlausschuss über die Gültigkeit von Stimmen.
 
 ### § 21 Bekanntgabe des Wahlergebnisses
 
-(1) Die Bekanntgabe des Wahlergebnisses muss enthalten:
+1) Die Bekanntgabe des Wahlergebnisses muss enthalten:
 
 1. Ort und Datum ihrer Veröffentlichung;
-2. den Namen des gewählten Organs;
-3. die Zahl der Wahlberechtigten;
-4. die Zahl der abgegebenen Stimmen;
-5. die Zahl der ungültigen Stimmen;
-6. die Zahl der gültigen Stimmen;
-7. die Zahl der auf jede einzelne Person entfallenden gültigen Stimmen;
-8. die Angabe darüber, welche Personen gewählt sind und welche nicht;
-9. Ort und Zeit der konstituierenden Sitzung;
-10. den Hinweis auf die Möglichkeit des Einspruchs gegen das Wahlergebnis, die mit Bekanntgabe des
-Wahlergebnisses beginnende Einspruchsfrist von vierzehn Tagen, die vorgeschriebene Form des
-Einspruchs, sowie den Wahlprüfungsausschuss der Fachschaftenkonferenz als zuständige Stelle.
+2. Datum der Wahl;
+3. den Namen des gewählten Organs;
+4. die Zahl der Wahlberechtigten;
+5. die Zahl der abgegebenen Stimmen;
+6. die Zahl der ungültigen Stimmen;
+7. die Zahl der gültigen Stimmen;
+8. die Namen aller Kandidierenden wie auf dem Stimmzettel angegeben;
+9. die Zahl der auf jede einzelne Person entfallenden gültigen Stimmen;
+10. die Angabe darüber, welche Personen gewählt sind und welche nicht;
+11. Ort und Zeit der konstituierenden Sitzung;
+12. den Hinweis auf die Möglichkeit des Einspruchs gegen das Wahlergebnis, die mit
+Bekanntgabe des Wahlergebnisses beginnende Einspruchsfrist von vierzehn Tagen,
+die vorgeschriebene Form des Einspruchs, sowie den Wahlprüfungsausschuss der
+Fachschaftenkonferenz als zuständige Stelle.
 
 (2) Die Wahlleitung benachrichtigt die gewählten Personen unverzüglich schriftlich oder per E- Mail von
 ihrer Wahl.
@@ -629,10 +641,11 @@ kann.
 (4) Bis zum Abschluss der Wiederholungswahl sind die vorherigen Besetzungen von Fachschaftsrat und
 Fachschaftsvertretung kommissarisch im Amt.
 
-(5) Ist es nicht möglich, den beschlossenen Wahltermin einzuhalten, legt die FSV bzw. der FSR nach
-Rücksprache mit dem Fachschaftenkollektiv einen Ersatztermin fest und wählt ggf. Wahlausschussmitglieder
-und Wahlleitung nach. Das bereits aufgestellte Wählendenverzeichnis behält seine Gültigkeit.
-Zwischen dem Beschluss und dem neuen ersten Wahltag müssen mindestens 20 Tage liegen.
+(5) Ist es nicht möglich, den beschlossenen Wahltermin einzuhalten, legt die FSV bzw. der
+FSR nach Rücksprache mit dem Fachschaftenkollektiv einen Ersatztermin fest und wählt
+ggf. Wahlausschussmitglieder und Wahlleitung nach. Ein bereits aufgestelltes
+Wählendenverzeichnis behält seine Gültigkeit. Zwischen dem Beschluss und dem neuen ersten
+Wahltag müssen mindestens 20 Tage liegen.
 
 (6) Sind die Organe einer Fachschaft nicht in der Lage, einen Wahltermin festzulegen oder Wahlorgane
 zu wählen, so kann die Fachschaftenkonferenz diese Aufgaben in Absprache mit den Studierenden der
