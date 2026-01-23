@@ -1,7 +1,7 @@
 ---
 title: Satzung zur Förderung von Studentischen Gruppen (SFSG)
 short: Satzung zur Förderung von Studentischen Gruppen (SFSG)
-date:  7. September 2024
+date:  7. Januar 2026
 type:  Satzung
 id:    SFSG
 contains:
@@ -28,6 +28,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  7. September 2024
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-69.pdf
+  ref: a282ff3bc87aeed84c86387c701c2c5a307a7173/md/Satzungen/SFSG.md
+- title: Erste Satzung zur Änderung der Satzung zur Förderung von Studentischen Gruppen (SFSG)
+  short: Erste Satzung zur Änderung der Satzung zur Förderung von Studentischen Gruppen (SFSG)
+  actorgan: Studierendenparlament
+  actdate:  18. Dezember 2025
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  7. Januar 2026
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-03.pdf
   ref: HEAD/md/Satzungen/SFSG.md
 
 ---
@@ -52,9 +60,8 @@ Absatz 1 entfällt die finanzielle Förderung.
 (3) Kulturgruppen sind alle Studentischen Gruppen, die keine politischen Hochschulgruppen sind. Damit
 erhalten Kulturgruppen allgemeine und finanzielle Förderung.
 
-(4) Spätestens zwei Wochen nach Beginn des jeweiligen Semesters wird eine neue Liste mit den
-aktuell gemeldeten Studentische Gruppen veröffentlicht. Die Liste des vorherigen Semesters gilt bis zur
-Veröffentlichung der Liste des jeweiligen Semesters.
+(4) Der AStA führt hochschulöffentlich eine Liste der im aktuellen Semester gemeldeten
+studentischen Gruppen.
 
 (5) Kulturausschuss bezeichnet den Ausschuss des Studierendenparlaments, der mit der Ausführung
 dieser Satzung betraut ist.
@@ -65,42 +72,55 @@ dieser Satzung betraut ist.
 (1) Ist eine Studentische Gruppe nach dem oben genannten Senatsbeschluss verfasst, so ist eine Meldung
 beim AStA-Vorsitz möglich.
 
-(2) Zur Meldung einer Studentischen Gruppe ist ein Antrag zu stellen. Nur das vom AStA zur Verfügung
-gestellte Formular ist zur Anmeldung gültig.
+(2) Zur Meldung einer Studentischen Gruppe ist ein Antrag zu stellen. Die vom AStA
+vorgegebene Form des Antrags ist einzuhalten.
 
-(3) Das Meldeformular kann auf der AStA-Website heruntergeladen werden, es ist auch im AStA-
-Geschäftszimmer erhältlich.
+(3) Als Form kann der AStA entweder ein Formular digital bereitstellen oder ein Webportal
+für die Antragsstellung betreiben.
 
 (4) Dem Antrag sind beizufügen:
 
-1. Name der Vereinigung,
-2. Name und Anschriften des Vorstandes,
-3. Zahl der Mitglieder,
-4. Erklärung, dass alle ordentlichen Mitglieder an der Universität Bonn immatrikulierte Studierende
-sind,
-5. Eine Satzung oder Erklärung, aus der hervorgeht,
-    a. dass alle ordentlichen Mitglieder an der Universität Bonn immatrikulierte Studierende sind,
-    b. dass sich die Gruppe nicht kommerziell betätigt.
+1. der Name der Vereinigung,
+2. die Namen der Vorstandsmitglieder,
+3. die Zahl der Mitglieder (mindestens fünf),
+4. eine Erklärung, dass alle ordentlichen Mitglieder an der Universität Bonn
+immatrikulierte Studierende sind,
+5. eine Erklärung, dass die Gruppe sich nicht kommerziell betätigt,
+6. die Satzung der Vereinigung,
+7. eine Telefonnummer als Kontaktmöglichkeit im Eilfall.
 
-(5) Neue Anträge auf Meldung können jederzeit gestellt werden. Zur Auszahlung finanzieller Fördermittel
+Gibt der AStA gemäß Absatz 3 ein Webportal für die Antragsstellung vor, so ist außerdem
+die zentrale Benutzerkennung (Uni-ID) der Studierendenaccounts der Vorstandsmitglieder
+beizufügen; bei der Vorgabe eines Formulars ist außerdem die Anschrift
+der Vorstandsmitglieder beizufügen.
+
+(5) Die Satzung der Gruppe gemäß Absatz 4 Nummer 6 muss mit dem Grundgesetz, den
+Verfassungen des Landes Nordrhein-Westfalen und der Universität Bonn sowie der
+Satzung der Studierendenschaft im Einklang stehen. Sie muss mindestens regeln:
+
+1. dass alle ordentlichen Mitglieder an der Universität Bonn immatrikulierte Studierende
+sind,
+2. dass die Gruppe sich nicht kommerziell betätigt.
+
+(6) Neue Anträge auf Meldung können jederzeit gestellt werden. Zur Auszahlung finanzieller Fördermittel
 muss die Meldung bei Finanzantragsstellung, bei der behandelnden Kulturausschuss-Sitzung und bei
 erstmaliger Einreichung des Auszahlungsantrags vorliegen.
 
 
 ### § 3 Rückmeldung bereits registrierter Studentischer Gruppen
 
-(1) Bereits registrierte Studentische Gruppen müssen sich jedes Semester zurückmelden, um den Status
-zu aktualisieren. Neuerungen, die die Punkte unter § 2 Absatz 3 betreffen, sind bei der Rückmeldung
-anzugeben.
+(1) Bereits registrierte Studentische Gruppen müssen sich jedes Semester zurückmelden, um
+den Status zu aktualisieren. Neuerungen, die die Punkte unter § 2 Absatz 4 betreffen, sind
+bei der Rückmeldung anzugeben.
 
-(2) Zur Rückmeldung einer Studentischen Gruppe ist ein Antrag zu stellen. Nur das vom AStA zur
-Verfügung gestellte Formular ist zur Anmeldung gültig.
+(2) Gibt der AStA gemäß § 2 Absatz 3 ein Webportal für die Antragsstellung vor, sind
+Änderungen der Vorstandsmitglieder oder der Kontakttelefonnummer unverzüglich zu melden.
 
-(3) Die Rückmeldung ist im Rahmen der Frist an den AStA einzureichen. Die Rückmeldefrist endet im
-Sommersemester am 10. April, im Wintersemester am 10. Oktober.
+(3) Zur Rückmeldung einer Studentischen Gruppe ist ein Antrag zu stellen. Für die Rückmeldung
+ist die vom AStA vorgegebene Form gemäß § 2 Absatz 3 einzuhalten.
 
-(4) Das Rückmeldeformular kann auf der AStA-Website heruntergeladen werden, es ist auch im AStA-
-Geschäftszimmer erhältlich. Das Formular muss fristgerecht eingereicht werden.
+(4) Die Rückmeldung ist im Rahmen der Frist an den AStA einzureichen. Die Rückmeldefrist
+endet im Sommersemester am 10. April, im Wintersemester am 10. Oktober.
 
 
 # Abschnitt 2 Förderung
@@ -173,16 +193,19 @@ Die Vergabe der finanziellen Förderung erfolgt in der Regel wie folgt:
 2. Das Kulturreferat prüft die Anträge auf Vollständigkeit, Schlüssigkeit und Begründung.
 3. Das Kulturreferat erarbeitet eine Beschlussvorlage, aufgrund welcher entschieden wird. Diese ist
 dem Kulturauschussvorsitz eine Woche vor der Sitzung vorzulegen.
-4. Die Kulturgruppe erbringt den Verwendungsnachweis durch Einreichung der Rechnung und des
-Auszahlungsantrages an das Kulturreferat.
-5. Die Auszahlungsanforderung erfolgt nach Prüfung und Erarbeitung durch das Kulturreferat an
+4. Der Kulturausschuss entscheidet über die Förderung des Antrags.
+5. Im Falle einer Förderung erbringt die Kulturgruppe nach der Veranstaltung den
+Verwendungsnachweis durch Einreichung der Rechnung und des Auszahlungsantrages
+an das Kulturreferat.
+6. Die Auszahlungsanforderung erfolgt nach Prüfung und Erarbeitung durch das Kulturreferat an
 das Finanzreferat, welches dieses abschließend prüft und die Auszahlung ausführt.
 
 
 ### § 9 Antragsstellung
 
-(1) Das Finanzantragsformular ist auf der Webseite des AStA erhältlich. Nur das vom AStA bereitgestellten
-Finanzantragsformular ist zulässig.
+(1) Der AStA gibt die Form für Finanzanträge vor. Diese ist zwingend einzuhalten. Als
+Form kann der AStA entweder ein Formular digital bereitstellen oder ein Webportal
+für die Antragsstellung betreiben.
 
 (2) Für jede Veranstaltung oder Tätigkeit muss ein eigener Antrag gestellt werden.
 
@@ -196,17 +219,20 @@ Tätigkeit kann nicht durch weitere Anträge einzelner Kulturgruppen gefördert 
 Posten,
 2. der ausgefüllten Checkliste im Sinne des § 10 Absatz 8,
 3. einem Kosten- und Finanzierungsplan für die beantragte Veranstaltung oder Tätigkeit.
+4. einem Tätigkeitsbericht über das vergangene Semester, sofern die Gruppe schon
+bestand.
 
-(5) Mit der Unterschrift bestätigt die Vertreterin der Kulturgruppe, die aktuelle „Satzung zur Förderung
-Studentischer Gruppen“ zu kennen und gelesen zu haben.
-
-(6) Das Antragsformular muss im Original unterschrieben und frühestens sechs Monate, jedoch spätestens
-2 Wochen vor der letzten Sitzung des Kulturausschusses vor dem Beginn der Veranstaltung beim
-Kulturreferat eingereicht werden. Es gilt dabei das Datum des Poststempels des AStA.
-
-(7) Der Finanzantrag ist frühestens sechs Monate, jedoch spätestens zwei Wochen vor der letzten
+(5) Der Finanzantrag ist frühestens sechs Monate, jedoch spätestens zwei Wochen vor der letzten
 Sitzung des Kulturausschusses vor dem Beginn der Veranstaltung zu stellen. Eine Förderung einer bereits
 begonnenen oder abgeschlossenen Veranstaltung ist prinzipiell nicht möglich.
+
+(6) Gibt der AStA als Form gemäß Absatz 1 ein Formular vor, so ist dieses im Original zu
+unterschreiben. Für die Einhaltung der Frist ist der Poststempel des AStA maßgeblich.
+
+(7) Gibt der AStA als Form gemäß Absatz 1 die Nutzung eines Webportals vor, ist der
+durch das Portal festgestellte Zeitpunkt der Einreichung maßgeblich. Der AStA hat
+das Portal so zu gestalten, dass nachvollziehbar ist, welche Person den Finanzantrag
+eingereicht hat.
 
 
 ### § 10 Inhaltliche Bestimmungen
@@ -301,11 +327,12 @@ Kulturausschusses bewilligt werden können (Sitzungsgrenze).
 
 (3) Über Anträge ab 1000€ muss das Studierendenparlament entscheiden. Der Kulturausschuss fasst
 unter der Teilnahme der antragsstellenden Kulturgruppe eine Beschlussvorlage und stellt diese an das
-Studierendenparlament. Der Kulturausschuss reicht die Beschlussvorlage im Namen der Kulturgruppe
-zur nächsten Sitzung des Studierendenparlamentes ein.
+Studierendenparlament.
 
-(4) Weitere Anträge jenseits der Sitzungsgrenze können in Ausnahmefällen an das Studierendenparlament
-übergeben werden, welches nicht an die Sitzungsgrenze gebunden ist.
+(4) Weitere Anträge jenseits der Sitzungsgrenze können in Ausnahmefällen an das
+Studierendenparlament überwiesen werden, welches nicht an die Sitzungsgrenze gebunden
+ist. Der Kulturausschuss fasst hierzu analog zu Absatz 3 eine Beschlussempfehlung an
+das Studierendenparlament.
 
 (5) Der Kulturausschuss soll einmal im Monat tagen zu Semesterzeiten, in der vorlesungsfreien Zeit
 mindestens einmal.
@@ -327,7 +354,14 @@ unberührt.
 das Studierendenparlament überwiesen. Das Verlangen ist vor der Beschlussfassung des Kulturausschuss
 zu stellen und zu behandeln.
 
-(11) Mitglieder des Kulturausschusses haben vor Abstimmungen offenzulegen, ob sie durch den Beschluss
+(11) Wird über einen Finanzantrag durch das Studierendenparlament entschieden, so stellt
+der Kulturausschuss im Namen der Kulturgruppe einen entsprechenden Antrag an
+das Studierendenparlament. Diesen reicht der Kulturausschuss zusammen mit Kopien
+der Unterlagen zum Finanzantrag zur nächsten Sitzung des Studierendenparlaments
+ein. Sofern diese Satzung dies vorsieht, ist die Beschlussempfehlung des Ausschusses
+ebenfalls beizufügen.
+
+(12) Mitglieder des Kulturausschusses haben vor Abstimmungen offenzulegen, ob sie durch den Beschluss
 persönlich oder als Mitglied einer Organisation einen unmittelbaren Vor- oder Nachteil erlangen
 (Befangenheit). Befangene Mitglieder dürfen an der entsprechenden Abstimmung nicht teilnehmen. Sie dürfen
 vertreten werden. Ist die Befangenheit strittig, entscheidet der Ausschuss mit einfacher Mehrheit.
@@ -410,32 +444,7 @@ Veranstaltungsbeschreibung zu verwenden.
 Studierendenparlaments oder der Studierendenschaft.
 
 
-### § 17 Geltungszeitraum der Übergangsbestimmungen
-
-Bis alle in § 3 getroffenen Bestimmungen durch Änderung oder Verdrängung des Senatsbeschlusses
-„Richtlinien für die Registrierung Studentischer Vereinigungen an der Universität Bonn“ vom 18.01.1968
-mit den Beschlüssen des Senats in Einklang gebracht werden, gilt stattdessen § 18.
-
-
-### § 18 Übergangsbestimmungen
-
-(1) Bereits registrierte Studentische Gruppen müssen sich jedes Semester zurückmelden, um den Status
-zu aktualisieren. Neuerungen, die die Punkte unter § 2 Absatz 3, betreffen sind bei der Rückmeldung
-anzugeben.
-
-(2) Das Formular muss unterschrieben und fristgerecht eingereicht werden. Nur das vom AStA zur
-Verfügung gestellte Formular ist zur Anmeldung gültig.
-
-(3) Die Rückmeldung ist schriftlich im Rahmen der Rückmeldefrist einzureichen. Die Rückmeldefrist
-endet im Sommersemester (SS) am 1. April, im Wintersemester (WS) am 1. Oktober. Die Veröffentlichung
-gemäß § 1 Absatz 4 geschieht abweichend unverzüglich.
-
-(4) Das Rückmeldeformular kann auf der AStA-Homepage (Geschäftszimmer) heruntergeladen und
-ausgedruckt werden, es ist auch im AStA-Geschäftszimmer erhältlich. Das Formular muss fristgerecht
-eingereicht werden.
-
-
-### § 19 Schlussbestimmungen
+### § 17 Schlussbestimmungen
 
 (1) Diese Satzung tritt nach ihrer Annahme durch das SP am Tag nach ihrer Veröffentlichung auf der
 Bekanntmachungsplattform der Studierendenschaft durch die Öffentlichkeitsbeauftragte in Kraft.
