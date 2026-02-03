@@ -1,7 +1,7 @@
 ---
 title: Satzung über die Finanzen der Fachschaften der Rheinischen Friedrich-Wilhelms-Universität Bonn (Fachschaftenfinanzsatzung - FSFS)
 short: Satzung über die Finanzen der Fachschaften (Fachschaftenfinanzsatzung - FSFS)
-date:  8. Dezember 2025
+date:  2. Februar 2026
 type:  Satzung
 id:    FSFS
 contains:
@@ -20,6 +20,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate: 8. Dezember 2025
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2025/vsbonn_bekanntmachung_2025-71.pdf
+  ref: f270b5cd01a537522f96c835233919508f1405b5/md/Satzungen/FSFS.md
+- title: Zweite Satzung zur Änderung der Fachschaftenfinanzsatzung
+  short: Zweite Satzung zur Änderung der Fachschaftenfinanzsatzung
+  actorgan: Fachschaftenkonferenz
+  actdate: 19. Januar 2026
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate: 2. Februar 2026
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-05.pdf
   ref: HEAD/md/Satzungen/FSFS.md
 ---
 
@@ -45,16 +53,16 @@ Diese Satzung regelt gemäß § 43 der Satzung der Studierendenschaft:
 
 ### § 3 Fachschaftengelder
 
-(1) Die den Fachschaften gemäß § 43 Satzung der Studierendenschaft der
-RFWU Bonn zugewiesenen Gelder werden durch das Fachschaftenkollektiv (FSK) verwaltet.
+(1) Die Zuweisung der Fachschaftengelder regelt § 43 der Satzung der Studierendenschaft.
 
 (2) Die Gelder gliedern sich in Allgemeine
 Fachschaftengelder (AFSG) und Besondere Fachschaftengelder (BFSG). Die AFSG dienen dem Bestreiten des allgemeinen Geschäftsbetriebs
 einer Fachschaft. Mit BFSG werden
 wichtige Fachschaftsbelange gesondert gefördert.
 
-(3) Die Gelder werden nur auf Antrag ausgezahlt. Die Prüfung der Anträge erfolgt nach den Bestimmungen dieser Satzung durch das FSK. Die Auszahlungen werden durch den Vorsitz des FSK
-oder seine zeichnungsberechtigte Stellvertretung angewiesen.
+(3) Die Gelder werden nur auf Antrag ausgezahlt. Die Prüfung der Anträge erfolgt nach den Bestimmungen dieser Satzung durch das FSK.
+Die Feststellung der rechnerischen Richtigkeit der Kassenanordnungen, welche diese Gelder betreffen,
+obliegt der Fachschaftenreferentin oder ihrer zeichnungsberechtigten Stellvertretung.
 
 (4) Antragsberechtigt sind die Fachschaftsräte sowie bei Anträgen nach § 22 Absatz 2 das
 Fachschaftenkollektiv der RFWU Bonn.
@@ -66,7 +74,11 @@ Personen gleicher Fachschaftszugehörigkeit abschließend geprüft oder angewies
 ausgezahlt, welches auf die Fachschaft selbst eingetragen ist.
 
 (7) Die Gelder der Fachschaften dürfen nicht dazu verwendet werden, Aufgaben
-der Verwaltung und Lehre der Universität zu finanzieren. 
+der Verwaltung und Lehre der Universität zu finanzieren.
+
+(8) Entsprechend § 15 Abs. 2 der Landeshaushaltsordnung NRW fließen mit der Bewirtschaftung der
+Selbstbewirtschaftungsmittel nach §3 Abs. 1 der HWVO NRW durch die Fachschaften aufkommende
+Einnahmen den Selbstbewirtschaftungsmitteln der jeweiligen Fachschaft zu.
 
 
 ### § 4 Auszahlungsfähigkeit
@@ -180,7 +192,6 @@ nachzuweisen.
 (1) Das Haushaltsjahr einer Fachschaft dauert genau ein Jahr.
 
 (2) Beginn und Ende des Haushaltsjahres einer Fachschaft werden in ihrer Fachschaftssatzung festgelegt.
-Es soll entweder der Zeitraum "1. April eines Jahres bis 31. März des Folgejahres" oder der Zeitraum "1. Oktober eines Jahres bis 30. September des Folgejahres" festgelegt werden.
 
 (3) Ändert eine Fachschaft den Zeitraum ihres Haushaltsjahres, so ist dies durch Einschub eines verkürzten Haushaltsjahres umzusetzen, dessen Dauer und Zeitraum in einer Übergangsbestimmung in der Fachschaftssatzung festzuhalten sind.
 
