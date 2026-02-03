@@ -1,7 +1,7 @@
 ---
 title: Verfahrensrichtlinie zur Handhabung der Semesterticket-Satzung
 short: Verfahrensrichtlinie zur Handhabung der Semesterticket-Satzung
-date:  16. Mai 2024
+date:  2. Februar 2026
 type:  Richtlinie
 id:    VerfRLSST
 contains:
@@ -36,6 +36,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  16. Mai 2024
   puburl:  https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-27.pdf
+  ref: 34cb95deef9386be9571d0a700ae5d397f3e6283/md/Sonstige/VerfRLSST.md
+- title: Dritte Änderungsordnung der Verfahrensrichtlinie zur Handhabung der Semesterticket-Satzung
+  short: Dritte Änderungsordnung der Verfahrensrichtlinie zur Handhabung der Semesterticket-Satzung
+  actorgan: Ausschuss für das Semesterticket
+  actdate:  25. November 2025
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  2. Februar 2026
+  puburl:  https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-08.pdf
   ref: HEAD/md/Sonstige/VerfRLSST.md
 
 ---
@@ -182,3 +190,18 @@ ordentlich eingeladenen Ausschusssitzungen beraten wurden.
 (3) Änderungen treten grundsätzlich mit Beginn des nächsten Semesters nach ihrer Veröffentlichung in Kraft. Tritt
 eine Änderung abweichend von Satz 1 im laufenden Semester in Kraft, so sind an Anträge die jeweils milderen
 Anforderungen zu stellen.
+
+
+## Anhänge
+
+Dieser Verfahrensrichtlinie liegen die folgenden Anhänge nach SST § 3 Absatz 5 Nr. 3 bei:
+
+- Hauptantragsformular
+- Hauptantragsformular (englisch)
+- Formular 2 zur Bedürftigkeit (nach § 4 SST)
+- Formular 2 zur Bedürftigkeit (nach § 4 SST, Englisch)
+- Formular 3 zum studienbedingten Aufenthalt außerhalb des Vertragsgebiets (nach § 6 SST, Englisch)
+- Formular 4 zur Teilnahme an Meisterschaft außerhalb des Vertragsgebiets (nach § 9 SST, Englisch)
+- Formular 5 zur Promotion außerhalb des Vertragsgebiets (nach § 6 SST)
+- Formular 6 zur Anfertigung einer Abschlussarbeit außerhalb des Vertragsgebietes (nach § 6 SST)
+- Formular 6 zur Anfertigung einer Abschlussarbeit außerhalb des Vertragsgebietes (nach§ 6 SST, Englisch)
