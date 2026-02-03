@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftenkonferenz der Rheinischen Friedrich-Wilhelms-Universität Bonn [FKGO]
 short: Geschäftsordnung der Fachschaftenkonferenz (FKGO)
-date:  1. Juli 2025
+date:  2. Februar 2026
 type:  Ordnung
 id:    FKGO
 contains:
@@ -258,6 +258,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  1. Juli 2025
   puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2025/vsbonn_bekanntmachung_2025-40.pdf
+  ref: 01467b4d876b133c310d7bbd32f4420d8335bb87/md/Ordnungen/FKGO.md
+- title:    Erste Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  short:    Erste Ordnung zur Änderung der Geschäftsordnung der Fachschaftenkonferenz
+  actorgan: Fachschaftenkonferenz
+  actdate:  26. Januar 2026
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  2. Februar 2026
+  puburl:   https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-09.pdf
   ref: HEAD/md/Ordnungen/FKGO.md
 ---
 
@@ -731,6 +739,12 @@ des Referats. Für die Besetzung ist die Wahl des FSK maßgeblich.
 (6) Es soll mindestens die Hälfte der Mitglieder des FSK auf jeder FK anwesend
 sein.
 
+(7) Die Mitglieder des FSK müssen eine Wahl in eine Fachschaftsvertretung oder einen Fachschaftsrat
+spätestens auf der übernächsten FK dieser mitteilen.
+
+(8) Zu keinem Zeitpunkt dürfen ein Drittel oder mehr der Mitglieder des FSK ein Amt in einem oder
+mehreren Organen derselben Fachschaft (Fachschaftsrat und/oder Fachschaftsvertretung) innehaben.
+
 
 ### § 22 Wahl des Vorsitzes und der weiteren Mitglieder des FSK
 
@@ -752,15 +766,13 @@ Fachschaftszugehörigkeit besetzt werden.
 Amtszeit reicht bis zum Beginn des nächsten Wintersemesters. Die Mitglieder des FSK, wie auch der Vorsitz, bleiben bis zur Neuwahl
 kommissarisch im Amt.
 
-(4) Die Kandidatinnen haben sich auf Verlangen vorzustellen.
+(4) Die Kandidatinnen haben sich auf Verlangen vorzustellen. Die Mitgliedschaft in einer
+Fachschaftsvertretung oder einem Fachschaftsrat sind der FK mitzuteilen.
 
 (5) Die Ämter des Vorsitzes des FSK und seiner zeichnungsberechtigten Stellvertretung sind unvereinbar mit der Mitgliedschaft in einer
 Fachschaftsvertretung (FSV), der Mitgliedschaft in einem Fachschaftsrat (FSR)
 oder einem weiteren Amt innerhalb des AStA.
 
-(6) Das Amt eines weiteren Mitgliedes des FSK ist unvereinbar mit der
-Mitgliedschaft in einem FSV-Präsidium, der Mitgliedschaft in einem FSR-
-Vorstand oder dem Posten der Finanzreferentin einer Fachschaft.
 
 ### § 22a Wahl von zwei Vorsitzenden des Fachschaftenkollektivs
 
