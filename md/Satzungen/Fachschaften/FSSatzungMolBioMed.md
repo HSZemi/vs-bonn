@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Molekulare Biomedizin
 short: Satzung der Fachschaft Molekulare Biomedizin
-date:  24. April 2023
+date:  25. Februar 2026
 type:  Satzung
 id:    FSSatzungMolBioMed
 contains:
@@ -40,6 +40,13 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  24. April 2023
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-25.pdf
+- title: Erste Satzung zur Änderung der Satzung der Fachschaft Molekulare Biomedizin
+  short: Erste Satzung zur Änderung der Satzung der Fachschaft Molekulare Biomedizin
+  actorgan: Fachschaftsvertretung Fachschaft Molekulare Biomedizin
+  actdate:  24. Februar 2026
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  25. Februar 2026
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-15.pdf
 
 ---
 
@@ -642,8 +649,8 @@ und Ausgaben der Fachschaft ordnungsgemäß Buch.
 
 (2) Der Finanzreferent hat vor Beginn des Haushaltsjahres einen ausgeglichenen Haushaltsplan aufzustellen
 und diesen der FSV auf einer Sitzung vor Beginn des Haushaltsjahres zur Abstimmung vorzulegen. Der
-Haushaltsplan muss mit der Einladung zur entsprechenden Sitzung allen Mitgliedern vorliegen. Das Haushaltsjahr
-beginnt am 1. April eines jeden Jahres.
+Haushaltsplan muss mit der Einladung zur entsprechenden Sitzung allen Mitgliedern vorliegen.
+Das Haushaltsjahr beginnt am 1. Juli eines jeden Jahres und endet am 30. Juni des darauffolgenden Jahres.
 
 (3) Überplanmäßige oder außerplanmäßige Ausgaben sind vor Inkrafttreten eines Nachtrags zum Haushaltsplan,
 der sie vorsieht, nur dann zulässig, wenn sie unabweisbar sind. Sie sind einer FSV unverzüglich anzuzeigen.
@@ -681,3 +688,7 @@ Satzungsneufassung oder Änderungssatzung beizufügen.
 
 (5) Die Satzung tritt mit ihrer Veröffentlichung in der AKUT in Kraft. Diese ist unverzüglich der Fachschaft
 auf einem geeigneten Kommunikationsweg bekanntzugeben.
+
+### § 35 Übergangsbestimmungen
+
+Abweichend von § 33 Abs. 2 beginnt das Haushaltsjahr 2026 am 01.04.2026 und endet am 30.06.2026.
