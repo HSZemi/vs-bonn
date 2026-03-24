@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Mathematik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Mathematik
-date:  5. April 2024
+date:  23. März 2026
 type:  Satzung
 id:    FSSatzungMathematik
 contains:
@@ -36,6 +36,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  5. April 2024
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-13.pdf
+  ref: 5625c0734baf07baffac3b5a106d136f3f8fec42/md/Satzungen/Fachschaften/FSSatzungMathematik.md
+- title: Zweite Satzung zur Änderung der Satzung der Fachschaft Mathematik der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: Zweite Satzung zur Änderung der Satzung der Fachschaft Mathematik
+  actorgan: Fachschaftsvertretung Fachschaft Mathematik
+  actdate:  18. März 2026
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  23. März 2026
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-16.pdf
   ref: HEAD/md/Satzungen/Fachschaften/FSSatzungMathematik.md
 ---
 
@@ -309,8 +317,8 @@ Auf Antrag eines Mitglieds der FSV müssen Einzelentlastungen durchgeführt werd
 
 ### § 15 Das Präsidium der FSV und seine Aufgaben
 
-(1) Das FSV-Präsidium besteht aus dem\*der Vorsitzenden und seinem\*seiner Stellvertreter\*in. Sie müssen Mitglieder der FSV sein und dürfen nicht dem FSR der gleichen
-Wahlperiode angehören.
+(1) Das FSV-Präsidium besteht aus dem\*der Vorsitzenden und seinem\*seiner Stellvertreter\*in. Sie müssen Mitglieder der FSV sein und dürfen nicht
+gleichzeitig dem FSR angehören.
 
 (2) Die Mitglieder des Präsidiums werden von der FSV einzeln durch gewöhnlichen
 Beschluss nach Bestimmungen von § 8 Absatz 3 gewählt.
