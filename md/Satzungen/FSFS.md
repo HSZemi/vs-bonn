@@ -1,7 +1,7 @@
 ---
 title: Satzung über die Finanzen der Fachschaften der Rheinischen Friedrich-Wilhelms-Universität Bonn (Fachschaftenfinanzsatzung - FSFS)
 short: Satzung über die Finanzen der Fachschaften (Fachschaftenfinanzsatzung - FSFS)
-date:  2. Februar 2026
+date:  30. März 2026
 type:  Satzung
 id:    FSFS
 contains:
@@ -28,6 +28,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate: 2. Februar 2026
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-05.pdf
+  ref: 23c184666e15447758ec35365c97136db648e96e/md/Satzungen/FSFS.md
+- title: Dritte Satzung zur Änderung der Fachschaftenfinanzsatzung
+  short: Dritte Satzung zur Änderung der Fachschaftenfinanzsatzung
+  actorgan: Fachschaftenkonferenz
+  actdate: 23. März 2026
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate: 30. März 2026
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-19.pdf
   ref: HEAD/md/Satzungen/FSFS.md
 ---
 
@@ -159,7 +167,8 @@ einzureichen, solange die Plattform keine Möglichkeit zur Einreichung im
 Produktivbetrieb anbietet und sofern sie nicht im Rahmen eines Evaluationsbetriebs
 über die Plattform eingereicht werden.
 
-(7) Anträge auf BFSG und zugehörige Dokumente sowie Vorankündigungen und zugehörige Dokumente sind per E-Mail einzureichen, solange die Plattform keine Möglichkeit zur Einreichung im Produktivbetrieb anbietet und sofern sie nicht im Rahmen eines Evaluationsbetriebs über die Plattform eingereicht werden.
+(7) Anträge auf BFSG sowie Vorankündigungen sind über die Plattform zu stellen.
+Zugehörige Dokumente sind über die Plattform einzureichen.
 
 (8) Der Zugriff auf die Plattform erfolgt grundsätzlich über personengebundene Accounts.
 
@@ -641,10 +650,10 @@ späteren Antrag auf BFSG in dem durch die
 Vorankündigung begrenzten Rahmen von den Vorgaben der Anlage 1 abweichen.
 Die allgemeinen Regelungen nach Nr. 1 der Anlage 1 sind hiervon ausgenommen. Vorankündigung müssen sich auf genau einen Titel aus der Anlage 1 beziehen. Dieser ist im Antrag anzugeben.
 
+(2) Einer Vorankündigung beizufügen sind:
 
-(2) Das FSK soll Vorankündigungen die nicht auf dem entsprechenden Formblatt gestellt wurden zurückweisen, solange die Plattform nach § 5 Absatz 1 keine Möglichkeit zur Einreichung im Produktivbetrieb anbietet und sofern sie nicht im Rahmen eines Evaluationsbetriebs über die Plattform eingereicht werden. Eine Begründung der
-Abweichung von Anlage 1 ebenso wie eine Vorkalkulation der Maßnahme, sind
-beizufügen.
+1. Begründung der Abweichung von Anlage 1
+2. Vorkalkulation der Maßnahme
 
 (3) Das Fachschaftenkollektiv (FSK) bringt vollständige Vorankündigungen zur
 Vorstellung auf der nächsten FK ein. Das FSK entscheidet
@@ -740,8 +749,7 @@ Wintersemester (1. Oktober) und endet mit dem Sommersemester (30. September).
 (2) Die Semester erstrecken sich sowohl über die Vorlesungszeit als auch über die
 darauffolgende vorlesungsfreie Zeit.
 
-(3) Anträge müssen mit den vom Fachschaftenkollektiv bereitgestellten, vollständig
-ausgefüllten Antragsformularen eingereicht werden, solange die Plattform nach § 5 Absatz 1 keine Möglichkeit zur Einreichung im Produktivbetrieb anbietet und sofern sie nicht im Rahmen eines Evaluationsbetriebs über die Plattform eingereicht werden.
+(3) Anträge müssen über die Plattform nach § 5 Absatz 1 gestellt werden.
 
 (4) Allgemeine Anschaffungen, die der Fachschaft erwartungsgemäß über den
 Rahmen einzelner Veranstaltungen hinaus zur Verfügung stehen, wie z.B.
