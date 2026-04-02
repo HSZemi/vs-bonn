@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Ethnologie / Altamerikanistik
 short: Satzung der Fachschaft Ethnologie / Altamerikanistik
-date:  17. Mai 2023
+date:  31. März 2026
 type:  Satzung
 id:    FSSatzungEthnologieAltamerikanistik
 contains:
@@ -12,7 +12,7 @@ contains:
   puborgan: AKUT
   pubdate:  16. August 2019
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-15.pdf
-  ref: dd2e2da7b1669b914dcea50ffc0b7b191adc9213/md/Satzungen/Fachschaften/FSSatzungInformatik.md
+  ref: dd2e2da7b1669b914dcea50ffc0b7b191adc9213/md/Satzungen/Fachschaften/FSSatzungEthnologieAltamerikanistik.md
 - title: Satzung der Fachschaft Altamerikanistik und Ethnologie
   short: Satzung der Fachschaft Altamerikanistik und Ethnologie
   actorgan: Fachschaftsvollversammlung Fachschaft Ethonologie / Altamerikanistik
@@ -20,7 +20,16 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  17. Mai 2023
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-35.pdf
-  ref: HEAD/md/Satzungen/Fachschaften/FSSatzungInformatik.md
+  ref: 35d3de63c3c188872cd0127678ce28e40623c898/md/Satzungen/Fachschaften/FSSatzungEthnologieAltamerikanistik.md
+- title: Erste Satzung zur Änderung der Satzung der Fachschaſt Ethnologie/Altamerikanistik
+  short: Erste Satzung zur Änderung der Satzung der Fachschaſt Ethnologie/Altamerikanistik
+  actorgan: Fachschaftsvollversammlung Fachschaft Ethonologie / Altamerikanistik
+  actdate:  30. März 2026
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  31. März 2026
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-20.pdf
+  ref: HEAD/md/Satzungen/Fachschaften/FSSatzungEthnologieAltamerikanistik.md
+
 
 ---
 
@@ -438,8 +447,8 @@ Mitglieder beschlussfähig ist.
 (1) Die Haushalts- und Wirtschaftsführung richtet sich nach den Vorgaben der Satzung der
 Studierendenschaft und der HWVO NRW.
 
-(2) Das Haushaltsjahr der Fachschaft beginnt am 1. April eines jeden Jahres und endet am 31. März
-des jeweiligen Folgejahres.
+(2) Das Haushaltsjahr beginnt am 1. Juli eines jeden Jahres und endet am 30. Juni des darauffolgenden
+Jahres.
 
 (3) Bei der Aufstellung und Ausführung des Haushaltsplans sind die Grundsätze der Wirtschaftlichkeit
 und Sparsamkeit zu beachten.
@@ -540,3 +549,7 @@ beantragten Satzungsänderung beizufügen.
 (4) Diese Satzung und etwaige Änderungssatzungen treten jeweils am Tag nach ihrer Veröffentlichung
 auf der Bekanntmachungsplattform der Studierendenschaft in Kraft. Sie sind unverzüglich der
 Fachschaft durch ortsüblichen Aushang und an geeigneter Stelle im Internet bekanntzugeben.
+
+### § 28 Übergangsbestimmungen
+
+Abweichend von § 21 Abs. 2 beginnt das Haushaltsjahr 2026 am 01.04.2026 und endet am 30.06.2026.
