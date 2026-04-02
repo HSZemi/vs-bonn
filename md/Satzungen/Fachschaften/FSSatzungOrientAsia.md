@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft OrientAsia
 short: Satzung der Fachschaft OrientAsia
-date:  16. September 2022
+date:  30. März 2026
 type:  Satzung
 id:    FSSatzungOrientAsia
 contains:
@@ -12,6 +12,7 @@ contains:
   puborgan: AKUT
   pubdate:  18. Juni 2018
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2018/akut_extra_2018-9.pdf
+  ref: cc59ca9fa4b2f0228d6c4c2ce15d27cbcc97d481/md/Satzungen/Fachschaften/FSSatzungInformatik.md
 - title: Satzung der Fachschaft OrientAsia
   short: Satzung der Fachschaft OrientAsia
   actorgan: Fachschaftsvertretung Fachschaft OrientAsia
@@ -19,7 +20,15 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  16. September 2022
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2022/vsbonn_bekanntmachung_2022-60.pdf
-
+  ref: fa33559d7274adb3aa4e604ad871f20af5ace7cb/md/Satzungen/Fachschaften/FSSatzungInformatik.md
+- title: Erste Satzung zur Änderung der Satzung der Fachschaft OrientAsia
+  short: Erste Satzung zur Änderung der Satzung der Fachschaft OrientAsia
+  actorgan: Fachschaftsvertretung Fachschaft OrientAsia
+  actdate:  
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  30. März 2026
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-18.pdf
+  ref: HEAD/md/Satzungen/Fachschaften/FSSatzungInformatik.md
 ---
 
 # Präambel
@@ -431,8 +440,8 @@ Mitglieder beschlussfähig ist.
 (1) Die Haushalts- und Wirtschaftsführung richtet sich nach den Vorgaben der Satzung der
 Studierendenschaft und der HWVO NRW.
 
-(2) Das Haushaltsjahr der Fachschaft beginnt am 1. April eines jeden Jahres und endet am 31. März
-des jeweiligen Folgejahres.
+(2) Das Haushaltsjahr beginnt am 1. Juli eines jeden Jahres und endet am 30. Juni des darauffolgenden
+Jahres.
 
 (3) Bei der Aufstellung und Ausführung des Haushaltsplans sind die Grundsätze der Wirtschaftlichkeit
 und Sparsamkeit zu beachten.
@@ -532,3 +541,7 @@ beantragten Satzungsänderung beizufügen.
 (4) Diese Satzung und etwaige Änderungssatzungen treten jeweils am Tag nach ihrer Veröffentlichung
 auf der Bekanntmachungsplattform der Studierendenschaft in Kraft. Sie sind unverzüglich der
 Fachschaft durch ortsüblichen Aushang und an geeigneter Stelle im Internet bekanntzugeben.
+
+### § 28 Übergangsbestimmungen
+
+Abweichend von § 21 Abs. 2 beginnt das Haushaltsjahr 2026 am 01.04.2026 und endet am 30.06.2026.
