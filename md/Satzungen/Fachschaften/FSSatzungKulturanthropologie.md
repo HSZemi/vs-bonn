@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Kulturanthropologie der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Kulturanthropologie
-date:  2. Juni 2021
+date:  8. April 2026
 type:  Satzung
 id:    FSSatzungKulturanthropologie
 contains:
@@ -12,6 +12,7 @@ contains:
   puborgan: AKUT
   pubdate:  25. Februar 2014
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2014/Satzung-der-Fachschaft-Kulturanthropologie-der-RFWU.pdf
+  ref: 577cfba8d2fc73e01b98f0d818078785ce80cc76/md/Satzungen/Fachschaften/FSSatzungKulturanthropologie.md
 - title: Satzung der Fachschaft Kulturanthropologie der Rheinischen Friedrich-Wilhelms-Universität Bonn
   short: Satzung der Fachschaft Kulturanthropologie
   actorgan: Fachschaftsvollversammlung Fachschaft Kulturanthropologie
@@ -19,6 +20,15 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  2. Juni 2021
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-29.pdf
+  ref: 2f197025ee2561c00dff9e148dfee3446d3f1e48/md/Satzungen/Fachschaften/FSSatzungKulturanthropologie.md
+- title: Erste Satzung zur Änderung der Satzung der Fachschaft Kulturanthropologie
+  short: Erste Satzung zur Änderung der Satzung der Fachschaft Kulturanthropologie
+  actorgan: Fachschaftsvollversammlung Fachschaft Kulturanthropologie
+  actdate:  25. März 2026
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  8. April 2026
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-21.pdf
+  ref: HEAD/md/Satzungen/Fachschaften/FSSatzungKulturanthropologie.md
 ---
 
 # A. Fachschaft
@@ -179,9 +189,10 @@ Studierendenschaften Nordrhein-Westfalens (HWVO NRW).
 (2) Dem:Der Finanzreferent:in obliegt die Finanzführung der Fachschaft. Er:Sie führt über alle
 Einnahmen und Ausgaben der Fachschaft ordnungsgemäß Buch.
 
-(3) Der:Die Finanzreferent:in hat vor Beginn des Haushaltsjahres einen ausgeglichenen
-Haushaltsplan aufzustellen und diesen der FSV auf einer Sitzung vor Beginn des Haushaltsjahres
-zur Abstimmung vorzulegen. Das Haushaltsjahr beginnt am 01. April eines jeden Jahres.
+(3) Der:Die Finanzreferent:in hat vor Beginn des Haushaltsjahres einen ausgeglichenen Haushaltsplan
+aufzustellen und diesen der FSVV auf einer Sitzung vor Beginn des Haushaltsjahres zur Abstimmung
+vorzulegen. Das Haushaltsjahr beginnt am 1. Juli eines jeden Jahres und endet am 30. Juni des
+darauffolgenden Jahres.
 
 (4) Über planmäßige oder außerplanmäßige Ausgaben sind vor Inkrafttreten eines Nachtrags zum
 Haushaltsplan, der sie vorsieht, nur dann zulässig, wenn sie unabweisbar sind. Sie sind der FSVV
@@ -226,3 +237,7 @@ beantragten Satzungsänderung beizufügen.
 (4) Die Satzung tritt mit der Veröffentlichung durch die:den Öffentlichkeitsbeauftragte:n des
 Studierendenparlaments der Rheinischen Friedrich-Wilhelms-Universität Bonn in Kraft. Sie ist
 unverzüglich der Fachschaft auf einem geeignetem Kommunikationsweg bekanntzugeben.
+
+### § 13 Übergangsbestimmungen
+
+Abweichend von § 11 Abs. 3 beginnt das Haushaltsjahr 2026 am 01.04.2026 und endet am 30.06.2026.
