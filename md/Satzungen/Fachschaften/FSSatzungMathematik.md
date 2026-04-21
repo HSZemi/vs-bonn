@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Mathematik der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Mathematik
-date:  23. März 2026
+date:  14. April 2026
 type:  Satzung
 id:    FSSatzungMathematik
 contains:
@@ -44,6 +44,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  23. März 2026
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-16.pdf
+  ref: ecfb86650f3282c944ee2b9466cb0e0a702315d6/md/Satzungen/Fachschaften/FSSatzungMathematik.md
+- title: Dritte Satzung zur Änderung der Satzung der Fachschaft Mathematik der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: Dritte Satzung zur Änderung der Satzung der Fachschaft Mathematik
+  actorgan: Fachschaftsvertretung Fachschaft Mathematik
+  actdate:  26. März 2026
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  14. April 2026
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-22.pdf
   ref: HEAD/md/Satzungen/Fachschaften/FSSatzungMathematik.md
 ---
 
@@ -59,22 +67,14 @@ unabhängig ihres Geschlechts in gleicher Weise.
 
 ### § 1 Begriffsbestimmung und Rechtsstellung
 
-(1) Die Fachschaft Mathematik ist die Gesamtheit der Hauptfach-Mathematikstudierenden
-der Rheinischen Friedrich-Wilhelms-Universität Bonn, d.h. Studierende der Studiengänge 
-Bachelor of Science Mathematik, Master of Science Mathematics und Promotion
-Mathematik.
+(1) Die Fachschaft Mathematik, nachfolgend als ‚Fachschaft‘ bezeichnet, bilden alle Studieren-
+den der RFWU Bonn, die eine Fachabschlusskombination studieren, die der Fachschaft gemäß
+Studierendenschaftsgliederungssatzung in der jeweils geltenden Fassung zugeordnet ist.
 
-(2) Die Fachschaft nimmt alle sie betreffenden Aufgaben innerhalb der Studierendenschaft wahr 
-und vertritt im Rahmen ihrer Möglichkeiten die Belange von Mathematik-Lehramts-Studierenden 
-der Rheinischen Friedrich-Wilhelms-Universität Bonn und
-Studierenden, die Veranstaltungen der durch die Fachschaft vertretenen Studiengänge
-belegen.
-
-(3) Mitglieder der Fachschaft sind alle Hauptfach-Mathematikstudierenden der 
-Rheinischen Friedrich-Wilhelms-Universität Bonn.
-
-(4) Angehörige der Fachschaft sind alle Mitglieder der Fachschaft sowie alle 
-Mathematik-Lehramts-Studierenden der Rheinischen Friedrich-Wilhelms-Universität Bonn.
+(2) Die Fachschaft vertritt die spezifischen Interessen ihrer Mitglieder. Sie vertritt darüber hinaus im
+Rahmen ihrer Möglichkeiten Belange von Studierenden, die an einem Studienangebot eines Faches
+teilnehmen, das der Fachschaft zugeordnet ist, auch wenn diese Studierenden nicht Mitglieder
+der Fachschaft sind.
 
 
 ### § 2 Organe der Fachschaft
@@ -122,16 +122,17 @@ nichtöffentlicher Sitzung beraten und entschieden. Weitere Personen können mit
 hinzugezogen werden. Über den Inhalt nichtöffentlicher Beratung ist Stillschweigen zu
 wahren und kein Protokoll zu führen.
 
+
 # Abschnitt 3 Gemeinsame Bestimmungen
 
 ### § 6 Gemeinsame Bestimmungen für alle gewählten Organe
 
 (1) FSR und FSV fördern auf der Grundlage einer demokratischen und sozialen
-Gesellschaftsordnung die politische Bildung und das staatsbürgerliche Verantwortungsbewusstsein der Fachschaftsangehörigen. Sie nehmen organisatorische Aufgaben im
+Gesellschaftsordnung die politische Bildung und das staatsbürgerliche Verantwortungsbewusstsein der Fachschaftsmitglieder. Sie nehmen organisatorische Aufgaben im
 Rahmen der studentischen Selbstverwaltung der Fachschaft wahr und sind ermächtigt,
 sich im Namen der Fachschaft zu hochschulpolitischen und im Rahmen der Mathematikausbildung relevanten allgemeinpolitischen Themen zu äußern.
 
-(2) In den Publikationen der Fachschaft dürfen sich ihre Angehörigen auch zu allgemeinen gesellschaftlichen und politischen Themen äußern; die Beiträge müssen namentlich
+(2) In den Publikationen der Fachschaft dürfen sich ihre Mitglieder auch zu allgemeinen gesellschaftlichen und politischen Themen äußern; die Beiträge müssen namentlich
 gekennzeichnet und von offiziellen Stellungnahmen der Fachschaft und ihrer Organe
 unterscheidbar sein.
 
@@ -139,7 +140,7 @@ unterscheidbar sein.
 Studiums mit. Sie vertreten die Studierenden der Mathematik gegenüber der Professorenschaft, den Gremien der Universitätsverwaltung und den übrigen Gremien der
 Studierendenschaft. Sie stehen den mathematischen Instituten als erster Ansprechpartner in allen Fragen der studentischen Mitbestimmung zur Seite.
 
-(4) FSR und FSV können, soweit rechtlich zulässig, durch gewöhnlichen Beschluss Angehörige der Fachschaft mit der Durchführung der ihnen nach dieser Satzung obliegenden
+(4) FSR und FSV können, soweit rechtlich zulässig, durch gewöhnlichen Beschluss Mitglieder der Fachschaft mit der Durchführung der ihnen nach dieser Satzung obliegenden
 Aufgaben betrauen.
 
 (5) Mitglieder der gewählten Organe sind grundsätzlich verpflichtet, an Sitzungen des
@@ -156,7 +157,7 @@ Sitzungsleitung darf das Verlangen wegen fehlender Begründung zurückweisen.
 ### § 7 Beschlussfähigkeit der Organe
 
 (1) Die FSV ist mit der Hälfte ihrer satzungsgemäßen, der FSR mit der Hälfte seiner
-gewählten Mitglieder beschlussfähig. Die FSVV ist mit 5% ihrer Mitglieder beschlussfähig.
+gewählten Mitglieder beschlussfähig.
 
 (2) Die Organe gelten so lange als beschlussfähig, bis das Gegenteil festgestellt wurde.
 Zu Beginn einer jeden Sitzung sowie bei jeder Veränderung der Anwesenheit sollte die
@@ -195,9 +196,9 @@ Bezugnahme auf den Beschluss ist das Sondervotum stets anzugeben.
 zweiten Wahlgang ist die notwendige Stimmenanzahl, die ein\*e Kandidat\*in braucht,
 um gewählt zu sein, die eines gewöhnlichen Beschlusses. Erreicht im ersten Wahlgang
 kein\*e Kandidat\*in die notwendige Stimmenanzahl, so findet unverzüglich ein zweiter
-Wahlgang statt. Erreicht auch hier kein\*e Kandidat\*in die notwendige Stimmenanzahl,
-so gilt im dritten Wahlgang der\*die Kandidat\*in als gewählt, der\*die die einfache
-Mehrheit der Stimmen auf sich vereinigt. Auf Wunsch eines Organmitglieds findet
+Wahlgang statt. Erreicht auch hier kein\*e Kandidat\*in die notwendige Stimmenanzahl, so gilt ab dem dritten
+Wahlgang der\*die Kandidat\*in als gewählt, der\*die die einfache Mehrheit der Stimmen auf sich
+vereinigt. Auf Wunsch eines Organmitglieds findet
 eine Wahl geheim statt. Während einer Wahl mit mehreren Wahlgängen können neue
 Kandidierende nur vorgeschlagen werden, wenn die Mehrheit der anwesenden Mitglieder
 einem Antrag auf Öffnung der Wahlliste zustimmt. Soweit diese Satzung nichts anderes
@@ -231,23 +232,22 @@ Vorlesungstage durch Aushang und mindestens für anderthalb Jahre gemäß § 11 
 
 (5) Die Geschäftsordnung des Organs kann Regelungen dazu vorsehen, dass Teile
 der öffentlichen Sitzung separat protokolliert werden. Diese werden ausschließlich
-Angehörigen der Fachschaft zugänglich gemacht (Fachschaftsöffentlichkeit).
+Mitgliedern der Fachschaft zugänglich gemacht (Fachschaftsöffentlichkeit).
 
 
 ### § 10 Ausscheiden, Ausschluss und Rücktritt von Mitgliedern
 
-(1) Ein Mitglied scheidet aus den gewählten Organen aus:
+1) Ein Mitglied scheidet aus den gewählten Organen aus:
 
-1. durch Niederlegung seines Amtes,
-2. durch Ausscheiden aus der Fachschaft,
-3. durch Ausscheiden aus den in § 1 Absatz 2 genannten Gruppen.
+1. durch Niederlegung seines Amtes oder
+2. durch Ausscheiden aus der Fachschaft
 
 Das ausscheidende Mitglied muss hierüber den\*die Vorsitzende\*n des Organs informieren.
 
 (2) Nach einem Rücktritt ist eine kommissarische Amtsführung nur erforderlich, wenn
 die Weiterführung der Amtsgeschäfte durch den\*die gewählte\*n Stellvertreter\*in nicht
 möglich oder kein\*e Stellvertreter\*in gewählt ist. Die FSV darf durch gewöhnlichen
-Beschluss einem\*einer Angehörigen der Fachschaft die kommissarische Amtsführung
+Beschluss einem Mitglied der Fachschaft die kommissarische Amtsführung
 antragen. Auf Antrag eines FSV-Mitglieds ist eine Neuwahl des Postens durchzuführen.
 
 (3) Die in dieser Satzung genannten gegenseitigen Ausschlusskriterien verschiedener
@@ -302,7 +302,6 @@ ein und leitet sie bis zur Wahl eines\*einer FSV-Vorsitzenden.
 
 (1) Die FSV wählt den FSR.
 
-
 (2) Sie beschließt durch gewöhnlichen Beschluss die organisatorische und finanzielle
 Entlastung des FSRs. Die finanzielle Entlastung kann nicht verweigert werden, wenn
 eine Überprüfung der Kasse durch den Kassenprüfungsausschuss keine Ungenauigkeiten
@@ -313,6 +312,8 @@ Auf Antrag eines Mitglieds der FSV müssen Einzelentlastungen durchgeführt werd
 (3) Sie wählt Ausschüsse nach § 18.
 
 (4) Sie beschließt den Haushaltsplan.
+
+(5) Sie wählt die Awareness-Beauftragten der Fachschaft.
 
 
 ### § 15 Das Präsidium der FSV und seine Aufgaben
@@ -393,18 +394,18 @@ Mitgliedern gemäß der FSWO. Der Wahlausschuss hat die Wahl zur FSV durchzufüh
 und Voraussetzungen für einen möglichst reibungslosen Ablauf der Wahl sowie eine
 hohe Wahlbeteiligung zu schaffen.
 
-
-(5) Der Kassenprüfungsausschuss besteht aus drei Mitgliedern als Kassenprüfende.
-Diese müssen Angehörige der Studierendenschaft der Rheinischen
-Friedrich-Wilhelms-Universität Bonn sein. Dem Kassenprüfungsausschuss kann nur
-angehören, wer weder im geprüften Zeitraum noch zum Prüfungszeitpunkt Mitglied
-des FSRs oder Teil des FSV-Präsidiums war beziehungsweise ist. Die FSV weist dem
-Kassenprüfungsausschuss einen zu prüfenden Zeitraum zu. Der Kassenprüfungsausschuss kontrolliert die ordnungsgemäße Kassenführung des ihm zugewisenen Zeitraums
-nach Maßgabe des Abschnitts zur Haushalts- und Wirtschaftsführung, und erstattet
-der FSV umgehend Bericht über das Ergebnis seiner Prüfung.
+(5) Der Kassenprüfungsausschuss besteht aus mindestens drei Mitgliedern als Kassen-
+prüfer\*innen. Diese müssen Mitglieder der Studierendenschaft der Rheinischen Friedrich-
+Wilhelms-Universität Bonn sein. Dem Kassenprüfungsausschuss kann nur angehören, wer
+weder im geprüften Zeitraum noch zum Prüfungszeitpunkt Mitglied des FSR oder Teil des
+FSV-Präsidiums war beziehungsweise ist. Die FSV weist dem Kassenprüfungsausschuss
+einen zu prüfenden Zeitraum zu. Der Kassenprüfungsausschuss kontrolliert die ordnungs-
+gemäße Kassenführung des ihm zugewiesenen Zeitraums nach Maßgabe des Abschnitts
+zur Haushalts- und Wirtschaftsführung, und erstattet der FSV umgehend Bericht über das
+Ergebnis seiner Prüfung.
 
 (6) Dem Haushaltsausschuss gehören per Amt der\*die Finanzreferent\*in und der\*die
-FSR-Vorsitzende an. Weitere Mitglieder müssen Angehörige der Fachschaft sein. Dem
+FSR-Vorsitzende an. Weitere Mitglieder müssen Mitglieder der Fachschaft sein. Dem
 Ausschuss steht der\*die Finanzreferent\*in vor; er\*sie leitet die Sitzung und konstituiert den Ausschuss. Der Haushaltsausschuss berät den\*die Finanzreferent\*in bei der
 Erstellung des Haushaltsplans und etwaiger Nachtragshaushaltspläne.
 
@@ -433,9 +434,10 @@ Beschlussorgan; im Übrigen führt er die Beschlüsse der FSV aus.
 3. dem\*der Finanzreferent\*in,
 sowie zwischen 2 und 6 weiteren Mitgliedern. Die genaue Zahl legt die FSV fest.
 
-(2) Zusätzlich zu den in Absatz 1 genannten Mitgliedern kann die FSV für jeden in § 1 Absatz 1 benannten Studiengang ein zusätzliches Mitglied in den FSR wählen.
-Dieses muss dem entsprechenden Studiengang angehören.
-
+(2) Sind der Fachschaft mehrere Fach-Abschluss-Kombinationen (FAKs) zugeordnet, so kann die
+FSV nach § 27 Absatz 5 Satzung der Studierendenschaft für jede dieser FAK bis zu zwei zusätzliche
+Mitglieder in den FSR wählen, die einen Studiengang mit dieser FAK studieren. Die Zahl der
+Mitglieder des FSR vergrößert sich entsprechend.
 
 
 ### § 21 Wahl
@@ -447,7 +449,7 @@ auf Antrag einzeln.
 
 (2) Der\*Die FSR-Vorsitzende muss der FSV angehören.
 
-(3) Alle Mitglieder des FSRs müssen Angehörige der Fachschaft sein.
+(3) Alle Mitglieder des FSRs müssen Mitglieder der Fachschaft sein.
 
 
 ### § 22 Abwahl, Rücktritt
@@ -472,10 +474,10 @@ dabei einzuhalten.
 ### § 23 Aufgaben und Zuständigkeiten
 
 (1) Der FSR organisiert kulturelle und gesellige Veranstaltungen, die der außerfachlichen
-Bildung und dem Zusammenhalt unter den Fachschaftsangehörigen dienen.
+Bildung und dem Zusammenhalt unter den Fachschaftsmitgliedern dienen.
 
-(2) Der FSR führt Einführungsveranstaltungen für alle neuen Angehörigen der Fachschaft durch und erstellt, aktualisiert und verteilt zu Studienbeginn ein an alle neuen
-Angehörigen auszugebendes Informationsheft.
+(2) Der FSR führt Einführungsveranstaltungen für alle neuen Mitglieder der Fachschaft durch und erstellt, aktualisiert und verteilt zu Studienbeginn ein an alle neuen
+Mitglieder auszugebendes Informationsheft.
 
 (3) Der\*Die Vorsitzende bestimmt die Richtlinien der Arbeit des FSRs und trägt die
 Verantwortung für diese Arbeit. Innerhalb seiner Richtlinien sind die weiteren Mitglieder
@@ -510,7 +512,7 @@ Studiengangs beauftragt.
 
 zusammen. FSR-Sitzungen nach den Nummern 2, 3 und 4 werden der Fachschaft durch
 Aushang, den FSR-Mitgliedern zusätzlich per E-Mail mindestens zwei Tage im Voraus
-bekanntgegeben.
+bekanntgegeben. Näheres regelt die Geschäftsordnung.
 
 (2) Zu einzelnen Tagesordnungspunkten kann der FSR Nichtmitglieder ausschließen.
 Das Nähere regelt die Geschäftsordnung.
@@ -521,7 +523,7 @@ Das Nähere regelt die Geschäftsordnung.
 (1) Der FSR entscheidet im Allgemeinen nach dem Konsensprinzip. Wird ein Beschluss
 nicht einstimmig gefasst, kann ein FSR-Mitglied unmittelbar Veto einlegen.
 
-(2) Alle Angehörigen der Fachschaft sind stimmberechtigt. Ein FSR-Mitglied kann für
+(2) Alle Mitglieder der Fachschaft sind stimmberechtigt. Ein FSR-Mitglied kann für
 den aktuellen Tagesordnungspunkt Abstimmungen ausschließlich unter FSR-Mitgliedern
 beantragen. Der Antrag ist nach Anhörung einer Gegenrede von ausschließlich FSR-Mitgliedern abzustimmen.
 
@@ -530,7 +532,8 @@ beantragen. Der Antrag ist nach Anhörung einer Gegenrede von ausschließlich FS
 
 ### § 26 Die Fachschaftsvollversammlung
 
-(1) Die FSVV ist das oberste beschlussfassende Organ der Fachschaft.
+(1) Die FSVV ist das oberste beschlussfassende Organ der Fachschaft und dient der Information
+ihrer Mitglieder.
 
 (2) Die FSVV besteht aus allen Mitgliedern der Fachschaft Mathematik. Beschlüsse
 der FSVV können nur durch FSVV-Beschluss aufgehoben werden. Beschließt die FSVV
@@ -554,10 +557,60 @@ werden. Die Änderungen sind zu protokollieren.
 
 (6) Die FSVV wählt zu Beginn jeder Versammlung eine Sitzungsleitung.
 
+# Abschnitt 7 Awarenessbeauftragte
 
-# Abschnitt 7 Haushalts- und Wirtschaftsführung
+### § 27 Awarenessbeauftragte der Fachschaft
 
-### § 27 Grundsätze der Haushaltsführung
+(1) Die Awarenessbeauftragten der Fachschaft sind ständige Ansprechpersonen für Studierende,
+Fachschaftler\*innen und Awareness-Personen.
+
+(2) Sie sind ein weiblich und ein männlich gelesenes Mitglied der Fachschaft.
+
+(3) Sie verwalten das Awarenesshandy, überprüfen es regelmäßig auf neue Nachrichten und
+handhaben diese.
+
+(4) Sie können jeweils Einzelpersonen von der Teilnahme an Awarenessschulungen und der
+Ausführung von Awarenesstätigkeiten für bis zu ein Jahr ausschließen. Dieser Ausschluss soll vor
+der ausgeschlossenen Person begründet werden.
+
+(5) Von einem Ausschluss nach Absatz 4 muss dem FSR und der FSV inklusive Begründung
+berichtet werden.
+
+(6) Die Awarenessbeauftragten können gemeinsam einen Ausschluss nach Absatz 4 zurücknehmen.
+Absatz 5 gilt entsprechend.
+
+(7) Die FSV kann einen Ausschluss nach Absatz 4 durch gewöhnlichen Beschluss aufheben.
+
+
+### § 28 Wahl, Ausscheiden, Abwahl und Rücktritt
+
+(1) Die Awarenessbeauftragten werden von der FSV auf der konstituierenden Sitzung der FSV
+nach den Bestimmungen von § 8 Absatz 3 gewählt.
+
+(2) Die Amtszeit beträgt ein Jahr. Bis zur Neuwahl der Nachfolge bleiben sie kommissarisch im
+Amt.
+
+(3) Die Awarenessbeauftragten scheiden aus ihrem Amt aus:
+
+1. durch Niederlegung ihres Amtes oder
+2. durch Ausscheiden aus der Fachschaft.
+
+Der\*die ausscheidende Awarenessbeauftragte muss hierüber den\*die andere\*n Awarenessbeauftragte\*n
+und das FSV-Präsidium informieren.
+
+(4) Awarenessbeauftragte können jederzeit zurücktreten. Sie sind jedoch verpflichtet, die ihnen
+übertragenen Geschäfte bis zur Bestimmung einer Nachfolge in ihren Geschäften kommissarisch
+fortzuführen.
+
+(5) Nach Ausscheiden eines\*r Awarenessbeauftragten wählt die FSV unverzüglich eine Nachfolge.
+
+(6) Awarenessbeauftragte können durch gewöhnlichen Beschluss der FSV vermöge der Wahl einer
+Nachfolge abberufen werden.
+
+
+# Abschnitt 8 Haushalts- und Wirtschaftsführung
+
+### § 29 Grundsätze der Haushaltsführung
 
 (1) Die Haushalts- und Wirtschaftsführung der Fachschaft richtet sich nach den Vorgaben der Satzung der Studierendenschaft und der HWVO NRW.
 
@@ -566,12 +619,13 @@ werden. Die Änderungen sind zu protokollieren.
 Protokollkasse und die allgemeine Büro-Kasse wird vom Anwesenheitsdienst geführt.
 
 
-### § 28 Haushaltsplan
+### § 30 Haushaltsplan
 
 (1) Der\*Die Finanzreferent\*in hat vor Beginn des Haushaltsjahres einen ausgeglichenen Haushaltsplan aufzustellen und diesen der FSV auf einer Sitzung vor Beginn des
 Haushaltsjahres vorzulegen. Bei der Aufstellung des Haushaltsplanes ist der Haushaltsausschuss beratend hinzuzuziehen.
 
-(2) Das Haushaltsjahr beginnt mit dem 1. April eines Jahres.
+(2) Der Haushaltsplan wird jährlich für denselben Zeitraum festgestellt wie der Haushaltsplan
+gemäß § 39 Absatz 1 der Satzung der Studierendenschaft; dieser Zeitraum ist das Haushaltsjahr.
 
 (3) Für über- und außerplanmäßige Ausgaben haftet der\*die Finanzreferent\*in bis
 zum Inkrafttreten eines Nachtragshaushaltes persönlich. Dies gilt nicht, soweit sein\*ihr
@@ -585,25 +639,14 @@ diesem Falle FSV und FSR unverzüglich zu unterrichten.
 FSV-Sitzungen zu lesen.
 
 
-### § 29 Ausgabenvollmacht
-
-Zur finanziellen Verpflichtung der Fachschaft ist wenigstens erforderlich:
-
-1. Unterschriften des\*der FSR-Vorsitzenden und des\*der Finanzreferent\*in,
-2. Unterschrift des\*der zuständigen FSR-Referent\*in nach Zustimmung des\*der
-Vorsitzenden und des\*der Finanzreferent\*in oder
-3. Unterschrift eines\*einer vom FSR Beauftragten zur Umsetzung eines gewöhnlichen FSR-Beschlusses mit Zustimmung des\*der FSR-Vorsitzenden und des\*der
-Finanzreferent\*in.
-
-
-### § 30 Einnahmenverpflichtung
+### § 31 Einnahmenverpflichtung
 
 Der\*Die Finanzreferent\*in ist verpflichtet, im Rahmen der Finanzordnung der Studierendenschaft für Unterstützung durch allgemeine Fachschaftengelder (AFSG) sowie
 die üblichen Beihilfen im Rahmen besonderer Fachschaftengelder (BFSG) zu sorgen,
 soweit diese nach Maßgabe der Fachschaftenkonferenz unterstützt werden.
 
 
-### § 31 Kassenprüfung und -abschluss
+### § 32 Kassenprüfung und -abschluss
 
 (1) Der von der FSV gewählte Kassenprüfungsausschuss führt nach Ablauf des zugewiesenen Zeitraums gemäß § 18 Absatz 5 eine Prüfung für ebenjenen durch (Abschlussprüfung). Die Prüfung dient dem Zweck festzustellen, ob insbesondere
 
@@ -628,9 +671,9 @@ Absatz 1 zusammenfallen.
 des FSRs.
 
 
-# Abschnitt 8 Schlussbestimmungen
+# Abschnitt 9 Schlussbestimmungen
 
-### § 32 Satzungsänderungen
+### § 33 Satzungsänderungen
 
 (1) Diese Satzung kann geändert werden:
 
@@ -642,7 +685,13 @@ FSV- bzw. FSVV-Sitzung angekündigt werden. Der Ankündigung ist der Wortlaut de
 beantragten Satzungsänderung beizufügen.
 
 
-### § 33 Inkrafttreten
+### § 34 Inkrafttreten
 
 Die Satzung tritt mit ihrer Veröffentlichung auf der Bekanntmachungsplattform der
 Studierendenschaft in Kraft. Sie ist unverzüglich der Fachschaft öffentlich bekanntzugeben.
+
+
+### § 35 Übergangsbestimmungen
+
+Abweichend von § 29 Absatz 2 beginnt das Haushaltsjahr 2026 am 01.04.2026 und endet am
+30.06.2026.
