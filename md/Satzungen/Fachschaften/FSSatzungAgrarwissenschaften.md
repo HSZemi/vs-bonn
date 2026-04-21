@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Agrarwissenschaften der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Agrarwissenschaften
-date:  2. Februar 2026
+date:  15. Februar 2026
 type:  Satzung
 id:    FSSatzungAgrarwissenschaften
 contains:
@@ -36,6 +36,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  2. Februar 2026
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-10.pdf
+  ref: d4d0ee365d078c1fc54bbb062032653468da1705/md/Ordnungen/FKGO.md
+- title: Satzung der Fachschaft Agrarwissenschaften der Rheinischen Friedrich-Wilhelms-Universität Bonn
+  short: Satzung der Fachschaft Agrarwissenschaften
+  actorgan: Fachschaftsvertretung Fachschaft Agrarwissenschaften
+  actdate:  9. Februar 2026
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  15. Februar 2026
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-13.pdf
   ref: HEAD/md/Ordnungen/FKGO.md
 
 ---
@@ -49,6 +57,7 @@ folgende Satzung gegeben.
 Soweit Bezeichnungen in einer geschlechtsspezifischen und/oder allgemeinen Sprachform
 verwendet werden, gelten diese Bezeichnungen selbstverständlich für alle Menschen unabhängig
 von ihrer geschlechtlichen Identität.
+
 
 # A. FACHSCHAFT
 
@@ -119,6 +128,8 @@ Verlangen wegen fehlender Begründung zurückweisen.
 (1) Stimmrecht haben nur die Mitglieder des Organs selbst, soweit diese Satzung für den speziellen
 Fall nichts Gegenteiliges bestimmt.
 
+(2) Abweichende Bestimmungen sind explizit in den jeweiligen Absätzen benannt.
+
 
 ### § 5 Öffentlichkeit
 
@@ -136,6 +147,8 @@ nicht-öffentlicher Beratung ist Stillschweigen zu wahren und kein Protokoll zu 
 
 (1) Antrags- und Rederecht auf den Sitzungen eines Organs haben alle Mitglieder der Fachschaft und
 Mitglieder der in § 1 Absatz 2 genannten Gruppen.
+
+(2) Abweichende Bestimmungen sind explizit in den jeweiligen Absätzen benannt.
 
 
 ### § 7 Beschlussfähigkeit der Organe
@@ -183,7 +196,7 @@ Organmitglieds findet eine Wahl geheim statt. Während einer Wahl mit mehreren W
 können neue Kandidierende nur vorgeschlagen werden, wenn die Mehrheit der anwesenden
 Mitglieder einem Antrag auf Öffnung der Wahlliste zustimmt. Soweit diese Satzung nichts anderes
 vorsieht und für mehrere Posten nicht mehr Kandidierende als Posten zur Wahl stehen, können die
-Wahlen en bloc durchgeführt werden.
+Wahlen geschlossen und durchgeführt werden.
 
 (4) Für die Sitzungen der Organe gilt, soweit anwendbar und solange sie sich keine eigene
 Geschäftsordnung geben, die Geschäftsordnung des Studierendenparlaments.
@@ -208,7 +221,7 @@ abwesender Organmitglieder zu, so sind diese auf Wunsch dieses Organmitglieds in
 aufzunehmen.
 
 (4) Das beschlossene Protokoll ist der Fachschaft für mindestens vierzehn Tage oder fünf
-Vorlesungstage durch Aushang und mindestens für anderthalb Jahre im Internet bekanntzugeben.
+Vorlesungstage durch Aushang und mindestens für eineinhalb Jahre im Internet bekanntzugeben.
 
 (5) Die Geschäftsordnung des Organs kann Regelungen dazu vorsehen, dass Teile der öffentlichen
 Sitzung separat protokolliert werden. Diese werden ausschließlich Angehörigen der Fachschaft
@@ -238,7 +251,6 @@ Studierendenparlaments.
 (5) Die in dieser Satzung genannten gegenseitigen Ausschlusskriterien verschiedener Ämter hindern
 eine Wahl nicht, sofern das konkurrierende Amt noch vor der Annahme der Wahl niedergelegt
 wird.
-
 
 # B. DIE ORGANE DER FACHSCHAFT
 
@@ -445,8 +457,9 @@ haben sie diese in möglichst drei Wochen ordnungsgemäß zu Ende zu führen.
 
 ### § 22 Aufgaben und Zuständigkeiten
 
-(1) Der FSR organisiert kulturelle und gesellige Veranstaltungen, die insbesondere der (außer)fachlichen
-Bildung und dem Zusammenhalt unter den Angehörigen der Fachschaft dienen.
+(1) Der FSR organisiert kulturelle und gesellige Veranstaltungen, die insbesondere der
+
+(außer)fachlichen Bildung und dem Zusammenhalt unter den Angehörigen der Fachschaft dienen.
 
 (2) Der FSR führt Einführungsveranstaltungen für alle neuen Angehörigen der Fachschaft durch und
 kann insbesondere zu Studienbeginn ein an alle neuen Angehörigen auszugebendes
@@ -557,7 +570,7 @@ Einnahmen und Ausgaben ordnungsgemäß Buch.
 (1) Die Finanzreferent\*innen haben einen ausgeglichenen Haushaltsplan/Nachtragshaushaltsplan
 aufzustellen und diesen der FSV auf einer Sitzung vorzulegen.
 
-(2) Das Haushaltsjahr beginnt am 01.04. eines jeden Jahres.
+(2) Das Haushaltsjahr beginnt am 01.07. eines jeden Jahres.
 
 (3) Über- oder außerplanmäßige Ausgaben sind vor Inkrafttreten des Nachtragshaushaltes, der sie
 vorsieht, nur dann zulässig, wenn sie unabweisbar sind. Sie sind der FSV unverzüglich
@@ -587,6 +600,10 @@ FSR-Vorsitzende und/oder der\*die Finanzreferent\*in mit der Mehrheit stimmen.
 Unterstützung durch allgemeine Fachschaftengelder (AFSG) sowie die üblichen Beihilfen im
 Rahmen besonderer Fachschaftengelder (BFSG) zu sorgen, soweit diese nach Maßgabe der
 Fachschaftenkonferenz unterstützt werden.
+
+(2) Insbesondere sind Finanzreferent\*innen nicht verpflichtet Einnahmen durch wirtschaftlichen
+Geschäftsbetrieb und/oder steuerlich schädliche Betätigungen und/oder Betriebe zu unterhalten,
+zu fördern, zu veranlassen, zu initialisieren und/oder anderweitig durch Teilhabe beizutragen.
 
 
 ### § 33 Kassenprüfung und -abschluss
@@ -654,7 +671,22 @@ neuen Satzung.
 
 ### § 37 Übergangsbestimmungen
 
-(1) Das Haushaltsjahr 2026/27 beginnt am 01.04.2026 und endet am 31.03.2027.
+(1) Das Haushaltsjahr 2026/27 beginnt am 01.07.2026 und endet am 30.06.2027.
 
-(2) Die Satzung der Fachschaft Agrarwissenschaften in der Fassung vom 31.08.2022 tritt mit
-Inkrafttreten dieser Satzung vom 26.01.2026 außer Kraft.
+(2) Die Satzung der Fachschaft Agrarwissenschaften in der Fassung vom 26.01.2026 tritt mit
+Inkrafttreten dieser Satzung vom 09.02.2026 außer Kraft.
+
+
+### § 38 Salvatorische Klausel
+
+(1) Sollten Bestimmungen dieser Satzung ganz oder teilweise nicht rechtswirksam oder nicht
+durchführbar sein oder ihre Rechtswirksamkeit oder Durchführbarkeit später verlieren, so soll
+hierdurch die Gültigkeit der übrigen Bestimmungen der Satzung nicht berührt werden.
+
+(2) Anstelle der unwirksamen oder undurchführbaren Bestimmung gilt eine solche als vereinbart, die
+dem Sinn und Zweck der unwirksamen oder undurchführbaren Bestimmung in rechtlich zulässiger
+Weise am nächsten kommt, soweit diese den einschlägigen gesetzlichen Vorschriften entspricht
+und/oder nicht gegen diese verstößt.
+
+(3) Soweit diese Satzung eine planwidrige Regelungslücke enthält, ist diese unter Berücksichtigung
+des Satzungszwecks und des mutmaßlichen Willens des Satzungsgebers zu schließen.
