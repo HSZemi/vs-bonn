@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft GeKoSka der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft GeKoSka
-date:  4. März 2021
+date:  27. April 2026
 type:  Satzung
 id:    FSSatzungGeKoSka
 contains:
@@ -12,6 +12,7 @@ contains:
   puborgan: AKUT
   pubdate:  8. April 2014
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2014/Satzung-GeKoSka.pdf
+  ref: 577cfba8d2fc73e01b98f0d818078785ce80cc76/md/Satzungen/Fachschaften/FSSatzungGeKoSka.md
 - title: Satzung der Fachschaft GeKoSka
   short: Satzung der Fachschaft GeKoSka
   actorgan: Fachschaftsvertretung Fachschaft GeKoSka
@@ -19,6 +20,15 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  4. März 2021
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-14.pdf
+  ref: 9a4dbe005da4fa05cafd0b30677c408a73864409/md/Satzungen/Fachschaften/FSSatzungGeKoSka.md
+- title: Erste Satzung zur Änderung der Satzung der Fachschaft GeKoSka
+  short: Erste Satzung zur Änderung der Satzung der Fachschaft GeKoSka
+  actorgan: Fachschaftsvollversammlung Fachschaft GeKoSka
+  actdate:  26. März 2026
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  27. April 2026
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-23.pdf
+  ref: HEAD/md/Satzungen/Fachschaften/FSSatzungGeKoSka.md
 
 ---
 
@@ -76,7 +86,7 @@ Die FSV ist beschlussfassendes Organ der Studierendenschaft des Fachbereichs.
 (1) Die FSV besteht aus mindestens elf und maximal fünfzehn Mitgliedern, sofern § 27 I SdS
 nichts Abweichendes vorsieht.
 
-(2) Sie tritt mindestens dreimal im Semester zusammen. Für die Einladung zu einer FSV-Sitzung
+(2) Die FSV tritt mindestens einmal im Semester zusammen. Für die Einladung zu einer FSV-Sitzung
 genügt dessen Zustellung per E-Mail.
 
 (3) Die Mitglieder der FSV sind grundsätzlich verpflichtet, an den Sitzungen teilzunehmen, sofern
@@ -232,8 +242,8 @@ und die Stellvertreter\*innen mit der Mehrheit der satzungsmäßigen Mitglieder.
 Näheres regelt die Fachschaftswahlordnung.
 
 (2) Die FSV wählt als Mitglieder des Kassenprüfungsausschusses zwei Kassenprüfer\*innen mit der
-Mehrheit ihrer satzungsmäßigen Mitglieder. Die Kassenprüfer\*innen müssen Mitglieder der
-Fachschaft sein. Das Amt des\*der Kassenprüfers\*in ist unvereinbar mit einem Amt im Präsidium
+Mehrheit ihrer satzungsmäßigen Mitglieder. Die Kassenprüfer\*innen müssen Teil der Studierendenschaft der Rheinischen
+Friedrich-Wilhelms-Universität Bonn sein. Das Amt des\*der Kassenprüfers\*in ist unvereinbar mit einem Amt im Präsidium
 der FSV. Mitglieder des geschäftsführenden Vorstandes des FSR im zu prüfenden Haushaltsjahr
 können nicht zum\*zur Kassenprüfer\*in gewählt werden. Die Kassenprüfer\*innen kontrollieren die
 ordnungsgemäße Kassenführung des Haushaltsjahres für dessen Kontrolle sie gewählt wurden
@@ -389,7 +399,8 @@ alle Einnahmen und Ausgaben der Fachschaft ordnungsgemäß Buch.
 
 (3) Der\*Die Finanzreferent\*in hat vor Beginn des Haushaltsjahres einen ausgeglichenen
 Haushaltsplan aufzustellen und diesen der FSV auf einer Sitzung vor Beginn des Haushaltsjahres
-zur Abstimmung vorzulegen. Das Haushaltsjahr beginnt am 01. April eines jeden Jahres.
+zur Abstimmung vorzulegen. Das Haushaltsjahr beginnt am 1. Juli eines jeden Jahres und endet am 30. Juni des
+darauffolgenden Jahres.
 
 (4) Anschaffungen und Ausgaben, die von den unter dem Titel „Sonstiges“ im Haushaltsplan
 ausgewiesenen Geldern getätigt werden und einen Höchstbetrag von 125,- Euro
@@ -435,3 +446,9 @@ der Wortlaut der beantragten Satzungsänderung beizufügen.
 
 (4) Die Satzung tritt nach erfolgter Anzeige gegenüber dem Studierendenparlament in Kraft.
 Diese ist unverzüglich der Fachschaft durch ortsüblichen Aushang bekannt zu machen.
+
+
+### § 22 Übergangsbestimmungen
+
+Abweichend von § 20 Abs. 3 beginnt das Haushaltsjahr 2026 am 01.04.2026 und
+endet am 30.06.2026.
