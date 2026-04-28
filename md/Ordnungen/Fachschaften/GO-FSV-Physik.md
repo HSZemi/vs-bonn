@@ -1,7 +1,7 @@
 ---
 title: Geschäftsordnung der Fachschaftsvertretung der Fachschaft Physik/Astronomie der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Geschäftsordnung der Fachschaftsvertretung der Fachschaft Physik/Astronomie
-date:  13. März 2024
+date:  27. April 2026
 type:  Ordnung
 id:    GO-FSV-Physik
 contains:
@@ -43,6 +43,14 @@ contains:
   actdate:  23. Januar 2024
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  13. März 2024
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-12.pdf
+  ref: ac5deec08fc1daaf476307313bdec58bf3c04a64/md/Ordnungen/Fachschaften/GO-FSV-Physik.md
+- title: Änderung der Geschäftsordnung der Fachschaftsvertretung Physik/Astronomie
+  short: Änderung der Geschäftsordnung der Fachschaftsvertretung Physik/Astronomie
+  actorgan: Fachschaftsvertretung Fachschaft Physik/Astronomie
+  actdate:  10. Juli 2025
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  27. April 2026
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-12.pdf
   ref: HEAD/md/Ordnungen/Fachschaften/GO-FSV-Physik.md
 
@@ -122,9 +130,18 @@ nicht als Initiativantrag gestellt werden.
 (6) Der Haushaltsplan muss als eigener Tagesordnungspunkt aufgenommen werden.
 
 
+### § 4 digitale und hybride Sitzungen
+
+Die FSV kann auf Vorschlag ihrer Vorsitzenden ihre Sitzungen in elektronischer Kommunikation
+oder hybrid abhalten und Beschlüsse im Umlaufverfahren fassen. Verlangt mindestens
+ein stimmberechtigtes Mitglied eine Präsenzsitzung oder -abstimmung, so ist dem
+nachzukommen. Für geheime Abstimmungen gilt die Sitzung in hybrider oder digitaler
+Tagungsform als nicht beschlussfähig.
+
+
 ## II Verlauf der Sitzung
 
-### § 4 Eröffnung der Sitzung, Sitzungsleitung und Beschlussfähigkeit
+### § 5 Eröffnung der Sitzung, Sitzungsleitung und Beschlussfähigkeit
 
 (1) Vor Beginn der Sitzung ist ein Schriftführer zu bestimmen.
 
@@ -151,7 +168,7 @@ Einladung darauf hingewiesen wird und mindestens zwei Mitglieder anwesend sind. 
 hierbei die Pflicht die Mitglieder auf ihr Recht nach §8 Abs. 5 hinzuweisen.
 
 
-### § 5 Öffentlichkeit der Sitzung
+### § 6 Öffentlichkeit der Sitzung
 
 (1) Die FSV-Sitzung ist öffentlich sofern nicht anders bestimmt.
 
@@ -159,7 +176,7 @@ hierbei die Pflicht die Mitglieder auf ihr Recht nach §8 Abs. 5 hinzuweisen.
 und/oder unter Ausschluss der Betroffenen zu diskutieren. §1 Abs. 5 bleibt hiervon unberührt.
 
 
-### § 6 Genehmigung der Tagesordnung
+### § 7 Genehmigung der Tagesordnung
 
 (1) Im Tagesordnungspunkt Genehmigung der Tagesordnung können Änderungsanträge zur Tagesordnung
 gestellt werden. Über diese Änderungsanträge wird mit einfacher Mehrheit entschieden.
@@ -170,7 +187,7 @@ gestellt werden. Über diese Änderungsanträge wird mit einfacher Mehrheit ents
 Abschnitte IV und V dieser Geschäftsordnung.
 
 
-### § 7 Rede- und Antragsrecht
+### § 8 Rede- und Antragsrecht
 
 (1) Rederecht haben alle Mitglieder der Fachschaft und Studierende der Lehramtsfächer Physik. Antragsrecht
 haben Mitglieder der FSV sowie des FSR nach §18 Abs. 1 FSSzg.
@@ -182,7 +199,7 @@ jedoch nicht erteilt werden, solange die Sitzungsleitung den ordnungsgemäßen A
 beeinträchtigt sieht.
 
 
-### § 8 Abstimmungen
+### § 9 Abstimmungen
 
 (1) Stimmberechtigt ist jedes Mitglied der FSV. Das Stimmrecht ist nicht übertragbar. Die Absitmmung
 erfolgt offen durch Handzeichen oder per Akklamation, soweit nichts anderes bestimmt ist.
@@ -234,7 +251,7 @@ erwähnt werden.
 
 ## III Rechte und Pflichten der Sitzungsleitung
 
-### § 9 Leitung der Sitzung
+### § 10 Leitung der Sitzung
 
 (1) Der Sitzungsleiter leitet die Sitzung der FSV nach Maßgabe dieser Geschäftsordnung. Er sorgt für den
 ordnungsgemäßen Ablauf der Sitzung.
@@ -250,7 +267,7 @@ vertagen.
 eine Entscheidung gemäß §10.
 
 
-### § 10 Ermessensentscheidung
+### § 11 Ermessensentscheidung
 
 (1) Die Sitzungsleitung legt diese Geschäftsordnung nach eigenem Ermessen aus.
 
@@ -259,7 +276,7 @@ einlegen. Der Einspruch hat unverzüglich zu erfolgen und ist wie ein Antrag zur
 behandeln.
 
 
-### § 11 Ordnungsmaßnahmen
+### § 12 Ordnungsmaßnahmen
 
 (1) Die Sitzungsleitung kann Redner, die vom Verhandlungsgegenstand abschweifen, zur Sache rufen.
 
@@ -274,7 +291,7 @@ Folgen eins dritten Rufes hingewiesen, so schließt die Sitzungsleitung sie von 
 
 ## IV Anträge
 
-### § 12 Sachanträge
+### § 13 Sachanträge
 
 (1) Als Sachanträge gelten alle Beschlussvorlagen, einschließlich der in §3 Abs. 4 genannten.
 
@@ -288,7 +305,7 @@ Aufnahme in die Anlagen. Anträge, die während der Sitzung durch Änderungsantr
 müssen nur in dem der Schlussabstimmung zu Grunde liegenden Wortlaut aufgenommen werden.
 
 
-### § 13 Anträge zur Geschäftsordnung
+### § 14 Anträge zur Geschäftsordnung
 
 (1) Anträge zur Geschäftsordnung können von stimmberechtigten Anwesenden gestellt werden. Eine
 Wortmeldung für einen Antrag zur Geschäftsordnung ist als solche kenntlich zu machen. Dies geschieht durch
@@ -332,7 +349,7 @@ Hierbei gilt §8 Abs. 4 nicht.
 
 ## V Protokoll und Ausfertigung von Beschlüssen
 
-### § 14 Inhalt des Protokolls
+### § 15 Inhalt des Protokolls
 
 (1) Das Protokoll hat die Form eines Ergebnisprotokolls
 
@@ -355,7 +372,7 @@ bei Wahlen die Namen aller Kandidaten und die Ergebnisse der Wahl.
 angehängt werden.
 
 
-### § 15 Ausfertigung und Genehmigung des Protokolls
+### § 16 Ausfertigung und Genehmigung des Protokolls
 
 (1) Für die Ausfertigung des Protokolls sind die Sitzungsleitung und der jeweilige Schriftführer verantwortlich.
 Das Protokoll ist von beiden zu unterzeichnen.
@@ -375,7 +392,7 @@ bei der Beschlussfassung zur Weisung anwesend, gilt die Mitteilung als erfolgt.
 
 ## VI Arbeitskreise und Ausschüsse
 
-### § 16 Arbeitskreise und Ausschüsse
+### § 17 Arbeitskreise und Ausschüsse
 
 (1) Über die Einrichtung von Arbeitskreisen entscheidet der FSR. Der FSR kann von der FSV angewiesen
 werden, zu einem bestimmten Thema einen Arbeitskreis zu bilden. Die FSV kann Vorschläge für Mitglieder
@@ -390,7 +407,7 @@ berichtspflichtig.
 ## VII Schlussbestimmungen
 
 
-### § 17 Änderung der Geschäftsordnung
+### § 18 Änderung der Geschäftsordnung
 
 (1) Als eine Änderung der Geschäftsordnung ist sowohl eine Änderung des Wortlautes, als auch eine Ergänzung
 oder Aufhebung ihrer Bestimmungen anzusehen.
@@ -407,7 +424,7 @@ und der dritten Lesung müssen mindestens 7 und dürfen maximal 30 Tage liegen.
 (5) Die Geschäftsordnung in ihrer aktuellen Form ist im Fachschaftsraum aufzubewahren.
 
 
-### § 18 Inkrafttreten und Gültigkeit
+### § 19 Inkrafttreten und Gültigkeit
 
 (1) Diese Geschäftsordnung tritt am Tag nach ihrer Veröffentlichung in den Bekanntmachungen der
 Studierendenschaft in Kraft.
