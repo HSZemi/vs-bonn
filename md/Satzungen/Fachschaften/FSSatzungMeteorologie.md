@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Meteorologie und Geophysik
 short: Satzung der Fachschaft Meteorologie und Geophysik
-date:  17. Januar 2023
+date:  2. Juni 2026
 type:  Satzung
 id:    FSSatzungMeteorologie
 contains:
@@ -12,6 +12,7 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  19. April 2021
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-19.pdf
+  ref: 3545e898e5506124da2c9015f0a990943c642c74/md/Satzungen/Fachschaften/FSSatzungMeteorologie.md
 - title: Satzung der Fachschaft Meteorologie und Geophysik
   short: Satzung der Fachschaft Meteorologie und Geophysik
   actorgan: Fachschaftsvollversammlung Fachschaft Meteorologie
@@ -19,7 +20,15 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  17. Januar 2023
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-01.pdf
-
+  ref: c90b5621fd46dfe261a6ec989c69d0c5b81fb04e/md/Satzungen/Fachschaften/FSSatzungMeteorologie.md
+- title: Erste Satzung zur Änderung der Satzung der Fachschaft Meteorologie und Geophysik
+  short: Erste Satzung zur Änderung der Satzung der Fachschaft Meteorologie und Geophysik
+  actorgan: Fachschaftsvollversammlung Fachschaft Meteorologie
+  actdate:  17. März 2026
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  2. Juni 2026
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-33.pdf
+  ref: HEAD/md/Satzungen/Fachschaften/FSSatzungMeteorologie.md
 ---
 
 # Präambel
@@ -264,12 +273,10 @@ Studierendenschaft und der HWVO NRW.
 (2) Bei der Aufstellung und Ausführung des Haushaltsplans sind die Grundsätze der Wirtschaftlichkeit
 und Sparsamkeit zu beachten.
 
-(3) Das Haushaltsjahr der Fachschaft beginnt am 1. April eines jeden Jahres und endet am 31. März
-des jeweiligen Folgejahres.
+(3) Das Haushaltsjahr beginnt am 1. Juli eines jeden Jahres und endet am 30. Juni des darauffolgenden
+Jahres.
 
-(4) Das Haushaltsjahr 2022/2023 ist als Übergang vom Haushaltsjahr der Studierendenschaft nach §
-39 SdS zu dem Haushaltsjahr der Fachschaft nach § 13 Abs. 2 FSSzg. verkürzt und geht vom
-01.07.2022 bis zum 31.03.2023.
+(4) (weggefallen)
 
 (5) Dem Abschluss von Verträgen über Lieferungen und Leistungen muss ein Preisvergleich
 vorausgehen. Bei Aufträgen mit einem Wert von mehr als 1.000 Euro sind mindestens 3 Angebote
@@ -366,3 +373,8 @@ Satzungsänderung beizufügen.
 (4) Diese Satzung und etwaige Änderungssatzungen treten jeweils am Tag nach ihrer Veröffentlichung
 auf der Bekanntmachungsplattform der Studierendenschaft in Kraft. Sie sind unverzüglich der
 Fachschaft durch ortsüblichen Aushang und an geeigneter Stelle im Internet bekanntzugeben.
+
+### § 20 Übergangsbestimmungen
+
+Abweichend von § 13 Abs. 3 wird ein vekürztes Haushaltsjahr beginnend am 01.04.2026 und Ende am
+30.06.2026 eingeführt.
