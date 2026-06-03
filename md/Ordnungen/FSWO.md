@@ -496,7 +496,7 @@ Im Zweifelsfall entscheidet der Wahlausschuss über die Gültigkeit von Stimmen.
 
 ### § 21 Bekanntgabe des Wahlergebnisses
 
-1) Die Bekanntgabe des Wahlergebnisses muss enthalten:
+(1) Die Bekanntgabe des Wahlergebnisses muss enthalten:
 
 1. Ort und Datum ihrer Veröffentlichung;
 2. Datum der Wahl;
