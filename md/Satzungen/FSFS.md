@@ -1,7 +1,7 @@
 ---
 title: Satzung über die Finanzen der Fachschaften der Rheinischen Friedrich-Wilhelms-Universität Bonn (Fachschaftenfinanzsatzung - FSFS)
 short: Satzung über die Finanzen der Fachschaften (Fachschaftenfinanzsatzung - FSFS)
-date:  30. März 2026
+date:  7. Juni 2026
 type:  Satzung
 id:    FSFS
 contains:
@@ -36,6 +36,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate: 30. März 2026
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-19.pdf
+  ref: b02fbbffa5aee664b1709ecc7601369a4ead7916/md/Satzungen/FSFS.md
+- title: Vierte Satzung zur Änderung der Fachschaftenfinanzsatzung
+  short: Vierte Satzung zur Änderung der Fachschaftenfinanzsatzung
+  actorgan: Fachschaftenkonferenz
+  actdate: 27. April 2026
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate: 7. Juni 2026
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-38.pdf
   ref: HEAD/md/Satzungen/FSFS.md
 ---
 
@@ -299,9 +307,36 @@ Insbesondere ein nicht ausgeglichener Haltsplan muss durch einen Nachtragshausha
 
 
 ### § 11 Kassenführung
+
 (1) Zahlungen dürfen nur aufgrund einer Kassenanordnung geleistet werden. Einzahlungen sind stets anzunehmen. Die Anordnung ist dann nachträglich zu erteilen.
 
 (2) Die eine Einnahme oder Ausgabe begründenden Teile einer Kassenanordnung bedürfen der Feststellung der sachlichen und rechnerischen Richtigkeit. Die Feststellung der sachlichen Richtigkeit obliegt der Finanzreferentin. Mit der Feststellung der rechnerischen Richtigkeit ist ein anderes Mitglied des FSR zu beauftragen.
+
+
+### § 11a Nutzung eines Unterkontos der Studierendenschaft als Fachschaftskonto
+
+(1) Auf Antrag an das FSK kann einer Fachschaft ein, der Fachschaft zugeordnetes, Unterkonto
+der Studierendenschaft als Konto im Sinne des §3 Absatz 6 zur Verfügung gestellt werden. Der
+Antrag kann abgelehnt werden, wenn seitens der Kassenverwaltung nicht die notwendigen
+Kapazitäten vorhanden sind.
+
+(2) Die Kassenverwaltung des AStA übernimmt dann den Zahlungsverkehr auf Anweisung der
+entsprechend Zeichnungsberechtigten der Fachschaft. In diesem Fall sind Kassenanordnungen
+im Sinne des §12 an diese zu richten.
+
+(3) Die Fachschaft ist verpflichtet sämtliche Zeichnungsberechtigungen inklusive der
+entsprechenden Unterschriftproben an das FSK zu melden. Über Änderungen ist das FSK
+unverzüglich zu informieren. Das FSK ist für die Weiterleitung an die Kassenverwaltung des
+AStA verantwortlich.
+
+(4) Der Finanzreferentin der Fachschaft ist nach Möglichkeit ein Einsichtszugriff auf die erfolgten
+Buchungen in Echtzeit zu gewähren. Besteht diese Möglichkeit nicht, ist sie in geeigneter
+Form regelmäßig über erfolgte Buchungen zu informieren.
+
+(5) Für Kassenanordnungen soll das FSK ein Musterformular bereitstellen, welches nach
+Möglichkeit genutzt werden soll. Das FSK kann im Evaluationsbetrieb auch die Möglichkeit
+zum generieren und melden von Kassenanordnungen über die Plattform nach § 5 Absatz 1
+ermöglichen.
 
 
 ### § 12 Kassenanordnungen
@@ -415,64 +450,62 @@ Dem Bericht ist eine Auflistung der Mitglieder des FSR während des Prüfungszei
 ### § 18 AFSG
 
 (1) Die AFSG für eine Fachschaft setzen sich zusammen aus einem Sockelbetrag und einem
-weiteren Betrag, der sich nach der Zahl der Studierenden richtet, die der
-betreffenden Fachschaft gemäß § 22 Satzung der Studierendenschaft zugeordnet sind.
+weiteren Betrag, der sich nach der Zahl der Studierenden richtet, die der betreffenden
+Fachschaft gemäß § 22 Satzung der Studierendenschaft zugeordnet sind.
 
-(2) AFSG werden rückwirkend für die letzten Semester ausgezahlt.
-Der Antrag kann frühestens für das aktuell laufende Semester
-gestellt werden und spätestens 2 Semester nach Ablauf des Semesters,
-auf welches sich der Antrag bezieht.
+(2) AFSG werden auf Antrag einer Fachschaft für diese Fachschaft ausgezahlt. Der Antrag kann
+für das aktuell laufende Haushaltsjahr der Studierendenschaft gemäß § 39 Absatz 1 Satzung
+der Studierendenschaft gestellt werden.
 
-(3) Dem FSK müssen für das Semester, auf das der Antrag sich bezieht, die folgenden 
-Dokumente vorliegen:
+(3) Dem FSK müssen für den Zeitraum, auf den sich der Antrag bezieht, die folgenden Dokumente
+vorliegen:
 
-1. die (Nachtrags-)Haushaltspläne, deren Gültigkeitszeiträume das Semester abdecken,
+1. die (Nachtrags-)Haushaltspläne,
 2. die Protokolle der Sitzungen, auf denen diese Haushaltspläne beschlossen wurden,
-3. die Haushaltsrechnungen für diese Haushaltspläne, 
-4. die Kassenprüfungsberichte, die das Semester abdecken,
-5. die Protokolle der Sitzungen, auf denen die betreffenden Kassenprüfungsausschüsse gewählt wurden,
-6. Nachweise, dass für die Mitglieder der Kassenprüfungsausschüsse keine Ausschlussgründe vorlagen, und
-7. das aktuellste Ergebnis einer Fachschaftswahl in diesem oder dem vorhergehenden Semester.
+3. die Haushaltsrechnungen über den vorherigen Zeitraum,
+4. die Kassenprüfungsberichte für den vorherigen Zeitraum,
+5. die Protokolle der Sitzungen, auf denen die betreffenden Kassenprüfungsausschüsse
+gewählt wurden,
+6. Nachweise, dass für die Mitglieder der Kassenprüfungsausschüsse keine
+Ausschlussgründe vorlagen und
+7. das aktuellste Wahlergebnis aus einem der Semester, über welche sich der vorherige
+Zeitraum erstreckt.
 
-(4) Sind die Voraussetzungen nach Absatz 3 erfüllt, ist der Antrag
-ordnungsgemäß ausgefüllt und bestehen sonst keine Bedenken gegen die
-Auszahlung der Gelder, so werden die Gelder vom Vorsitz des FSK
-oder seiner zeichnungsberechtigten Stellvertretung angewiesen.
+(4) Liegen die Dokumente nach Absatz 3 ordnungsgemäß vor und bestehen sonst keine Bedenken
+gegen die Auszahlung der Gelder, so werden die Gelder vom Vorsitz des FSK oder seiner
+zeichnungsberechtigten Stellvertretung angewiesen.
 
-(5) Anträge, die vier Semester nach Ablauf des Semesters, auf das sich
-der Antrag bezieht, die Voraussetzungen des Absatz 3 nicht erfüllen,
-gelten als nicht gestellt.
+(5) Anträge, die nach Ablauf des Zeitraums, auf den sich der Antrag bezieht, die Voraussetzungen
+des Absatz 3 nicht erfüllen, gelten als nicht gestellt.
 
-(6) Anträge, die sieben Semester nach Ablauf des Semesters, auf das sich
-der Antrag bezieht, mangels Auszahlungsfähigkeit nicht ausgezahlt werden konnten,
-gelten als nicht gestellt.
+(6) Anträge, die 6 Monate nach Ablauf des Zeitraums, auf den sich der Antrag bezieht, mangels
+Auszahlungsfähigkeit nicht ausgezahlt werden konnten, gelten als nicht gestellt.
 
-(7) Das FSK kann die Frist nach Absatz 5 einmalig verlängern, wenn für einen Antrag alle Dokumente
-nach Absatz 3 vorliegen und lediglich noch behebbare Mängel aufweisen. Das FSK teilt der betroffenen
-Fachschaft hierfür die zu behebenden Mängel sowie eine angemessene Frist zur Behebung dieser
-Mängel mit. Diese Fristverlängerung ist auch rückwirkend möglich.
+(7) Das FSK kann die Fristen nach Absatz 5 und Absatz 6 einmalig verlängern, wenn für einen
+Antrag alle Dokumente nach Absatz 3 vorliegen und lediglich noch behebbare Mängel
+aufweisen. Das FSK teilt der betroffenen Fachschaft hierfür die zu behebenden Mängel sowie
+eine angemessene Frist zur Behebung dieser Mängel mit. Diese Fristverlängerung ist auch bis
+zu 3 Monate rückwirkend möglich.
 
 
 ### § 19 Verteilung der AFSG
 
-(1) Für AFSG sind pro Semester 60.000 € zur Verfügung zu stellen.
+(1) Für AFSG sind pro Haushaltsjahr 120.000 € zur Verfügung zu stellen.
 
-(2) Der AFSG-Betrag pro Semester steht den einzelnen Fachschaften wie folgt zu:
+(2) Der AFSG-Betrag pro Haushaltsjahr steht den einzelnen Fachschaften wie folgt zu:
 
-1. Zunächst wird allen Fachschaften ein Sockelbetrag von 1.000 € zugewiesen
+1. Zunächst wird allen Fachschaften ein Sockelbetrag von 2.000 € zugewiesen
 2. Der Restbetrag wird auf alle Studierenden aufgeteilt
-3. Der Betrag pro Person wird zu gleichen Teilen auf alle von ihr studierten Fach-Abschluss-Kombinationen (FAKs) aufgeteilt
-4. Der Betrag pro FAK wird zu gleichen Teilen auf alle Fachschaften aufgeteilt, denen die FAK zugeordnet ist
+3. Der Betrag pro Person wird zu gleichen Teilen auf alle von ihr studierten Fach-Abschluss-
+Kombinationen (FAKs) aufgeteilt
+4. Der Betrag pro FAK wird zu gleichen Teilen auf alle Fachschaften aufgeteilt, denen die
+FAK zugeordnet ist
 
-(3) Stichtag für die Berechnung der AFSG-Verteilung ist für Sommersemester der 15. Mai
-und für Wintersemester der 15. November. Sind an diesem Tag nicht alle studierten Fach-Abschluss-Kombinationen
-in der Studierendenschaftsgliederungssatzung mindestens
-einer Fachschaft zugeordnet, so fällt der Stichtag stattdessen auf den ersten Tag nach
-dem 15. Mai bzw. 15. November, an dem alle studierten Fach-Abschluss-Kombinationen
-in der Studierendenschaftsgliederungssatzung mindestens einer Fachschaft zugeordnet
-sind.
+(3) Stichtag für die Berechnung ist der 15. Dezember des Jahres vor Beginn des Haushaltsjahres.
 
-(4) Die Universitätsverwaltung stellt dem FSK die Daten zur Ermittlung der AFSG-Verteilung benötigten Daten zur Verfügung. Die AFSG Verteilung ist ausschließlich auf Grundlage dieser zu berechnen.
+(4) Die Universitätsverwaltung stellt dem FSK die Daten zur Ermittlung der AFSG-Verteilung
+benötigten Daten zur Verfügung. Die AFSG Verteilung ist ausschließlich auf Grundlage dieser
+zu berechnen.
 
 
 ### § 20 Reservierung der AFSG
@@ -732,6 +765,31 @@ erwirken, sofern sie auszahlungsfähig sind.
 (4) Für die Auszahlungsfähigkeit nach § 4 und die Vollständigkeit von AFSG-Anträgen nach § 18 sind die Vorgaben der §§ 7, 9 und 16 erst auf Dokumente anzuwenden die für Haushaltsjahre gelten, welche frühestens am 1. Oktober 2025 beginnen. Sofern diese nicht erfüllt sind, gelten die bisherigen Regelungen.
 
 (5) Für die Auszahlungsfähigkeit nach § 4 und die Vollständigkeit von AFSG-Anträgen nach § 18 sind die Vorgaben des § 17 erst auf Kassenprüfungen anzuwenden die frühestens am 1. Oktober 2025 stattfinden. Sofern diese nicht erfüllt sind, gelten die bisherigen Regelungen.
+
+(6) Für Semester bis einschließlich des Sommersemesters 2026 gelten für die AFSG Zuweisung die
+zum damaligen Zeitpunkt gültigen Regelungen.
+
+### § 26a Sonderregelungen zu AFSG in den Haushaltsjahren 2026/27 und 2027/28
+
+(1) Abweichend von § 18 Absatz 2 werden die AFSG für das Haushaltsjahr 2026/27 rückwirkend
+ausgezahlt. Der Antrag kann vom 01.07.2026 bis 30.06.2028 gestellt werden.
+
+(2) Abweichend von § 18 Absatz 4 müssen zur Anweisung des AFSG Antrags für das Haushaltsjahr
+2026/27 die Voraussetzungen für den AFSG Antrag für das Haushaltsjahr 2027/28 erfüllt sein.
+
+(3) Abweichend von § 18 Absatz 5 muss der AFSG Antrag für das Haushaltsjahr 2026/27 bis zum
+30.06.2028 die Voraussetzungen des Absatz 2 (dieses Paragrafen) erfüllen, ansonsten gilt er
+als nicht gestellt.
+
+(4) Abweichend von § 18 Absatz 6 kann der AFSG Antrag für das Haushaltsjahr 2026/27 bis zum
+31.12.2028 ausgezahlt werden. § 18 Absatz 7 bleibt hiervon unberührt.
+
+(5) Abweichend von § 19 Absatz 1 sind zur Berechnung der AFSG-Zuweisung für die
+Haushaltsjahre 2026/27 und 2027/28 jeweils lediglich 60.000€ zu veranschlagen. Abweichend
+von § 19 Absatz 2 Nummer sind lediglich 1.000€ zu veranschlagen.
+
+(6) Abweichend von § 19 Absatz 3 basiert die Verteilung für das Haushaltsjahr 2026/27 auf der
+Verteilung für das Wintersemester 2025/26.
 
 
 ### § 27 Inkrafttreten
