@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft VWL der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft VWL
-date:  7. Juni 2026
+date:  20. Juni 2026
 type:  Satzung
 id:    FSSatzungVWL
 contains:
@@ -68,16 +68,27 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  7. Juni 2026
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-39.pdf
+  ref: 41a61b461eaa4ce4aabb60bef71aaa4468d75745/md/Satzungen/Fachschaften/FSSatzungVWL.md
+- title: Satzung der Fachschaft Volkswirtschaftslehre der Rheinischen Friedrichs-Wilhelms-Universität Bonn
+  short: Satzung der Fachschaft Volkswirtschaftslehre der Rheinischen Friedrichs-Wilhelms-Universität Bonn
+  actorgan: Fachschaftsvertretung Fachschaft VWL
+  actdate:  3. Juni 2026
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  20. Juni 2026
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-43.pdf
   ref: HEAD/md/Satzungen/Fachschaften/FSSatzungVWL.md
 ---
 
-## Präambel
 
-Als Teil der verfassten Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
-(Universität Bonn) und in Ausübung ihres Rechts auf Selbstverwaltung hat sich die Fachschaft
+# Präambel
+
+Als Teil der verfassten Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn (Universität Bonn)
+und in Ausübung ihres Rechts auf Selbstverwaltung hat sich die Fachschaft
 Volkswirtschaftslehre (FS VWL) die folgende Satzung gegeben.
+
 Die Fachschaft vertritt die Studierenden des wirtschaftlichen Fachbereichs und trägt im Rahmen ihres
 Mandats zur politischen Willensbildung bei.
+
 In der Satzung können Bezeichnungen unterschiedlichen Geschlechts benutzt werden, sie gelten
 jeweils für alle Menschen unabhängig ihres Geschlechts in gleicher Weise.
 
@@ -223,6 +234,7 @@ werden.
 3. mindestens ein Fünftel der FSV-Mitglieder,
 4. eine FSVV,
 5. fünf Prozent der Mitglieder der Fachschaft
+
 dies unter Angabe von den zu behandelnden Tagesordnungspunkten schriftlich verlangen.
 Der Vorsitzende kann auch Sitzungen nach eigenem Ermessen einberufen.
 
@@ -268,6 +280,7 @@ Mitglied während einer FSV-Sitzung anwesend sein (Zitierrecht).
 1. die FSV beschlussfähig war,
 2. eine Mehrheit der ordentlichen FSV-Mitglieder für den Antrag gestimmt hat, soweit
 die Satzung nichts anderes vorschreibt.
+
 Die FSV gilt so lange als beschlussfähig, bis auf Antrag eines FSV-Mitglieds durch den
 Vorsitzenden das Gegenteil festgestellt wird.
 
@@ -309,7 +322,10 @@ Sprechers.
 
 ### § 14 Zusammensetzung des FSR
 
-(1) Der FSR besteht aus bis zu neun Mitgliedern.
+(1) Der FSR besteht aus bis zu neun Mitgliedern. Sind der Fachschaft mehrere Fach-Abschluss-
+Kombinationen (FAKs) zugeordnet, so kann die FSV nach § 27 Absatz 5 SdS für jede dieser FAK
+bis zu zwei zusätzliche Mitglieder in den FSR wählen, die einen Studiengang mit dieser FAK
+studieren. Die Zahl der Mitglieder des FSR vergrößert sich entsprechend.
 
 (2) Der FSR besteht aus
 
@@ -356,6 +372,7 @@ Aufgabenbereichen benennen:
 2. Sponsoring
 3. Nachhaltigkeit
 4. Satzungen & Ordnungen
+
 Diese nehmen mit beratender Stimme an den Sitzungen des FSR teil. Sie gehören keinem
 Referat an.
 
@@ -365,6 +382,7 @@ Referat an.
 Sitzung,
 2. auf eigenen Beschluss,
 3. auf Beschluss der FSV.
+
 Auf das Zusammentreten des FSR soll in Form einer schriftlichen öffentlichen Ankündigung
 durch den Sprecher bzw. seinen Stellvertreter hingewiesen werden.
 
@@ -500,7 +518,6 @@ dieser folgenden FSVV erfolgt gemäß § 19.
 Bei wiederholtem Verstoß gegen die Satzung hat die FSV das Recht, FSR-Mitglieder auf Anraten des
 FSR-Vorsitzenden abzumahnen bzw. mit einer Zweidrittelmehrheit ihres Amtes zu entheben.
 
-
 # C. Haushalts- und Wirtschaftsführung
 
 ### § 22 Grundsätze und Kontrolle der Haushaltsordnung
@@ -573,6 +590,5 @@ Ausgang ist hierbei unumgänglich.
 ### § 24 Übergangsbestimmungen
 
 Abweichend von § 22 Abs.3 beginnt das Haushaltsjahr 2024/25 am 1.7.2024 und endet am 31.3.2025.
-
-Die Satzung der FS VWL in der Fassung vom 27.05.2024 tritt mit Inkrafttreten dieser Satzung vom
-27.06.2024 außer Kraft.
+Die Satzung der FS VWL in der Fassung vom 06.06.2025 tritt mit Inkrafttreten dieser Satzung vom
+08.06.2026 außer Kraft.
