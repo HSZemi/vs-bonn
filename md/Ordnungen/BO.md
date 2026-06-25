@@ -1,7 +1,7 @@
 ---
 title: Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Beitragsordnung der Studierendenschaft (BO)
-date:  15. Mai 2025
+date:  25. Juni 2026
 type:  Ordnung
 id:    BO
 contains:
@@ -173,6 +173,16 @@ contains:
   pubdate:  15. Mai 2025
   puborgan: Amtliche Bekanntmachungen
   puburl: https://hdl.handle.net/20.500.11811/13073
+  ref: 485e2ba3d4023e97b7ea7fb816a82181c182e38d/md/Ordnungen/BO.md
+- title: Einundvierzigste Ordnung zur Änderung der Beitragsordnung der Studierendenschaft der Rheinischen Friedrich-Wilhelms-Universität Bonn - XLI. Beitragsordnungsänderungsordnung (BOÄO XLI) -
+  short: XLI. Beitragsordnungsänderungsordnung (BOÄO XLI)
+  actdate:  6. Mai 2026
+  actorgan: Studierendenparlament
+  confirmorgan: Rektorat
+  confirmdate: 26. Mai 2026
+  pubdate:  25. Juni 2026
+  puborgan: Amtliche Bekanntmachungen
+  puburl: https://hdl.handle.net/20.500.11811/14235
   ref: HEAD/md/Ordnungen/BO.md
 
 ---
@@ -186,7 +196,7 @@ Kosten der Selbstverwaltung, der Selbsthilfe und Mobilität der Studierendenscha
 
 ### § 2
 
-Der Beitrag in Höhe von 230,07 € für das Wintersemester 2025/26 und das Sommersemester 2026 ist für
+Der Beitrag in Höhe von 248,07 € für das Wintersemester 2026/27 und das Sommersemester 2027 ist für
 folgende Zwecke bestimmt:
 
 |   |                                                                         |           |
@@ -194,7 +204,7 @@ folgende Zwecke bestimmt:
 |1. | für die studentische Selbstverwaltung                                   |  14,00 €, |
 |2. | für die studentischen Sozialeinrichtungen                               |   0,50 €, |
 |3. | für den Hilfsfonds zur Unterstützung in Not geratener Studierender      |   0,01 €, |
-|4. | für das Semesterticket                                                  | 208,80 €, |
+|4. | für das Semesterticket                                                  | 226,80 €, |
 |5. | für ein Sonderkonto zur Erstattung des Mobilitäts- und Kulturbeitrages: |   0,01 €  |
 |6. | für die Zuweisungen an die Fachschaften                                 |   2,25 €, |
 |7. | für den Studierendensport                                               |   1,50 €, |
