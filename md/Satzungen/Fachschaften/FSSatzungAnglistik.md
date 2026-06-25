@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Anglistik, Amerikanistik und Keltologie
 short: Satzung der Fachschaft Anglistik, Amerikanistik und Keltologie
-date:  15. Juli 2019
+date:  20. Juni 2026
 type:  Satzung
 id:    FSSatzungAnglistik
 contains:
@@ -12,7 +12,15 @@ contains:
   puborgan: AKUT
   pubdate:  15. Juli 2019
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2019/akut_extra_2019-8.pdf
-
+  ref: 55bc17d5bbbe621720871fc0e821e1cbbea53460/md/Satzungen/Fachschaften/FSSatzungAnglistik.md
+- title: Erste Satzung zur Änderung der Satzung der Fachschaft Anglistik, Amerikanistik und Keltologie
+  short: Erste Satzung zur Änderung der Satzung der Fachschaft Anglistik, Amerikanistik und Keltologie
+  actorgan: Fachschaftsvertretung Fachschaft Anglistik
+  actdate:  
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  20. Juni 2026
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-42.pdf
+  ref: HEAD/md/Satzungen/Fachschaften/FSSatzungAnglistik.md
 ---
 
 # A. Fachschaft
@@ -22,6 +30,10 @@ contains:
 (1) Alle Studierenden mit der Wahlpriorität im Fachbereich Anglistik, Amerikanistik &
 Keltologie der Rheinischen Friedrich-Wilhelms-Universität Bonn [RFWU Bonn] bilden die
 Fachschaft Anglistik, Amerikanistik & Keltologie [FAAK].
+Alle Studierenden mit der Wahlpriorität im Fachbereich Anglistik, Amerikanistik &
+Keltologie der Rheinischen Friedrich-Wilhelms-Universität Bonn bilden die
+Fachschaft Anglistik, Amerikanistik & Keltologie (FAAK) (vgl. § 3
+Studierendenschaftsgliederungssatzung (SGliedS)).
 
 (2) Die Fachschaft nimmt alle sie betreffenden Aufgaben innerhalb der Studierendenschaft
 wahr und vertritt im Rahmen ihrer Möglichkeiten die Belange der Studierenden, die in § 1
@@ -51,10 +63,9 @@ Studierendenschaft.
 
 ### § 3 Öffentliche Bekanntmachungen
 
-Öffentliche Bekanntmachungen der Fachschaft erfolgen durch Aushang im Glaskasten der
-Fachschaft im 1. OG des IAAK (Regina-Pacis-Weg 5, Bonn), Aushang im Glaskasten des
-Studiengangs Keltologie (Am Etscheidhof 3-5, Bonn), über die Homepage der Fachschaft bzw. der
-Fachausschüsse oder in sozialen Netzwerken.
+Öffentliche Bekanntmachungen der FAAK erfolgen durch Aushang im Schaukasten
+der Fachschaft am aktuellen Standort des IAAK, über die Webseiten der Fachschaft
+und der Fachausschüsse, falls gewählt, oder in sozialen Netzwerken.
 
 
 # B. Die Organe der Fachschaft
@@ -63,8 +74,8 @@ Fachausschüsse oder in sozialen Netzwerken.
 
 ### § 4 Rechtsstellung der FSV
 
-Die FSV ist das oberste beschlussfassende Organ der Studierendenschaft am Fachbereich. (§ 77 S. 2
-HG i.V.m. § 27 III Sst)
+Die FSV ist Beschlussorgan der Fachschaft (vgl. § 27 Abs. 3 Satzung der
+Studierendenschaft (SdS)).
 
 ### § 5 Zusammensetzung und Zusammentritt der FSV
 
@@ -73,7 +84,10 @@ HG i.V.m. § 27 III Sst)
 Mitgliedern sind dies 11 , bei 1001-2000 sind dies 15, bei über 2000 Mitgliedern sind dies 19.
 
 (2) Sie tritt mindestens einmal im Semester zusammen. Für die Einladung zu einer FSV-
-Sitzung gilt die Schrift- oder elektronische Form.
+Sitzung gilt die schriftliche Form. Sie muss mindestens sieben Tage vor der geplanten
+Sitzung an alle FSR- und FSV-Mitglieder verschickt werden. Zu der Sitzung muss
+auch öffentlich eingeladen werden. Die Einladung durch unsignierte elektronische
+Form ist zulässig.
 
 (3) Die Mitglieder der FSV sind grundsätzlich verpflichtet, an den Sitzungen teilzunehmen,
 sofern sie nicht begründet entschuldigt sind. Über den Inhalt nicht öffentlicher Beratungen ist
@@ -81,41 +95,46 @@ Stillschweigen zu wahren.
 
 ### § 6 Wahl der FSV
 
-(1) Die FSV wird jährlich oder bei Bedarf von den Mitgliedern der Fachschaft in allgemeiner,
-direkter, freier, gleicher und geheimer Urnenwahl gewählt.
+(1) Die FSV wird jährlich oder bei Bedarf von den Mitgliedern der Fachschaft in freier,
+gleicher, geheimer, unmittelbarer, allgemeiner Urnenwahl gewählt.
 
 (2) Die Wahl wird vom Wahlausschuss vorbereitet und durchgeführt.
 
 (3) Die Wahlleitung beruft die konstituierende Sitzung der neu gewählten FSV ein und leitet
-sie, bis ein Vorsitz gewählt ist.
+sie, bis ein Vorsitz gewählt ist. Sie findet frühestens am fünften und spätestens am vierzehnten Tag nach der Wahl
+statt.
 
-(4) Das Nähere bestimmt die Fachschaftswahlordnung.
+(4) Das Nähere bestimmt die Wahlordnung für die Wahlen der Fachschaftsvertretungen
+und Fachschaftsräte (FSWO).
 
 ### § 7 Aufgaben und Zuständigkeit der FSV
 
-(1) Die FSV wählt den Fachschaftsrat.
+(1) Die FSV wählt
 
-(2) Die FSV wählt die studentische Vertretung in die Institutskommission zur Verwendung
-institutseigener Mittel.
+1. das FSV-Präsidium,
+2. den Fachschaftsrat (FSR),
+3. die studentische Vertretung in die Institutskommission zur Verwendung
+institutseigener Mittel,
+4. die studentischen Vertreter*innen in die Institutskommission zur Verwendung von
+Qualitätsverbesserungsmitteln,
+5. den Kassenprüfungsausschuss,
+6. den Wahlausschuss.
 
-(3) Die FSV wählt den Kassenprüfungsausschuss.
+(2) Die FSV beschließt den Haushaltsplan.
 
-(4) Die FSV wählt den Wahlausschuss.
-
-(5) Die FSV beschließt den Haushaltsplan.
-
-(6) Die FSV beschließt mit der Mehrheit ihrer satzungsmäßigen Mitglieder die Entlastung des
+(3) Die FSV beschließt mit der Mehrheit ihrer satzungsmäßigen Mitglieder die Entlastung des
 FSR. Die finanzielle Entlastung kann verweigert werden, wenn die Kassenprüfung erhebliche
 Ungenauigkeiten ergibt. Die Entlastung muss von einem Mitglied der FSV beantragt werden.
 Finanzielle Entlastung kann auch von den Kassenprüfern beantragt werden. Auf Antrag eines
 Mitglieds der FSV muss eine Einzelentlastung durchgeführt werden.
 
-(7) Auf Antrag eines FSV Mitgliedes kann, durch absoluten Mehrheitsbeschluss der
+(4) Auf Antrag eines FSV Mitgliedes kann, durch absoluten Mehrheitsbeschluss der
 gewählten FSV, ein Mitglied des FSR oder der FSV, ungeachtet einer vorherigen Entlastung,
 seines Amtes enthoben werden.
 
-(8) Sofern sie sich keine eigene Geschäftsordnung gibt, gelten die Regelungen der
+(5) Sofern sie sich keine eigene Geschäftsordnung gibt, gelten die Regelungen der
 Geschäftsordnung des Studierendenparlaments, soweit anwendbar, entsprechend.
+
 
 ### § 8 Das Präsidium der FSV und seine Aufgaben
 
@@ -164,6 +183,7 @@ Einladung durch unsignierte elektronische Form ist zulässig.
 Kann die Wahl nicht auf derselben Sitzung erfolgen, so führt das ausgeschiedene Mitglied
 sein Amt kommissarisch bis zur Nachwahl weiter.
 
+
 ### § 9 Ausscheiden, Ausschluss und Nachrücken von Mitgliedern
 
 (1) Ein Mitglied scheidet aus der FSV aus
@@ -176,6 +196,7 @@ sein Amt kommissarisch bis zur Nachwahl weiter.
 (2) Bei Wiederbesetzung eines freigewordenen Sitzes können solange Personen nachrücken,
 bis sich die Kandidierenden der entsprechenden Wahl erschöpft haben.
 
+
 ### § 10 Beschlüsse der FSV
 
 (1) Rederecht haben alle Mitglieder der Fachschaft. Stimm- und Antragsrecht haben nur FSV-
@@ -184,10 +205,9 @@ Mitglieder.
 (2) Auf schriftlichen Antrag von mindestens drei Mitgliedern der FSV hat das betreffende
 FSR-Mitglied während der den Antrag betreffenden Sitzung anwesend zu sein (Zitierrecht).
 
-(3) Ein Beschluss ist rechtmäßig zustande gekommen, wenn
-
-1. Die FSV beschlussfähig ist,
-2. er die einfache Mehrheit gefunden hat, soweit die Satzung nichts anderes vorschreibt.
+(3) Die Beschlussfähigkeit wird auf Verlangen eines FSV-Mitglieds unverzüglich
+festgestellt. Sie ist gegeben, wenn mehr als die Hälfte der FSV-Mitglieder anwesend
+sind. Ein Einspruch gegen diesen Antrag ist nicht möglich.
 
 (4) Die Beschlussfähigkeit wird auf Antrag unverzüglich festgestellt. Sie ist gegeben, wenn
 mehr als die Hälfte der FSV-Mitglieder anwesend sind. Ein Einspruch gegen diesen Antrag ist
@@ -229,18 +249,24 @@ Die Regelungen über die FSV gelten auch in der vorlesungsfreien Zeit.
 
 ### § 13 Rechtsstellung des FSR
 
-Der FSR vertritt die Fachschaft und führt die Geschäfte unter der Leitung seines Präsidiums
+Der FSR repräsentiert und vertritt die Fachschaft und führt ihre Geschäfte unter der
+Leitung seines Vorstandes. Der FSR fasst Beschlüsse im Rahmen der zu besorgenden
+Geschäfte und in Eilfällen; im Übrigen führt er die Beschlüsse der FSV aus (vgl. § 26
+Abs. 2 SdS).
 
 ### § 14 Zusammensetzung des FSR
 
 (1) Der FSR besteht aus einer angemessenen Zahl Mitgliedern (vgl. § 26 Abs. 1 Satzung der
-Studierendenschaft).
+Studierendenschaft). Der FSR besteht aus einer angemessenen Zahl Mitgliedern (vgl. § 26 Abs. 1 SdS).
 
-(2) Der FSR besteht aus
+(2) Der FSR tritt zusammen
 
-1. dem Vorsitz,
-2. dem stellvertretenden Vorsitz,
-3. dem Finanzreferat als geschäftsführendem Vorstand und weiteren Mitgliedern nach Bedarf.
+1. während der Vorlesungszeit grundsätzlich einmal wöchentlich in öffentlicher
+Sitzung,
+2. während der vorlesungsfreien Zeit alle zwei Wochen in öffentlicher Sitzung,
+3. auf eigenen Beschluss,
+4. auf Beschluss der FSV,
+5. auf Beschluss des FA.
 
 (3) Der Vorsitz kann auf Vorschlag eines FSV-Mitgliedes einen Beauftragten für ein
 bestehendes oder zusätzliches das Referat benennen. Dieser nimmt mit beratender Stimme an
@@ -259,18 +285,29 @@ den Sitzungen des FSR teil.
 sofern sie nicht begründet entschuldigt sind. Über den Inhalt nichtöffentlicher Beratung ist
 Stillschweigen zu bewahren.
 
-(7) Der FSR ist verpflichtet während der Sitzungen Protokoll zu führen. Diese Aufgabe fällt
+(7) Der FSR tagt hochschulöffentlich. Die Sitzungen finden grundsätzlich in Präsenz statt,
+jedoch kann der Vorsitz in Einzelfällen auch Hybrid- oder Online-Sitzungen zulassen.
+Zudem können Beschlüsse in elektronischer Kommunikation oder im
+Umlaufverfahren gefasst werden (vgl. § 4 Abs. 5 SdS).
+
+(8) Der FSR ist verpflichtet während der Sitzungen Protokoll zu führen. Diese Aufgabe fällt
 dem stellvertretenden Vorsitz zu, sollte dieser nicht zugegen sein, wird das Protokoll von
 einem anderen Mitglied des FSR übernommen.
+Der FSR ist verpflichtet, während der Sitzungen Protokoll zu führen. Diese Aufgabe
+fällt grundsätzlich dem stellvertretenden Vorsitz zu, der an seiner statt ein Mitglied des
+FSR zur Protokollerstellung bestimmen kann. Der FSR-Vorsitz ist dafür
+verantwortlich, dass das Protokoll der FSR-Sitzung zeitnah nach der Sitzung in
+schriftlicher Form ausgefertigt und hochschulöffentlich im Internet zugänglich ist (vgl.
+§4a Abs. 2 SdS). Im Protokoll sind die anwesenden Personen aufzuführen.
 
-(8) Sofern er sich keine eigene Geschäftsordnung gibt, gilt für den FSR die Geschäftsordnung
+(9) Sofern der FSR sich keine eigene Geschäftsordnung gibt, gilt die Geschäftsordnung
 des Studierendenparlaments, soweit anwendbar, entsprechend.
 
 ### § 15 Vertretung der Studierenden im Institutsvorstand
 
 Das FSR-Präsidium nimmt das Stimmrecht der Fachschaft im Institutsvorstand des Instituts für
 Anglistik, Amerikanistik & Keltologie wahr, oder entsendet beauftrage Mitglieder der Fachschaft an
-seiner statt.
+seiner statt. Bei Bedarf können für diese zwei Mitglieder Vertretungen bestimmt werden.
 
 ### § 16 Wahl des FSR
 
@@ -296,9 +333,10 @@ Wochen ordnungsgemäß zu Ende zu führen. Tritt ein Mitglied des geschäftsfüh
 Vorstandes zurück, wählt die FSV unverzüglich dessen Nachfolge. Dazu gilt die
 Wahlordnung.
 
-(6) Ist ein oder mehrere FA gewählt, wählt der FSV zusätzlich bis zu zwei Mitglieder pro FA
-in den FSR. Die Mitglieder müssen dem entsprechenden FA angehören. Die Anzahl der
-Mitglieder des FSR erhöht sich entsprechend.
+(6) Die FSV kann für jede Fach-Abschluss-Kombination bis zu zwei zusätzliche
+Mitglieder, die diese FAK studieren, in den FSR wählen. Ist für eine oder mehrere
+dieser FAKs ein Fachausschuss gewählt, entsendet der FA zwei seiner Mitglieder, die
+durch Wahl des FSV bestätigt werden (vgl. §23 Abs. 6).
 
 ### § 17 Aufgaben und Zuständigkeiten des FSR
 
@@ -345,10 +383,9 @@ IV. Der (Studien-)Fachausschuss (FA)
 (1) Der FA vertritt die Mitglieder des jeweiligen Studienfachs innerhalb des Fachbereichs
 gegenüber der Professorenschaft und der Universität.
 
-(2) Im Übrigen vertritt der FA die Mitglieder des jeweiligen Studienfachs und führt deren
-Geschäfte unter Leitung seines Vorsitz, soweit dem FA durch den Aufgabenverteilungs- und
-Haushaltsausschuss weitergehende Vertretungs- und Geschäftsführungsbefugnisse erteilt
-wurden.
+(2) Der FA führt seine Geschäfte unter Leitung seines Vorsitzes. Die Geschäfte des FA
+müssen mit den erteilten Befugnissen aus dem Aufgabenverteilungs- und
+Haushaltsausschusses übereinstimmen (vgl. § 11 Abs. 3).
 
 ### § 22 Zusammensetzung des FA
 
@@ -378,6 +415,11 @@ Stillschweigen zu bewahren.
 (7) Für den FA gilt die Geschäftsordnung des Studierendenparlaments entsprechend, soweit
 anwendbar, sofern er sich keine eigene Geschäftsordnung gibt.
 
+(8) Der FA tagt hochschulöffentlich. Die Sitzungen finden grundsätzlich in Präsenz statt,
+jedoch kann der Vorsitz in Einzelfällen auch Hybrid- oder Online-Sitzungen zulassen.
+Zudem können Beschlüsse in elektronischer Kommunikation oder im
+Umlaufverfahren gefasst werden (vgl. § 4 Abs. 5 SdS).
+
 ### § 23 Wahl des FA
 
 (1) Auf der SfVV werden bis zu 5 Mitglieder für den FA gewählt. Die Kandidierenden müssen
@@ -405,6 +447,10 @@ aus
 3. durch Exmatrikulation oder Umschreibung in eine Fächerkombination, die das Fach des FA
 nicht beinhaltet.
 4. durch Tod.
+
+(6) Der FA kann bis zu zwei seiner Mitglieder in den FSR entsenden. Diese werden durch
+Wahl durch die FSV bestätigt. Die Anzahl der Mitglieder des FSR erhöht sich
+entsprechend (vgl. § 27 Abs. 5 SdS).
 
 ### § 24 Aufgaben und Zuständigkeiten des FA
 
@@ -473,8 +519,8 @@ Einnahmen und Ausgaben der Fachschaft ordnungsgemäß Buch.
 
 (3) Das Finanzreferat hat zeitnah zu Beginn des Haushaltsjahres einen ausgeglichenen
 Haushaltsplan aufzustellen und diesen der FSV auf einer Sitzung zeitnah zu Beginn des
-Haushaltsjahres zur Abstimmung vorzulegen. Das Haushaltsjahr beginnt, durch Veränderung
-des Wahlturnus ab 2017 mit dem Beginn des Sommersemesters.
+Haushaltsjahres zur Abstimmung vorzulegen. Das Haushaltsjahr beginnt am 1. Juli eines jeden Jahres und endet am 30. Juni des
+darauffolgenden Jahres.
 
 (4) Überplanmäßige oder außerplanmäßige Ausgaben sind vor Inkrafttreten eines Nachtrags
 zum Haushaltsplan, der sie vorsieht, nur dann zulässig, wenn sie unabweisbar sind. Sie sind
@@ -503,3 +549,9 @@ der Wortlaut der beantragten Satzungsänderung beizufügen.
 
 (3) Die Satzung tritt mit ihrer Veröffentlichung in Kraft. Diese ist unverzüglich der Fachschaft
 durch Veröffentlichung an den in § 4 genannten Orten bekannt zu geben.
+
+
+### § 31 Übergangsbestimmungen
+
+Abweichend von § 29 Abs. 3 beginnt das Haushaltsjahr 2027 am 01.04.2027 und
+endet am 30.06.2027
