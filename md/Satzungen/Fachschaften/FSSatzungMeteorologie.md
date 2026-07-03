@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Meteorologie und Geophysik
 short: Satzung der Fachschaft Meteorologie und Geophysik
-date:  2. Juni 2026
+date:  28. Juni 2026
 type:  Satzung
 id:    FSSatzungMeteorologie
 contains:
@@ -26,8 +26,8 @@ contains:
   actorgan: Fachschaftsvollversammlung Fachschaft Meteorologie
   actdate:  17. März 2026
   puborgan: Öffentlichkeitsbeauftragte
-  pubdate:  2. Juni 2026
-  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-33.pdf
+  pubdate:  28. Juni 2026
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-47.pdf
   ref: HEAD/md/Satzungen/Fachschaften/FSSatzungMeteorologie.md
 ---
 
@@ -376,5 +376,5 @@ Fachschaft durch ortsüblichen Aushang und an geeigneter Stelle im Internet beka
 
 ### § 20 Übergangsbestimmungen
 
-Abweichend von § 13 Abs. 3 wird ein vekürztes Haushaltsjahr beginnend am 01.04.2026 und Ende am
-30.06.2026 eingeführt.
+Abweichend von § 13 Abs. 3 wird ein verkürztes Haushaltsjahr mit Beginn am 01.04.2026 und Ende am
+30.06.2026 eingeführt
