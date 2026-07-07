@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Lehramt der Rheinischen-Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Lehramt
-date:  24. Februar 2023
+date:  5. Juli 2026
 type:  Satzung
 id:    FSSatzungLehramt
 contains:
@@ -12,6 +12,7 @@ contains:
   puborgan: AKUT
   pubdate:  26. Januar 2016
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2016/AK_Ex_Satzung-der-Fachschaft-Lehramt.pdf
+  ref: 13cac84208a89a1f52dd0d656002cf2255e9fe9e/md/Satzungen/Fachschaften/FSSatzungLehramt.md
 - title: Satzung der Fachschaft Lehramt der Rheinischen-Friedrich-Wilhelms-Universität Bonn
   short: Satzung der Fachschaft Lehramt
   actorgan: Fachschaftsvertretung Fachschaft Lehramt
@@ -19,6 +20,7 @@ contains:
   puborgan: AKUT
   pubdate:  7. Dezember 2018
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2018/akut_extra_2018-16.pdf
+  ref: fdc59bc9b011b5b9d584436c44d6e6fb9f35997e/md/Satzungen/Fachschaften/FSSatzungLehramt.md
 - title: Satzung der Fachschaft Lehramt der Rheinischen-Friedrich-Wilhelms-Universität Bonn
   short: Satzung der Fachschaft Lehramt
   actorgan: Fachschaftsvertretung Fachschaft Lehramt
@@ -26,6 +28,15 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  24. Februar 2023
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2023/vsbonn_bekanntmachung_2023-12.pdf
+  ref: 7d0be813faebb12e58b90b53d37df505fe64dd0d/md/Satzungen/Fachschaften/FSSatzungLehramt.md
+- title: Erste Satzung zur Änderung der Satzung der Fachschaft Lehramt
+  short: Erste Satzung zur Änderung der Satzung der Fachschaft Lehramt
+  actorgan: Fachschaftsvertretung Fachschaft Lehramt
+  actdate:  
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  5. Juli 2026
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-50.pdf
+  ref: HEAD/md/Satzungen/Fachschaften/FSSatzungLehramt.md
 
 ---
 
@@ -443,8 +454,9 @@ Einnahmen und Ausgaben der Fachschaft ordnungsgemäß Buch.
 (3) Der/Die FinanzreferentIn hat vor Beginn des Haushaltsjahres einen ausgeglichenen
 Haushaltsplan aufzustellen und diesen der FSV in drei Lesungen vor Beginn des
 Haushaltsjahres zur Abstimmung vorzulegen, wobei nur die zweite und dritte Lesung in der
-gleichen Sitzung stattfinden dürfen. Das Haushaltsjahr beginnt am 1. April eines jeden
-Jahres und endet am 31. März des darauffolgenden Jahres.
+gleichen Sitzung stattfinden dürfen.
+Das Haushaltsjahr beginnt am 1. Juli eines jeden Jahres und endet am 30. Juni des darauffolgenden
+Jahres.
 
 (4) Anschaffungen und Ausgaben, die von den unter dem Titel „Sonstiges“ im Haushaltsplan
 ausgewiesenen Geldern getätigt werden und einen Höchstbetrag von 125€ überschreiten,
@@ -500,3 +512,7 @@ beizufügen.
 (4) Die Satzung trifft mit ihrer Veröffentlichung auf der Bekanntmachungsplattform der
 Studierendenschaft nach erfolgter Anzeige gegenüber dem Fachschaftenkollektiv in Kraft.
 Diese ist unverzüglich der Fachschaft durch ortsüblichen Aushang bekannt zu geben.
+
+### § 22 Übergangsbestimmungen
+
+Abweichend von § 20 Abs. 3 beginnt das Haushaltsjahr 2026 am 01.04.2026 und endet am 30.06.2026.
