@@ -12,13 +12,15 @@ contains:
   puborgan: AKUT
   pubdate:  18. April 2016
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut-extra__Fachschaftssatzung_Physik.pdf
+  ref: a44cf968070857c2964dcdf126ff4dd1d8108a33/md/Satzungen/Fachschaften/FSSatzungPsychologie.md
 - title: Fachschaftssatzung Fachschaft Psychologie
   short: Fachschaftssatzung Fachschaft Psychologie
   actorgan: Fachschaftsvertretung Fachschaft Psychologie
   actdate:  5. Mai 2016
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  9. Mai 2021
-  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2016/akut-extra__Fachschaftssatzung_Physik.pdf
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2021/vsbonn_bekanntmachung_2021-23.pdf
+  ref: 5a7cd6c1547c3d1a188a937c20d0e6089e1c55a2/md/Satzungen/Fachschaften/FSSatzungPsychologie.md
 
 ---
 
