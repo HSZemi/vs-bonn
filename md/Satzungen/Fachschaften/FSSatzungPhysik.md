@@ -1,7 +1,7 @@
 ---
 title: Satzung der Fachschaft Physik/Astronomie der Rheinischen Friedrich-Wilhelms-Universität Bonn
 short: Satzung der Fachschaft Physik/Astronomie
-date:  19. Februar 2024
+date:  5. Oktober 2026
 type:  Satzung
 id:    FSSatzungPhysik
 contains:
@@ -44,6 +44,14 @@ contains:
   puborgan: Öffentlichkeitsbeauftragte
   pubdate:  19. Februar 2024
   puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2024/vsbonn_bekanntmachung_2024-07.pdf
+  ref: 5e505a38588c392ffcc1fab512e99b6520702140/md/Satzungen/Fachschaften/FSSatzungPhysik.md
+- title: Satzung zur Änderung der Satzung der Fachschaft Physik Astronomie
+  short: Satzung zur Änderung der Satzung der Fachschaft Physik Astronomie
+  actorgan: Fachschaftsvertretung Fachschaft Physik/Astronomie
+  actdate:  14. August 2026
+  puborgan: Öffentlichkeitsbeauftragte
+  pubdate:  5. Oktober 2026
+  puburl: https://sp.uni-bonn.de/bekanntmachungen/files/2026/vsbonn_bekanntmachung_2026-67.pdf
   ref: HEAD/md/Satzungen/Fachschaften/FSSatzungPhysik.md
 
 ---
@@ -123,20 +131,17 @@ Rechtsquelle keine andere Zuständigkeit geregelt ist.
 (3) Die Entscheidungen der FSVV binden alle Organe der Fachschaft.
 
 
-### § 5 Aufgaben und Zuständigkeiten der FSVV
-
-(1) Die FSVV dient der Information ihrer Mitglieder.
+### § 5 (weggefallen)
 
 
 ### § 6 Einberufung und Durchführung der FSVV
 
-(1) Die FSVV wird von der FSR-Vorsitzenden mindestens einmal im Semester durch öffentlichen
-Aushang, sowie an geeigneter Stelle im Internet einberufen. Darüber hinaus
+(1) Die FSVV wird von der FSR-Vorsitzenden durch öffentlichen Aushang, sowie an geeigneter Stelle im Internet einberufen.
+Die FSVV muss einberufen werden, wenn bei der FSR-Vorsitzenden, unter Beinhaltung einer Tagesordnung,
 
-1. auf Antrag von 30% der Mitglieder der FSV,
-2. auf Beschluss des FSR,
-3. auf schriftlichen Antrag von mindestens 5% der Mitglieder der Fachschaft,
-sofern der Antrag oder Beschluss eine Tagesordnung enthält.
+1. ein Antrag von 30% der Mitglieder der FSV eingeht,
+2. ein Beschluss des FSRs eingeht oder
+3. ein schriftlicher Antrag von mindestens 5% der Mitglieder der Fachschaft eingeht.
 
 (2) Die Ankündigung der FSVV erfolgt mindestens sieben Tage vor ihrer Durchführung. Die
 Ankündigung enthält mindestens
@@ -178,20 +183,21 @@ werden.
 
 (1) Die Zahl der Mitglieder der FSV richtet sich nach §27 der SdS und §5 der FSWO.
 
-(2) Sie tritt mindestens zweimal im Semester zusammen, sowie auf schriftlichen Antrag
+(2) Sie tritt mindestens zweimal im Semester zusammen, sowie auf Entschluss des
+FSV-Präsidiums oder, unter Angabe von zu behandelnden Tagesordnungspunkten
+auf schriftlichen Antrag
 
 1. des FSR-Vorstandes,
 2. der Finanzreferentin,
 3. der Mehrheit des FSR,
 4. von mindestens 30 Prozent der Mitglieder der FSV,
 5. der FSVV,
-6. fünf Prozent der Mitglieder der Fachschaft
-unter Angabe von zu behandelnden Tagesordnungspunkten.
+6. von 5% Prozent der Mitglieder der Fachschaft.
 
-(3) Für die Einladung zu einer FSV-Sitzung gilt die Schriftform. Die Einladung muss spätestens
-sieben Tage vor der geplanten Sitzung an alle FSV-Mitglieder und den FSR verschickt werden,
-sowie durch öffentlichen Aushang den Mitgliedern der Fachschaft mitzuteilen. Näheres regelt
-die Geschäftsordnung.
+(3) Für die Einladung zu einer FSV-Sitzung gilt die Schriftform. Die Einladung muss
+spätestens sieben Tage vor der geplanten Sitzung an alle FSV-Mitglieder und den FSR
+verschickt werden, sowie den Mitgliedern der Fachschaft mitgeteilt werden. Näheres
+regelt die Geschäftsordnung.
 
 (4) Hybrid und Online Sitzungen sind zulässig, näheres regelt die Geschäftsordnung.
 
@@ -222,14 +228,9 @@ bis eine Vorsitzende gewählt ist.
 (1) Die FSV trifft alle Entscheidungen von grundlegender oder gehobener Bedeutung für die
 Fachschaft, die über den regulären Geschäftsbetrieb des FSR hinausgehen.
 
-(2) Die FSV wählt in freier und geheimer Wahl mit der einfachen Mehrheit ihrer Mitglieder ein
-Präsidium aus
-
-
-1. einer 1. Vorsitzenden,
-2. einer 2. Vorsitzenden.
-Alle Mitglieder des Präsidiums müssen Mitglied der FSV sein. Näheres regelt die
-Geschäftsordnung.
+(2) Die FSV wählt in freier und geheimer Wahl mit der Mehrheit ihrer Mitglieder ein
+Präsidium aus einer Vorsitzenden und einer stellvertretenden Vorsitzenden. Alle Mitglieder
+des Präsidiums müssen Mitglied der FSV sein. Näheres regelt die Geschäftsordnung.
 
 (3) Die FSV wählt den FSR.
 
@@ -366,16 +367,16 @@ unverzüglich allen FSR-Mitgliedern sowie dem FSV-Präsidium mitzuteilen.
 
 ### § 18 Zusammensetzung des FSR
 
-(1) Der FSR besteht aus mindestens 5 Mitgliedern:
+(1) Der FSR besteht aus den folgenden Mitgliedern:
 
 1. der Vorsitzenden,
-2. der stellvertretenden Vorsitzenden,
+2. der stellvertretenden Vorsitzenden
 3. der Finanzreferentin,
-4. bis zu sechs weiteren Mitgliedern
-5. sowie darüber hinaus den nach §27 Absatz 5 SdS gewählten Vertreterinnen ihrer Fach-
-Abschluss-Kombinationen (FAKs).
-Die Anzahl der weiteren Mitglieder wird von der FSV auf der konstituierenden Sitzung vor der
-entsprechenden Wahl festgelegt.
+4. aus mindestens zwei und bis zu sechs weiteren Mitgliedern, wobei die Anzahl
+   der weiteren Mitglieder von der FSV auf der konstituierenden Sitzung vor der
+   entsprechenden Wahl festgelegt wird,
+5. sowie darüber hinaus den nach §27 Absatz 5 SdS gewählten Vertreterinnen ihrer
+   Fach-Abschluss-Kombinationen (FAKs).
 
 (2) Der FSR-Vorstand besteht aus:
 
@@ -385,16 +386,12 @@ entsprechenden Wahl festgelegt.
 (3) Sofern nicht anders bestimmt können sich die Vorstandsmitglieder bei gegenseitigem
 Einvernehmen wechselseitig vertreten.
 
-(4) Die weiteren Mitglieder des FSRs sollen klare Aufgabenbereiche besitzen. Sie erstatten der FSR-
-Vorsitzenden auf den Sitzungen Bericht über den Stand ihres Referates und legen wesentliche
-Entscheidungen dem FSR zur gemeinschaftlichen Entscheidung vor.
-
 
 ### § 19 Wahl des FSR
 
-(1) Der FSR-Vorstand und die Finanzreferentin werden einzeln in geheimer Wahl von der FSV mit
-einfacher Mehrheit ihrer Mitglieder gewählt. Die weiteren Mitglieder des FSR werden mit der
-einfachen Mehrheit der Mitglieder der FSV gewählt.
+(1) Der FSR-Vorstand und die Finanzreferentin werden einzeln in geheimer Wahl von der FSV
+mit der Mehrheit ihrer Mitglieder gewählt. Die weiteren Mitglieder des FSR werden mit
+der Mehrheit ihrer Mitglieder gewählt.
 
 (2) Alle Mitglieder des FSR müssen Mitglieder der Fachschaft oder in den Lehramtsstudiengängen
 der Physik eingeschrieben sein.
@@ -425,9 +422,9 @@ insbesondere durch Exmatrikulation, Umschreibung in eine andere Fachschaft oder 
 (1) Der FSR kann durch Mehrheitsbeschluss Aufgabengebiete an einzelne FSR-Mitglieder oder
 Referate vergeben.
 
-(2) Der FSR-Vorstand bestimmt die Richtlinien der Arbeit des FSR und trägt dafür die
-Verantwortung. Innerhalb dieser Richtlinien ist jedes FSR-Mitglied gegenüber dem Vorstand für sein
-Aufgabengebiet verantwortlich.
+(2) Der FSR-Vorstand bestimmt die Richtlinien der Arbeit des FSR und trägt dafür die Verantwortung.
+Innerhalb dieser Richtlinien ist jedes FSR-Referat gegenüber dem Vorstand
+für sein Aufgabengebiet verantwortlich.
 
 (3) Die FSR-Vorsitzende ist insbesondere dafür verantwortlich, die Arbeit der Organe der
 Fachschaft an alle Mitglieder der Fachschaft zu kommunizieren.
@@ -452,8 +449,9 @@ FSR diesem auf einer Sitzung Bericht zu erstatten. Näheres regelt die Geschäft
 
 1. Referat zur Gremienvernetzung,
 2. Ersti-Referat,
-3. EDV-Referat,
-4. Drucker-Referat.
+3. Datenschutzreferat und der damit verbundenen Datenschutzbeauftragten,
+4. Gleichstellungsreferat und
+5. Kummerkasten.
 
 
 ### § 22 Sitzungen des FSR
@@ -652,12 +650,16 @@ werden, wobei die zweite und dritte Lesung in der gleichen Sitzung stattfinden d
 Sitzungen müssen an verschiedenen Tagen stattfinden. Zwischen der ersten und dritten Lesung
 müssen mindestens 7 Tage und dürfen maximal 30 Tage liegen.
 
-(4) Der Tagesordnungspunkt Satzungsänderung muss bereits in der Einladung zur betreffenden
-FSV-Sitzung oder FSVV-Sitzung angekündigt werden. In der Einladung müssen die zu
-ändernden Vorschriften ausdrücklich benannt werden. Dem Einladungsschreiben ist weiterhin der
-Wortlaut der beantragten Satzungsänderung beizufügen.
+(4) Der Tagesordnungspunkt „Satzungsänderung“ muss bereits vor der Sitzung angekündigt werden.
+Die Ankündigung erfolgt entweder
 
-(5) Beschlüsse über Errichtung, Änderung oder Aufhebung der Fachschaftssatzung sind gemäß §29
+i. in der Einladung zur betreffenden FSV-Sitzung oder FSVV-Sitzung, oder
+ii. in einer postalischen oder e-postalischen Korrespondenz an alle Stimmberechtigten über die Satzungsänderung spätestens 3 Werktage vor der Sitzung.
+
+(5) In der Ankündigung nach Absatz 4 müssen die zu ändernden Vorschriften ausdrücklich benannt werden.
+Der Ankündigung ist weiterhin der Wortlaut der beantragten Satzungsänderung beizufügen.
+
+(6) Beschlüsse über Errichtung, Änderung oder Aufhebung der Fachschaftssatzung sind gemäß §29
 Absatz 3 SdS den entsprechenden Stellen vorab anzuzeigen.
 
 
